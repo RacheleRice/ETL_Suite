@@ -1,0 +1,3025 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2012v2.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2014-05-12T13:25:12-05:00</Timestamp>
+    <TaxPeriodEndDate>2013-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>EISNERAMPER LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>750 THIRD AVENUE</AddressLine1>
+        <City>NEW YORK</City>
+        <State>NY</State>
+        <ZIPCode>100172703</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2012-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>260462996</EIN>
+      <Name>
+        <BusinessNameLine1>BLACKSTONE CHARITABLE FOUNDATION</BusinessNameLine1>
+      </Name>
+      <InCareOfName>% AMY STURSBERG</InCareOfName>
+      <NameControl>BLAC</NameControl>
+      <Phone>2125835465</Phone>
+      <USAddress>
+        <AddressLine1>345 PARK AVENUE</AddressLine1>
+        <AddressLine2>Suite</AddressLine2>
+        <City>NEW YORK</City>
+        <State>NY</State>
+        <ZIPCode>10154</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Amy Stursberg</Name>
+      <Title>Executive Director</Title>
+      <Phone>2125835465</Phone>
+      <DateSigned>2014-05-15</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>JULIE FLOCH</Name>
+      <Phone>2129498700</Phone>
+    </Preparer>
+    <TaxYear>2012</TaxYear>
+    <BuildTS>2015-11-30 17:44:51Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="10">
+    <IRS990 documentId="IRS990" referenceDocumentId="IRS990ScheduleO">
+      <NameOfPrincipalOfficerPerson>AMY STURSBERG</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>345 Park avenue</AddressLine1>
+        <City>new york</City>
+        <State>NY</State>
+        <ZIPCode>10154</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>41447210</GrossReceipts>
+      <GroupReturnForAffiliates>false</GroupReturnForAffiliates>
+      <Organization501c3>X</Organization501c3>
+      <WebSite>N/A</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>2007</YearFormation>
+      <StateLegalDomicile>DE</StateLegalDomicile>
+      <ActivityOrMissionDescription>THE FOUNDATION SUPPORTS A RANGE OF PROJECTS AND ORGANIZATIONS THAT DEMONSTRATE INNOVATION AND FORWARD THINKING IN THEIR APPROACH TO PROBLEM SOLVING AND IMPROVING ECONOMIC AND SOCIAL CONDITIONS.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>10</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>0</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>3</TotalNbrEmployees>
+      <TotalGrossUBI>1963072</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>1651546</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>4027646</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>6810661</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>0</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>0</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>2112658</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>3691868</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>0</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>1123</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>6140304</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>10503652</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>11220390</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>7198905</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>622597</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>801779</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>1122501</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>1421924</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>8944003</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>13444093</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-2803699</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>-2940441</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>68882325</TotalAssetsBOY>
+      <TotalAssetsEOY>90266625</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>3220627</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>3433321</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>65661698</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>86833304</NetAssetsOrFundBalancesEOY>
+      <InfoInScheduleOPartIII>X</InfoInScheduleOPartIII>
+      <MissionDescription>THE BLACKSTONE CHARITABLE FOUNDATION (THE "FOUNDATION") SERVES AS THE PRIMARY VEHICLE FOR CHARITABLE GIVING ON BEHALF OF THE SENIOR MANAGING DIRECTORS AND EMPLOYEES OF THE BLACKSTONE GROUP L.P. ("BLACKSTONE"). THE FOUNDATION'S PHILANTHROPY EXTENDS TO SUPPORTING COMMUNITIES IN NEED, IN GEOGRAPHIC AREAS WHERE BLACKSTONE WORKS AND LIVES, WHICH CAN BENEFIT FROM BLACKSTONE'S INTELLECTURAL AND FINANCIAL CAPITAL. THE FOUNDATION DIRECTS SUPPORT TO A RANGE OF PROJECTS AND ORGANIZATIONS THAT DEMONSTRATE INNOVATION AND FORWARD THINKING IN THEIR APPROACH TO PROBLEM SOLVING AND IMPROVING ECONOMIC AND SOCIAL CONDITIONS. On April 30, 2010, the Foundation launched "The Blackstone Entrepreneurship Initiative" (the "Initiative"), a five-year, $50,000,000 conditional initiative to create connected networks, or "ecosystems", of master coaches in regions across the nation and around the world. Through these connecting ecosystems, the Foundation's goal is to build an elite global network of master coaches a</MissionDescription>
+      <SignificantNewProgramServices>false</SignificantNewProgramServices>
+      <SignificantChange>false</SignificantChange>
+      <Expense>12418253</Expense>
+      <Grants>3809378</Grants>
+      <Description>Blackstone LaunchPad is a national model for fostering entrepreneurship through higher education. Based on a successful program at the University of Miami, it encourages entrepreneurial thinking and activity among undergraduate and graduate students as well as faculty and alumni for the purpose of incubating a new generation of entrepreneurs who will contribute to the economic revitalization of distressed regions. The Foundation has awarded $5,400,000 in conditional funding for Blackstone LaunchPad of which $2,422,000 has been paid through June 30, 2013. Blackstone Entrepreneurs Network is an initiative to strengthen existing entrepreneurial ecosystems in struggling areas by building a network of master entrepreneurs and connecting them with a pipeline of potential high growth ventures. The Foundation has awarded $3,630,000 in conditional funding for Blackstone Entrepreneurs Network of which $2,453,000 has been paid through June 30, 2013. Blackstone Accelerates Growth spurs economic growth and is designed to help historically resource-based economies transition to innovation economies. Rural economies in the United States must overcome unique challenges, including geographically dispersed population centers and lower levels of innovation and R&amp;D investments. Blackstone Accelerates Growth promotes entrepreneurship by coordinating a critical network of entrepreneurial services to high-potential companies in newly created Innovation Hubs. The Foundation has awarded $4,600,000 in conditional funding for Blackstone Accelerates Growth of which $1,694,736 has been paid through June 30, 2013. [4] The Blackstone Organizational Grants program makes targeted grants to entrepreneurial organizations that spread the ideals of entrepreneurship and benefit local communities. In coordination with its regional efforts to spur entrepreneurship around the country and the world, the Foundation is creating a national and global network in which the participating organizations can share best practices, methodologies, and contacts, and are connected with Blackstone's intellectual capital and resources. Through June 30, 2013, the Foundation awarded $1,000,000 in conditional funding in Organizational Grants and in 2013 paid $499,500 of this award. Through June 30, 2013, the Foundation has awarded $14,630,000 toward the $50,000,000 Initiative.</Description>
+      <Activity2>
+        <Grants>7411012</Grants>
+        <Description>GRANT MAKING</Description>
+      </Activity2>
+      <TotalProgramServiceExpense>12418253</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="IRS990ScheduleA">true</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId="IRS990ScheduleB">true</ScheduleBRequired>
+      <PoliticalActivities>false</PoliticalActivities>
+      <LobbyingActivities>false</LobbyingActivities>
+      <SubjectToProxyTax>false</SubjectToProxyTax>
+      <DonorAdvisedFunds referenceDocumentId="IRS990ScheduleD">true</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="IRS990ScheduleD">false</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="IRS990ScheduleD">false</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="IRS990ScheduleD">false</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="IRS990ScheduleD">false</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="IRS990ScheduleD">false</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="IRS990ScheduleD">true</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="IRS990ScheduleD">false</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="IRS990ScheduleD">false</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="IRS990ScheduleD">true</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="IRS990ScheduleD">true</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="IRS990ScheduleD">true</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="IRS990ScheduleD">false</ConsolidatedAuditFinancialStmt>
+      <School>false</School>
+      <ForeignOffice>false</ForeignOffice>
+      <ForeignActivities referenceDocumentId="IRS990ScheduleF">true</ForeignActivities>
+      <MoreThan5000KToOrganizations referenceDocumentId="IRS990ScheduleF">true</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals referenceDocumentId="IRS990ScheduleF">false</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>false</ProfessionalFundraising>
+      <FundraisingActivities>false</FundraisingActivities>
+      <Gaming>false</Gaming>
+      <Hospital>false</Hospital>
+      <GrantsToOrganizations referenceDocumentId="IRS990ScheduleI">true</GrantsToOrganizations>
+      <GrantsToIndividuals referenceDocumentId="IRS990ScheduleI">false</GrantsToIndividuals>
+      <ScheduleJRequired referenceDocumentId="IRS990ScheduleJ">true</ScheduleJRequired>
+      <TaxExemptBonds>false</TaxExemptBonds>
+      <ExcessBenefitTransaction>false</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction>false</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP>false</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>false</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>false</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>false</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>false</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions referenceDocumentId="IRS990ScheduleM">true</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt referenceDocumentId="IRS990ScheduleM">false</DeductibleContributionsOfArt>
+      <Terminated>false</Terminated>
+      <PartialLiquidation>false</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="IRS990ScheduleR">false</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="IRS990ScheduleR">true</RelatedEntity>
+      <RelatedOrgControlledEntity>false</RelatedOrgControlledEntity>
+      <TransfersToExemptNonChrtblOrg referenceDocumentId="IRS990ScheduleR">false</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership referenceDocumentId="IRS990ScheduleR">false</ActivitiesConductedPartnership>
+      <ScheduleORequired>true</ScheduleORequired>
+      <InfoInScheduleOPartV>X</InfoInScheduleOPartV>
+      <NumberFormsTransmittedWith1096>2</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <NumberOfEmployees>3</NumberOfEmployees>
+      <UnrelatedBusinessIncome>true</UnrelatedBusinessIncome>
+      <Form990-TFiled>true</Form990-TFiled>
+      <ForeignFinancialAccount>false</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>false</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>false</TaxablePartyNotification>
+      <NonDeductibleContributions>false</NonDeductibleContributions>
+      <QuidProQuoContributions>false</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>true</Form8282PropertyDisposedOf>
+      <NumberOf8282Filed>56</NumberOf8282Filed>
+      <FundsToPayPremiums>false</FundsToPayPremiums>
+      <PremiumsPaid>false</PremiumsPaid>
+      <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+      <TaxableDistributions>false</TaxableDistributions>
+      <DistributionToDonor>false</DistributionToDonor>
+      <IndoorTanningServices>false</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>10</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>0</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>true</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>false</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>false</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>false</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>true</MembersOrStockholders>
+      <ElectionOfBoardMembers>true</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>false</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>true</MinutesOfGoverningBody>
+      <MinutesOfCommittees>true</MinutesOfCommittees>
+      <OfficerMailingAddress>false</OfficerMailingAddress>
+      <LocalChapters>false</LocalChapters>
+      <Form990ProvidedToGoverningBody>true</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>true</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>true</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>true</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>true</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>true</DocumentRetentionPolicy>
+      <CompensationProcessCEO>true</CompensationProcessCEO>
+      <CompensationProcessOther>false</CompensationProcessOther>
+      <InvestmentInJointVenture>false</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>NY</StatesWhereCopyOfReturnIsFiled>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NamePerson>AMY STURSBERG</NamePerson>
+        <TelephoneNumber>2125835465</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>345 PARK AVENUE</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10154</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>JOAN SOLOTAR</NamePerson>
+        <Title>CHAIR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SEAN KLIMCZAK</NamePerson>
+        <Title>PRESIDENT</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BRIAN GAVIN</NamePerson>
+        <Title>TREASURER</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JOHN MCCORMICK</NamePerson>
+        <Title>SECRETARY</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BOB FRIEDMAN</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ERIK LISHER</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>PETER ROSE</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MATT SKURBE</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BILL STEIN</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JOHN STUDZINSKI</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>AMY STURSBERG</NamePerson>
+        <Title>EXECUTIVE DIRECTOR</Title>
+        <AverageHoursPerWeek>60.0</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>496321</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>18817</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ANTONIO TOLENTINO</NamePerson>
+        <Title>PROGRAM DIRECTOR</Title>
+        <AverageHoursPerWeek>40.0</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>104588</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>12006</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>LINDSEY COHEN</NamePerson>
+        <Title>FOUNDATION ADMINISTRATOR</Title>
+        <AverageHoursPerWeek>40.0</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>96187</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>9991</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>697096</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>40814</TotalOtherCompensation>
+      <NumberIndividualsGT100K>2</NumberIndividualsGT100K>
+      <FormersListed>false</FormersListed>
+      <TotalCompGT150K>true</TotalCompGT150K>
+      <CompensationFromOtherSources>false</CompensationFromOtherSources>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NamePerson>BLUE ENGINE MM LLC</NamePerson>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>1140 CONNECTICUT AVENUE</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20036</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>COMMUNICATIONS</DescriptionOfServices>
+        <Compensation>100337</Compensation>
+      </ContractorCompensation>
+      <NumberOfContractorsGT100K>1</NumberOfContractorsGT100K>
+      <AllOtherContributions>6810661</AllOtherContributions>
+      <NoncashContributions>6743661</NoncashContributions>
+      <TotalContributions>6810661</TotalContributions>
+      <TotalProgramServiceRevenue>0</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>3497332</TotalRevenueColumn>
+        <UnrelatedBusinessRevenue>1781487</UnrelatedBusinessRevenue>
+        <ExclusionAmount>1715845</ExclusionAmount>
+      </InvestmentIncome>
+      <IncomeFromInvestBondProceeds>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </IncomeFromInvestBondProceeds>
+      <RoyaltiesRevenue>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </RoyaltiesRevenue>
+      <RentalIncomeOrLoss>
+        <Real>0</Real>
+        <Personal>0</Personal>
+      </RentalIncomeOrLoss>
+      <NetRentalIncomeOrLoss>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetRentalIncomeOrLoss>
+      <GrossAmountSalesAssets>
+        <Securities>31138094</Securities>
+      </GrossAmountSalesAssets>
+      <LessCostOthBasisSalesExpenses>
+        <Securities>30943558</Securities>
+      </LessCostOthBasisSalesExpenses>
+      <GainOrLoss>
+        <Securities>194536</Securities>
+      </GainOrLoss>
+      <NetGainOrLossInvestments>
+        <TotalRevenueColumn>194536</TotalRevenueColumn>
+        <UnrelatedBusinessRevenue>181585</UnrelatedBusinessRevenue>
+        <ExclusionAmount>12951</ExclusionAmount>
+      </NetGainOrLossInvestments>
+      <NetIncomeFromFundraisingEvents>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeFromFundraisingEvents>
+      <NetIncomeFromGaming>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeFromGaming>
+      <NetIncomeOrLoss>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeOrLoss>
+      <OtherRevenueMisc>
+        <Description>GAIN ON EXCHANGE OF CURRENCY</Description>
+        <TotalRevenueColumn>1123</TotalRevenueColumn>
+        <ExclusionAmount>1123</ExclusionAmount>
+      </OtherRevenueMisc>
+      <TotalOtherRevenue>1123</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>10503652</TotalRevenueColumn>
+        <UnrelatedBusinessRevenue>1963072</UnrelatedBusinessRevenue>
+        <ExclusionAmount>1729919</ExclusionAmount>
+      </TotalRevenue>
+      <GrantsToDomesticOrgs>
+        <Total>10826232</Total>
+        <ProgramServices>10826232</ProgramServices>
+      </GrantsToDomesticOrgs>
+      <GrantsToDomesticIndividuals>
+        <Total>0</Total>
+      </GrantsToDomesticIndividuals>
+      <ForeignGrants>
+        <Total>394158</Total>
+        <ProgramServices>394158</ProgramServices>
+      </ForeignGrants>
+      <BenefitsToMembers>
+        <Total>0</Total>
+      </BenefitsToMembers>
+      <CompCurrentOfficersDirectors>
+        <Total>500000</Total>
+        <ProgramServices>450000</ProgramServices>
+        <ManagementAndGeneral>50000</ManagementAndGeneral>
+      </CompCurrentOfficersDirectors>
+      <CompDisqualPersons>
+        <Total>0</Total>
+      </CompDisqualPersons>
+      <OtherSalariesAndWages>
+        <Total>232078</Total>
+        <ProgramServices>151644</ProgramServices>
+        <ManagementAndGeneral>80434</ManagementAndGeneral>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>5396</Total>
+        <ProgramServices>4435</ProgramServices>
+        <ManagementAndGeneral>961</ManagementAndGeneral>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>33604</Total>
+        <ProgramServices>27756</ProgramServices>
+        <ManagementAndGeneral>5848</ManagementAndGeneral>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>30701</Total>
+        <ProgramServices>25231</ProgramServices>
+        <ManagementAndGeneral>5470</ManagementAndGeneral>
+      </PayrollTaxes>
+      <FeesForServicesManagement>
+        <Total>0</Total>
+      </FeesForServicesManagement>
+      <FeesForServicesLegal>
+        <Total>0</Total>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>86000</Total>
+        <ManagementAndGeneral>86000</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <FeesForServicesLobbying>
+        <Total>0</Total>
+      </FeesForServicesLobbying>
+      <FeesForServicesProfFundraising>
+        <Total>0</Total>
+      </FeesForServicesProfFundraising>
+      <FeesForServicesInvstMgmntFees>
+        <Total>0</Total>
+      </FeesForServicesInvstMgmntFees>
+      <FeesForServicesOther>
+        <Total>228051</Total>
+        <ProgramServices>222520</ProgramServices>
+        <ManagementAndGeneral>5531</ManagementAndGeneral>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>0</Total>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>36752</Total>
+        <ProgramServices>10971</ProgramServices>
+        <ManagementAndGeneral>25781</ManagementAndGeneral>
+      </OfficeExpenses>
+      <InformationTechnology>
+        <Total>0</Total>
+      </InformationTechnology>
+      <Royalties>
+        <Total>0</Total>
+      </Royalties>
+      <Occupancy>
+        <Total>0</Total>
+      </Occupancy>
+      <Travel>
+        <Total>117729</Total>
+        <ProgramServices>99442</ProgramServices>
+        <ManagementAndGeneral>18287</ManagementAndGeneral>
+      </Travel>
+      <TravelEntrtnmntPublicOfficials>
+        <Total>0</Total>
+      </TravelEntrtnmntPublicOfficials>
+      <ConferencesMeetings>
+        <Total>148343</Total>
+        <ProgramServices>148343</ProgramServices>
+      </ConferencesMeetings>
+      <Interest>
+        <Total>0</Total>
+      </Interest>
+      <PaymentsToAffiliates>
+        <Total>0</Total>
+      </PaymentsToAffiliates>
+      <DepreciationDepletion>
+        <Total>0</Total>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>0</Total>
+      </Insurance>
+      <OtherExpenses>
+        <Description>UNRELATED BUSINESS INC TAXES</Description>
+        <Total>742934</Total>
+        <ManagementAndGeneral>742934</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>VOLUNTEER DAY</Description>
+        <Total>22154</Total>
+        <ProgramServices>22154</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OTHER EXPENSES</Description>
+        <Total>39961</Total>
+        <ProgramServices>35367</ProgramServices>
+        <ManagementAndGeneral>4594</ManagementAndGeneral>
+      </OtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>13444093</Total>
+        <ProgramServices>12418253</ProgramServices>
+        <ManagementAndGeneral>1025840</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>1031384</BOY>
+        <EOY>2162434</EOY>
+      </SavingsAndTempCashInvestments>
+      <PledgesAndGrantsReceivable>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </PledgesAndGrantsReceivable>
+      <AccountsReceivable>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </AccountsReceivable>
+      <ReceivablesFromOfficersEtc>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </ReceivablesFromOfficersEtc>
+      <ReceivablesFromDisqualPersons>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </ReceivablesFromDisqualPersons>
+      <OtherNotesLoansReceivableNet>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </OtherNotesLoansReceivableNet>
+      <InventoriesForSaleOrUse>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </InventoriesForSaleOrUse>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>0</BOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsPubTradedSecurities>
+        <BOY>12097436</BOY>
+        <EOY>19693803</EOY>
+      </InvestmentsPubTradedSecurities>
+      <InvestmentsOtherSecurities>
+        <BOY>55753458</BOY>
+        <EOY>68410388</EOY>
+      </InvestmentsOtherSecurities>
+      <InvestmentsProgramRelated>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </InvestmentsProgramRelated>
+      <IntangibleAssets>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </IntangibleAssets>
+      <OtherAssetsTotal>
+        <BOY>47</BOY>
+        <EOY>0</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>68882325</BOY>
+        <EOY>90266625</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>52316</BOY>
+        <EOY>81469</EOY>
+      </AccountsPayableAccruedExpenses>
+      <GrantsPayable>
+        <BOY>355000</BOY>
+        <EOY>98000</EOY>
+      </GrantsPayable>
+      <DeferredRevenue>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </DeferredRevenue>
+      <TaxExemptBondLiabilities>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </TaxExemptBondLiabilities>
+      <EscrowAccountLiability>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </EscrowAccountLiability>
+      <LoansFromOfficersDirectors>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </LoansFromOfficersDirectors>
+      <MortNotesPyblSecuredInvestProp>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </MortNotesPyblSecuredInvestProp>
+      <UnsecuredNotesLoansPayable>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </UnsecuredNotesLoansPayable>
+      <OtherLiabilities>
+        <BOY>2813311</BOY>
+        <EOY>3253852</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>3220627</BOY>
+        <EOY>3433321</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>65661698</BOY>
+        <EOY>86833304</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <PermanentlyRestrictedNetAssets>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </PermanentlyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>65661698</BOY>
+        <EOY>86833304</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>68882325</BOY>
+        <EOY>90266625</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <ReconcilationRevenueExpenses>-2940441</ReconcilationRevenueExpenses>
+      <ReconciliationUnrealizedInvest>24112047</ReconciliationUnrealizedInvest>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>false</AccountantCompileOrReview>
+      <FSAudited>true</FSAudited>
+      <FSAuditedBasis>
+        <FinancialStatementSeparate>X</FinancialStatementSeparate>
+      </FSAuditedBasis>
+      <AuditCommittee>true</AuditCommittee>
+      <FederalGrantAuditRequired>false</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="IRS990ScheduleA">
+      <PubliclySupportedOrg170b1Avi>X</PubliclySupportedOrg170b1Avi>
+      <GiftsGrantsContribReceived170>
+        <CurrentTaxYearMinus4Years>5420058</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>4965543</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>3981703</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>4027646</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>6810661</CurrentTaxYear>
+        <Total>25205611</Total>
+      </GiftsGrantsContribReceived170>
+      <TaxRevLeviedForOrgBenefit170>
+        <Total>0</Total>
+      </TaxRevLeviedForOrgBenefit170>
+      <ValueSrvcFcltsFurnishedByGovt>
+        <Total>0</Total>
+      </ValueSrvcFcltsFurnishedByGovt>
+      <Total170>
+        <CurrentTaxYearMinus4Years>5420058</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>4965543</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>3981703</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>4027646</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>6810661</CurrentTaxYear>
+        <Total>25205611</Total>
+      </Total170>
+      <AmountsSubstContributorsTotal>11974854</AmountsSubstContributorsTotal>
+      <PublicSupportTotal170>13230757</PublicSupportTotal170>
+      <GrossInvestmentIncome170>
+        <CurrentTaxYearMinus4Years>4347</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>704824</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>2381820</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>2112658</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>3497332</CurrentTaxYear>
+        <Total>8700981</Total>
+      </GrossInvestmentIncome170>
+      <NetUBI>
+        <Total>0</Total>
+      </NetUBI>
+      <OtherIncome170>
+        <Total>0</Total>
+      </OtherIncome170>
+      <TotalSupport>33906592</TotalSupport>
+      <PublicSupportPertcentage170>0.39021</PublicSupportPertcentage170>
+      <PublicSupportPertcentPriorYear>0.49080</PublicSupportPertcentPriorYear>
+      <ThirtyThreePercntTestsCY170>X</ThirtyThreePercntTestsCY170>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="IRS990ScheduleD">
+      <NumberDAFsHeld>13</NumberDAFsHeld>
+      <DonorAdvisedContributions>6738811</DonorAdvisedContributions>
+      <GrantsPaidFromDonorFunds>4720167</GrantsPaidFromDonorFunds>
+      <AggregateDAFValue>4181677</AggregateDAFValue>
+      <DisclosedOrgsLegalControl>true</DisclosedOrgsLegalControl>
+      <DisclosedForCharitablePurposes>true</DisclosedForCharitablePurposes>
+      <ArtPublicExhibitionAmts />
+      <HeldWorksOfArtAmts />
+      <CurrentYearMinus3Years />
+      <CurrentYearMinus4Years />
+      <Land />
+      <Buildings />
+      <LeaseholdImprovements />
+      <Equipment />
+      <OtherLandBuildings />
+      <FinancialDerivatives />
+      <CloselyHeldEquityInterests />
+      <OtherSecurities>
+        <Description>BLACKSTONE GROUP HOLDING UNITS</Description>
+        <BookValue>47974617</BookValue>
+        <MethodOfValuation>F</MethodOfValuation>
+      </OtherSecurities>
+      <OtherSecurities>
+        <Description>LIMITED PARTNERSHIP</Description>
+        <BookValue>20435771</BookValue>
+        <MethodOfValuation>F</MethodOfValuation>
+      </OtherSecurities>
+      <TotalOfBookValueSecurities>68410388</TotalOfBookValueSecurities>
+      <FederalIncomeTaxLiability>0</FederalIncomeTaxLiability>
+      <OtherLiabilities>
+        <Description>BUSINESS INCOME TAXES PAYABLE</Description>
+        <Amount>370664</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>SERVICES PARTNERSHIP LLC</Description>
+        <Amount>2883188</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>3253852</TotalOfAmounts>
+      <FootnoteInPartXIII>X</FootnoteInPartXIII>
+      <TotRevenueEtcAuditedFinclStmt>34668584</TotRevenueEtcAuditedFinclStmt>
+      <NetUnrealizedGainsInvestments>24112047</NetUnrealizedGainsInvestments>
+      <DonatedSrvcAndUseOfFacilities>52885</DonatedSrvcAndUseOfFacilities>
+      <RevenueNotRptdF990>24164932</RevenueNotRptdF990>
+      <RevenueSubtotal>10503652</RevenueSubtotal>
+      <TotalRevenuePerForm990>10503652</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>13496978</TotExpensesEtcAuditedFinclStmt>
+      <DonatedServicesUseOfFacilities>52885</DonatedServicesUseOfFacilities>
+      <ExpensesNotRptdF990>52885</ExpensesNotRptdF990>
+      <ExpensesSubtotal>13444093</ExpensesSubtotal>
+      <TotalExpensesPerForm990>13444093</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIII>
+        <Identifier>INCOME TAX UNCERTAINTIES</Identifier>
+        <ReturnReference>FORM 990, SCHEDULE D, PART X, QUESTION 2</ReturnReference>
+        <Explanation>The Foundation follows the provisions of the Financial Accounting Standards Board's Accounting Standards Codification ("ASC") Topic 740-10-05 relating to accounting and reporting for uncertainty in income taxes. Since the Foundation has always recorded the potential tax liability for excise tax, and due to its general tax-exempt status, ASC Topic 740-10-05 has not had, and is not expected to have, a material effect on its financial statements. The Foundation is no longer subject to examination by federal or state tax authorities for fiscal years prior to 2010.</Explanation>
+      </Form990ScheduleDPartXIII>
+    </IRS990ScheduleD>
+    <IRS990ScheduleF documentId="IRS990ScheduleF">
+      <GrantRecordsMaintained>true</GrantRecordsMaintained>
+      <AcctsActvsOutUSTable>
+        <Region>Europe (Including Iceland and Greenland)</Region>
+        <TypeOfActivitiesConducted>Grantmaking</TypeOfActivitiesConducted>
+        <TotalExpenditures>383615</TotalExpenditures>
+      </AcctsActvsOutUSTable>
+      <AcctsActvsOutUSTable>
+        <Region>East Asia and the Pacific</Region>
+        <TypeOfActivitiesConducted>Grantmaking</TypeOfActivitiesConducted>
+        <TotalExpenditures>10542</TotalExpenditures>
+      </AcctsActvsOutUSTable>
+      <SubtotalAmountSpent>394157</SubtotalAmountSpent>
+      <TotalAmountSpent>394157</TotalAmountSpent>
+      <GrantsToOrgsOutsideUS>
+        <Region>Europe (Including Iceland and Greenland)</Region>
+        <AmountOfCashGrant>383615</AmountOfCashGrant>
+        <MannerOfCashDisbursement>WIRE</MannerOfCashDisbursement>
+      </GrantsToOrgsOutsideUS>
+      <GrantsToOrgsOutsideUS>
+        <Region>South Asia</Region>
+        <AmountOfCashGrant>6449</AmountOfCashGrant>
+        <MannerOfCashDisbursement>WIRE</MannerOfCashDisbursement>
+      </GrantsToOrgsOutsideUS>
+      <TotalNumberOf501c3Orgs>3</TotalNumberOf501c3Orgs>
+      <TransferToForeignCorp>true</TransferToForeignCorp>
+      <InterestInForeignTrust>false</InterestInForeignTrust>
+      <OwnForeignCorp>false</OwnForeignCorp>
+      <PassiveForeignInvestCo>true</PassiveForeignInvestCo>
+      <ForeignPartnership>false</ForeignPartnership>
+      <BoycottCountries>false</BoycottCountries>
+      <Form990ScheduleFPartV>
+        <Identifier>PROCEDURES FOR MONITORING THE USE OF GRANTS OUTSIDE THE US</Identifier>
+        <ReturnReference>FORM 990, SCHEDULE F, PART I, LINE 2</ReturnReference>
+        <Explanation>THE FOUNDATiON RESEARCHES ALL FOREIGN GRANTS TO INSURE THAT FUNDS ARE SENT TO ORGANIZATIONS WITHIN THE FOUNDTION'S GUIDELINES. ALL GRANT RECIPIENTS UNDERSTAND THAT REPORTS MUST BE FURNISHED UPON REQUEST.</Explanation>
+      </Form990ScheduleFPartV>
+    </IRS990ScheduleF>
+    <IRS990ScheduleI documentId="IRS990ScheduleI">
+      <RecordsMaintained>true</RecordsMaintained>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Alvin Ailey Dance Foundation Inc</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>405 West 55th Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10019</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>132584273</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Alzheimer's Disease and Related Disorders</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>360 Lexington Avenue</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10017</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>133277408</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>22500</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>American Cancer Society</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>250 Williams Street</AddressLine1>
+          <City>Atlanta</City>
+          <State>GA</State>
+          <ZIPCode>30303</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>131788491</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>American Friends Royal FDTN D&amp;D CAMBRIDGE</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>845 Third Avenue</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10022</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>452062094</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>American Jewish Committee</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>165 East 56th Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10022</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>135563393</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>American Jewish Committee</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>165 East 56th Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10022</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>135563393</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>15000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>American Museum of Natural History</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>79TH/CPW</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10024</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>136162659</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>American National Red Cross</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>1955 Monroe Drive NE</AddressLine1>
+          <City>Atlanta</City>
+          <State>GA</State>
+          <ZIPCode>30324</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>530196605</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>333000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Arizona State University Foundation</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>PO Box 2260</AddressLine1>
+          <City>Tempe</City>
+          <State>AZ</State>
+          <ZIPCode>85280</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>866051042</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>72500</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Arizona State University Foundation</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>PO Box 2260</AddressLine1>
+          <City>Tempe</City>
+          <State>AZ</State>
+          <ZIPCode>85280</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>866051042</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>72500</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Asia Society</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>725 Park Avenue</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10021</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>133234632</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Atlantic Council</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>1101 15th Street NW</AddressLine1>
+          <City>Washington</City>
+          <State>DC</State>
+          <ZIPCode>20005</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>520742294</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>50000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Blacksmith Institute</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>2014 Fifth Avenue</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10035</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>134075779</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>7500</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Brahma Kumaris World Spiritual Organization</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>PO Box 99</AddressLine1>
+          <City>Haines Falls</City>
+          <State>NY</State>
+          <ZIPCode>12436</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>741946190</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>50000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Burton D Morgan Foundation</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>22 Aurora Street</AddressLine1>
+          <City>Hudson</City>
+          <State>OH</State>
+          <ZIPCode>44236</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>346598971</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>305160</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Catholic Charities of the Archdiocese OF NY</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>1011 First Avenue</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10022</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>135562184</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Challenged Athletes Foundation</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>PO Box 910769</AddressLine1>
+          <City>San Diego</City>
+          <State>CA</State>
+          <ZIPCode>92191</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>330739596</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Children of Fallen Patriots Foundation</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>PO Box 181</AddressLine1>
+          <City>Old Greenwich</City>
+          <State>CT</State>
+          <ZIPCode>068700000</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>470902295</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>China Institute</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>125 East 65th Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10065</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>131623937</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Choate Rosemary Hall Annual Fund</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>333 Christian Street</AddressLine1>
+          <City>Wallingford</City>
+          <State>CT</State>
+          <ZIPCode>06492</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>060910420</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>50000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>City Harvest</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>6 East 32nd Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10016</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>133170676</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>City Harvest</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>575 Eighth Avenue</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10018</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>133170676</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Committee to Protect Journalists</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>330 Seventh Avenue</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10001</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>133081500</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>15000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Consortium of Catholic Academies of the Archdioces</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>5001 Eastern Avenue</AddressLine1>
+          <City>Hyattsville</City>
+          <State>MD</State>
+          <ZIPCode>20782</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>522050972</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Council on Foreign Relations</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>58 East 68th Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10021</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>131628168</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Court Appointed Special Advocates</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>50 Broadway</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>100041694</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>133172387</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>8500</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Duke University</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>324 Blackwell St Ste 920</AddressLine1>
+          <City>Durham</City>
+          <State>NC</State>
+          <ZIPCode>27701</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>560532129</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>50000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>East Harlem Tutorial Program</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>2050 Second Avenue</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10029</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>237439789</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>50000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Focus Hope Foundation</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>1355 Oakman Blvd</AddressLine1>
+          <City>Detroit</City>
+          <State>MI</State>
+          <ZIPCode>48238</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>383411179</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Fordham University</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>888 7TH AVE</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10019</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>131740451</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>1050000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Foreign Policy Association</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>470 Park Ave</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10016</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>131624047</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>30000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Friends of the High Line</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>529 West 20th Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10011</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>311734086</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Georgetown University</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>37th and O Street NW</AddressLine1>
+          <City>Washington</City>
+          <State>DC</State>
+          <ZIPCode>20007</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>530196603</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>50000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Greater NY Councils Boy Scouts of America</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>350 Fifth Avenue</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10118</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>131624015</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Homes for Our Troops Inc</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>6 Main Street</AddressLine1>
+          <City>Taunton</City>
+          <State>MA</State>
+          <ZIPCode>027800000</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>542143612</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>7500</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Hospital for Joint Diseases Orthopedic InstituteN</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>550 First Avenue</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10016</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>133971298</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Human Rights Watch</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>350 Fifth Avenue</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10118</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>132875808</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>15000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Independent Sector</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>1602 L Street NW</AddressLine1>
+          <City>Washington</City>
+          <State>DC</State>
+          <ZIPCode>20036</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>521081024</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>inMotion Inc</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>70 West 36th Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10018</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>133688519</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>inMotion Inc</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>70 West 36th Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10018</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>133688519</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Inner City Scholarship Fund</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>1011 First Avenue</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10022</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>510453629</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>17500</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>International Rescue Committee</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>122 East 42nd Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10168</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>135660870</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>15000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>International Youth Foundation</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>32 South Street</AddressLine1>
+          <City>Baltimore</City>
+          <State>MD</State>
+          <ZIPCode>21202</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>382935397</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Iraq and Afghanistan Veterans of America</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>292 Madison Avenue</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10017</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>201664531</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Jamestown Foundation Inc</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>167 West 12th Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10011</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>132752108</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Japan Society</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>333 East 47th Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10017</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>131675082</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Junior League of the City of New York Inc</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>130 East 80th Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10075</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>131624066</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>7000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Land Trust of Darien Inc</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>PO Box 1074</AddressLine1>
+          <City>Darien</City>
+          <State>CT</State>
+          <ZIPCode>068200000</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>066068554</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>1950000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Larchmont Manor Park Society</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>PO Box 2</AddressLine1>
+          <City>Larchmont</City>
+          <State>NY</State>
+          <ZIPCode>10538</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>135562385</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>11000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Learning Leaders Inc</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>80 Maiden Lane</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10038</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>132658549</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Learning through an Expanded Arts Program</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>441 West End Avenue</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10024</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>132925233</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>36000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Lenox Hill Neighborhood House Inc</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>331 East 70th Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10021</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>131628180</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Lincoln Center Corporate Fund</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>70 Lincoln Center Plaza</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10023</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>131847137</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Maine Technology Institute</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>8 Venture Avenue</AddressLine1>
+          <City>Brunswick</City>
+          <State>ME</State>
+          <ZIPCode>040110000</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>010529871</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>338445</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Maine Technology Institute</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>8 Venture Avenue</AddressLine1>
+          <City>Brunswick</City>
+          <State>ME</State>
+          <ZIPCode>040110000</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>010529871</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>271380</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Manhattan College</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>4513 Manhattan Parkway</AddressLine1>
+          <City>Riverdale</City>
+          <State>NY</State>
+          <ZIPCode>10471</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>131740468</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>75000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Marine Corps-Law Enforcement Foundation Inc</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>10 Rockefeller Plaza</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10020</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>223357410</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>MassChallenge</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>One Marina Park DR</AddressLine1>
+          <City>Boston</City>
+          <State>MA</State>
+          <ZIPCode>022100000</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>270382989</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>50000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>MassChallenge</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>One Marina Park DR</AddressLine1>
+          <City>Boston</City>
+          <State>MA</State>
+          <ZIPCode>022100000</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>270382989</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Michael's Mission</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>120 East 29th Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10016</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>262573681</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Moneythink</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>1401 E 55th Street</AddressLine1>
+          <City>Chicago</City>
+          <State>IL</State>
+          <ZIPCode>60615</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>271052771</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Moneythink</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>1401 E 55th Street</AddressLine1>
+          <City>Chicago</City>
+          <State>IL</State>
+          <ZIPCode>60615</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>271052771</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Musuem of American Finance</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>48 Wall Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10005</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>133540880</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>NAT'L Foundation for Facial Reconstruction</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>317 East 34th Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10016</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>136013760</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Nature Conservancy Inc</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>4245 FAIRFAX DR</AddressLine1>
+          <City>Arlington</City>
+          <State>VA</State>
+          <ZIPCode>22203</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>530242652</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Nature Conservancy Inc</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>4245 FAIRFAX DR</AddressLine1>
+          <City>Arlington</City>
+          <State>VA</State>
+          <ZIPCode>22203</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>530242652</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>50000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>New Jersey Technology Council Inc</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>1001 Briggs RD</AddressLine1>
+          <City>Mt Laurel</City>
+          <State>NJ</State>
+          <ZIPCode>080540000</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>223456385</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>7500</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>New York City Firefighters Disaster Relief Fund In</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>204 East 23rd Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10010</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>135456100</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>New York Presbyterian Fund Inc</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>525 East 68th Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10065</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>133160356</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Northwestern University</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>633 Clark Street</AddressLine1>
+          <City>Evanston</City>
+          <State>IL</State>
+          <ZIPCode>60208</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>362167817</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>One Hen Inc</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>PO Box 990781</AddressLine1>
+          <City>Boston</City>
+          <State>MA</State>
+          <ZIPCode>021990000</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>264434478</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>100000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>One Hen Inc</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>PO Box 990781</AddressLine1>
+          <City>Boston</City>
+          <State>MA</State>
+          <ZIPCode>021990000</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>264434478</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>50000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Operation Homefront Inc</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>8930 Fourwinds Drive</AddressLine1>
+          <City>San Antonio</City>
+          <State>TX</State>
+          <ZIPCode>78239</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>320033325</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>7500</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Pacific Community Ventures Inc</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>51 Federal Street</AddressLine1>
+          <City>San Francisco</City>
+          <State>CA</State>
+          <ZIPCode>94107</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>770485877</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>60000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>PENCIL</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>30 West 26th Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10010</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>223384302</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>15000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Point of Life Corp</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>46 S Middle Neck Road</AddressLine1>
+          <City>Great Neck</City>
+          <State>NY</State>
+          <ZIPCode>11021</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>113617681</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>50000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Posse Foundation</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>14 Wall ST</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10005</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>123840394</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Prep for Prep</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>328 West 71st Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10023</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>132613383</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>President and Fellows of Harvard College</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>1033 MASS AVE</AddressLine1>
+          <City>Cambridge</City>
+          <State>MA</State>
+          <ZIPCode>021380000</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>042103580</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>166667</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>President and Fellows of Harvard College</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>1033 MASS AVE</AddressLine1>
+          <City>Cambridge</City>
+          <State>MA</State>
+          <ZIPCode>021380000</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>042103580</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>100000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>President and Fellows of Harvard College</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>1033 MASS AVE</AddressLine1>
+          <City>Cambridge</City>
+          <State>MA</State>
+          <ZIPCode>021380000</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>042103580</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>250000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Project Sunshine</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>108 West 39th ST</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10018</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>223607512</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>17200</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Project YES</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>6201 Bonhomme RD</AddressLine1>
+          <City>Houston</City>
+          <State>TX</State>
+          <ZIPCode>77036</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>760563835</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>15000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Riverdale Country School</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>5250 Fieldston Road</AddressLine1>
+          <City>Riverdale</City>
+          <State>NY</State>
+          <ZIPCode>10471</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>131740483</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Robert A Toigo Foundation</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>180 Grand AVE</AddressLine1>
+          <City>Oakland</City>
+          <State>CA</State>
+          <ZIPCode>94612</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>133565420</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>20000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Robert A Toigo Foundation</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>180 Grand AVE</AddressLine1>
+          <City>Oakland</City>
+          <State>CA</State>
+          <ZIPCode>94612</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>133565420</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>12500</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Robin Hood Foundation</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>826 Broadway</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10003</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>133441066</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>20000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Ronald McDonald House of New York Inc</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>405 East 73rd Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10021</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>132933654</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Second Stage Theater</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>305 West 43rd Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10036</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>133021180</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Second Stage Theater</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>305 West 43rd Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10036</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>133021180</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>12500</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Seeds of Peace</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>370 Lexington Avenue</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10017</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>521814447</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Service Fund for the National Organization for Wom</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>150 West 28th ST</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10001</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>133083202</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>50000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Silicon Valley Community Foundation</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>2440 ElCamino Real</AddressLine1>
+          <City>Mountain View</City>
+          <State>CA</State>
+          <ZIPCode>94040</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>205205488</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>50000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>South Dakota Hall of Fame</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>1480 S MAIN ST</AddressLine1>
+          <City>Chamberlain</City>
+          <State>SD</State>
+          <ZIPCode>57325</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>460324210</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Sponsors for Educational Opportunity</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>55 Exchange Place</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10005</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>132578670</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>St Augustine's Church</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>18 Cherry Lane</AddressLine1>
+          <City>Larchmont</City>
+          <State>NY</State>
+          <ZIPCode>10538</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>135562185</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>17500</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>St Bernard's School Inc</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>4 East 98th Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10029</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>131255270</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>30000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>St Bernard's School Inc</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>4 East 98th Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10029</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>131255270</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>200000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>St Catherine's Academy</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>2250 Williamsbrudge Road</AddressLine1>
+          <City>Bronx</City>
+          <State>NY</State>
+          <ZIPCode>10469</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>131641077</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>STRIVE</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>240 East 123rd St</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10035</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>133255679</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Tennessee Technology Development Corporation DBA L</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>230 4th Ave</AddressLine1>
+          <City>Nashville</City>
+          <State>TN</State>
+          <ZIPCode>37219</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>621765738</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>50000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>The American Ireland Fund</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>211 Congree Street</AddressLine1>
+          <City>Boston</City>
+          <State>MA</State>
+          <ZIPCode>022100000</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>251306992</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>The American Ireland Fund</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>211 Congree Street</AddressLine1>
+          <City>Boston</City>
+          <State>MA</State>
+          <ZIPCode>021100000</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>251306992</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>The American Irish Historical Society</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>991 5th Avenue</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10028</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>131656636</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>The Burton D Morgan Foundation</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>22 Aurora Street</AddressLine1>
+          <City>Hudson</City>
+          <State>OH</State>
+          <ZIPCode>44236</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>346598971</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>167893</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>The Foundation for Barnes-Jewish Hopsital</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>1001 Highlands DR</AddressLine1>
+          <City>StLouis</City>
+          <State>MO</State>
+          <ZIPCode>63110</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>431648435</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>The Honorable Tina Brozman Foundation</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>31 WEST 52ND STREET</AddressLine1>
+          <City>NEW YORK</City>
+          <State>NY</State>
+          <ZIPCode>10019</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>260413943</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>The Idea Village</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>515 Girod Street</AddressLine1>
+          <City>New Orleans</City>
+          <State>LA</State>
+          <ZIPCode>70130</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>450470675</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>43500</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>The Legal Aid Society</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>199 Water Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10038</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>135562265</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>The Leukemia &amp; Lymphoma Society</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>475 Park Avene</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10016</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>135644916</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>75000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>The Metropolitan Museum of Art</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>1000 Fifth Avenue</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10028</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>131624086</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>50000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>The Picture House Regional Film Center Inc</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>175 Wolfs Lane</AddressLine1>
+          <City>Pelham</City>
+          <State>NY</State>
+          <ZIPCode>10803</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>200105851</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>30000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Tumml Inc</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>645 Harrison Street</AddressLine1>
+          <City>San Francisco</City>
+          <State>CA</State>
+          <ZIPCode>94107</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>371702739</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>32500</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>UJA-Federation</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>130 East 59th Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10022</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>510178429</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>13000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>UJA-Federation</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>130 East 59th Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10022</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>510178429</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>7500</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>United Negro College Fund</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>8260 Willow Oaks CORP DR</AddressLine1>
+          <City>Fairfax</City>
+          <State>VA</State>
+          <ZIPCode>22031</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>131624241</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>80000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>United Way of New York City</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>2 Park Avenue</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10016</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>132617681</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>50000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>University of Miami</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>1252 Memorial Drive</AddressLine1>
+          <City>Coral Gables</City>
+          <State>FL</State>
+          <ZIPCode>33146</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>590624458</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>422000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>University of Miami</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>1252 Memorial Drive</AddressLine1>
+          <City>Coral Gables</City>
+          <State>FL</State>
+          <ZIPCode>33146</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>590624458</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>680000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>University of North Carolina at Chapel Hill</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>208 W Franklin Street</AddressLine1>
+          <City>Chapel Hill</City>
+          <State>NC</State>
+          <ZIPCode>27514</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>566001393</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>1125000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>University of North Carolina at Chapel Hill</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>208 W Franklin Street</AddressLine1>
+          <City>Chapel Hill</City>
+          <State>NC</State>
+          <ZIPCode>27514</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>566001393</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>100000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>University of Pennsylvania</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>3615 Market Street</AddressLine1>
+          <City>Philadelphia</City>
+          <State>PA</State>
+          <ZIPCode>19104</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>231352685</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>20000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>University of Pennsylvania</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>3615 Market Street</AddressLine1>
+          <City>Philadelphia</City>
+          <State>PA</State>
+          <ZIPCode>19104</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>231352685</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>University of Pennsylvania</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>3615 Market Street</AddressLine1>
+          <City>Philadelphia</City>
+          <State>PA</State>
+          <ZIPCode>19104</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>231352685</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>50000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>University of Pennsylvania</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>3615 Market Street</AddressLine1>
+          <City>Philadelphia</City>
+          <State>PA</State>
+          <ZIPCode>19104</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>231352685</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Venture for America Inc</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>450 Park Avenue South</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10016</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>272987904</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>75000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Xavier Jesuit Community</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>30 West 16th Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10011</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>133465803</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>100000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Yale University</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>PO Box 1890</AddressLine1>
+          <City>New Haven</City>
+          <State>CT</State>
+          <ZIPCode>065080000</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>060646973</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>50000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Yale University</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>PO Box 2038</AddressLine1>
+          <City>New Haven</City>
+          <State>CT</State>
+          <ZIPCode>065210000</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>060646973</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>50000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Year Up</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>93 Summer St</AddressLine1>
+          <City>Boston</City>
+          <State>MA</State>
+          <ZIPCode>021100000</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>043534407</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>YMCA of Greater New York</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>5 W 63rd Street</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10023</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>131624228</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Young Women's Leadership Network</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>322 Eighth AVE</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10001</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>061517218</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Young Women's Leadership Network</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>322 Eighth AVE</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10001</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>061517218</EINOfRecipient>
+        <IRCSection>501(c)(3)</IRCSection>
+        <AmountOfCashGrant>30000</AmountOfCashGrant>
+        <PurposeOfGrant>Donation</PurposeOfGrant>
+      </RecipientTable>
+      <TotalNbrOf501C3AndGovtGrants>133</TotalNbrOf501C3AndGovtGrants>
+      <Form990ScheduleIPartIV>
+        <Identifier>GRANT MONITORING</Identifier>
+        <ReturnReference>FORM 990, SCHEDULE I, PART I, LINE 2</ReturnReference>
+        <Explanation>THE FOUNDATION AWARDS GRANTS BASED ON THE RECOMMENDATIONS AND INPUT OF ITS BOARD OF DIRECTORS. THE FOUNDATION GENERALLY ONLY APPROVES GRants TO PRESELECTED CHARITABLE ORGANIZATIONS AND DOES NOT ACCEPT UNSOLICITED REQUESTS FOR FUNDS. THE ORGANIZATION, AT ITS DISCRETION, MAY REQUEST ADDITIONAL DOCUMENTATION FOR COMPLIANCE.</Explanation>
+      </Form990ScheduleIPartIV>
+    </IRS990ScheduleI>
+    <IRS990ScheduleJ documentId="IRS990ScheduleJ">
+      <Form990OfOtherOrganizations>X</Form990OfOtherOrganizations>
+      <BoardOrCommitteeApproval>X</BoardOrCommitteeApproval>
+      <SeverancePayment>false</SeverancePayment>
+      <SupplementalNonqualRetirePlan>false</SupplementalNonqualRetirePlan>
+      <EquityBasedCompArrangement>false</EquityBasedCompArrangement>
+      <CompBasedOnRevenueOfFilingOrg>false</CompBasedOnRevenueOfFilingOrg>
+      <CompBasedOnRevenueRelatedOrgs>false</CompBasedOnRevenueRelatedOrgs>
+      <CompBasedNetEarningsFilingOrg>false</CompBasedNetEarningsFilingOrg>
+      <CompBasedNetEarningsRelateOrgs>false</CompBasedNetEarningsRelateOrgs>
+      <AnyNonFixedPayments>false</AnyNonFixedPayments>
+      <InitialContractException>false</InitialContractException>
+      <Form990ScheduleJPartII>
+        <NamePerson>AMY STURSBERG</NamePerson>
+        <Title>EXECUTIVE DIRECTOR</Title>
+        <BaseCompensationFilingOrg>246321</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>250000</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>18817</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>515138</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleM documentId="IRS990ScheduleM">
+      <WorksOfArt />
+      <ArtHistoricalTreasures />
+      <ArtFractionalInterest />
+      <BooksAndPublications />
+      <ClothingAndHouseholdGoods />
+      <CarsAndOtherVehicles />
+      <BoatsAndPlanes />
+      <IntellectualProperty />
+      <SecuritiesPubliclyTraded />
+      <SecuritiesCloselyHeldStock />
+      <SecuritiesPrtnrshpTrustIntrsts>
+        <NonCashCheckbox>X</NonCashCheckbox>
+        <NumberOfContributions>11</NumberOfContributions>
+        <NoncashContribsRptdF990>6743661</NoncashContribsRptdF990>
+      </SecuritiesPrtnrshpTrustIntrsts>
+      <SecuritiesMiscellaneous />
+      <QualifiedContribHistStruct />
+      <QualifiedContribOther />
+      <RealEstateResidential />
+      <RealEstateCommercial />
+      <RealEstateOther />
+      <Collectibles />
+      <FoodInventory />
+      <DrugsAndMedicalSupplies />
+      <Taxidermy />
+      <HistoricalArtifacts />
+      <ScientificSpecimens />
+      <ArchaeologicalArtifacts />
+      <NumberOf8283Received>15</NumberOf8283Received>
+      <AnyPropertyThatMustBeHeld>false</AnyPropertyThatMustBeHeld>
+      <ReviewProcessUnusualNCGifts>true</ReviewProcessUnusualNCGifts>
+      <ThirdPartiesUsed>false</ThirdPartiesUsed>
+    </IRS990ScheduleM>
+    <IRS990ScheduleO documentId="IRS990ScheduleO">
+      <GeneralExplanation>
+        <Identifier>RELATIONSHIPS</Identifier>
+        <ReturnReference>FORM 990, PART 1, LINE 4 AND PART VI, SECTION A, LINE 2</ReturnReference>
+        <Explanation>THE FOUNDATION'S BOARD OF DIRECTORS IS COMPRISED OF EMPLOYEES OF THE BLACKSTONE GROUP, LP. BLACKSTONE GROUP MANAGEMENT LLC, WHICH SERVES AS THE GENERAL PARTNER OF THE BLACKSTONE GROUP LP, IS THE SOLE MEMBER OF THE FOUNDATION. AS THE FOUNDATION'S BOARD OF DIRECTORS ARE COMPENSATED AS EMPLOYEES OF A RELATED ORGANIZATION, THEY ARE NOT DEEMED TO BE INDEPENDENT VOTING MEMBERS OF THE FOUNDATION'S GOVERNING BOARD. THE BLACKSTONE GROUP, LP THROUGH ITS WHOLLY OWNED ENTITY BLACKSTONE ADMINSTARATIVE SERVICES PARTNERSHIP LLC ("SERVICES"), PROVIDES THE FOUNDATION WITH OFFICE SPACE AND GRANT AND INVESTMENT MANAGEMENT SERVICES WITHOUT CHARGE. IN ADDITION, SERVICES PROVIDES AN INTEREST-FREE LOAN TO THE FOUNDATION IN ORDER TO FUND A PORTION OF ITS CHARITABLE ACTIVITIES, PAYROLL AND BENEFITS FOR THE FOUNDATION STAFF (SERVICES ACTS AS COMMON PAYMASTER), AND OTHER RELATED ADMINISTRATIVE COSTS. THE MATURITY DATE OF THE OUTSTANDING BALANCE IS DECEMBER 31, 2015.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>REVIEW OF FORM 990</Identifier>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 11B</ReturnReference>
+        <Explanation>MANAGEMENT AND OUTSIDE COUNSEL FOR THE FOUNDATION REVIEW THE DRAFT FORM 990. UPON COMPLETION OF THE REVIEWS, THE FULL BOARD OF DIRECTORS RECEIVE THE APPROVED DRAFT PRIOR TO ITS ELECTRONIC FILING WITH THE INTERNAL REVENUE SERVICE.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>CONFLICT OF INTEREST POLICY</Identifier>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 12C</ReturnReference>
+        <Explanation>EACH MEMBER OF THE BOARD OF DIRECTORS IS REQUIRED TO COMPLETE AND SIGN AN ANNUAL ACKNOWLEDGEMENT OF COMPLIANCE WITH THE FOUNDATION'S CONFLICT OF INTEREST POLICY AND REPORT ANY POTENTIAL CONFLICTS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>DETERMINATION OF COMPENSATION OF THE EXECUTIVE DIRECTOR</Identifier>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 15B</ReturnReference>
+        <Explanation>THE COMPENSATION OF THE FOUNDATION'S EXECUTIVE DIRECTOR HAS BEEN RATIFIED BY THE FULL BOARD OF DIRECTORS USING DATA FOR COMPARABLE POSITIONS FROM PUBLIC SOURCES, INCLUDING SURVEYS COMPILED FROM THE FORMS 990 OF LIKE SIZED ORGANIZATIONS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>AVAILABILITY OF GOVERNING DOCUMENTS</Identifier>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 19</ReturnReference>
+        <Explanation>COPIES OF THE FOUNDATION'S FORM 990 AND ANNUAL AUDITED FINANCIAL STATEMENTS ARE AVAILABLE FOR PUBLIC INSPECTION UPON REQUEST.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 8868</Identifier>
+        <ReturnReference>EXTENSION OF TIME TO FILE FOR AN EXEMPT ORGANIZATION</ReturnReference>
+        <Explanation>APPLICATIONS FOR EXTENSIONS OF TIME TO FILE AN EXEMPT ORGANIZATION RETURN WERE ELECTRONICALLY FILED.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="IRS990ScheduleR">
+      <Form990ScheduleRPartIII>
+        <NameOfRelatedOrg>
+          <BusinessNameLine1>BLACKSTONE GROUP LP</BusinessNameLine1>
+        </NameOfRelatedOrg>
+        <AddressUS>
+          <AddressLine1>345 PARK AVENUE</AddressLine1>
+          <City>NEW YORK</City>
+          <State>NY</State>
+          <ZIPCode>10154</ZIPCode>
+        </AddressUS>
+        <EIN>208875684</EIN>
+        <PrimaryActivity>INVESTMENT</PrimaryActivity>
+        <LegalDomicileState>DE</LegalDomicileState>
+        <DisproportionateAllocations>false</DisproportionateAllocations>
+        <GeneralOrManagingPartner>false</GeneralOrManagingPartner>
+      </Form990ScheduleRPartIII>
+      <Form990ScheduleRPartIV>
+        <NameOfRelatedOrg>
+          <BusinessNameLine1>BLACKSTONE ADMIN SERVICES PTNSHP LLC</BusinessNameLine1>
+        </NameOfRelatedOrg>
+        <AddressUS>
+          <AddressLine1>345 PARK AVENUE</AddressLine1>
+          <City>NEW YORK</City>
+          <State>NY</State>
+          <ZIPCode>10154</ZIPCode>
+        </AddressUS>
+        <EIN>133637000</EIN>
+        <PrimaryActivity>ADMIN SERVICES</PrimaryActivity>
+        <LegalDomicileState>DE</LegalDomicileState>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+        <TypeOfEntity>LLC</TypeOfEntity>
+      </Form990ScheduleRPartIV>
+      <Form990ScheduleRPartIV>
+        <NameOfRelatedOrg>
+          <BusinessNameLine1>BLACKSTONE GROUP MANAGEMENT LLC</BusinessNameLine1>
+        </NameOfRelatedOrg>
+        <AddressUS>
+          <AddressLine1>345 PARK AVENUE</AddressLine1>
+          <City>NEW YORK</City>
+          <State>NY</State>
+          <ZIPCode>10154</ZIPCode>
+        </AddressUS>
+        <PrimaryActivity>SOLE MEMBER OF FD</PrimaryActivity>
+        <LegalDomicileState>DE</LegalDomicileState>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+        <TypeOfEntity>LLC</TypeOfEntity>
+      </Form990ScheduleRPartIV>
+      <ReceiptOfIntAnnRentsRoyalties>false</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>false</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>false</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>false</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>true</LoansOrGuaranteesFromOtherOrg>
+      <DividendsRelatedOrganization>false</DividendsRelatedOrganization>
+      <SaleOfAssetsToOtherOrg>false</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>false</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>false</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>false</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>false</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>false</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>true</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>true</SharingOfFacilities>
+      <SharingOfPaidEmployees>false</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>true</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>false</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>false</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>false</OtherTransferFromOtherOrg>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>BLACKSTONE ADMIN SERVICES PTNRSHP LLC</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>E AND</TransactionType>
+        <AmountInvolved>2928694</AmountInvolved>
+        <MethodOfAmtDetermination>FMV</MethodOfAmtDetermination>
+      </TransactionsRelatedOrgsTable>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>THE BLACKSTONE GROUP INC</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>M AND</TransactionType>
+        <AmountInvolved>0</AmountInvolved>
+        <MethodOfAmtDetermination>FMV</MethodOfAmtDetermination>
+      </TransactionsRelatedOrgsTable>
+      <Form990ScheduleRPartVII>
+        <Identifier>RELATED ORGANIZATIONS</Identifier>
+        <ReturnReference>FORM 990, SCHEDULE R</ReturnReference>
+        <Explanation>SEE SCHEDULE O FOR A DESCRIPTION OF THE FOUNDATION AND RELATED ORGANIZATIONS.</Explanation>
+      </Form990ScheduleRPartVII>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

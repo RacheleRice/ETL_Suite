@@ -1,0 +1,3474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2020v4.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2021-11-15T11:30:01-06:00</ReturnTs>
+    <TaxPeriodEndDt>2020-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>770534410</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>COMPREHENSIVE FINANCIAL MANAGEMENT</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>720 University Ave 200</AddressLine1Txt>
+        <CityNm>Los Gatos</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>95032</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2020-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>823941326</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Luminate Foundation Inc</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>GCEP</BusinessNameControlTxt>
+      <PhoneNum>2026309991</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1200 17th Street NW No 501</AddressLine1Txt>
+        <CityNm>Washington</CityNm>
+        <StateAbbreviationCd>DC</StateAbbreviationCd>
+        <ZIPCd>20036</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Shaila Gupta</PersonNm>
+      <PersonTitleTxt>Treasurer</PersonTitleTxt>
+      <PhoneNum>2026309991</PhoneNum>
+      <SignatureDt>2021-11-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>Shaila</PersonFirstNm>
+        <PersonLastNm>Gupta</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Roger V Hansen</PreparerPersonNm>
+      <PTIN>P00294980</PTIN>
+      <PhoneNum>4083583316</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2020</TaxYr>
+    <BuildTS>2022-09-23 18:48:47Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="9">
+    <IRS990PF documentId="RetDoc1235000001" referenceDocumentId="RetDoc2258700001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>57888270</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>52776798</ContriRcvdRevAndExpnssAmt>
+        <DividendsRevAndExpnssAmt>323058</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>323058</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-1126870</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>55735033</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>55735024</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>51972986</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>56058082</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>0</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstAdjNetIncmAmt>0</CompOfcrDirTrstAdjNetIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>0</CompOfcrDirTrstDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">724793</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>0</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>0</TaxesAdjNetIncmAmt>
+        <TaxesDsbrsChrtblAmt>0</TaxesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>724793</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>62085349</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>49108550</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>62810142</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>49108550</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-10837156</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>56058082</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>53482648</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>56069782</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>56069782</SavAndTempCashInvstEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>1805500</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt>0</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>0</OtherInvestmentsEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="RetDoc2046600001">0</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="RetDoc2046600001">1818488</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="RetDoc2046600001">1818488</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>55288148</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>57888270</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>57888270</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>45000</AccountsPayableBOYAmt>
+        <GrantsPayableEOYAmt>22153333</GrantsPayableEOYAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="RetDoc2065700001">56053</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="RetDoc2065700001">671729</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>101053</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>22825062</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>48094128</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>-18866325</NoDonorRstrNetAssestsEOYAmt>
+        <DonorRstrNetAssetsBOYAmt>7092967</DonorRstrNetAssetsBOYAmt>
+        <DonorRstrNetAssetsEOYAmt>53929533</DonorRstrNetAssetsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>55187095</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>35063208</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>55288148</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>57888270</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>55187095</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-10837156</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>44349939</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc2049800001">9286731</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>35063208</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25,000 shares eBay Inc</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>1996-05-20</AcquiredDt>
+          <SoldDt>2020-02-14</SoldDt>
+          <GrossSalesPriceAmt>951212</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1</CostOrOtherBasisAmt>
+          <GainOrLossAmt>951211</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>951211</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25,000 shares eBay Inc</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>1996-05-20</AcquiredDt>
+          <SoldDt>2020-02-18</SoldDt>
+          <GrossSalesPriceAmt>953130</GrossSalesPriceAmt>
+          <GainOrLossAmt>953130</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>953130</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>104,125 shares eBay Inc</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>1996-05-20</AcquiredDt>
+          <SoldDt>2020-12-08</SoldDt>
+          <GrossSalesPriceAmt>5176027</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5176025</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5176025</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>104,125 shares eBay Inc</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>1996-05-20</AcquiredDt>
+          <SoldDt>2020-12-09</SoldDt>
+          <GrossSalesPriceAmt>5175402</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5175400</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5175400</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>104,125 shares PayPal Holdings Inc.</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>1996-05-20</AcquiredDt>
+          <SoldDt>2020-11-24</SoldDt>
+          <GrossSalesPriceAmt>21376009</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2</CostOrOtherBasisAmt>
+          <GainOrLossAmt>21376007</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>21376007</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>104,125 shares PayPal Holdings Inc.</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>1996-05-20</AcquiredDt>
+          <SoldDt>2020-11-25</SoldDt>
+          <GrossSalesPriceAmt>22103253</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2</CostOrOtherBasisAmt>
+          <GainOrLossAmt>22103251</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>22103251</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>55735024</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>0</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>779207</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>779207</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>779207</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>133585</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>615000</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>748585</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="RetDoc1192000001">X</Form2220AttachedInd>
+        <EsPenaltyAmt>0</EsPenaltyAmt>
+        <TaxDueAmt>30622</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>DE</OrgReportOrRegisterStateCd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd referenceDocumentId="RetDoc2089200001">1</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>https://luminategroup.com/</WebsiteAddressTxt>
+        <IndividualWithBooksNm>Wilfred Yartey</IndividualWithBooksNm>
+        <PhoneNum>2026309991</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1200 17th Street NW Suite 501</AddressLine1Txt>
+          <CityNm>Washington</CityNm>
+          <StateAbbreviationCd>DC</StateAbbreviationCd>
+          <ZIPCd>20036</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>1</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>0</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>1</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>0</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd referenceDocumentId="RetDoc2118100001">1</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Jeffrey R Alvord</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1200 17th Street NW Suite 501</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Jeffrey Hom</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1200 17th Street NW Suite 501</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Patricia Christen</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1200 17th Street NW Suite 501</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice Chair</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.88</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Pierre Omidyar</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1200 17th Street NW Suite 501</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </USAddress>
+          <TitleTxt>Chairman</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Shaila Gupta</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1200 17th Street NW Suite 501</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </USAddress>
+          <TitleTxt>Treasurer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Stephen King</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1200 17th Street NW Suite 501</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </USAddress>
+          <TitleTxt>CEO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Hoodo Mohamed</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1200 17th Street NW Suite 501</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>Civic Empowerment impact area aims to reduce barriers to marginalised groups' full participation in society, improve equitable access to effective public services, and protect inclusive participation and dissent. In this impact area our priorities are to improve equitable access to effective public services; defend the ability of marginalised groups to be full and active members of society; protect inclusive participation and dissent; and challenge and shift unjust power structures.</Description1Txt>
+        <Expenses1Amt>15640203</Expenses1Amt>
+        <Description2Txt>Data &amp; Digital Rights impact area focuses on ensuring the rights of people and communities are upheld in the design and use of data and technology. In this impact area our priorities are to give everyone more power over the data that impacts their lives and societies; influence data norms and standards worldwide; and make data and digital infrastructure fairer and more accessible.</Description2Txt>
+        <Expenses2Amt>12655579</Expenses2Amt>
+        <Description3Txt>Financial Transparency impact area works to tackle corruption and demand transparency, accountability, and participation in the use of public funds. In this impact area our priorities are to set higher transparency standards; target corruption with a focus on responsiveness and enforcement; strengthen accountability at the local level; and build the financial transparency ecosystem.</Description3Txt>
+        <Expenses3Amt>8333833</Expenses3Amt>
+        <Description4Txt>Independent Media impact area concentrates on defending a vibrant, free press that uncovers the truth and holds power to account. In this impact area our priorities are to support investigative journalism committed to uncovering the truth; help build innovative business models for editorial independence; support press freedom; and stimulate independent media innovation and attract capital to the sector.</Description4Txt>
+        <Expenses4Amt>7979508</Expenses4Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>Media Development Investment Fund is a non-profit mission-driven investment fund that supports primarily for-profit independent news outlets in countries with a history of media oppression.</Description1Txt>
+        <Expenses1Amt>1000000</Expenses1Amt>
+        <Description2Txt>Fund investment to help drive CcHUB Growth Capital Limited's financial sustainability and seed innovation</Description2Txt>
+        <Expenses2Amt>715488</Expenses2Amt>
+        <TotalAmt>1715488</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>215063</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>32522902</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>103000</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>32840965</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>32840965</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>492614</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>32348351</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>1617418</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>1617418</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>779207</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>779207</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>838211</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>838211</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>838211</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>49108550</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>1715488</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>50824038</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>0</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>50824038</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>838211</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>1591244</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <TotalExcessDistributionCyovAmt>0</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>50824038</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>1591244</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>838211</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>48394583</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>48394583</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>48394583</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromCurrentYearAmt>48394583</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>Pierre Omidyar</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Abraji - Associao Brasileira de Jornalismo Investigativo</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Rua Baro de Itapetininga 88</AddressLine1Txt>
+            <CityNm>So Paulo</CityNm>
+            <CountryCd>BR</CountryCd>
+            <ForeignPostalCd>01042-001</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support to imporove Brazilian journalism and defending freedom of expression.</GrantOrContributionPurposeTxt>
+          <Amt>130000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Access Now</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>463 Lincoln Place 241</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11238</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General support grant for work in Central &amp; Eastern Europe.</GrantOrContributionPurposeTxt>
+          <Amt>550000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Accountability Counsel</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>244 Kearny Street Floor 6</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support for the human rights and enviorment voices of communities.</GrantOrContributionPurposeTxt>
+          <Amt>270000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Africa Check SA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>12th floor University Corner Cnr</AddressLine1Txt>
+            <AddressLine2Txt>Jorissen and Bertha Streets</AddressLine2Txt>
+            <CityNm>Johannesburg</CityNm>
+            <CountryCd>SF</CountryCd>
+            <ForeignPostalCd>2000</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support to expand impact in South Africa, Nigeria, and Kenya.</GrantOrContributionPurposeTxt>
+          <Amt>625000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>amaBhungane</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Community House 41 Salt River Road</AddressLine1Txt>
+            <AddressLine2Txt>Salt River</AddressLine2Txt>
+            <CityNm>Cape Town</CityNm>
+            <ProvinceOrStateNm>Western Cape</ProvinceOrStateNm>
+            <CountryCd>SF</CountryCd>
+            <ForeignPostalCd>7925</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General support to promote free and capable media</GrantOrContributionPurposeTxt>
+          <Amt>125000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Amalgamated Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1825 K Street NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20006</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Foundations' Families and Workers Fund.</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>amandlamobi</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Park 33 Hoofd Street Forum IV Lower</AddressLine1Txt>
+            <AddressLine2Txt>Ground Floor</AddressLine2Txt>
+            <CityNm>Johannesburg</CityNm>
+            <ProvinceOrStateNm>Gauteng</ProvinceOrStateNm>
+            <CountryCd>SF</CountryCd>
+            <ForeignPostalCd>2001</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support to promote just society and take co-ordinated, strategic action.</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>American Immigration Council</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1331 G St NW Suite 200</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for operations and goals of Justice Campaign.</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>American University</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4400 Massachusetts Avenue NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>200168017</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Yes, and... Laughter Lab and Comedy initiatives</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Amnesty International</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>1 Easton Street</AddressLine1Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>WC1X 0DW</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support for disrupting the surveillance-based business models of tech companies.</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Anti-Defamation League</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>605 3rd Avenue</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>101583560</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support to advance ADL's mission of fighting anti-Semitism and hate</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Asylum Access</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>555 12th St 5th Floor</AddressLine1Txt>
+            <CityNm>Oakland</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94607</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support to transform the refugee system, rights and access.</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Atlantic Council</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1030 15th St NW 12th Floor</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support research and understand misinformation flows in Nigeria.</GrantOrContributionPurposeTxt>
+          <Amt>45000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Avina Americas</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1875 Street NW 5th Floor PMB500104</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20006</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support for campaigns to protect civic space and democratic governance.</GrantOrContributionPurposeTxt>
+          <Amt>1520000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Betterplace Lab</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Paul-Lincke-Ufer 21</AddressLine1Txt>
+            <CityNm>Berlin</CityNm>
+            <CountryCd>GM</CountryCd>
+            <ForeignPostalCd>10999</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to foster healthy and productive collaboration in Germany.</GrantOrContributionPurposeTxt>
+          <Amt>90000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Black Stripe Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>63 Craighall Road Victory Park</AddressLine1Txt>
+            <CityNm>Johannesburg</CityNm>
+            <CountryCd>SF</CountryCd>
+            <ForeignPostalCd>2195</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support for public engagements in discussions and accountability.</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BudgIT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>294 Herbert Macaulay Way Sabo Yaba</AddressLine1Txt>
+            <CityNm>Lagos</CityNm>
+            <CountryCd>NI</CountryCd>
+            <ForeignPostalCd>101245</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support for civic engagement, service delivery, and transparency in Nigeria.</GrantOrContributionPurposeTxt>
+          <Amt>475000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>California Immigrant Policy Center (CIPC)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>634 S Spring St</AddressLine1Txt>
+            <CityNm>Los Angeles</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90014</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Immigration Strategic Messaging Project.</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Campaign Bootcamp</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>27 Dingley Place</AddressLine1Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>EC1V 8BR</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to provide skills, confidence to run effective campaigns.</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Center for Cultural Power</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2150 Allston Way Ste 360</AddressLine1Txt>
+            <CityNm>Berkeley</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94704</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support to women of color for an equitable world</GrantOrContributionPurposeTxt>
+          <Amt>75000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Center for Democracy Development and the Rule of Law (CDDRL)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>616 Serra Street Stanford Universit</AddressLine1Txt>
+            <CityNm>Stanford</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94305</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To support ONLF, LAD, and Ukrainian Emerging Leaders Programs.</GrantOrContributionPurposeTxt>
+          <Amt>337147</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Center for New American Security (CNAS)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1152 15TH ST NW STE 950</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>200051740</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Transatlantic Security programme.</GrantOrContributionPurposeTxt>
+          <Amt>157477</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Centre UA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Gonchara Street 36 A 2nd floor 3</AddressLine1Txt>
+            <AddressLine2Txt>Office</AddressLine2Txt>
+            <CityNm>Kyiv</CityNm>
+            <CountryCd>UP</CountryCd>
+            <ForeignPostalCd>1054</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To enhance European quality of politics and freedom of speech.</GrantOrContributionPurposeTxt>
+          <Amt>195000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Civic Hall Labs</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>118 West 22nd Street 12th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10011</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to transition from physical space to virtual community.</GrantOrContributionPurposeTxt>
+          <Amt>1139803</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Civic Hall Labs</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>118 West 22nd Street 12th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10011</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to transition from physical space to virtual community.</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Code for America (CfA)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>155 9th Street</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94103</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support towards a government in the digital age.</GrantOrContributionPurposeTxt>
+          <Amt>2000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Color of Change Education Fund</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1714 Franklin St</AddressLine1Txt>
+            <CityNm>Oakland</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94612</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for narratives about criminal justice in marginalised communities</GrantOrContributionPurposeTxt>
+          <Amt>750000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Conectas</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Avenida Paulista 575</AddressLine1Txt>
+            <CityNm>So Paulo</CityNm>
+            <CountryCd>BR</CountryCd>
+            <ForeignPostalCd>01311-000</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support in the defense of Brazilian civic space</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Connected Development (CODE)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Bassan Plaza 2nd Floor F Wing 10th</AddressLine1Txt>
+            <AddressLine2Txt>Street</AddressLine2Txt>
+            <CityNm>Abuja</CityNm>
+            <CountryCd>NI</CountryCd>
+            <ForeignPostalCd>900120</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to empower citizens in Nigeria on public spending.</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Co-op Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>1 Angel Square</AddressLine1Txt>
+            <CityNm>Manchester</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>M60 0AG</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to digital social enterprises and an events programme.</GrantOrContributionPurposeTxt>
+          <Amt>235000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Correctiv</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Huyssenallee11</AddressLine1Txt>
+            <CityNm>Essen</CityNm>
+            <CountryCd>GM</CountryCd>
+            <ForeignPostalCd>45128</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to investigate Germany's injustices and abuses of power.</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Data and Society Research Institute</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>228 Park Ave S PMB 83075</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>100031502</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support for social and cultural issues arising from technological development.</GrantOrContributionPurposeTxt>
+          <Amt>1500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Define American</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>822 E Broadway</AddressLine1Txt>
+            <CityNm>Louisville</CityNm>
+            <StateAbbreviationCd>KY</StateAbbreviationCd>
+            <ZIPCd>40204</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for US's authentic narratives about immigrants and refugee.</GrantOrContributionPurposeTxt>
+          <Amt>210000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Democracy Club</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>48 St Marks Road</AddressLine1Txt>
+            <CityNm>Bristol</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>BS50LR</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to UK's everyones participation in democratic life.</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Democracy Works</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>20 Jay St 840</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11201</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support to serve under-reached voter population via voter engagement tools.</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Digital Freedom Fund (DFF)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Nieuwezijds Voorburgwal 104 - 108</AddressLine1Txt>
+            <CountryCd>NL</CountryCd>
+            <ForeignPostalCd>1012 SG Amsterda</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to advance Europe's digital rights through strategic litigation.</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Directorio Legislativo</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Avenida Entre Ros 258 3E</AddressLine1Txt>
+            <CityNm>Buenos Aires</CityNm>
+            <CountryCd>AR</CountryCd>
+            <ForeignPostalCd>C1079BP</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support on anti-corruption and transparency field in Latin America.</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>East West Management Institute</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>575 Madison Avenue 25th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10022</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support strengthening Freedom of Expression civil society organizations in Malaysia.</GrantOrContributionPurposeTxt>
+          <Amt>375000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Engage Media</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>225 Bourke Street</AddressLine1Txt>
+            <CityNm>Melbourne</CityNm>
+            <CountryCd>AS</CountryCd>
+            <ForeignPostalCd>3000</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support strengthening the data and digital rights in Southeast Asia</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>European Digital Rights (EDRi)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>12 Rue Belliard</AddressLine1Txt>
+            <CityNm>Brussels</CityNm>
+            <CountryCd>BE</CountryCd>
+            <ForeignPostalCd>1040</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support to Europeans defending rights and freedoms in digital environment.</GrantOrContributionPurposeTxt>
+          <Amt>350000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>European Press Prize</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Kleine-Gartmanplantsoen 10</AddressLine1Txt>
+            <CityNm>Amsterdam</CityNm>
+            <CountryCd>NL</CountryCd>
+            <ForeignPostalCd>1017 RR</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Core funding to support capacity and operations.</GrantOrContributionPurposeTxt>
+          <Amt>60000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Fast Forward</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1014 Torney Avenue Suite 202</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94129</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support civic tech startup Raheem.ai, Project.</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Finance Uncovered</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Unit 307 The Pill Box 115 Coventry</AddressLine1Txt>
+            <AddressLine2Txt>Road</AddressLine2Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>E2 6GG</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to global Investigative Journalism Network.</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Financial Transparency Coalition (FTC)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>80 South Street 700</AddressLine1Txt>
+            <CityNm>Boston</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02111</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to promote transparent, accountable, and sustainable financial system</GrantOrContributionPurposeTxt>
+          <Amt>450000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Foxglove Legal Community Interest Company</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>International House 24 Holborn</AddressLine1Txt>
+            <AddressLine2Txt>Viaduct</AddressLine2Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>EC1A 2BN</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Freedom Voices Network</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>5 Rue de Charonne</AddressLine1Txt>
+            <CityNm>Paris</CityNm>
+            <CountryCd>FR</CountryCd>
+            <ForeignPostalCd>75011</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to Forbidden Films to expand their work</GrantOrContributionPurposeTxt>
+          <Amt>350000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Full Fact</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>2 Carlton Gardens St Jamess</AddressLine1Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>SW1Y 5AA</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to UK's leading independent fact checking charity.</GrantOrContributionPurposeTxt>
+          <Amt>475000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Fund for Constitutional Government</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>122 Maryland Avenue NE</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20002</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for he Anti-Corruption Data Collective project</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Fund for Global Human Rights</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1301 Connecticut Avenue NW Suite</AddressLine1Txt>
+            <AddressLine2Txt>400</AddressLine2Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to enable activists to remain agile during crackdowns</GrantOrContributionPurposeTxt>
+          <Amt>380000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Fund for the City of New York</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>121 Avenue of the Americas 6th</AddressLine1Txt>
+            <AddressLine2Txt>Floor</AddressLine2Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>100131590</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to provide partner support to Open Data Charter.</GrantOrContributionPurposeTxt>
+          <Amt>9500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Fundacin Mi Sangre (FMS)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Transversal 5 A no 45-64</AddressLine1Txt>
+            <CityNm>Medellin</CityNm>
+            <CountryCd>CO</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support</GrantOrContributionPurposeTxt>
+          <Amt>133563</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Fuse Corps</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>The Presidio Institute 1202 Ralston</AddressLine1Txt>
+            <AddressLine2Txt>Avenue Suite 1B</AddressLine2Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94129</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support to increase participation of experienced leaders within local governments</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Georgetown University</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>37th and O Streets NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20057</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support</GrantOrContributionPurposeTxt>
+          <Amt>320000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GFF (Gesellschaft fr Freiheitsrechte)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Hessische Str 10</AddressLine1Txt>
+            <CityNm>Berlin</CityNm>
+            <CountryCd>GM</CountryCd>
+            <ForeignPostalCd>10115</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support human and civil rights litigation in Germany and Europe.</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Global Disinformation Index</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>4 Emmanuel Court Reddicroft Sutton</AddressLine1Txt>
+            <AddressLine2Txt>Coldfield</AddressLine2Txt>
+            <CityNm>West Midlands</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>B73 6AZ</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to disrupt, defund and down-rank disinformation sites.</GrantOrContributionPurposeTxt>
+          <Amt>400000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Global Witness</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>1 Mark Square</AddressLine1Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>EC2A 4EG</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support</GrantOrContributionPurposeTxt>
+          <Amt>1353333</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GoLocal</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>38 Shota Rustaveli Street Office 12</AddressLine1Txt>
+            <CityNm>Kyiv</CityNm>
+            <CountryCd>UP</CountryCd>
+            <ForeignPostalCd>01033</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to incubate fundraising for digital rights in Ukraine.</GrantOrContributionPurposeTxt>
+          <Amt>265000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Human Dignity Trust</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>4th Floor West - Quality House 5-9</AddressLine1Txt>
+            <AddressLine2Txt>Quality Court Chancery Lane</AddressLine2Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>WC2A 1HP</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support decriminalisation of LGBT through strategic litigation and legislative reform.</GrantOrContributionPurposeTxt>
+          <Amt>205000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>IDFI</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>20 T Shevchenko Street</AddressLine1Txt>
+            <CityNm>Tbilisi</CityNm>
+            <CountryCd>GG</CountryCd>
+            <ForeignPostalCd>0108</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for 3G project: Good Governance for Georgia.</GrantOrContributionPurposeTxt>
+          <Amt>130000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Iniciativa Latinoamericana por los Datos Abiertos (ILDA)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Rincon 477/803</AddressLine1Txt>
+            <CityNm>Montevideo</CityNm>
+            <CountryCd>UY</CountryCd>
+            <ForeignPostalCd>11000</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>This is a core grant to support ILDA expand its work on open data through applied research, experimental pilots, and agenda building.</GrantOrContributionPurposeTxt>
+          <Amt>173738</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Institute for Strategy and Policy</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>B-1 Aung Chan Thar Street 1 Aung</AddressLine1Txt>
+            <AddressLine2Txt>Myay Tharzi Housing Estate Kamaryut</AddressLine2Txt>
+            <CityNm>Yangon</CityNm>
+            <CountryCd>BM</CountryCd>
+            <ForeignPostalCd>11231</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for public outreach programmes.</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Instituto de Tecnologia e Sociedade do Rio de Janeiro (ITS)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Rua da Assemblia 10 sala 4011</AddressLine1Txt>
+            <CityNm>Rio de Janeiro</CityNm>
+            <CountryCd>BR</CountryCd>
+            <ForeignPostalCd>20011901</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support democracy and technology, algorithmic accountability, disinformation, and computational propaganda.</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Instituto Vladimir Herzog</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>R Duartina 283 - Sumar</AddressLine1Txt>
+            <CityNm>So Paulo</CityNm>
+            <CountryCd>BR</CountryCd>
+            <ForeignPostalCd>01256030</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support defending Democracy values, Human Rights and Freedom of Expression.</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>International Budget Partnership (IBP)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>750 First Street NE Suite 700</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20002</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support in addressing challenges in fiscal transparency and participation.</GrantOrContributionPurposeTxt>
+          <Amt>613000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>International Center for Journalists (ICFJ)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2000 M Street NW Suite 250</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support capacity building and financing non-profit media organizations in LatAm.</GrantOrContributionPurposeTxt>
+          <Amt>642000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>International Lawyers Project (ILP)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Exchange House 12 Primrose Street</AddressLine1Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>EC2A 2EG</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support local actors on economic inequality issues.</GrantOrContributionPurposeTxt>
+          <Amt>18000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>International Women's Media Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1625 K Street NW Suite 1275</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20006</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for preventive cybersecurity programme and evaluation</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>InternetLab</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Av ipiranga 344 Cj 11B</AddressLine1Txt>
+            <CityNm>Sao Paulo</CityNm>
+            <CountryCd>BR</CountryCd>
+            <ForeignPostalCd>01046-010</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support advancing technology policy and human rights in digital environment.</GrantOrContributionPurposeTxt>
+          <Amt>120000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Journalism Development Network</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4401 Connecticut Avenue Northwest</AddressLine1Txt>
+            <AddressLine2Txt>321</AddressLine2Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20008</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Funding to diversify revenue, build capacity, and strengthen audience engagement.</GrantOrContributionPurposeTxt>
+          <Amt>400000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Katiba Institute</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>House No5 The Crescent Off</AddressLine1Txt>
+            <AddressLine2Txt>Parklands Road PO Box 26586</AddressLine2Txt>
+            <CityNm>Nairobi</CityNm>
+            <CountryCd>KE</CountryCd>
+            <ForeignPostalCd>00100</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support Kenyan constitution as an instrument to achieve just society.</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>King Baudouin Foundation US</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10 Rockefeller Plaza 16th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10020</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support sustainability, developing business model and audience related processes.</GrantOrContributionPurposeTxt>
+          <Amt>190900</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Kyiv Smart City</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Glushkova avenue 1 Pavilion 5</AddressLine1Txt>
+            <CityNm>Kyiv</CityNm>
+            <CountryCd>UP</CountryCd>
+            <ForeignPostalCd>3680</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Support for fundraising strategy and presentational materials.</GrantOrContributionPurposeTxt>
+          <Amt>38000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Liberty</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>26-30 Strutton Ground</AddressLine1Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>SW1P 2HR</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support expanding organisation's capability, privacy, surveillance, and data protection.</GrantOrContributionPurposeTxt>
+          <Amt>374050</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Media Development Investment Fund (MDIF)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>37 West 20th Street Suite 804</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10011</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for global independent media organisations.</GrantOrContributionPurposeTxt>
+          <Amt>846608</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Media Legal Defence Initiative (MLDI)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>17 Oval Way Vauxhall</AddressLine1Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>SE11 5RR</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support</GrantOrContributionPurposeTxt>
+          <Amt>400000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Media Monitoring Africa</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Suite no2 22 Art Centre 6th Street</AddressLine1Txt>
+            <AddressLine2Txt>Parkhurst</AddressLine2Txt>
+            <CityNm>Johannesburg</CityNm>
+            <ProvinceOrStateNm>Gauteng</ProvinceOrStateNm>
+            <CountryCd>SF</CountryCd>
+            <ForeignPostalCd>2193</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to promote ethical and fair journalism.</GrantOrContributionPurposeTxt>
+          <Amt>165000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MediaJustice</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>436 14th St Suite 500</AddressLine1Txt>
+            <CityNm>Oakland</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94612</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support intersection of data and digital rights and racial justice</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Mozilla Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>331 E Evelyn Avenue</AddressLine1Txt>
+            <CityNm>Mountain View</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94041</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support quantifying the harms of surveillance capitalism project.</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Namati</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1824 Jefferson Place NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for the Right to Citizenship.</GrantOrContributionPurposeTxt>
+          <Amt>207440</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>National Conference on Citizenship</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1920 L Street NW Suite 450</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Public Data Integrity project.</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Natural Resource Governance Institute (NRGI)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>80 Broad Street Suite 1801</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10004</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support</GrantOrContributionPurposeTxt>
+          <Amt>775000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Neo Philanthropy</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>45 W 36th St 6th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10018</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support full integration of immigrants as active participants in democracy.</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Network of European Foundations</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Philanthropy House Rue Royale 94</AddressLine1Txt>
+            <CityNm>Brussels</CityNm>
+            <CountryCd>BE</CountryCd>
+            <ForeignPostalCd>1000</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support Fund for Solidarity and Democracy in Europe.</GrantOrContributionPurposeTxt>
+          <Amt>975000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>New America Foundation (NAF)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>740 15th St NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to support the Ranking Digital Rights project.</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>New Venture Fund</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1201 Connecticut Ave NW Suite 300</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support to identify and mitigate technology-based vulnerabilities for impending elections.</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Nossas</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Rua Visconde de Silva 21</AddressLine1Txt>
+            <CityNm>Rio de Janeiro</CityNm>
+            <CountryCd>BR</CountryCd>
+            <ForeignPostalCd>22271-091</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support scaling and refining their Civic Empowerment model.</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Nuffield Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>28 Bedford Square</AddressLine1Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>WC1B 3JS</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support responsive work on COVID-19 and technology, and international engagement.</GrantOrContributionPurposeTxt>
+          <Amt>170000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Open Cities Lab</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>153a Helen Jospeh Road Glenwood</AddressLine1Txt>
+            <CityNm>Durban</CityNm>
+            <CountryCd>SF</CountryCd>
+            <ForeignPostalCd>4001</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support open data, open government, and civic technology through projects</GrantOrContributionPurposeTxt>
+          <Amt>80000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Open Collective Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>340 S Lemon Ave No 3717</AddressLine1Txt>
+            <CityNm>Walnut</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91789</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support internet freedom projects through the "Internet Freedom Support Fund"</GrantOrContributionPurposeTxt>
+          <Amt>275000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Open Contracting Partnership</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>Open Gov Hub 1110 Vermont Ave NW</AddressLine1Txt>
+            <AddressLine2Txt>500</AddressLine2Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to make public procurement more transparent and effective.</GrantOrContributionPurposeTxt>
+          <Amt>700000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Open Data Institute (ODI)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>3rd Floor 65 Clifton Street</AddressLine1Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>EC2A 4JE</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to Data Institutions, Data Skills, and Data Assurance / Governance.</GrantOrContributionPurposeTxt>
+          <Amt>1300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Open Government Partnership (OGP)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1100 13th St NW Suite 800</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support domestic reformers making governments open, accountable, and responsive.</GrantOrContributionPurposeTxt>
+          <Amt>1500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Open Institute</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>209 State House Road</AddressLine1Txt>
+            <CityNm>Nairobi</CityNm>
+            <CountryCd>KE</CountryCd>
+            <ForeignPostalCd>100</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Active Citizen Data and Government Responsiveness programmes.</GrantOrContributionPurposeTxt>
+          <Amt>182000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Open Knowledge Foundation Germany</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Singer Str 109</AddressLine1Txt>
+            <CityNm>Berlin</CityNm>
+            <CountryCd>GM</CountryCd>
+            <ForeignPostalCd>10179</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for dissemination of free and openly accessible knowledge.</GrantOrContributionPurposeTxt>
+          <Amt>325000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Open Secrets</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Community House 41 Salt River Road</AddressLine1Txt>
+            <AddressLine2Txt>Salt River</AddressLine2Txt>
+            <CityNm>Cape Town</CityNm>
+            <ProvinceOrStateNm>Western Cape</ProvinceOrStateNm>
+            <CountryCd>SF</CountryCd>
+            <ForeignPostalCd>7925</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support for investigations and litigation against economic crimes.</GrantOrContributionPurposeTxt>
+          <Amt>257500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>openDemocracy</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>The Print House 18 Ashwin Street</AddressLine1Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>E8 3DL</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for investigative output.</GrantOrContributionPurposeTxt>
+          <Amt>320000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OpenUp</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Campground Rd entrance via Hemlock</AddressLine1Txt>
+            <AddressLine2Txt>St Claremont</AddressLine2Txt>
+            <CityNm>Cape Town</CityNm>
+            <CountryCd>SF</CountryCd>
+            <ForeignPostalCd>7708</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support local municipalities narrowing the gap between government and citizens.</GrantOrContributionPurposeTxt>
+          <Amt>400000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Outriders</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Tomasza Nocznickiego 23/69</AddressLine1Txt>
+            <CityNm>Warszawa</CityNm>
+            <CountryCd>PL</CountryCd>
+            <ForeignPostalCd>01-948</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Paradigm Leadership Support Initiative (PLSI)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Suites 23/24 Fundex BuildingOff</AddressLine1Txt>
+            <AddressLine2Txt>Kenneth Dike Way Bodija-Ashi Road</AddressLine2Txt>
+            <CityNm>Ibadan</CityNm>
+            <CountryCd>NI</CountryCd>
+            <ForeignPostalCd>200132</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support promoting citizens active participation in the Nigerian public audit</GrantOrContributionPurposeTxt>
+          <Amt>125000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Paris Peace Forum</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>164 rue de Vaugirard</AddressLine1Txt>
+            <CityNm>Paris</CityNm>
+            <CountryCd>FR</CountryCd>
+            <ForeignPostalCd>75015</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support stakeholders for collective action and resources to governance projects.</GrantOrContributionPurposeTxt>
+          <Amt>455000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Partnership on AI</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>115 Sansome St Ste 1200</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support to provide open inclusive platform for discussion and engagement</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Phandeeyar</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>340 S Lemon Ave 9595</AddressLine1Txt>
+            <CityNm>Walnut</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91789</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support Myanmar's generation of tech entrepreneurs and helping change agents</GrantOrContributionPurposeTxt>
+          <Amt>400000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Platform to Protect Whistleblowers in Africa (PPLAAF)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>156 rue de Rivoli</AddressLine1Txt>
+            <CityNm>Paris</CityNm>
+            <CountryCd>FR</CountryCd>
+            <ForeignPostalCd>75001</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to whistleblowers, and conducts strategic litigation and advocacy</GrantOrContributionPurposeTxt>
+          <Amt>140000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PODER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Durango 1 Colonia Roma Norte</AddressLine1Txt>
+            <CityNm>Mexico City</CityNm>
+            <CountryCd>MX</CountryCd>
+            <ForeignPostalCd>6100</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support accountability, whistleblowing promotion, and data and investigative journalism.</GrantOrContributionPurposeTxt>
+          <Amt>175000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Privacy International (PI)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>62 Britton Street</AddressLine1Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>EC1M 5UY</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support advocating for the right to privacy for everyone, everywhere</GrantOrContributionPurposeTxt>
+          <Amt>800000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Project on Government Oversight (POGO)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1100 G Street NW Suite 500</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>200053806</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support reform and improve the audit system in the US</GrantOrContributionPurposeTxt>
+          <Amt>75000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Proteus Fund</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>15 Research Drive Suite B</AddressLine1Txt>
+            <CityNm>Amherst</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01002</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for effective grantmaking by the participating donors.</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Public and Private Development Centre (PPDC)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Plot 184 Cadastral Zone A6 Ademola</AddressLine1Txt>
+            <AddressLine2Txt>Adetokunbo Crescent Wuse 2 SCCN Hou</AddressLine2Txt>
+            <CityNm>Abuja</CityNm>
+            <CountryCd>NI</CountryCd>
+            <ForeignPostalCd>23409</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Supporting Nigerian government usage of Open Contracting information for accountability.</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Public Citizen</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1600 20th Street Northwest</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20009</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Digital Trade Alliance project at Public Citizen.</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Publish What You Pay (PWYP)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>TOG Room 301 3rd Floor 201 Borough</AddressLine1Txt>
+            <AddressLine2Txt>High Street</AddressLine2Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>SE1 1JA</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for international secretariat.</GrantOrContributionPurposeTxt>
+          <Amt>400000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Race Forward</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>150 Broadway Suite 303</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10038</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support organizations creating and amplifying accurate and humanizing immigration narratives.</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Res Non Verba</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Thames 1024</AddressLine1Txt>
+            <CityNm>Buenos Aires</CityNm>
+            <CountryCd>AR</CountryCd>
+            <ForeignPostalCd>C1414DCV</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for mulitple charitable purposes project</GrantOrContributionPurposeTxt>
+          <Amt>242700</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Rhize</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>Post Office Box 642</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10113</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support marginalised groups and communities people-powered movements.</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Right2Know</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>107 Community House 41 Salt River</AddressLine1Txt>
+            <AddressLine2Txt>Rd Salt River</AddressLine2Txt>
+            <CityNm>Cape Town</CityNm>
+            <ProvinceOrStateNm>Western Cape</ProvinceOrStateNm>
+            <CountryCd>SF</CountryCd>
+            <ForeignPostalCd>7925</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support public awareness, mobilising communities, and research and targeted advocacy</GrantOrContributionPurposeTxt>
+          <Amt>120000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Rockefeller Philanthropy Advisors (RPA)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6 West 48th Street 10th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support for AfricaNoFilter and International Fund for Public Interest Media.</GrantOrContributionPurposeTxt>
+          <Amt>550000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Socio-Economic Rights and Accountability Project (SERAP)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>2B Oyetola Street Off Ajanaku</AddressLine1Txt>
+            <AddressLine2Txt>Street Off Salvation Street Opebi</AddressLine2Txt>
+            <CityNm>Lagos</CityNm>
+            <CountryCd>NI</CountryCd>
+            <ForeignPostalCd>101233</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to promotes transparency and accountability in Nigeria</GrantOrContributionPurposeTxt>
+          <Amt>80000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Stiftung Neue Verantwortung (SNV)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Beisheim Center Berliner Freiheit 2</AddressLine1Txt>
+            <CityNm>Berlin</CityNm>
+            <CountryCd>GM</CountryCd>
+            <ForeignPostalCd>D-10785</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating and research and policy development support</GrantOrContributionPurposeTxt>
+          <Amt>640000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Temblores ONG</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Calle 70 0 - 32 Apartment 302</AddressLine1Txt>
+            <CityNm>Bogota</CityNm>
+            <CountryCd>CO</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support to increase visibility of systematic Colombia's police violence</GrantOrContributionPurposeTxt>
+          <Amt>40000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Accountability Lab</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>OpenGov Hub 1110 Vermont Avenue NW</AddressLine1Txt>
+            <AddressLine2Txt>Suite 500</AddressLine2Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support programming, operations and learning in South Africa and Nigeria.</GrantOrContributionPurposeTxt>
+          <Amt>220000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The B Team</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>115 5th Avenue 6th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10003</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Governance &amp; Transparency programme.</GrantOrContributionPurposeTxt>
+          <Amt>325000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Bureau of Investigative Journalism</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Zetland House 5-25 Scrutton St</AddressLine1Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>EC2A 4HJ</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support</GrantOrContributionPurposeTxt>
+          <Amt>850000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Democratic Society (Demsoc)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>28 Fourth Avenue</AddressLine1Txt>
+            <CityNm>Hove</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>BN3 2PJ</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for the 'Public Square' project</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Governance Lab</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>NYU Tandon School of Engineering 2</AddressLine1Txt>
+            <AddressLine2Txt>MetroTech Center 9th Floor</AddressLine2Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11201</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for institutions and people to solve public problems.</GrantOrContributionPurposeTxt>
+          <Amt>55000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The London School of Economics and Political Science (LSE)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Houghton Street Holborn</AddressLine1Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>WC2A 2AE</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support or establish Justice, Equity and Technology Table (JETT)</GrantOrContributionPurposeTxt>
+          <Amt>75000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Markup</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>900 Broadway Suite 202</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10003</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support</GrantOrContributionPurposeTxt>
+          <Amt>650000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The University of Oxford Development Trust</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>University of Oxford University</AddressLine1Txt>
+            <AddressLine2Txt>Offices Wellington Square</AddressLine2Txt>
+            <CityNm>Oxford</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>OX1 2JD</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for the interaction of algorithms, automation, and politics.</GrantOrContributionPurposeTxt>
+          <Amt>614543</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Tilburg University</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Warandelaan 2</AddressLine1Txt>
+            <CityNm>Tilburg</CityNm>
+            <CountryCd>NL</CountryCd>
+            <ForeignPostalCd>5037 AB</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Global Data Justice research project</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Transparency International UK (TI-UK)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>10 Queen Street Place</AddressLine1Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>EC4R 1BE</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Grantee's Anti-Corruption Programme.</GrantOrContributionPurposeTxt>
+          <Amt>375000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>United We Dream Network</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1201 16th St NW Suite 714</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support justice and dignity for U.S. immigrants and all people.</GrantOrContributionPurposeTxt>
+          <Amt>1150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>University of Johannesburg</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Auckland Park Kingsway Campus 629</AddressLine1Txt>
+            <AddressLine2Txt>B-Ring</AddressLine2Txt>
+            <CityNm>Johannesburg</CityNm>
+            <CountryCd>SF</CountryCd>
+            <ForeignPostalCd>2006</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Media Policy and Democracy Project ("MPDP")</GrantOrContributionPurposeTxt>
+          <Amt>22248</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Upturn</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1015 15th St NW Suite 600</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support equitable digital technology in the design, governance, and usage.</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Washington Office on Latin America (WOLA)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1666 Connecticut Ave NW Suite 400</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20009</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for campaigns in Latin America.</GrantOrContributionPurposeTxt>
+          <Amt>330000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>49108550</TotalGrantOrContriPdDurYrAmt>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Access Now</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>463 Lincoln Place 241</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11238</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General support grant for work in Central &amp; Eastern Europe.</GrantOrContributionPurposeTxt>
+          <Amt>550000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Africa Check SA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>12th floor University Corner Cnr</AddressLine1Txt>
+            <AddressLine2Txt>Jorissen and Bertha Streets</AddressLine2Txt>
+            <CityNm>Johannesburg</CityNm>
+            <CountryCd>SF</CountryCd>
+            <ForeignPostalCd>2000</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support to expand impact in South Africa, Nigeria, and Kenya.</GrantOrContributionPurposeTxt>
+          <Amt>225000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>amaBhungane</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Community House 41 Salt River Road</AddressLine1Txt>
+            <AddressLine2Txt>Salt River</AddressLine2Txt>
+            <CityNm>Cape Town</CityNm>
+            <ProvinceOrStateNm>Western Cape</ProvinceOrStateNm>
+            <CountryCd>SF</CountryCd>
+            <ForeignPostalCd>7925</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General support to promote free and capable media</GrantOrContributionPurposeTxt>
+          <Amt>650000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Amnesty International</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>1 Easton Street</AddressLine1Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>WC1X 0DW</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support for disrupting the surveillance-based business models of tech companies.</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Asylum Access</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>555 12th St 5th Floor</AddressLine1Txt>
+            <CityNm>Oakland</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94607</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support to transform the refugee system, rights and access.</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Black Stripe Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>63 Craighall Road Victory Park</AddressLine1Txt>
+            <CityNm>Johannesburg</CityNm>
+            <CountryCd>SF</CountryCd>
+            <ForeignPostalCd>2195</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support for public engagements in discussions and accountability.</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Campaign Bootcamp</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>27 Dingley Place</AddressLine1Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>EC1V 8BR</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to provide skills, confidence to run effective campaigns.</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Centre UA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Gonchara Street 36 A 2nd floor 3</AddressLine1Txt>
+            <AddressLine2Txt>Office</AddressLine2Txt>
+            <CityNm>Kyiv</CityNm>
+            <CountryCd>UP</CountryCd>
+            <ForeignPostalCd>1054</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To enhance European quality of politics and freedom of speech.</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Chequeado</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Avenida Crdoba 5869 Of 7A</AddressLine1Txt>
+            <CityNm>Buenos Aires</CityNm>
+            <CountryCd>AR</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support in advancing its fact-checking efforts in Latin America through automation, content distribution, and data literacy programs.</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Code for America (CfA)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>155 9th Street</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94103</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support towards a government in the digital age.</GrantOrContributionPurposeTxt>
+          <Amt>1750000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Color of Change Education Fund</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1714 Franklin St</AddressLine1Txt>
+            <CityNm>Oakland</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94612</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for narratives about criminal justice in marginalised communities</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Connected Development (CODE)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Bassan Plaza 2nd Floor F Wing 10th</AddressLine1Txt>
+            <AddressLine2Txt>Street</AddressLine2Txt>
+            <CityNm>Abuja</CityNm>
+            <CountryCd>NI</CountryCd>
+            <ForeignPostalCd>900120</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to empower citizens in Nigeria on public spending.</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Correctiv</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Huyssenallee11</AddressLine1Txt>
+            <CityNm>Essen</CityNm>
+            <CountryCd>GM</CountryCd>
+            <ForeignPostalCd>45128</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to investigate Germany's injustices and abuses of power.</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Data and Society Research Institute</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>228 Park Ave S PMB 83075</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>100031502</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support for social and cultural issues arising from technological development.</GrantOrContributionPurposeTxt>
+          <Amt>1500000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>East West Management Institute</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>575 Madison Avenue 25th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10022</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support strengthening Freedom of Expression civil society organizations in Malaysia.</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>European Press Prize</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Kleine-Gartmanplantsoen 10</AddressLine1Txt>
+            <CityNm>Amsterdam</CityNm>
+            <CountryCd>NL</CountryCd>
+            <ForeignPostalCd>1017 RR</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Core funding to support capacity and operations.</GrantOrContributionPurposeTxt>
+          <Amt>60000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Foxglove</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>International House 24 Holborn</AddressLine1Txt>
+            <AddressLine2Txt>Viaduct</AddressLine2Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>EC1A 2BN</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Georgetown University - Center on Privacy and Technology</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>306 Reiss Building 3700 O Street NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20057</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support research, advocacy, and capacity building efforts.</GrantOrContributionPurposeTxt>
+          <Amt>680000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GFF (Gesellschaft fr Freiheitsrechte)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Hessische Str 10</AddressLine1Txt>
+            <CityNm>Berlin</CityNm>
+            <CountryCd>GM</CountryCd>
+            <ForeignPostalCd>10115</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support human and civil rights litigation in Germany and Europe.</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Global Witness</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>1 Mark Square</AddressLine1Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>EC2A 4EG</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support</GrantOrContributionPurposeTxt>
+          <Amt>1333333</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Human Dignity Trust</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>4th Floor West - Quality House 5-9</AddressLine1Txt>
+            <AddressLine2Txt>Quality Court Chancery Lane</AddressLine2Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>WC2A 1HP</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support decriminalisation of LGBT through strategic litigation and legislative reform.</GrantOrContributionPurposeTxt>
+          <Amt>175000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>IDFI</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>20 T Shevchenko Street</AddressLine1Txt>
+            <CityNm>Tbilisi</CityNm>
+            <CountryCd>GG</CountryCd>
+            <ForeignPostalCd>0108</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for 3G project: Good Governance for Georgia.</GrantOrContributionPurposeTxt>
+          <Amt>130000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Iniciativa Latinoamericana por los Datos Abiertos (ILDA)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Rincon 477/803</AddressLine1Txt>
+            <CityNm>Montevideo</CityNm>
+            <CountryCd>UY</CountryCd>
+            <ForeignPostalCd>11000</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>This is a core grant to support ILDA expand its work on open data through applied research, experimental pilots, and agenda building.</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Instituto de Tecnologia e Sociedade do Rio de Janeiro (ITS)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Rua da Assemblia 10 sala 4011</AddressLine1Txt>
+            <CityNm>Rio de Janeiro</CityNm>
+            <CountryCd>BR</CountryCd>
+            <ForeignPostalCd>20011901</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support democracy and technology, algorithmic accountability, disinformation, and computational propaganda.</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>International Budget Partnership (IBP)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>750 First Street NE Suite 700</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20002</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support in addressing challenges in fiscal transparency and participation.</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>InternetLab</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Av ipiranga 344 Cj 11B</AddressLine1Txt>
+            <CityNm>Sao Paulo</CityNm>
+            <CountryCd>BR</CountryCd>
+            <ForeignPostalCd>01046-010</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support advancing technology policy and human rights in digital environment.</GrantOrContributionPurposeTxt>
+          <Amt>240000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Media Legal Defence Initiative (MLDI)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>17 Oval Way Vauxhall</AddressLine1Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>SE11 5RR</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Media Monitoring Africa</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Suite no2 22 Art Centre 6th Street</AddressLine1Txt>
+            <AddressLine2Txt>Parkhurst</AddressLine2Txt>
+            <CityNm>Johannesburg</CityNm>
+            <ProvinceOrStateNm>Gauteng</ProvinceOrStateNm>
+            <CountryCd>SF</CountryCd>
+            <ForeignPostalCd>2193</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to promote ethical and fair journalism.</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MediaJustice</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>436 14th St Suite 500</AddressLine1Txt>
+            <CityNm>Oakland</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94612</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support intersection of data and digital rights and racial justice</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>More in Common</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>115 Broadway St Floor 7</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10006</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support to build communities and societies that are more resilient to polarisation and social division.</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Myanmar ICT for Development Organization (MIDO)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>No 20 Hteetan 1st Street Kyimyindai</AddressLine1Txt>
+            <AddressLine2Txt>Township</AddressLine2Txt>
+            <CityNm>Yangon</CityNm>
+            <CountryCd>BM</CountryCd>
+            <ForeignPostalCd>11101</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support to explore ways to improve documentation and evidence gathering can empower civil society - in Myanmar and the broader global south</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Natural Resource Governance Institute (NRGI)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>80 Broad Street Suite 1801</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10004</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support</GrantOrContributionPurposeTxt>
+          <Amt>400000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Neo Philanthropy Inc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>45 W 36th St 6th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10018</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General support towards full integration of immigrants as active participants in our democracy.</GrantOrContributionPurposeTxt>
+          <Amt>1250000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Nossas</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Rua Visconde de Silva 21</AddressLine1Txt>
+            <CityNm>Rio de Janeiro</CityNm>
+            <CountryCd>BR</CountryCd>
+            <ForeignPostalCd>22271-091</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support scaling and refining their Civic Empowerment model.</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Open Cities Lab</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>153a Helen Jospeh Road Glenwood</AddressLine1Txt>
+            <CityNm>Durban</CityNm>
+            <CountryCd>SF</CountryCd>
+            <ForeignPostalCd>4001</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support open data, open government, and civic technology through projects</GrantOrContributionPurposeTxt>
+          <Amt>80000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Open Contracting Partnership</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>Open Gov Hub 1110 Vermont Ave NW</AddressLine1Txt>
+            <AddressLine2Txt>500</AddressLine2Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to make public procurement more transparent and effective.</GrantOrContributionPurposeTxt>
+          <Amt>1100000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Open Data Institute (ODI)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>3rd Floor 65 Clifton Street</AddressLine1Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>EC2A 4JE</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to Data Institutions, Data Skills, and Data Assurance / Governance.</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Open Knowledge Foundation Germany</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Singer Str 109</AddressLine1Txt>
+            <CityNm>Berlin</CityNm>
+            <CountryCd>GM</CountryCd>
+            <ForeignPostalCd>10179</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for dissemination of free and openly accessible knowledge.</GrantOrContributionPurposeTxt>
+          <Amt>485000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Open Secrets</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Community House 41 Salt River Road</AddressLine1Txt>
+            <AddressLine2Txt>Salt River</AddressLine2Txt>
+            <CityNm>Cape Town</CityNm>
+            <ProvinceOrStateNm>Western Cape</ProvinceOrStateNm>
+            <CountryCd>SF</CountryCd>
+            <ForeignPostalCd>7925</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support for investigations and litigation against economic crimes.</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OpenUp</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Campground Rd entrance via Hemlock</AddressLine1Txt>
+            <AddressLine2Txt>St Claremont</AddressLine2Txt>
+            <CityNm>Cape Town</CityNm>
+            <CountryCd>SF</CountryCd>
+            <ForeignPostalCd>7708</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support local municipalities narrowing the gap between government and citizens.</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Paradigm Leadership Support Initiative (PLSI)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Suites 23/24 Fundex BuildingOff</AddressLine1Txt>
+            <AddressLine2Txt>Kenneth Dike Way Bodija-Ashi Road</AddressLine2Txt>
+            <CityNm>Ibadan</CityNm>
+            <CountryCd>NI</CountryCd>
+            <ForeignPostalCd>200132</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support promoting citizens active participation in the Nigerian public audit</GrantOrContributionPurposeTxt>
+          <Amt>125000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Partnership on AI</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>115 Sansome St Ste 1200</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support to provide open inclusive platform for discussion and engagement</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Platform to Protect Whistleblowers in Africa (PPLAAF)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>156 rue de Rivoli</AddressLine1Txt>
+            <CityNm>Paris</CityNm>
+            <CountryCd>FR</CountryCd>
+            <ForeignPostalCd>75001</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to whistleblowers, and conducts strategic litigation and advocacy</GrantOrContributionPurposeTxt>
+          <Amt>140000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Privacy International (PI)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>62 Britton Street</AddressLine1Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>EC1M 5UY</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support advocating for the right to privacy for everyone, everywhere</GrantOrContributionPurposeTxt>
+          <Amt>1350000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Public and Private Development Centre (PPDC)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Plot 184 Cadastral Zone A6 Ademola</AddressLine1Txt>
+            <AddressLine2Txt>Adetokunbo Crescent Wuse 2 SCCN Hou</AddressLine2Txt>
+            <CityNm>Abuja</CityNm>
+            <CountryCd>NI</CountryCd>
+            <ForeignPostalCd>23409</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Supporting Nigerian government usage of Open Contracting information for accountability.</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Publish What You Pay (PWYP)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>TOG Room 301 3rd Floor 201 Borough</AddressLine1Txt>
+            <AddressLine2Txt>High Street</AddressLine2Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>SE1 1JA</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for international secretariat.</GrantOrContributionPurposeTxt>
+          <Amt>600000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Res Non Verba</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Thames 1024</AddressLine1Txt>
+            <CityNm>Buenos Aires</CityNm>
+            <CountryCd>AR</CountryCd>
+            <ForeignPostalCd>C1414DCV</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for mulitple charitable purposes project</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Socio-Economic Rights and Accountability Project (SERAP)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>2B Oyetola Street Off Ajanaku</AddressLine1Txt>
+            <AddressLine2Txt>Street Off Salvation Street Opebi</AddressLine2Txt>
+            <CityNm>Lagos</CityNm>
+            <CountryCd>NI</CountryCd>
+            <ForeignPostalCd>101233</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to promotes transparency and accountability in Nigeria</GrantOrContributionPurposeTxt>
+          <Amt>60000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The AI Now Institute</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>NYU School of Law 40 Washington</AddressLine1Txt>
+            <AddressLine2Txt>Square South Room 336</AddressLine2Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>100121066</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To support the understanding of social implications of artificial intelligence across four key domains: rights and liberties, labour and automation, bias and inclusion, and safety and critical infrastructure.</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The B Team</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>115 5th Avenue 6th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10003</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Governance &amp; Transparency programme.</GrantOrContributionPurposeTxt>
+          <Amt>450000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Bureau of Investigative Journalism</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Zetland House 5-25 Scrutton St</AddressLine1Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>EC2A 4HJ</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support</GrantOrContributionPurposeTxt>
+          <Amt>450000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Transparency International UK (TI-UK)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>10 Queen Street Place</AddressLine1Txt>
+            <CityNm>London</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>EC4R 1BE</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>IRC 501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Grantee's Anti-Corruption Programme.</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <TotalGrantOrContriApprvFutAmt>22153333</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>323058</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>-1126870</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>-803812</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>-803812</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>Pierre M Omidyar Trust</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>720 University Ave Ste 200</AddressLine1Txt>
+          <CityNm>Los Gatos</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>95032</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>42268503</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>Pierre M Omidyar Trust</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>720 University Ave Ste 200</AddressLine1Txt>
+          <CityNm>Los Gatos</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>95032</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>10508295</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>208,250 shares PYPL stock</NoncashPropertyDesc>
+        <FairMarketValueAmt>42268503</FairMarketValueAmt>
+        <ReceivedDt>2020-11-24</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>208,250 shares EBAY stock</NoncashPropertyDesc>
+        <FairMarketValueAmt>10508295</FairMarketValueAmt>
+        <ReceivedDt>2020-12-07</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <ExpenditureResponsibilityStmt documentId="RetDoc2118100001">
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>The Nuffield Foundation</BusinessNameLine1Txt>
+        </BusinessName>
+        <ForeignAddress>
+          <AddressLine1Txt>28 Bedford Square</AddressLine1Txt>
+          <CityNm>London</CityNm>
+          <CountryCd>UK</CountryCd>
+          <ForeignPostalCd>WC1B 3JS</ForeignPostalCd>
+        </ForeignAddress>
+        <GrantDt>2020-10-08</GrantDt>
+        <GrantAmt>255000</GrantAmt>
+        <PurposeOfGrantTxt>Support for Nuffield Foundation's Ada Lovelace Institute project, a charitable and educational project focused on research related to promoting public understanding of the impact of artificial intelligence and data driven technology on different groups in society</PurposeOfGrantTxt>
+        <ExpendedByGranteeAmt>41667</ExpendedByGranteeAmt>
+        <AnyDiversionByGranteeTxt>No</AnyDiversionByGranteeTxt>
+        <DatesOfReportsByGranteeTxt>07/01/2021</DatesOfReportsByGranteeTxt>
+      </ExpenditureResponsibilityGrp>
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>Open Data Institute</BusinessNameLine1Txt>
+        </BusinessName>
+        <ForeignAddress>
+          <AddressLine1Txt>65 Clifton Street 3rd Floor</AddressLine1Txt>
+          <CityNm>London</CityNm>
+          <CountryCd>UK</CountryCd>
+          <ForeignPostalCd>EC2A 4JE</ForeignPostalCd>
+        </ForeignAddress>
+        <GrantDt>2018-01-01</GrantDt>
+        <GrantAmt>2800000</GrantAmt>
+        <PurposeOfGrantTxt>To support the Open Data Institute, an organisation working with companies and governments to build an open, trustworthy data ecosystem, where people can make better decisions using data and manage any harmful impacts.</PurposeOfGrantTxt>
+        <ExpendedByGranteeAmt>2256365</ExpendedByGranteeAmt>
+        <AnyDiversionByGranteeTxt>No</AnyDiversionByGranteeTxt>
+        <DatesOfReportsByGranteeTxt>06/30/2021</DatesOfReportsByGranteeTxt>
+      </ExpenditureResponsibilityGrp>
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>openDemocracy Limited</BusinessNameLine1Txt>
+        </BusinessName>
+        <ForeignAddress>
+          <AddressLine1Txt>The Print House 18 Ashwin Street</AddressLine1Txt>
+          <CityNm>London</CityNm>
+          <CountryCd>UK</CountryCd>
+          <ForeignPostalCd>E8 3DL</ForeignPostalCd>
+        </ForeignAddress>
+        <GrantDt>2019-06-20</GrantDt>
+        <GrantAmt>650000</GrantAmt>
+        <PurposeOfGrantTxt>To support independent journalism that educates citizens and encourages democratic and nonpartisan debate</PurposeOfGrantTxt>
+        <ExpendedByGranteeAmt>471768</ExpendedByGranteeAmt>
+        <AnyDiversionByGranteeTxt>No</AnyDiversionByGranteeTxt>
+        <DatesOfReportsByGranteeTxt>06/28/2021</DatesOfReportsByGranteeTxt>
+      </ExpenditureResponsibilityGrp>
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>Open Data Institute</BusinessNameLine1Txt>
+        </BusinessName>
+        <ForeignAddress>
+          <AddressLine1Txt>65 Clifton Street 3rd Floor</AddressLine1Txt>
+          <CityNm>London</CityNm>
+          <CountryCd>UK</CountryCd>
+          <ForeignPostalCd>EC2A 4JE</ForeignPostalCd>
+        </ForeignAddress>
+        <GrantDt>2020-12-01</GrantDt>
+        <GrantAmt>1105000</GrantAmt>
+        <PurposeOfGrantTxt>To support several exclusively charitable program areas of Open Data Institute including the Data Institutions Program, Data Skills/Literacy Program, Data Governance/ Assurance Program, and strategic development of charitable and educational programs</PurposeOfGrantTxt>
+        <ExpendedByGranteeAmt>0</ExpendedByGranteeAmt>
+        <AnyDiversionByGranteeTxt>No</AnyDiversionByGranteeTxt>
+        <DatesOfReportsByGranteeTxt>06/30/2021</DatesOfReportsByGranteeTxt>
+      </ExpenditureResponsibilityGrp>
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>Magamba Cultural Activist Network Trust</BusinessNameLine1Txt>
+        </BusinessName>
+        <ForeignAddress>
+          <AddressLine1Txt>3 Allan Wilson Greater Avenues</AddressLine1Txt>
+          <CityNm>Harare</CityNm>
+          <CountryCd>ZI</CountryCd>
+        </ForeignAddress>
+        <GrantDt>2019-05-01</GrantDt>
+        <GrantAmt>315000</GrantAmt>
+        <PurposeOfGrantTxt>To support Magamba to increase youth participation in national governance processes and consolidate citizen engagement through digital media and the use of civic tech in Zimbabwe.</PurposeOfGrantTxt>
+        <ExpendedByGranteeAmt>297644</ExpendedByGranteeAmt>
+        <AnyDiversionByGranteeTxt>No</AnyDiversionByGranteeTxt>
+        <DatesOfReportsByGranteeTxt>7/20/2021</DatesOfReportsByGranteeTxt>
+      </ExpenditureResponsibilityGrp>
+    </ExpenditureResponsibilityStmt>
+    <GeneralExplanationAttachment documentId="RetDoc2258700001">
+      <GeneralExplanationGrp>
+        <IdentifierTxt>Contributed Services explanation</IdentifierTxt>
+        <FormAndLineReferenceDesc>990-PF, Part VII-B, Line 1a(3)</FormAndLineReferenceDesc>
+        <MediumExplanationTxt>During 2020, Luminate US Services LLC, provided general and administrative support staff and paid for professional legal costs on behalf of the Foundation. In addition, other affiliated entities and related parties provided in-kind services related to investment management and travel. The amount of contributed services is valued at $10,581,350 but not recorded on Form 990-PF.</MediumExplanationTxt>
+      </GeneralExplanationGrp>
+    </GeneralExplanationAttachment>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssetsScheduleGrp>
+        <Desc>Interest receivable</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+        <EOYBookValueAmt>103000</EOYBookValueAmt>
+        <EOYFMVAmt>103000</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>Program and mission related investments</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+        <EOYBookValueAmt>1715488</EOYBookValueAmt>
+        <EOYFMVAmt>1715488</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreasesDetail>
+        <Desc>Assumed grants from an affiliate</Desc>
+        <Amt>9286731</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilitiesDetail>
+        <Desc>Federal Excise Tax</Desc>
+        <BOYBookValueAmt>56053</BOYBookValueAmt>
+        <EOYBookValueAmt>671729</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <SubstantialContributorsSch documentId="RetDoc2089200001">
+      <SubstantialContributorDetail>
+        <PersonNm>Pierre M Omidyar Trust</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>720 University Ave Ste 200</AddressLine1Txt>
+          <CityNm>Los Gatos</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>95032</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+    </SubstantialContributorsSch>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>Federal excise tax</CategoryTxt>
+        <Amt>724793</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

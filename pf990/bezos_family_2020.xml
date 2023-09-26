@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2020v4.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2021-11-13T17:03:31-06:00</ReturnTs>
+    <TaxPeriodEndDt>2020-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>PIONEER SQUARE ADVISORSLLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1624 4TH AVENUE SUITE 400</AddressLine1Txt>
+        <CityNm>SEATTLE</CityNm>
+        <StateAbbreviationCd>WA</StateAbbreviationCd>
+        <ZIPCd>98101</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2020-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>912073258</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>BEZOS FAMILY FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% BEZOS FAMILY FOUNDATION</InCareOfNm>
+      <BusinessNameControlTxt>BEZO</BusinessNameControlTxt>
+      <PhoneNum>2062752048</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1700 7th Avenue 116 Suite 149</AddressLine1Txt>
+        <CityNm>Seattle</CityNm>
+        <StateAbbreviationCd>WA</StateAbbreviationCd>
+        <ZIPCd>98101</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>MIGUEL BEZOS</PersonNm>
+      <PersonTitleTxt>DIRECTOR</PersonTitleTxt>
+      <PhoneNum>2062752048</PhoneNum>
+      <SignatureDt>2021-11-12</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>MIGUEL</PersonFirstNm>
+        <PersonLastNm>BEZOS</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>KENNETH RAGSDALE</PreparerPersonNm>
+      <PTIN>P00295413</PTIN>
+      <PhoneNum>2068384880</PhoneNum>
+      <PreparationDt>2021-11-12</PreparationDt>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>3</TrustedCustomerCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2020</TaxYr>
+    <BuildTS>2022-09-23 18:48:47Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="12">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>156729000</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>87678745</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>342388</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>339984</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>462759</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>462761</DividendsNetInvstIncmAmt>
+        <GrossRentsRevAndExpnssAmt>0</GrossRentsRevAndExpnssAmt>
+        <GrossRentsNetInvstIncmAmt>0</GrossRentsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>2948301</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>22596234</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>19018710</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>91432193</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>19821455</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSch">308205</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>0</LegalFeesNetInvstIncmAmt>
+        <LegalFeesAdjNetIncmAmt>0</LegalFeesAdjNetIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>308205</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSch">7500</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>0</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>0</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OthProfFeesSch">387665</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>244934</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">16472</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>16472</TaxesNetInvstIncmAmt>
+        <TravConfMeetingRevAndExpnssAmt>1853</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>1853</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSch">5079368</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>108015</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>5067053</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>5801063</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>369421</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>5377111</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>74318872</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>74318872</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>80119935</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>369421</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>79695983</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>11312258</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>19452034</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>4954739</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>12448467</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>12448467</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>81111788</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestCorpStockSch">140192826</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>140192826</CorporateStockEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSch">1901553</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSch">4087707</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="OtherAssetsSch">4087707</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>87968080</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>156729000</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>156729000</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>87968080</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>156729000</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>87968080</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>156729000</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>87968080</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>156729000</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>87968080</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>11312258</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSch">57448662</OtherIncreasesAmt>
+        <SubtotalAmt>156729000</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>156729000</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>5,000 SHARES AMZN</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <SoldDt>2020-03-19</SoldDt>
+          <GrossSalesPriceAmt>9612827</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>65</CostOrOtherBasisAmt>
+          <GainOrLossAmt>9612762</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>9612762</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1,900 SHARES AMZN</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <SoldDt>2020-06-22</SoldDt>
+          <GrossSalesPriceAmt>5134098</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>25</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5134073</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5134073</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1,300 SHARES AMZN</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <SoldDt>2020-12-09</SoldDt>
+          <GrossSalesPriceAmt>4099439</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>17</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4099422</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4099422</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2,504 SHARES VANGUARD RE ETF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2018-09-16</AcquiredDt>
+          <SoldDt>2020-06-23</SoldDt>
+          <GrossSalesPriceAmt>199715</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>206820</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-7105</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-7105</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1,765 SHARES VANGUARD TOTAL STOCK</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2018-10-03</AcquiredDt>
+          <SoldDt>2020-12-18</SoldDt>
+          <GrossSalesPriceAmt>339899</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>264575</CostOrOtherBasisAmt>
+          <GainOrLossAmt>75324</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>75324</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>120,000 SHARES US TREAS NT 2.375% UST NOTE DUE 12/31/2020</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2018-09-27</AcquiredDt>
+          <SoldDt>2020-01-30</SoldDt>
+          <GrossSalesPriceAmt>120894</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>118768</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2126</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2126</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>250,000 SHARES US TREAS NT 2.25% 11/25 UST NOTE DUE 11/15/25</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-09-05</AcquiredDt>
+          <SoldDt>2020-03-12</SoldDt>
+          <GrossSalesPriceAmt>270551</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>260161</CostOrOtherBasisAmt>
+          <GainOrLossAmt>10390</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>10390</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>65,000 SHARES US TREAS NT 2.75% 11/15/23</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-03-07</AcquiredDt>
+          <SoldDt>2020-03-12</SoldDt>
+          <GrossSalesPriceAmt>69842</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>66065</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3777</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3777</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>175,000 US TREASURY 2.375% 05/29 UST BOND DUE 5/15/29</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2020-03-23</SoldDt>
+          <GrossSalesPriceAmt>199738</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>180801</CostOrOtherBasisAmt>
+          <GainOrLossAmt>18937</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>18937</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>65,000 SHARES US TREASURY NT 2.5% 5/24 UST NOTE DUE 5/15/24</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-04-02</AcquiredDt>
+          <SoldDt>2020-03-19</SoldDt>
+          <GrossSalesPriceAmt>69465</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>65528</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3937</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3937</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>155,000 SHARES THE BOEING CO 3.2% DUE 03/01/29</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-11-04</AcquiredDt>
+          <SoldDt>2020-03-27</SoldDt>
+          <GrossSalesPriceAmt>141145</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>161481</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-20336</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-20336</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>10,000 SHARES US TREASUR NT 2.75% 11/23 UST NOTE 11/15/23</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-03-17</AcquiredDt>
+          <SoldDt>2020-03-12</SoldDt>
+          <GrossSalesPriceAmt>10745</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10102</CostOrOtherBasisAmt>
+          <GainOrLossAmt>643</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>643</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>120,000 SHARES US TREASUR NT 2% 04/24 UST NOTE DUE 4/30/24</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2018-09-27</AcquiredDt>
+          <SoldDt>2020-03-19</SoldDt>
+          <GrossSalesPriceAmt>125638</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>115444</CostOrOtherBasisAmt>
+          <GainOrLossAmt>10194</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>10194</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>170,000 SHARES US TREASUR NT 2.5% 05/24 UST NOTE DUE 5/15/24</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-03-07</AcquiredDt>
+          <SoldDt>2020-03-19</SoldDt>
+          <GrossSalesPriceAmt>181677</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>170155</CostOrOtherBasisAmt>
+          <GainOrLossAmt>11522</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>11522</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>4,000 SHARES UNITED TECH 3.65% DUE 8/16/23</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-06-25</AcquiredDt>
+          <SoldDt>2020-05-18</SoldDt>
+          <GrossSalesPriceAmt>4413</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4152</CostOrOtherBasisAmt>
+          <GainOrLossAmt>261</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>261</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>30,000 SHARES US TREASUR NT 2% DUE 11/30/20</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-04-02</AcquiredDt>
+          <SoldDt>2020-05-14</SoldDt>
+          <GrossSalesPriceAmt>30292</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>29944</CostOrOtherBasisAmt>
+          <GainOrLossAmt>348</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>348</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>115,000 SHARES US TREAS DUE 5/31/2020</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-03-04</AcquiredDt>
+          <SoldDt>2020-05-31</SoldDt>
+          <GrossSalesPriceAmt>115000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>115000</CostOrOtherBasisAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>40,000 SHARES US TREASURY DUE 11/30/2020</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-04-02</AcquiredDt>
+          <SoldDt>2020-06-01</SoldDt>
+          <GrossSalesPriceAmt>40349</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>39932</CostOrOtherBasisAmt>
+          <GainOrLossAmt>417</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>417</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100,000 SHARES AZ ST MATURED XTRO</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2018-09-27</AcquiredDt>
+          <SoldDt>2020-07-01</SoldDt>
+          <GrossSalesPriceAmt>100000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>100000</CostOrOtherBasisAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>45,000 SHARES US TREASURY DUE 2/28/21</PropertyDesc>
+          <AcquiredDt>2019-04-02</AcquiredDt>
+          <SoldDt>2020-07-06</SoldDt>
+          <GrossSalesPriceAmt>45521</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>44908</CostOrOtherBasisAmt>
+          <GainOrLossAmt>613</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>613</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>170,000 SHARES US TREASURY DUE 11/30/2020</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2020-07-06</SoldDt>
+          <GrossSalesPriceAmt>171233</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>169670</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1563</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1563</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>60,000 SHARES WASTE MNGMT CALLED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-06-25</AcquiredDt>
+          <SoldDt>2020-07-02</SoldDt>
+          <GrossSalesPriceAmt>60600</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>61369</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-769</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-769</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>75,000 SHARES US TREASURY DUE 11/15/19</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2020-05-14</AcquiredDt>
+          <SoldDt>2020-08-25</SoldDt>
+          <GrossSalesPriceAmt>82500</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>82876</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-376</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-376</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>180,000 SHARES THE TORONTO DOM DUE 4/07/21</PropertyDesc>
+          <SoldDt>2020-08-10</SoldDt>
+          <GrossSalesPriceAmt>182129</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>179015</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3114</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3114</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>140,000 SHARES US TREASURY DUE 5/31/21</PropertyDesc>
+          <SoldDt>2020-08-17</SoldDt>
+          <GrossSalesPriceAmt>142041</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>139545</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2496</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2496</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>160,000 SHARES BANK OF AMERICA DUE 4/01/24</PropertyDesc>
+          <SoldDt>2020-08-24</SoldDt>
+          <GrossSalesPriceAmt>178472</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>162363</CostOrOtherBasisAmt>
+          <GainOrLossAmt>16109</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>16109</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>69,000 SHARES MEDTRONIC PLC CALLED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2018-09-18</AcquiredDt>
+          <SoldDt>2020-10-29</SoldDt>
+          <GrossSalesPriceAmt>71662</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>68563</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3099</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3099</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>125,000 SHARES DUKE ENERGY CORP DUE 6/15/21</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2020-11-10</SoldDt>
+          <GrossSalesPriceAmt>126481</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>125608</CostOrOtherBasisAmt>
+          <GainOrLossAmt>873</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>873</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>130,000 SHARES WESTPAC BANKING DUE 8/19/21</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>131747</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>128827</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2920</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2920</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>110,000 SHARES ABBVIE INC DUE 11/06/22</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2020-11-24</SoldDt>
+          <GrossSalesPriceAmt>115077</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>108905</CostOrOtherBasisAmt>
+          <GainOrLossAmt>6172</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6172</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>165,000 SHARES THE BANK OF NEW DUE 1/29/23</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2020-11-24</SoldDt>
+          <GrossSalesPriceAmt>173814</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>164108</CostOrOtherBasisAmt>
+          <GainOrLossAmt>9706</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>9706</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>85,000 SHARES AMGEN INC CALLED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-02-25</AcquiredDt>
+          <SoldDt>2020-12-16</SoldDt>
+          <GrossSalesPriceAmt>72641</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>71697</CostOrOtherBasisAmt>
+          <GainOrLossAmt>944</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>944</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>105,000 SHARES CVS HEALTH CORP EXP 12/18</PropertyDesc>
+          <SoldDt>2020-12-22</SoldDt>
+          <GrossSalesPriceAmt>119383</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>105534</CostOrOtherBasisAmt>
+          <GainOrLossAmt>13849</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>13849</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>UNITED TECHNOLOG</PropertyDesc>
+          <AcquiredDt>2018-01-01</AcquiredDt>
+          <SoldDt>2020-02-28</SoldDt>
+          <GrossSalesPriceAmt>57206</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>55501</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1705</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1705</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>19018710</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>270383</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>270383</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>270383</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>221876</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>140000</ExtsnRequestIncomeTaxPaidAmt>
+        <TotalPaymentsAndCreditsAmt>361876</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <OverpaymentAmt>91493</OverpaymentAmt>
+        <AppliedToESTaxAmt>91493</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd referenceDocumentId="BinaryAttach BinaryAttachN1 BinaryAttachN2 BinaryAttachN3 BinaryAttachN4 BinaryAttachN5 BinaryAttachN6 BinaryAttachN7 BinaryAttachN8 BinaryAttachN9 BinaryAttachN10 BinaryAttachN11">false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd referenceDocumentId="BinaryAttach BinaryAttachN1 BinaryAttachN2 BinaryAttachN3 BinaryAttachN4 BinaryAttachN5 BinaryAttachN6 BinaryAttachN7 BinaryAttachN8 BinaryAttachN9 BinaryAttachN10 BinaryAttachN11">false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd referenceDocumentId="BinaryAttach BinaryAttachN1 BinaryAttachN2 BinaryAttachN3 BinaryAttachN4 BinaryAttachN5 BinaryAttachN6 BinaryAttachN7 BinaryAttachN8 BinaryAttachN9 BinaryAttachN10 BinaryAttachN11">false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>WA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>WWW.BEZOSFAMILYFOUNDATION.ORG</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>BEZOS FAMILY FOUNDATION</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>2062752048</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1700 7TH AVENUE SUITE 116 NO 149</AddressLine1Txt>
+          <CityNm>Seattle</CityNm>
+          <StateAbbreviationCd>WA</StateAbbreviationCd>
+          <ZIPCd>98101</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>true</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>true</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>true</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd referenceDocumentId="ExpdturResponbltStmt">true</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MIGUEL A BEZOS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1700 7th Avenue 116</AddressLine1Txt>
+            <CityNm>Seattle</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98101</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JACKLYN G BEZOS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1700 7th Avenue 116</AddressLine1Txt>
+            <CityNm>Seattle</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98101</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CHRISTINA BEZOS POORE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1700 7th Avenue 116</AddressLine1Txt>
+            <CityNm>Seattle</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98101</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARK S BEZOS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1700 7th Avenue 116</AddressLine1Txt>
+            <CityNm>Seattle</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98101</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LISA BEZOS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1700 7th Avenue 116</AddressLine1Txt>
+            <CityNm>Seattle</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98101</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>STEPHEN S POORE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1700 7th Avenue 116</AddressLine1Txt>
+            <CityNm>Seattle</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98101</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JEFFREY P BEZOS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1700 7th Avenue 116</AddressLine1Txt>
+            <CityNm>Seattle</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98101</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MACKENZIE T Scott</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1700 7th Avenue 116</AddressLine1Txt>
+            <CityNm>Seattle</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98101</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>PERKINS COIE LLP</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>1201 THIRD AVENUE STE 4800</AddressLine1Txt>
+            <CityNm>SEATTLE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>981013099</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>LEGAL</ServiceTypeTxt>
+          <CompensationAmt>308205</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>MCCUTCHEN GROUP</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>925 4TH AVE</AddressLine1Txt>
+            <CityNm>SEATTLE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98104</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>CONSULTING</ServiceTypeTxt>
+          <CompensationAmt>203690</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>VROOM (SEE ATTACHMENT A)</Description1Txt>
+        <Expenses1Amt>1809744</Expenses1Amt>
+        <Description2Txt>BEZOS SCHOLARS PROGRAM (SEE ATTACHMENT A)</Description2Txt>
+        <Expenses2Amt>182305</Expenses2Amt>
+        <Description3Txt>STUDENTS REBUILD (SEE ATTACHMENT A)</Description3Txt>
+        <Expenses3Amt>529730</Expenses3Amt>
+        <Description4Txt>MIND IN THE MAKING (SEE ATTACHMENT A)</Description4Txt>
+        <Expenses4Amt>583694</Expenses4Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp />
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>134661366</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>9725477</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>2895813</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>147282656</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>147282656</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>2209240</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>145073416</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>7253671</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>7253671</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>270383</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>270383</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>6983288</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>6983288</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>6983288</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>79695983</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>79695983</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>0</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>79695983</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>6983288</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <PriorYear1Yr>2018</PriorYear1Yr>
+        <PriorYear2Yr>2017</PriorYear2Yr>
+        <PriorYear3Yr>2016</PriorYear3Yr>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr5Amt>23284966</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>27823112</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>62832430</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>64139544</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>83993535</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>262073587</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>79695983</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>6983288</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>72712695</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>334786282</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>23284966</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>311501316</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>27823112</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>62832430</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>64139544</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>83993535</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>72712695</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp></PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>MIGUEL A BEZOS JACKLYN G BEZOS</ContributingManagerNm>
+        <ContributingManagerNm>AND MACKENZIE SCOTT</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SEE ATTACHMENT C</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>SEE ATTACHMENT C</AddressLine1Txt>
+            <CityNm>Various</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>99999</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SEE ATTACHMENT C</GrantOrContributionPurposeTxt>
+          <Amt>74318872</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>74318872</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>342388</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>462759</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp>
+          <ExclusionCd>16</ExclusionCd>
+        </NetRentalIncomePersonalPropGrp>
+        <OtherInvestmentIncmPartVIIGrp />
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>2948301</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>3753448</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>3753448</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>MIGUEL AND JACKLYN BEZOS</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>7683 Southeast 27th Street 224</AddressLine1Txt>
+          <CityNm>MERCER ISLAND</CityNm>
+          <StateAbbreviationCd>WA</StateAbbreviationCd>
+          <ZIPCd>98040</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>87678745</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>45,000 SHARES AMAZON.COM INC.</NoncashPropertyDesc>
+        <FairMarketValueAmt>85904550</FairMarketValueAmt>
+        <ReceivedDt>2020-03-03</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>450 SHARES OF FACEBOOK INC</NoncashPropertyDesc>
+        <FairMarketValueAmt>120191</FairMarketValueAmt>
+        <ReceivedDt>2020-12-22</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>30,755 SHARES OF UBER TECHNOLOGIES INC</NoncashPropertyDesc>
+        <FairMarketValueAmt>1654004</FairMarketValueAmt>
+        <ReceivedDt>2020-12-22</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFeesDetail>
+        <CategoryTxt>PIONEER SQUARE ADVISORS LLC</CategoryTxt>
+        <Amt>7500</Amt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <ExpenditureResponsibilityStmt documentId="ExpdturResponbltStmt">
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>TED FOUNDATION INC</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>330 HUDSON STREET FLOOR 11</AddressLine1Txt>
+          <CityNm>NEW YORK</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10013</ZIPCd>
+        </USAddress>
+        <PurposeOfGrantTxt>EXCLUSIVELY FOR EXEMPT PURPOSES AS DESCRIBED IN SEC. 501(C)(3) OF THE INTERNAL REVENUE CODE.</PurposeOfGrantTxt>
+        <ExpendedByGranteeAmt>4650000</ExpendedByGranteeAmt>
+        <AnyDiversionByGranteeTxt>NO</AnyDiversionByGranteeTxt>
+        <DatesOfReportsByGranteeTxt>01/06/2021, 2/11/2021</DatesOfReportsByGranteeTxt>
+        <VerificationDt>2021-02-11</VerificationDt>
+        <ResultsOfVerificationTxt>SEE ATTACHMENT B</ResultsOfVerificationTxt>
+      </ExpenditureResponsibilityGrp>
+    </ExpenditureResponsibilityStmt>
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AMAZON COM, INC.</StockNm>
+        <EOYBookValueAmt>87341092</EOYBookValueAmt>
+        <EOYFMVAmt>87341092</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FACEBOOK</StockNm>
+        <EOYBookValueAmt>122922</EOYBookValueAmt>
+        <EOYFMVAmt>122922</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UBER TECHNOLOGIES</StockNm>
+        <EOYBookValueAmt>1568505</EOYBookValueAmt>
+        <EOYFMVAmt>1568505</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SEE ATTACHMENT C-1</StockNm>
+        <EOYBookValueAmt>13800508</EOYBookValueAmt>
+        <EOYFMVAmt>13800508</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SEE ATTACHMENT C-2</StockNm>
+        <EOYBookValueAmt>23282102</EOYBookValueAmt>
+        <EOYFMVAmt>23282102</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AFRICAN LEADERSHIP LTD</StockNm>
+        <EOYBookValueAmt>3333333</EOYBookValueAmt>
+        <EOYFMVAmt>3333333</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BLACKSTONE PTNRS OFFSHORE FUND</StockNm>
+        <EOYBookValueAmt>7604303</EOYBookValueAmt>
+        <EOYFMVAmt>7604303</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CQS DIRECTIONAL OPPORTUNITIES</StockNm>
+        <EOYBookValueAmt>1197940</EOYBookValueAmt>
+        <EOYFMVAmt>1197940</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HAWKES BAY INVESTORS (CAYMAN)</StockNm>
+        <EOYBookValueAmt>1942121</EOYBookValueAmt>
+        <EOYFMVAmt>1942121</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <LegalFeesSchedule documentId="LegalFeesSch">
+      <LegalFeesGrp>
+        <CategoryTxt>PERKINS COIE, LLP</CategoryTxt>
+        <LegalFeesAmt>308205</LegalFeesAmt>
+        <DisbursementsCharitablePrpsAmt>308205</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSch">
+      <OtherAssetsScheduleGrp>
+        <Desc>BROOKFIELD STRATEGIC RE III</Desc>
+        <BOYBookValueAmt>692091</BOYBookValueAmt>
+        <EOYBookValueAmt>1662866</EOYBookValueAmt>
+        <EOYFMVAmt>1662866</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>MITM - INTANGIBLE ASSETS</Desc>
+        <BOYBookValueAmt>269010</BOYBookValueAmt>
+        <EOYBookValueAmt>269010</EOYBookValueAmt>
+        <EOYFMVAmt>269010</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>NB CROSSROADS PRIV MKTS FUND V</Desc>
+        <BOYBookValueAmt>625751</BOYBookValueAmt>
+        <EOYBookValueAmt>960662</EOYBookValueAmt>
+        <EOYFMVAmt>960662</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>TOWNSEND REAL ESTATE ALPHA III</Desc>
+        <BOYBookValueAmt>314701</BOYBookValueAmt>
+        <EOYBookValueAmt>767031</EOYBookValueAmt>
+        <EOYFMVAmt>767031</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>HARBOURVEST ACCESS -DOVER ST</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+        <EOYBookValueAmt>207025</EOYBookValueAmt>
+        <EOYFMVAmt>207025</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>ARDIAN VIII PFIC</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+        <EOYBookValueAmt>221113</EOYBookValueAmt>
+        <EOYFMVAmt>221113</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>12315</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SERVICE EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>1708225</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1708225</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ACTIVITIES LISTED IN PART IX-A</Desc>
+        <RevenueAndExpensesPerBooksAmt>3074800</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>3074800</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>12407</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>12407</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>DIGITAL SUPPORT</Desc>
+        <RevenueAndExpensesPerBooksAmt>48</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>48</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>WEBSITE</Desc>
+        <RevenueAndExpensesPerBooksAmt>4768</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>4768</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ADVERTISING</Desc>
+        <RevenueAndExpensesPerBooksAmt>31303</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>31303</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TECHNOLOGY EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>18040</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>18040</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OTHER EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>217462</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>217462</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PARTNERSHIP LOSSES</Desc>
+        <NetInvestmentIncomeAmt>108015</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSch">
+      <OtherIncreasesDetail>
+        <Desc>UNREALIZED GAIN</Desc>
+        <Amt>57448662</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OthProfFeesSch">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>PROFESSIONAL FEES</CategoryTxt>
+        <Amt>203690</Amt>
+        <NetInvestmentIncomeAmt>203690</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>MANAGEMENT FEES</CategoryTxt>
+        <Amt>183975</Amt>
+        <NetInvestmentIncomeAmt>41244</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAX CREDIT</CategoryTxt>
+        <Amt>16472</Amt>
+        <NetInvestmentIncomeAmt>16472</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

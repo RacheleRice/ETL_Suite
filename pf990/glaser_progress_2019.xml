@@ -1,0 +1,787 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2019v5.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2020-07-13T23:47:52-05:00</ReturnTs>
+    <TaxPeriodEndDt>2019-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>331197384</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>ANDERSEN TAX LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1200 FIFTH AVENUE</AddressLine1Txt>
+        <CityNm>SEATTLE</CityNm>
+        <StateAbbreviationCd>WA</StateAbbreviationCd>
+        <ZIPCd>98101</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2019-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>911626010</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>GLASER PROGRESS FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>GLAS</BusinessNameControlTxt>
+      <PhoneNum>2067281050</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>108 S WASHINGTON ST SUITE 400</AddressLine1Txt>
+        <CityNm>SEATTLE</CityNm>
+        <StateAbbreviationCd>WA</StateAbbreviationCd>
+        <ZIPCd>98104</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>MARTIN COLLIER</PersonNm>
+      <PersonTitleTxt>EXECUTIVE DIRECTOR</PersonTitleTxt>
+      <PhoneNum>2067281050</PhoneNum>
+      <SignatureDt>2020-07-13</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>KYLE LYNCH</PreparerPersonNm>
+      <PTIN>P01622506</PTIN>
+      <PhoneNum>2065777880</PhoneNum>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>73.225.220.122</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2020-07-13</IPDt>
+      <IPTm>23:46:01</IPTm>
+      <IPTimezoneCd>PD</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>DA39A3EE5E6B4B0D3255BFEF95601890AFD80709</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>C2C7C09EEEA63B3774813C0B6B5FB246E151EF82</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2019</TaxYr>
+    <BuildTS>2021-04-22 16:20:28Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="9">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>3629123</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>2218346</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>7180</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>7180</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>732845</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>758093</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>732845</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>2958371</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>740025</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>151200</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>4560</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>146640</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>53999</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsNetInvstIncmAmt>0</OthEmplSlrsWgsNetInvstIncmAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>53999</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>77848</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftNetInvstIncmAmt>1738</PensionEmplBnftNetInvstIncmAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>76110</PensionEmplBnftDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">7300</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>3650</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>3650</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">1100</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>1100</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>0</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">15575</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>470</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>15105</TaxesDsbrsChrtblAmt>
+        <OccupancyRevAndExpnssAmt>35848</OccupancyRevAndExpnssAmt>
+        <OccupancyNetInvstIncmAmt>1081</OccupancyNetInvstIncmAmt>
+        <OccupancyDsbrsChrtblAmt>34767</OccupancyDsbrsChrtblAmt>
+        <TravConfMeetingRevAndExpnssAmt>17559</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingNetInvstIncmAmt>530</TravConfMeetingNetInvstIncmAmt>
+        <TravConfMeetingDsbrsChrtblAmt>17029</TravConfMeetingDsbrsChrtblAmt>
+        <PrintingAndPubRevAndExpnssAmt>672</PrintingAndPubRevAndExpnssAmt>
+        <PrintingAndPubNetInvstIncmAmt>20</PrintingAndPubNetInvstIncmAmt>
+        <PrintingAndPubDsbrsChrtblAmt>652</PrintingAndPubDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">14341</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>432</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>13909</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>375442</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>13581</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>361861</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>554915</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>554915</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>930357</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>13581</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>916776</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>2028014</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>726444</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>525408</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>536065</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>536065</SavAndTempCashInvstEOYFMVAmt>
+        <PrepaidExpensesBOYAmt>5000</PrepaidExpensesBOYAmt>
+        <PrepaidExpensesEOYAmt>5000</PrepaidExpensesEOYAmt>
+        <PrepaidExpensesEOYFMVAmt>5000</PrepaidExpensesEOYFMVAmt>
+        <CorporateStockBOYAmt>6260760</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">6270737</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>3088058</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>6791168</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>6811802</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>3629123</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="RetDoc2065700001">27110</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="RetDoc2065700001">4002</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>27110</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>4002</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>6764058</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>6807800</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>0</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>0</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>6764058</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>6807800</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>6791168</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>6811802</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>6764058</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>2028014</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc2049700001">224626</OtherIncreasesAmt>
+        <SubtotalAmt>9016698</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc2049800001">2208898</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>6807800</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MICROSOFT CORP</PropertyDesc>
+          <AcquiredDt>2010-03-31</AcquiredDt>
+          <SoldDt>2019-09-30</SoldDt>
+          <GrossSalesPriceAmt>97527</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>381</CostOrOtherBasisAmt>
+          <GainOrLossAmt>97146</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>97146</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CALL FB $180 EXP</PropertyDesc>
+          <AcquiredDt>2019-06-24</AcquiredDt>
+          <SoldDt>2019-06-24</SoldDt>
+          <CostOrOtherBasisAmt>1265</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1265</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1265</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CALL FB $190 EXP</PropertyDesc>
+          <AcquiredDt>2019-01-18</AcquiredDt>
+          <SoldDt>2019-01-18</SoldDt>
+          <GrossSalesPriceAmt>23255</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>23255</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CALL FB $195 EXP</PropertyDesc>
+          <AcquiredDt>2019-09-20</AcquiredDt>
+          <SoldDt>2019-09-20</SoldDt>
+          <GrossSalesPriceAmt>9786</GrossSalesPriceAmt>
+          <GainOrLossAmt>9786</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>9786</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 SHS FACEBOOK INC</PropertyDesc>
+          <AcquiredDt>2009-04-29</AcquiredDt>
+          <SoldDt>2019-03-28</SoldDt>
+          <GrossSalesPriceAmt>164815</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>50</CostOrOtherBasisAmt>
+          <GainOrLossAmt>164765</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>164765</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>500 SHS FACEBOOK INC</PropertyDesc>
+          <AcquiredDt>2009-04-29</AcquiredDt>
+          <SoldDt>2019-04-02</SoldDt>
+          <GrossSalesPriceAmt>85919</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>99</CostOrOtherBasisAmt>
+          <GainOrLossAmt>85820</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>85820</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1000 SHS FACEBOOK INC</PropertyDesc>
+          <AcquiredDt>2009-04-29</AcquiredDt>
+          <SoldDt>2019-06-21</SoldDt>
+          <GrossSalesPriceAmt>188373</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>99</CostOrOtherBasisAmt>
+          <GainOrLossAmt>188274</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>188274</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>300 SHS FACEBOOK INC</PropertyDesc>
+          <AcquiredDt>2009-04-29</AcquiredDt>
+          <SoldDt>2019-12-04</SoldDt>
+          <GrossSalesPriceAmt>56524</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>30</CostOrOtherBasisAmt>
+          <GainOrLossAmt>56494</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>56494</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>700 SHS FACEBOOK INC</PropertyDesc>
+          <AcquiredDt>2009-04-29</AcquiredDt>
+          <SoldDt>2019-12-20</SoldDt>
+          <GrossSalesPriceAmt>131894</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>69</CostOrOtherBasisAmt>
+          <GainOrLossAmt>131825</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>131825</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>732845</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>0</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>693986</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>3325775</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.208669</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>995285</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>4609572</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.215917</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>992217</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>5213238</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.190326</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>781440</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>6133379</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.127408</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>923092</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>7442139</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.124036</DistributionYr5Rt>
+        <TotalDistributionRt>0.866356</TotalDistributionRt>
+        <AverageDistributionRt>0.173271</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>2262734</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>392066</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>7264</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>399330</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>916776</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>7264</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>7264</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>7264</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>5000</EstimatedPlusOvpmtIncmTxAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>5000</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>0</EsPenaltyAmt>
+        <TaxDueAmt>2264</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>WA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>WWW.GLASERPROGRESS.ORG</WebsiteAddressTxt>
+        <IndividualWithBooksNm>MELESSA ROGERS</IndividualWithBooksNm>
+        <PhoneNum>2067281050</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>108 S WASHINGTON ST SUITE 400</AddressLine1Txt>
+          <CityNm>SEATTLE</CityNm>
+          <StateAbbreviationCd>WA</StateAbbreviationCd>
+          <ZIPCd>98104</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ROBERT D GLASER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>108 S WASHINGTON ST SUITE 400</AddressLine1Txt>
+            <CityNm>SEATTLE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98104</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARTIN COLLIER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>108 S WASHINGTON ST SUITE 400</AddressLine1Txt>
+            <CityNm>SEATTLE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98104</ZIPCd>
+          </USAddress>
+          <TitleTxt>EXECUTIVE DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>151200</CompensationAmt>
+          <EmployeeBenefitProgramAmt>57935</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>794</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MAGGIE SAVARINO</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>108 S WASHINGTON ST SUITE 400</AddressLine1Txt>
+            <CityNm>SEATTLE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98104</ZIPCd>
+          </USAddress>
+          <TitleTxt>MANAGING BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>MELESSA ROGERS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>108 S WASHINGTON ST SUITE 400</AddressLine1Txt>
+            <CityNm>SEATLE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98104</ZIPCd>
+          </USAddress>
+          <TitleTxt>OPERATIONS MANAGER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>53999</CompensationAmt>
+          <EmployeeBenefitsAmt>19915</EmployeeBenefitsAmt>
+          <ExpenseAccountAmt>794</ExpenseAccountAmt>
+        </CompensationHighestPaidEmplGrp>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>NONE FOR 2019</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1826871</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>470321</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>2297192</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>2297192</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>34458</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>2262734</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>113137</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>113137</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>7264</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>7264</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>105873</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>105873</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>105873</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>916776</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>916776</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>7264</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>909512</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>105873</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr5Amt>527572</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>515124</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>740947</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>774614</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>527697</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>3085954</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>916776</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>105873</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>810903</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>3896857</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>527572</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>3369285</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>515124</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>740947</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>774614</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>527697</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>810903</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>ROBERT D GLASER</ContributingManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>MELESSA ROGERS OPERATIONS MANAGER G</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>108 S WASHINGTON ST SUITE 400</AddressLine1Txt>
+            <CityNm>SEATTLE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>2067281050</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>THE FOUNDATION ACCEPTS UNSOLICITED REQUESTS FOR CONTRIBUTIONS IN THE FORM OF A ONE TO TWO PAGE LETTER OF INQUIRY INCLUDING CONTACT INFORMATION, ORGANIZATION INCOME AND EXPENSE FOR CURRENT AND PRIOR YEAR, DESCRIPTION OF PROJECT, BUDGET AND IDENTIFICATION OF OTHER POTENTIAL OR SECURED FUNDING SOURCES FOR THE PROJECT, REQUESTED GRANT AMOUNT, EXPERIENCE AND CAPABILITY OF THE ORGANIZATION TO ADMINISTER THE PROJECT INCLUDING KEY INDIVIDUALS INVOLVED. IF THE FOUNDATION DETERMINES THAT AN APPLICATION LETTER MATCHES ITS PRIORITIES AND INTERESTS, A PROGRAM OFFICER WILL REQUEST ADDITIONAL INFORMATION AND CONDUCT A FULL REVIEW. SEE WWW.GLASERPROGRESS.ORG FOR MORE DETAILS. THIS FOUNDATION HAS AN OPEN SUBMISSION CYCLE AND ACCEPTS REQUESTS FOR CONTRIBUTIONS THROUGHOUT THE YEAR.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NO</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>GRANTMAKING AREAS: MEASURING PROGRESS, ANIMAL ADVOCACY, INDEPENDENT MEDIA, GLOBAL HEALTH AND CLIMATE CHANGE.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CROHN'S AND COLITIS FOUNDATION OF AMERICA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1640 S SEPULVEDA BLVD SUITE 214</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90025</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY 509(A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DEMOCRACY NOW</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>207 WEST 25TH ST 11TH FLOOR</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY 509(A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>51100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FAIRVOTE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6930 CARROLL AVE SUITE 240</AddressLine1Txt>
+            <CityNm>TAKOMA PARK</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>20912</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY 509(A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FUSE INNOVATION FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1402 THIRD AVENUE SUITE 510</AddressLine1Txt>
+            <CityNm>SEATTLE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY 509(A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GEORGE MASON UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>440 UNIVERSITY DRIVE MS 1A3</AddressLine1Txt>
+            <CityNm>FAIRFAX</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22030</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY 509(A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CENTER FOR CLIMATE CHANGE COMMUNICATIONS</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ROCKEFELLER PHILANTHROPY ADVISORS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6 WEST 48TH STREET 10TH FLOOR</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY 509(A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>NATIONAL CAMPAIGN TO ELEVATE CLIMATE</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF CALIFORNIA SAN FRANCISCO FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>550 16TH ST ROOM 7107</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94143</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY 509(A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GLOBAL HEALTH GROUP</GrantOrContributionPurposeTxt>
+          <Amt>248815</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WASHINGTON PHYSICIANS FOR SOCIAL RESPONSIBILITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4500 9TH AVE NE SUITE 300</AddressLine1Txt>
+            <CityNm>SEATTLE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY 509(A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>WASHINGTON CLIMATE &amp; HEALTH COALITION</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>554915</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>7180</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>732845</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>740025</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>740025</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>7300</Amt>
+        <NetInvestmentIncomeAmt>3650</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>3650</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>REAL NETWORKS (459,101 SHS / 459,101 SHS)</StockNm>
+        <EOYBookValueAmt>6259785</EOYBookValueAmt>
+        <EOYFMVAmt>550921</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FACEBOOK (6,000 SHS / 10,323 SHS)</StockNm>
+        <EOYBookValueAmt>1021</EOYBookValueAmt>
+        <EOYFMVAmt>2118796</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ATLASSIAN CORP. (0 SHS / 2,080 SHS)</StockNm>
+        <EOYBookValueAmt>4650</EOYBookValueAmt>
+        <EOYFMVAmt>250307</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ZILLOW GROUP INC CLASS A (0 SHS / 1,221 SHS)</StockNm>
+        <EOYBookValueAmt>3562</EOYBookValueAmt>
+        <EOYFMVAmt>55849</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ZILLOW GROUP INC CLASS C (0 SHS / 2,442 SHS)</StockNm>
+        <EOYBookValueAmt>1719</EOYBookValueAmt>
+        <EOYFMVAmt>112185</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreasesDetail>
+        <Desc>FMV/COST ADJUSTMENT ON STOCK CONTRIBUTIONS</Desc>
+        <Amt>2207542</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>NONDEDUCTIBLE EXPENSES</Desc>
+        <Amt>1356</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>BUSINESS INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>2113</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>64</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2049</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>DUES AND SUBSCRIPTIONS</Desc>
+        <RevenueAndExpensesPerBooksAmt>2920</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>88</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2832</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>LICENSES AND PERMITS</Desc>
+        <RevenueAndExpensesPerBooksAmt>115</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>3</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>112</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>POSTAGE AND DELIVERY</Desc>
+        <RevenueAndExpensesPerBooksAmt>188</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>6</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>182</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>COMPUTER SUPPORT</Desc>
+        <RevenueAndExpensesPerBooksAmt>275</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>8</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>267</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>RESOURCE MATERIALS</Desc>
+        <RevenueAndExpensesPerBooksAmt>636</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>19</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>617</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE SUPPLIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>1546</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>47</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1499</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TELEPHONE &amp; INTERNET</Desc>
+        <RevenueAndExpensesPerBooksAmt>4707</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>142</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>4565</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>206</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>6</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>200</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>WEBSITE</Desc>
+        <RevenueAndExpensesPerBooksAmt>1635</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>49</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1586</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc2049700001">
+      <OtherIncreasesDetail>
+        <Desc>PRIOR PERIOD ADJUSTMENT</Desc>
+        <Amt>23108</Amt>
+      </OtherIncreasesDetail>
+      <OtherIncreasesDetail>
+        <Desc>FMV/COST ADJUSTMENT ON STOCK GRANTS</Desc>
+        <Amt>201518</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilitiesDetail>
+        <Desc>SUTA PAYABLE</Desc>
+        <BOYBookValueAmt>2836</BOYBookValueAmt>
+        <EOYBookValueAmt>2836</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>FEDERAL WITHHOLDING PAYABLE</Desc>
+        <BOYBookValueAmt>-78</BOYBookValueAmt>
+        <EOYBookValueAmt>-78</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>MEDICARE PAYABLE</Desc>
+        <BOYBookValueAmt>156</BOYBookValueAmt>
+        <EOYBookValueAmt>156</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>SOCIAL SECURITY PAYABLE</Desc>
+        <BOYBookValueAmt>941</BOYBookValueAmt>
+        <EOYBookValueAmt>941</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>PAID FAMILY MEDICAL LEAVE PAYABLE</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+        <EOYBookValueAmt>84</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>OTHER PAYROLL LIABILITIES</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+        <EOYBookValueAmt>63</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>SHORT POSITION ON FB CALL OPTIONS</Desc>
+        <BOYBookValueAmt>23255</BOYBookValueAmt>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT FEES</CategoryTxt>
+        <Amt>1100</Amt>
+        <NetInvestmentIncomeAmt>1100</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>PAYROLL TAXES</CategoryTxt>
+        <Amt>15575</Amt>
+        <NetInvestmentIncomeAmt>470</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>15105</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

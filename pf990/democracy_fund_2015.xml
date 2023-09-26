@@ -1,0 +1,1701 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-11-11T10:18:41-08:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Comprehensive Financial Mgt</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>720 University Ave 200</AddressLine1Txt>
+        <CityNm>Los Gatos</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>95032</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>383926408</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Democracy Fund Inc</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>DEMO</BusinessNameControlTxt>
+      <PhoneNum>4083583316</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1200 17th St NW</AddressLine1Txt>
+        <CityNm>Washington</CityNm>
+        <StateAbbreviationCd>DC</StateAbbreviationCd>
+        <ZIPCd>20036</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Joseph Goldman</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2016-11-11</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Roger V Hansen</PreparerPersonNm>
+      <PTIN>P00294980</PTIN>
+      <PhoneNum>4083583316</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation 990PFBinaryAttachments.1 990PFBinaryAttachments.2" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <AddressChangeInd>X</AddressChangeInd>
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>33172688</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>23173200</ContriRcvdRevAndExpnssAmt>
+        <DividendsRevAndExpnssAmt>3440</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>3440</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>3440</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-868211</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>41004441</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>41004421</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>22308429</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>41007861</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>3440</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>310336</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>310336</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>1463439</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>1463439</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>185799</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>185799</PensionEmplBnftDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSchedule">60044</LegalFeesRevAndExpnssAmt>
+        <LegalFeesDsbrsChrtblAmt>60044</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">31000</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesChrtblPrpsAmt>31000</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">1009926</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesDsbrsChrtblAmt>1009926</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">569739</TaxesRevAndExpnssAmt>
+        <TaxesDsbrsChrtblAmt>121890</TaxesDsbrsChrtblAmt>
+        <TravConfMeetingRevAndExpnssAmt>127357</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>127357</TravConfMeetingDsbrsChrtblAmt>
+        <PrintingAndPubRevAndExpnssAmt>4873</PrintingAndPubRevAndExpnssAmt>
+        <PrintingAndPubDsbrsChrtblAmt>4873</PrintingAndPubDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">486704</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>53971</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>4249217</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>3368635</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>11568791</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>8888250</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>15818008</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>12256885</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>6490421</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>41007861</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>3440</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>6365996</CashBOYAmt>
+        <CashEOYAmt>33089595</CashEOYAmt>
+        <CashEOYFMVAmt>33089595</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>18519600</CorporateStockBOYAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSchedule">17954</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSchedule">83093</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="OtherAssetsSchedule">83093</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>24903550</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>33172688</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>33172688</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>142872</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>640745</AccountsPayableEOYAmt>
+        <GrantsPayableBOYAmt>1437500</GrantsPayableBOYAmt>
+        <GrantsPayableEOYAmt>2680645</GrantsPayableEOYAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="OtherLiabilitiesSchedule">480910</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabilitiesSchedule">338759</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>2061282</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>3660149</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>22842268</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>29512539</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>22842268</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>29512539</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>24903550</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>33172688</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>22842268</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>6490421</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSchedule">179850</OtherIncreasesAmt>
+        <SubtotalAmt>29512539</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>29512539</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>66000 shares eBay common</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>1996-05-20</AcquiredDt>
+          <SoldDt>2015-01-26</SoldDt>
+          <GrossSalesPriceAmt>3697324</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3697323</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3697323</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>66000 shares eBay common</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>1996-05-20</AcquiredDt>
+          <SoldDt>2015-01-27</SoldDt>
+          <GrossSalesPriceAmt>3628461</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3628460</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3628460</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>66000 shares eBay common</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>1996-05-20</AcquiredDt>
+          <SoldDt>2015-01-28</SoldDt>
+          <GrossSalesPriceAmt>3584632</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3584631</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3584631</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>66000 shares eBay common</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>1996-05-20</AcquiredDt>
+          <SoldDt>2015-01-29</SoldDt>
+          <GrossSalesPriceAmt>3541515</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3541514</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3541514</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>66000 shares eBay common</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>1996-05-20</AcquiredDt>
+          <SoldDt>2015-01-30</SoldDt>
+          <GrossSalesPriceAmt>3527781</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3527780</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3527780</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>26000 shares eBay common</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>1996-05-20</AcquiredDt>
+          <SoldDt>2015-11-25</SoldDt>
+          <GrossSalesPriceAmt>751764</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1</CostOrOtherBasisAmt>
+          <GainOrLossAmt>751763</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>751763</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100986 shares eBay common</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>1996-05-20</AcquiredDt>
+          <SoldDt>2015-11-27</SoldDt>
+          <GrossSalesPriceAmt>2923000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2922998</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2922998</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>45190 shares PayPal Holdings common</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>1996-05-20</AcquiredDt>
+          <SoldDt>2015-11-27</SoldDt>
+          <GrossSalesPriceAmt>1588018</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1588017</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1588017</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>77591 shares PayPal Holdings common</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>1996-05-20</AcquiredDt>
+          <SoldDt>2015-11-30</SoldDt>
+          <GrossSalesPriceAmt>2714382</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2714380</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2714380</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>45190 shares PayPal Holdings common</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>1996-05-20</AcquiredDt>
+          <SoldDt>2015-11-30</SoldDt>
+          <GrossSalesPriceAmt>1580891</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1580890</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1580890</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>116510 shares eBay common</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>1996-05-20</AcquiredDt>
+          <SoldDt>2015-11-30</SoldDt>
+          <GrossSalesPriceAmt>3412136</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3412134</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3412134</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>192029 shares PayPal Holdings common</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>1996-05-20</AcquiredDt>
+          <SoldDt>2015-12-01</SoldDt>
+          <GrossSalesPriceAmt>6654367</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>6654363</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6654363</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>116504 shares eBay common</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>1996-05-20</AcquiredDt>
+          <SoldDt>2015-12-02</SoldDt>
+          <GrossSalesPriceAmt>3400170</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3400168</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3400168</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>41004421</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>5466956</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>6418681</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.85173</DistributionYr1Rt>
+        <TotalDistributionRt>0.851726</TotalDistributionRt>
+        <AverageDistributionRt>0.425863</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>20579635</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>8764105</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>410079</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>9174184</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>12256885</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>410079</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>410079</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>410079</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>481399</EstimatedPlusOvpmtIncmTxAmt>
+        <AppliedToEsTaxAmt>360000</AppliedToEsTaxAmt>
+        <TotalPaymentsAndCreditsAmt>841399</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <OverpaymentAmt>431320</OverpaymentAmt>
+        <AppliedToESTaxAmt>431320</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>true</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>false</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>DC</OrgReportOrRegisterStateCd>
+        <OrgReportOrRegisterStateCd>DE</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>true</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>www.democracyfund.org</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Matthew Deakin</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>4083583316</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>720 University Ave Ste 200</AddressLine1Txt>
+          <CityNm>Los Gatos</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>95032</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>true</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>true</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd>true</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Pierre Omidyar</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>720 University Ave Ste 200</AddressLine1Txt>
+            <CityNm>Los Gatos</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95032</ZIPCd>
+          </USAddress>
+          <TitleTxt>Chairman</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.75</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Patricia Christen</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>720 University Ave Ste 200</AddressLine1Txt>
+            <CityNm>Los Gatos</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95032</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Michael Mohr</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>720 University Ave Ste 200</AddressLine1Txt>
+            <CityNm>Los Gatos</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95032</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>William Fitzpatrick</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>720 University Ave Ste 200</AddressLine1Txt>
+            <CityNm>Los Gatos</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95032</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary &amp; Dir</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Joseph Goldman</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1200 17th St NW Ste 300</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </USAddress>
+          <TitleTxt>President &amp; CEO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>38.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>281809</CompensationAmt>
+          <EmployeeBenefitProgramAmt>28527</EmployeeBenefitProgramAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Matthew Deakin</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>720 University Ave Ste 200</AddressLine1Txt>
+            <CityNm>Los Gatos</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95032</ZIPCd>
+          </USAddress>
+          <TitleTxt>Treasurer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>Elizabeth Hawkings</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1200 17th St NW Ste 300</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </USAddress>
+          <TitleTxt>Program Dir.</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>39.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>166750</CompensationAmt>
+          <EmployeeBenefitsAmt>14782</EmployeeBenefitsAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>Adam Ambrogi</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1200 17th St NW Ste 300</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </USAddress>
+          <TitleTxt>Program Dir.</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>166520</CompensationAmt>
+          <EmployeeBenefitsAmt>26496</EmployeeBenefitsAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>Thomas Glaisyer</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1200 17th St NW Ste 300</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </USAddress>
+          <TitleTxt>Program Dir.</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>39.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>153974</CompensationAmt>
+          <EmployeeBenefitsAmt>11969</EmployeeBenefitsAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>Margaret Yao</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1200 17th St NW Ste 300</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </USAddress>
+          <TitleTxt>Chief Pple Officer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>136125</CompensationAmt>
+          <EmployeeBenefitsAmt>17866</EmployeeBenefitsAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>Anthony Bowen</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1200 17th St NW Ste 300</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </USAddress>
+          <TitleTxt>Dir of Grants Mgmt</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>38.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>101323</CompensationAmt>
+          <EmployeeBenefitsAmt>14584</EmployeeBenefitsAmt>
+        </CompensationHighestPaidEmplGrp>
+        <OtherEmployeePaidOver50kCnt>4</OtherEmployeePaidOver50kCnt>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>Williams Group</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>70 Ionia Avenue SW Ste 200</AddressLine1Txt>
+            <CityNm>Grand Rapids</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>495035139</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>Branding &amp; Comms.</ServiceTypeTxt>
+          <CompensationAmt>184101</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <PersonNm>Karen Grattan</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5423 Long Boat Court</AddressLine1Txt>
+            <CityNm>Fairfax</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22032</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>Consulting</ServiceTypeTxt>
+          <CompensationAmt>85125</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>RK Evaluation &amp; Strategies</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>3155 19th St NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20010</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>Evaluation</ServiceTypeTxt>
+          <CompensationAmt>61819</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>TCC Group</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>31 West 27th Street 4th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>Consulting</ServiceTypeTxt>
+          <CompensationAmt>50326</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>Community Building Institute</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>127 S Highland Street</AddressLine1Txt>
+            <CityNm>Arlington</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22204</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>Consulting</ServiceTypeTxt>
+          <CompensationAmt>127800</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>Elections ProgramThrough its Elections Program, the Democracy Fund works to ensure that our election and campaign finance systems provide the public with confidence that their voices can be heard and that they have the ability to hold their leaders to account for their actions. The Democracy Fund promotes common sense dialogue and searches for innovative solutions that improve our campaign finance and election administration systems. The Democracy Funds aim is to understand and build consensus around those solutions that serve the needs of the American people.</Description1Txt>
+        <Expenses1Amt>927507</Expenses1Amt>
+        <Description2Txt>Public Square ProgramThrough its Public Square Program, the Democracy Fund supports platforms and practices that help people understand and engage in the democratic process. To create a more informed electorate, the Democracy Fund invests in innovations and institutions that rejuvenate local media and ensure that communities have access to diverse sources of information. We look for new ways to deepen the publics engagement in civic life and to expose them to different points of view. We support efforts to combat misinformation and develop new venues for reasoned debate and public deliberation.</Description2Txt>
+        <Expenses2Amt>892491</Expenses2Amt>
+        <Description3Txt>Governance ProgramThrough its Governance Program, the Democracy Fund works to improve the ability of governing institutions in the United States to function in the face of increased hyper-partisanship. We support approaches that help equip our elected leaders to deliberate, negotiate, and act in service of the American people. Specifically, the Governance Program has sought to improve the ability of our legislative branch to solve problems by fostering better relationships among political leaders, encouraging greater civility, and building the capacity of our political system.</Description3Txt>
+        <Expenses3Amt>647437</Expenses3Amt>
+        <Description4Txt>Other Program Services</Description4Txt>
+        <Expenses4Amt>53477</Expenses4Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>2712500</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>18097437</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>83093</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>20893030</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>20893030</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>313395</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>20579635</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>1028982</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>12256885</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>12256885</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>410079</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>11846806</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <PrivateOperatingFoundationsGrp>
+        <Section4942j3Ind>X</Section4942j3Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>3440</CurrentYearAmt>
+          <Year1Amt>903</Year1Amt>
+          <TotalAmt>4343</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <Pct85LessorAdjIncmOrMinRetGrp>
+          <CurrentYearAmt>2924</CurrentYearAmt>
+          <Year1Amt>768</Year1Amt>
+          <TotalAmt>3692</TotalAmt>
+        </Pct85LessorAdjIncmOrMinRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>12256885</CurrentYearAmt>
+          <Year1Amt>5466956</Year1Amt>
+          <TotalAmt>17723841</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriNotUsedDrtGrp>
+          <CurrentYearAmt>8888250</CurrentYearAmt>
+          <Year1Amt>4518675</Year1Amt>
+          <TotalAmt>13406925</TotalAmt>
+        </QualifyingDistriNotUsedDrtGrp>
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>3368635</CurrentYearAmt>
+          <Year1Amt>948281</Year1Amt>
+          <TotalAmt>4316916</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TwoThirdsMinimumInvstRetGrp>
+          <CurrentYearAmt>685988</CurrentYearAmt>
+          <Year1Amt>189924</Year1Amt>
+          <TotalAmt>875912</TotalAmt>
+        </TwoThirdsMinimumInvstRetGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>Pierre Omidyar</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>American Press Institute</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4401 Wilson Blvd Ste 900</AddressLine1Txt>
+            <CityNm>Arlington</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22203</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for research and education acitivites related to fact checking in journalism</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Bipartisan Policy Center Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1225 Eye St NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for the Democracy Program</GrantOrContributionPurposeTxt>
+          <Amt>1100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Center for Public Integrity</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>910 17th St NW Ste 700</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20006</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Consider the Source</GrantOrContributionPurposeTxt>
+          <Amt>350000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Ethics and Public Policy Center Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1730 M St NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for the Faith Angle Forum</GrantOrContributionPurposeTxt>
+          <Amt>60000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Faith and Politics Institute</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>110 Maryland Ave NESte 504</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20002</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General support</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Free Press</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1025 Connecticut Ave</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for the News Voices: New Jersey Project</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Online News Association</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1111 North Capitol St NE</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20002</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for the Challenge Fund for Innovation in Journalism</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Rock the Vote</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1001 Connecticut Ave NW Ste 640</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General support</GrantOrContributionPurposeTxt>
+          <Amt>75000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Rutgers The State University</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3 Rutgers Plaza</AddressLine1Txt>
+            <CityNm>New Brunswick</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08901</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for the News Measures Project</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The Aspen Institute Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>One Dupont Circle NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Aspen Congressional Program</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The Campaign Finance Institute</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1425 K St NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General support</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The Campaign Legal Center Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1411 K St NW Ste 1400</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Capacity support for strategic planning</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Voice of the People</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1779 Massachusetts Ave NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for the Citizen Cabinet Pilot Project</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Democracy Works Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>20 Jay St Ste 824</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11201</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General support</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Fordham University</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>441 E Fordham Rd Faber Hall 667</AddressLine1Txt>
+            <CityNm>Bronx</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10458</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Field Experiments on Money in Politics</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>George Washington University</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2115 G St NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for The Monkey Cage</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Institute for Nonprofit News</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>17514 Ventura Blvd</AddressLine1Txt>
+            <CityNm>Encino</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91316</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General support</GrantOrContributionPurposeTxt>
+          <Amt>280000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Issue One</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>11 Dupont Cir Ste 350</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Capacity building support for grant making program</GrantOrContributionPurposeTxt>
+          <Amt>21250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Massachusetts Institute of Technolo</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>30 Wadsworth St</AddressLine1Txt>
+            <CityNm>Cambridge</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02142</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Polling Place of the Future</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>No Labels Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1130 Connecticut Ave NW 325</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Capacity support for professional development for senior management</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>No Labels Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1130 Connecticut Ave NW 325</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General support</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Participatory Budgeting Project</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>33 Flatbush Ave</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11217</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to foster increased use of participatory budgeting in the United States</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The Pew Charitable Trusts</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>901 E St NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20004</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for the Pew Election Initiatives</GrantOrContributionPurposeTxt>
+          <Amt>750000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Proteus Fund</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>15 Research Dr</AddressLine1Txt>
+            <CityNm>Amherst</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01002</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for the Collaborative Communications Inititative on Money in Politics</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The Aspen Institute Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>One Dupont Cir NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for the Rodel Fellowship in Public Leadership</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Trustees of Columbia Univ in City o</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>729 Seventh Ave</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10019</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Columbia Journalism Review's United States Project</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The University of Arizona Foundatio</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>57 E Jackson St</AddressLine1Txt>
+            <CityNm>Tucson</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for the National Institute for Civil Discourse</GrantOrContributionPurposeTxt>
+          <Amt>80000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AZ State U Fndtn for a New American</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>300 E University Drive</AddressLine1Txt>
+            <CityNm>Tempe</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85280</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for research and public education on the Citizens' Initiative Review</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Center for Technology and Civic Lif</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1649 W Cortland Street</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60622</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General support</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Civic Hall LLC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>156 5th Avenue</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10010</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for nonpartisan research on how debates can increase engagement and become more responsive to voters' concerns</GrantOrContributionPurposeTxt>
+          <Amt>175000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Congressional Management Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>710 E Street SE</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20003</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General support</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Democracy Works Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>20 Jay St Ste 824</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11201</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for election administration website</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>FairVote</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6930 Carroll Avenue</AddressLine1Txt>
+            <CityNm>Takoma Park</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>20912</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General support</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>John S and James L Knight Fndtion I</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>200 South Biscayne Boulevard</AddressLine1Txt>
+            <CityNm>Miami</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33131</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Knight News Challenge on Elections</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Millennial Action Project</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1601 Connecticut Avenue NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20009</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General support</GrantOrContributionPurposeTxt>
+          <Amt>138000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Nat'l Conference of State Legislatu</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7700 East First Place</AddressLine1Txt>
+            <CityNm>Denver</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80230</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for research on election administration</GrantOrContributionPurposeTxt>
+          <Amt>175000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>New York University</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>105 EAst 17th Street</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10003</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for bipartisan research on the current state of money in politics</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>New Venture Fund</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1200 18th Street NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Next Century Cities' Democracy on a Gig Initiative</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Public Citizen Foundation Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1601 20th Street NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20009</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Bright Lines Project</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Take Back our Republic Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>246 East Glenn Avenue</AddressLine1Txt>
+            <CityNm>Auburn</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>36830</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General support</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The Institute for Cultural Evolutio</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>743 Pine Street</AddressLine1Txt>
+            <CityNm>Boulder</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80302</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for convening on the future of conservatism</GrantOrContributionPurposeTxt>
+          <Amt>96500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The OpenGov Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>30011 Ivy Glenn Drive</AddressLine1Txt>
+            <CityNm>Laguna Niguel</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92677</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to plan for the development of a Congressional Digital Service</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The Pew Charitable Trusts</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>901 E St NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20004</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Safe Spaces Project</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The Project on Government Oversight</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1100 G Street NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Congressional oversight trainings</GrantOrContributionPurposeTxt>
+          <Amt>137500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The University of Arizona Foundatio</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>57 E Jackson St</AddressLine1Txt>
+            <CityNm>Tucson</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for the National Institute for Civic Discourse</GrantOrContributionPurposeTxt>
+          <Amt>400000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Times Publishing Company</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>940 First Avenue South</AddressLine1Txt>
+            <CityNm>St Petersburg</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for independent nonpartisan fact-checking to improve news coverage and civic discourse in the states</GrantOrContributionPurposeTxt>
+          <Amt>125000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>8888250</TotalGrantOrContriPdDurYrAmt>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientPersonNm>Common Cause Education Fund</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1133 19th St NW 9th Flr</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General support</GrantOrContributionPurposeTxt>
+          <Amt>350000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientPersonNm>Internet Archive</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 292</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94129</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for promoting collaboration on democracy issues</GrantOrContributionPurposeTxt>
+          <Amt>49634</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientPersonNm>The University of Texas at Austin</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 University Station A1105</AddressLine1Txt>
+            <CityNm>Austin</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78712</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for promoting collaboration on democracy issues</GrantOrContributionPurposeTxt>
+          <Amt>31632</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientPersonNm>American Press Institute</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4401 Wilson Blvd Ste 900</AddressLine1Txt>
+            <CityNm>Arlington</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22203</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General support</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientPersonNm>Online News Association</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1111 North Capitol St NE</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20002</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for the Challenge Fund for Innovation in Journalism</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientPersonNm>Trustees of Tufts College</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>Lincoln Filene Hall</AddressLine1Txt>
+            <CityNm>Medford</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02155</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for promoting collaboration on democracy issues</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientPersonNm>Civic Hall Labs Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>156 5th Avenue</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10010</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Civic Hall Imagination Fellow</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientPersonNm>Democracy Works Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>20 Jay St Ste 824</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11201</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for promoting collaboration on democracy issues</GrantOrContributionPurposeTxt>
+          <Amt>36000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientPersonNm>Democracy Works Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>20 Jay St Ste 824</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11201</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for promoting collaboration on democracy issues</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientPersonNm>Congressional Management Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>710 E Street SE</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20003</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for promoting collaboration on democracy issues</GrantOrContributionPurposeTxt>
+          <Amt>49900</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientPersonNm>Democracy Works Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>20 Jay St Ste 824</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11201</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General support</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientPersonNm>FairVote</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6930 Carroll Avenue</AddressLine1Txt>
+            <CityNm>Takoma Park</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>20912</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for promoting collaboration on democracy issues</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientPersonNm>Geraldine R Dodge Foundation Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>14 Maple Avenue</AddressLine1Txt>
+            <CityNm>Morristown</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07960</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for the Local News Lab in New Jersey</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientPersonNm>Institute for Nonprofit News</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>17514 Ventura Blvd</AddressLine1Txt>
+            <CityNm>Encino</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91316</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for the INNovation Fund</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientPersonNm>Library of Congress</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>101 Independence Avenue SE</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20540</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Congressional Research Service seminars and trainings</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientPersonNm>Open Source Election Technology Fou</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>530 Lytton Avenue</AddressLine1Txt>
+            <CityNm>Palo Alto</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94301</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General support</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientPersonNm>ReThink Media Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2039 Shattuck Avenue</AddressLine1Txt>
+            <CityNm>Berkeley</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94704</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Collaborative Communications Inititative on Money in Politics</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientPersonNm>Trustees of Columbia Univ in City o</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>729 Seventh Ave</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10019</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for promoting collaboration on democracy issues</GrantOrContributionPurposeTxt>
+          <Amt>25875</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientPersonNm>US Vote Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4325 Old Glebe Road</AddressLine1Txt>
+            <CityNm>Arlington</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22207</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for promoting collaboration on democracy issues</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientPersonNm>Voice of San Diego</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2508 Historic Decatur Road</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support for Membership Academy</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientPersonNm>Women's Policy Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>409 12th Street</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20024</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General support</GrantOrContributionPurposeTxt>
+          <Amt>130000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientPersonNm>Participatory Budgeting Project</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>33 Flatbush Ave</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11217</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program support to promoting collaboration on democracy issues</GrantOrContributionPurposeTxt>
+          <Amt>17500</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <TotalGrantOrContriApprvFutAmt>2680541</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>3440</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>-868211</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>-864771</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>-864771</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>true</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>true</SharingOfFacilitiesEtcInd>
+        <TransferScheduleDetail>
+          <LineNumberTxt>1b(4)</LineNumberTxt>
+          <InvolvedAmt>4187</InvolvedAmt>
+          <NoncharitableExemptOrgName>
+            <BusinessNameLine1Txt>Democracy Fund Voice Inc</BusinessNameLine1Txt>
+          </NoncharitableExemptOrgName>
+          <TransfersTransAndShrArrngmDesc>Reimbursement of shared expenses</TransfersTransAndShrArrngmDesc>
+        </TransferScheduleDetail>
+        <TransferScheduleDetail>
+          <LineNumberTxt>1c</LineNumberTxt>
+          <InvolvedAmt>51089</InvolvedAmt>
+          <NoncharitableExemptOrgName>
+            <BusinessNameLine1Txt>Democracy Fund Voice Inc</BusinessNameLine1Txt>
+          </NoncharitableExemptOrgName>
+          <TransfersTransAndShrArrngmDesc>Shared paid employees</TransfersTransAndShrArrngmDesc>
+        </TransferScheduleDetail>
+        <RelationshipsNonchrtblEOInd>true</RelationshipsNonchrtblEOInd>
+        <RelationshipScheduleDetail>
+          <OrganizationBusinessName>
+            <BusinessNameLine1Txt>Democracy Fund Voice Inc</BusinessNameLine1Txt>
+          </OrganizationBusinessName>
+          <OrganizationTypeDesc>501(c)(4)</OrganizationTypeDesc>
+          <RelationshipDescriptionTxt>Common Director - Pierre Omidyar</RelationshipDescriptionTxt>
+        </RelationshipScheduleDetail>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>Pierre M Omidyar Trust</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>720 University Avenue Ste 200</AddressLine1Txt>
+          <CityNm>Los Gatos</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>95032</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>10395000</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorPersonNm>Pierre M Omidyar Trust</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>720 University Avenue Ste 200</AddressLine1Txt>
+          <CityNm>Los Gatos</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>95032</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>12778200</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>360,000 shares eBay Inc common stock</NoncashPropertyDesc>
+        <FairMarketValueAmt>10395000</FairMarketValueAmt>
+        <ReceivedDt>2015-11-25</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>360,000 shares Paypal common stock</NoncashPropertyDesc>
+        <FairMarketValueAmt>12778200</FairMarketValueAmt>
+        <ReceivedDt>2015-11-25</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>Accounting fees</CategoryTxt>
+        <Amt>31000</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>31000</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GeneralExplanationAttachment documentId="GeneralExplanation" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <GeneralExplanationGrp>
+        <FormAndLineReferenceDesc>General Explanation Supplemental Information for Form 990-PF</FormAndLineReferenceDesc>
+        <MediumExplanationTxt>Form 990PF, PART VIIB, LINE 1a(3) During the period ended December 31, 2015, affiliated entities and related parties provided in-kind services including financial manager fees of $137,500, recruiting fees of $22,300, legal fees of $90,000, rent expense of $214,926 and other expenses of $161,472. The total amount of these contributed services is valued at $626,198 but was not recorded on Form 990-PF.</MediumExplanationTxt>
+      </GeneralExplanationGrp>
+    </GeneralExplanationAttachment>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <LegalFeesGrp>
+        <CategoryTxt>Legal Fees</CategoryTxt>
+        <LegalFeesAmt>60044</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>60044</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherAssetsScheduleGrp>
+        <Desc>Prepaid expenses and other assets</Desc>
+        <BOYBookValueAmt>17954</BOYBookValueAmt>
+        <EOYBookValueAmt>83093</EOYBookValueAmt>
+        <EOYFMVAmt>83093</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>Accrual to cash adjustment</Desc>
+        <DisbursementsCharitablePrpsAmt>-432733</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Conference sponsorships</Desc>
+        <RevenueAndExpensesPerBooksAmt>153100</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>153100</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Event location and support</Desc>
+        <RevenueAndExpensesPerBooksAmt>37212</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>37212</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Hosted events - Internal</Desc>
+        <RevenueAndExpensesPerBooksAmt>35103</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>35103</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Other Expenses</Desc>
+        <RevenueAndExpensesPerBooksAmt>194155</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>194155</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Software</Desc>
+        <RevenueAndExpensesPerBooksAmt>33434</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>33434</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Staff professional development</Desc>
+        <RevenueAndExpensesPerBooksAmt>33700</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>33700</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherLiabilitiesSchedule documentId="OtherLiabilitiesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherLiabilitiesDetail>
+        <Desc>Federal excise tax payable</Desc>
+        <BOYBookValueAmt>110518</BOYBookValueAmt>
+        <EOYBookValueAmt>338759</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>Deferred Federal Excise Tax Liability</Desc>
+        <BOYBookValueAmt>370392</BOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Consultants</CategoryTxt>
+        <Amt>969101</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>969101</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Contracted services</CategoryTxt>
+        <Amt>40825</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>40825</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <TaxesDetail>
+        <CategoryTxt>Federal Excise Tax Expense</CategoryTxt>
+        <Amt>447849</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>Payroll Taxes</CategoryTxt>
+        <Amt>121890</Amt>
+        <DisbursementsCharitablePrpsAmt>121890</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

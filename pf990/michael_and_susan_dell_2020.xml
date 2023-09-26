@@ -1,0 +1,1357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2020v4.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2021-11-12T08:45:39-08:00</ReturnTs>
+    <TaxPeriodEndDt>2020-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>760269860</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Blazek &amp; Vetterling</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>2900 Weslayan Suite 200</AddressLine1Txt>
+        <CityNm>Houston</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>77027</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2020-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>364336415</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Michael &amp; Susan Dell Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>MICH</BusinessNameControlTxt>
+      <PhoneNum>5126005500</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>4417 Westlake Drive</AddressLine1Txt>
+        <CityNm>Austin</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>78746</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Misty Burns</PersonNm>
+      <PersonTitleTxt>VP, Finance</PersonTitleTxt>
+      <SignatureDt>2021-11-12</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>Misty</PersonFirstNm>
+        <PersonLastNm>Burns</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Kurt Coburn</PreparerPersonNm>
+      <PTIN>P01638285</PTIN>
+      <PhoneNum>7134395739</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2020</TaxYr>
+    <BuildTS>2022-09-23 18:48:47Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="17">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation AppliedToPriorYearElection BinaryAttachment.1 BinaryAttachment.2 BinaryAttachment.3 BinaryAttachment.4 BinaryAttachment.5 BinaryAttachment.6 BinaryAttachment.7 BinaryAttachment.8 BinaryAttachment.9 BinaryAttachment.10 BinaryAttachment.11" softwareId="20011551" softwareVersionNum="2020v4.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1943229672</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>20539182</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>693589</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>693589</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>7667574</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>7667574</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>186490086</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>880938445</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>186352359</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">9265810</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>8923926</OtherIncomeNetInvstIncmAmt>
+        <OtherIncomeAdjNetIncmAmt>298740</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>224656241</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>203637448</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>298740</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>482502</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>24216</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>458286</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>15545608</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsNetInvstIncmAmt>50308</OthEmplSlrsWgsNetInvstIncmAmt>
+        <OthEmplSlrsWgsAdjNetIncmAmt>298740</OthEmplSlrsWgsAdjNetIncmAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>11320920</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>4542102</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftNetInvstIncmAmt>15870</PensionEmplBnftNetInvstIncmAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>3682898</PensionEmplBnftDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSchedule">338953</LegalFeesRevAndExpnssAmt>
+        <LegalFeesDsbrsChrtblAmt>327674</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">224033</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>58590</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>159108</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">21833606</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>2920361</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>35123685</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">6029141</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>-128573</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>192113</TaxesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="DepreciationSchedule">2108028</DeprecAndDpltnRevAndExpnssAmt>
+        <OccupancyRevAndExpnssAmt>1595045</OccupancyRevAndExpnssAmt>
+        <OccupancyDsbrsChrtblAmt>1543904</OccupancyDsbrsChrtblAmt>
+        <TravConfMeetingRevAndExpnssAmt>205254</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>150851</TravConfMeetingDsbrsChrtblAmt>
+        <PrintingAndPubRevAndExpnssAmt>3949</PrintingAndPubRevAndExpnssAmt>
+        <PrintingAndPubDsbrsChrtblAmt>3078</PrintingAndPubDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">10553259</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>3775061</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>1547375</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>63461480</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>6715833</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>298740</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>54509892</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>114855196</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>120778730</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>178316676</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>6715833</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>298740</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>175288622</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>46339565</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>196921615</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>13769291</CashBOYAmt>
+        <CashEOYAmt>26811386</CashEOYAmt>
+        <CashEOYFMVAmt>26811386</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>96926916</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>122827947</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>122827947</SavAndTempCashInvstEOYFMVAmt>
+        <AcctRcvblAmt>2531504</AcctRcvblAmt>
+        <AcctRcvblBOYAmt>2971381</AcctRcvblBOYAmt>
+        <AcctRcvblEOYAmt>2531504</AcctRcvblEOYAmt>
+        <AcctRcvblEOYFMVAmt>2531504</AcctRcvblEOYFMVAmt>
+        <PrepaidExpensesBOYAmt>863300</PrepaidExpensesBOYAmt>
+        <PrepaidExpensesEOYAmt>659502</PrepaidExpensesEOYAmt>
+        <PrepaidExpensesEOYFMVAmt>659502</PrepaidExpensesEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>24962138</USGovernmentObligationsBOYAmt>
+        <CorporateStockBOYAmt>516099516</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedule">629413880</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>629413880</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>1093249426</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvestmentsOtherSchedule2">1068626408</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>1068626408</OtherInvestmentsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>25686242</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>9764565</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>14576502</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="LandEtcSchedule2">15921677</LandEOYAmt>
+        <LandEOYFMVAmt>15921677</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSchedule">61390050</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSchedule">76437368</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="OtherAssetsSchedule">76437368</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>1824808520</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1943229672</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1943229672</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>3139675</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>5775638</AccountsPayableEOYAmt>
+        <GrantsPayableBOYAmt>151323063</GrantsPayableBOYAmt>
+        <GrantsPayableEOYAmt>133105579</GrantsPayableEOYAmt>
+        <DeferredRevenueBOYAmt>108294</DeferredRevenueBOYAmt>
+        <DeferredRevenueEOYAmt>164242</DeferredRevenueEOYAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="OtherLiabilitiesSchedule">7613536</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabilitiesSchedule">7530000</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>162184568</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>146575459</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>1660383170</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>2240782</NoDonorRstrNetAssestsEOYAmt>
+        <DonorRstrNetAssetsEOYAmt>1178973</DonorRstrNetAssetsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1662623952</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1796654213</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1824808520</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1943229672</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1662623952</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>46339565</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSchedule">87754984</OtherIncreasesAmt>
+        <SubtotalAmt>1796718501</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSchedule">64288</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1796654213</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>See Statement 22</PropertyDesc>
+          <GrossSalesPriceAmt>880938445</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>694586086</CostOrOtherBasisAmt>
+          <GainOrLossAmt>186352359</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>186352359</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>186352359</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>2737210</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>2737210</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2737210</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>3250000</EstimatedPlusOvpmtIncmTxAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>2600000</ExtsnRequestIncomeTaxPaidAmt>
+        <TotalPaymentsAndCreditsAmt>5850000</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <OverpaymentAmt>3112790</OverpaymentAmt>
+        <AppliedToESTaxAmt>1000000</AppliedToESTaxAmt>
+        <RefundAmt>2112790</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>true</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>true</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>TX</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>true</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>dell.org</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Misty Burns</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>5126005500</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>4417 Westlake Drive</AddressLine1Txt>
+          <CityNm>Austin</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>78746</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>true</ForeignAccountsQuestionInd>
+        <ForeignCountryCd>IN</ForeignCountryCd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>true</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>true</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>true</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>true</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd>true</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Michael S Dell</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4417 Westlake Drive</AddressLine1Txt>
+            <CityNm>Austin</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78746</ZIPCd>
+          </USAddress>
+          <TitleTxt>President/Dir</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>10.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Susan L Dell</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4417 Westlake Drive</AddressLine1Txt>
+            <CityNm>Austin</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78746</ZIPCd>
+          </USAddress>
+          <TitleTxt>1st VP/Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>10.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Dr Alexander Dell</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4417 Westlake Drive</AddressLine1Txt>
+            <CityNm>Austin</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78746</ZIPCd>
+          </USAddress>
+          <TitleTxt>2nd VP/Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>10.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Marc Lisker</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4417 Westlake Drive</AddressLine1Txt>
+            <CityNm>Austin</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78746</ZIPCd>
+          </USAddress>
+          <TitleTxt>Treas/Asst Sec</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>10.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Janet Mountain</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4417 Westlake Drive</AddressLine1Txt>
+            <CityNm>Austin</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78746</ZIPCd>
+          </USAddress>
+          <TitleTxt>ED/Sec/Asst Tr</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>484322</CompensationAmt>
+          <EmployeeBenefitProgramAmt>61609</EmployeeBenefitProgramAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>Anand Srinivasan</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4417 Westlake Drive</AddressLine1Txt>
+            <CityNm>Austin</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78746</ZIPCd>
+          </USAddress>
+          <TitleTxt>Chief Bus Ofc</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>364484</CompensationAmt>
+          <EmployeeBenefitsAmt>54311</EmployeeBenefitsAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>Kevin Byrne</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4417 Westlake Drive</AddressLine1Txt>
+            <CityNm>Austin</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78746</ZIPCd>
+          </USAddress>
+          <TitleTxt>Mng Dir - US</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>323881</CompensationAmt>
+          <EmployeeBenefitsAmt>61609</EmployeeBenefitsAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>Mia Burton</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4417 Westlake Drive</AddressLine1Txt>
+            <CityNm>Austin</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78746</ZIPCd>
+          </USAddress>
+          <TitleTxt>Gen Counsel</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>281790</CompensationAmt>
+          <EmployeeBenefitsAmt>61291</EmployeeBenefitsAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>Troy Wheeler</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4417 Westlake Drive</AddressLine1Txt>
+            <CityNm>Austin</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78746</ZIPCd>
+          </USAddress>
+          <TitleTxt>Pres - Ed-Fi</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>301829</CompensationAmt>
+          <EmployeeBenefitsAmt>33153</EmployeeBenefitsAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>Jami O'Toole</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4417 Westlake Drive</AddressLine1Txt>
+            <CityNm>Austin</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78746</ZIPCd>
+          </USAddress>
+          <TitleTxt>Pgm Dir K-12 Ed</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>266813</CompensationAmt>
+          <EmployeeBenefitsAmt>58877</EmployeeBenefitsAmt>
+        </CompensationHighestPaidEmplGrp>
+        <OtherEmployeePaidOver50kCnt>101</OtherEmployeePaidOver50kCnt>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>MSD Partners LP</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>645 Fifth Avenue 21st Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10022</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>Investment management</ServiceTypeTxt>
+          <CompensationAmt>2900000</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>Bain &amp; Company</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>131 Darthmouth Street</AddressLine1Txt>
+            <CityNm>Boston</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02116</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>DCA program consulting</ServiceTypeTxt>
+          <CompensationAmt>1440000</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>Headspring Systems</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>10415 Morado Circle Building 3-300</AddressLine1Txt>
+            <CityNm>Austin</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78759</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>DCA education technology</ServiceTypeTxt>
+          <CompensationAmt>1302333</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>Boston Consulting Group</BusinessNameLine1Txt>
+          </BusinessName>
+          <ForeignAddress>
+            <AddressLine1Txt>14 Fl Nariman Bhawan 227 Narimam</AddressLine1Txt>
+            <CityNm>Mumbai</CityNm>
+            <ProvinceOrStateNm>Maharashtra</ProvinceOrStateNm>
+            <CountryCd>IN</CountryCd>
+            <ForeignPostalCd>400021</ForeignPostalCd>
+          </ForeignAddress>
+          <ServiceTypeTxt>DCA program consulting</ServiceTypeTxt>
+          <CompensationAmt>1144788</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>Samagra Development Associates Pvt Ltd</BusinessNameLine1Txt>
+          </BusinessName>
+          <ForeignAddress>
+            <AddressLine1Txt>U-15 Green Park Main</AddressLine1Txt>
+            <CityNm>New Delhi</CityNm>
+            <CountryCd>IN</CountryCd>
+            <ForeignPostalCd>110016</ForeignPostalCd>
+          </ForeignAddress>
+          <ServiceTypeTxt>DCA program consulting</ServiceTypeTxt>
+          <CompensationAmt>2716739</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <ContractorPaidOver50kCnt>67</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>Educational Initiatives in the United States, India &amp; South Africa - see Statement 24</Description1Txt>
+        <Expenses1Amt>15415068</Expenses1Amt>
+        <Description2Txt>Data Driven Education &amp; Ed-Fi - see Statement 24</Description2Txt>
+        <Expenses2Amt>12859589</Expenses2Amt>
+        <Description3Txt>Health Related Initiatives &amp; Community Support - see Statement 24</Description3Txt>
+        <Expenses3Amt>2424596</Expenses3Amt>
+        <Description4Txt>Family Economic Stability Initiatives - see Statement 24</Description4Txt>
+        <Expenses4Amt>1823434</Expenses4Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>Vivriti Samarth Bond Fund - see Statement 25</Description1Txt>
+        <Expenses1Amt>3064059</Expenses1Amt>
+        <Description2Txt>Grameen America - see Statement 25</Description2Txt>
+        <Expenses2Amt>2500000</Expenses2Amt>
+        <AllOtherProgramRltdInvstTotAmt referenceDocumentId="AllOtherProgramRelatedInvestme">17818668</AllOtherProgramRltdInvstTotAmt>
+        <TotalAmt>23382727</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>540102904</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>143411167</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>1013200681</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1696714752</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1696714752</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>25450721</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1671264031</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>83563202</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>83563202</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2737210</TaxBasedOnInvestmentIncomeAmt>
+        <IncomeTaxAmt>31711</IncomeTaxAmt>
+        <TotalTaxAmt>2768921</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>80794281</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>3608042</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>84402323</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>84402323</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>175288622</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>23382727</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>3897877</CharitableAssetsAcquisPaidAmt>
+        <QualifyingDistributionsAmt>202569226</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>202569226</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>84402323</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>80300933</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>69901339</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>76506791</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>84418155</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>84291564</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>395418782</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>202569226</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>84402323</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>118166903</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>513585685</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>278516</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>80022417</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>433284752</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>69901339</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>76506791</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>84418155</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>84291564</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>118166903</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>Michael S Dell</ContributingManagerNm>
+        <ContributingManagerNm>Susan L Dell</ContributingManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>dellyoungleadersorg andor</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4417 Westlake Drive</AddressLine1Txt>
+            <CityNm>Austin</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78746</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>5126005500</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>Online application</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>Please refer to the applicable websites</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>Please refer to dellscholars.org, dellyoungleaders.org, and/or dell.org</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Data Driven EducationEd-Fi</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>Address for e-filing purposes</AddressLine1Txt>
+            <CityNm>Austin</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78746</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>See Statement 26, pages 1-8</GrantOrContributionPurposeTxt>
+          <Amt>23133250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Dell Medical School</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>Address for e-filing purposes</AddressLine1Txt>
+            <CityNm>Austin</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78746</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>See Statement 26, pages 8-9</GrantOrContributionPurposeTxt>
+          <Amt>9279660</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Education</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>Address for e-filing purposes</AddressLine1Txt>
+            <CityNm>Austin</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78746</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>See Statement 26, pages 9-18</GrantOrContributionPurposeTxt>
+          <Amt>28653636</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Family Economic Stability</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>Address for e-filing purposes</AddressLine1Txt>
+            <CityNm>Austin</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78746</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>See Statement 26, pages 19-23</GrantOrContributionPurposeTxt>
+          <Amt>9656429</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Health Initiatives Community Suppor</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>Address for e-filing purposes</AddressLine1Txt>
+            <CityNm>Austin</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78746</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>See Statement 26, pages 23-29</GrantOrContributionPurposeTxt>
+          <Amt>37372555</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Other US Gifts</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>Address for e-filing purposes</AddressLine1Txt>
+            <CityNm>Austin</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78746</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>See Statement 26, pages 29-31, and Statement 28</GrantOrContributionPurposeTxt>
+          <Amt>6052450</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Scholarship Program</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>Address for e-filing purposes</AddressLine1Txt>
+            <CityNm>Austin</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78746</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>See Statement 26, page 31, and Statement 27</GrantOrContributionPurposeTxt>
+          <Amt>6630750</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>120778730</TotalGrantOrContriPdDurYrAmt>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientPersonNm>See Statement 29</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>Address for e-filing purposes</AddressLine1Txt>
+            <CityNm>Austin</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78746</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>See Statement 29</GrantOrContributionPurposeTxt>
+          <Amt>53889810</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <TotalGrantOrContriApprvFutAmt>53889810</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <ProgramServiceRevPartVIIGrp>
+          <Desc>Event &amp; sponsorship fees</Desc>
+          <RelatedOrExemptFunctionIncmAmt>38659</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevPartVIIGrp>
+        <ProgramServiceRevPartVIIGrp>
+          <Desc>Interest/dividends - PRIs</Desc>
+          <RelatedOrExemptFunctionIncmAmt>417632</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevPartVIIGrp>
+        <ProgramServiceRevPartVIIGrp>
+          <Desc>Subscript/implement fees</Desc>
+          <RelatedOrExemptFunctionIncmAmt>249801</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevPartVIIGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>693589</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>7667574</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <BusinessCd>525990</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>137727</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>186352359</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>Foreign currency/other</Desc>
+          <ExclusionCd>1</ExclusionCd>
+          <ExclusionAmt>377643</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>Foreign dividend income</Desc>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>1392346</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>Partnership K-1 income</Desc>
+          <BusinessCd>525990</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>53424</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>6736305</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>191151</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>203219816</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>706092</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>204117059</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>1a</LineNumberTxt>
+          <RelationshipStatementTxt>Event &amp; sponsorship fees: The Ed-Fi Alliance conducts an annual summit and bootcamp that brings together state and local education agency leaders, ed-tech vendors, technical experts and decision makers to connect, share, and learn about the advantages of data interoperability using the Ed-Fi data standard and technology tools. To help offset the costs of these events, Ed-Fi Alliance collects registration fees from attendees and sponsorship payments from organizations. These events were held virtually in 2020.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>1b</LineNumberTxt>
+          <RelationshipStatementTxt>Interest/dividends - PRIs: The Foundation uses highly structured equity and loan investments to help select entrepreneurial organizations in education, vocational training, and financial inclusion that help socially driven entrepreneurs launch new products that open new markets to routinely provide families living in urban poverty with access to the best-in-class financial, educational, and other tools that can help them transform their lifetime prospects.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>1c</LineNumberTxt>
+          <RelationshipStatementTxt>Subscription/implementation fees: College Success Tools (CST) licenses its comprehensive, cloud-based student management Software as a Service (SaaS) platform, GradSnapp, which empowers organizations to understand each students journey through college and provides the support and interventions they need while saving time and budget. GradSnapp provides comprehensive student profiles, including student progress dashboards, risk indicators and more. To help offset the costs of these activities, CST collects subscription and implementation fees from licensing GradSnapp.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="20011551" softwareVersionNum="2020v4.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>Michael Susan Dell</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>4417 Westlake Drive</AddressLine1Txt>
+          <CityNm>Austin</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>78746</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>2270710</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorPersonNm>Bill Melinda Gates Foundation</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO Box 23350</AddressLine1Txt>
+          <CityNm>Seattle</CityNm>
+          <StateAbbreviationCd>WA</StateAbbreviationCd>
+          <ZIPCd>98102</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>63065</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>3</ContributorNum>
+        <ContributorPersonNm>DBV Investments LP</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>645 Fifth Avenue 21st Floor</AddressLine1Txt>
+          <CityNm>New York</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10022</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>18205361</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>3</ContributorNum>
+        <NoncashPropertyDesc>717,877 shares Livongo Health Inc (LVGO)</NoncashPropertyDesc>
+        <FairMarketValueAmt>18205361</FairMarketValueAmt>
+        <ReceivedDt>2020-01-29</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="20011551" softwareVersionNum="2020v4.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>Accounting and audit fees</CategoryTxt>
+        <Amt>224033</Amt>
+        <NetInvestmentIncomeAmt>58590</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>159108</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <AllOthProgRltdInvestmentsSch documentId="AllOtherProgramRelatedInvestme" softwareId="20011551" softwareVersionNum="2020v4.0">
+      <AllOtherProgramRelatedInvstGrp>
+        <Desc>All others - see Statement 25</Desc>
+        <Amt>17818668</Amt>
+      </AllOtherProgramRelatedInvstGrp>
+    </AllOthProgRltdInvestmentsSch>
+    <AppliedToPriorYearElection documentId="AppliedToPriorYearElection" softwareId="20011551" softwareVersionNum="2020v4.0">
+      <ElectionDesc>Pursuant to Regulation 53.4942(a)-3(c)(2)(iv), the foundation hereby elects to treat, as a current distibution out of corpus, the following unused prior years distributions that were treated as corpus distributions under Regulation 53.4942(a)-3(d)(1)(iii) in such prior tax year: Tax Year: 2015 Amount: 278516 Tax Year: 0 Amount: 0</ElectionDesc>
+    </AppliedToPriorYearElection>
+    <DepreciationSchedule documentId="DepreciationSchedule" softwareId="20011551" softwareVersionNum="2020v4.0">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Buildings</PropertyDesc>
+        <AcquiredDt>2010-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>17198531</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>4783475</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>30.0000</LifeRt>
+        <CurrentYearExpenseAmt>502488</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Furn &amp; Fixt</PropertyDesc>
+        <AcquiredDt>2010-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>1514118</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>842541</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+        <CurrentYearExpenseAmt>166857</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Leasehold Imp</PropertyDesc>
+        <AcquiredDt>2010-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>464748</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>286315</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>3.0000</LifeRt>
+        <CurrentYearExpenseAmt>181977</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Computer Eqpt</PropertyDesc>
+        <AcquiredDt>2010-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>1154389</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>731922</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>3.0000</LifeRt>
+        <CurrentYearExpenseAmt>444393</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Office Eqpt</PropertyDesc>
+        <AcquiredDt>2010-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>811823</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>777026</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>3.0000</LifeRt>
+        <CurrentYearExpenseAmt>389253</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Telecomm Eqpt</PropertyDesc>
+        <AcquiredDt>2010-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>599887</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>347680</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>3.0000</LifeRt>
+        <CurrentYearExpenseAmt>40988</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Software</PropertyDesc>
+        <AcquiredDt>2010-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>141198</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>133434</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>3.0000</LifeRt>
+        <CurrentYearExpenseAmt>3882</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Amortization</PropertyDesc>
+        <AcquiredDt>2010-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>1</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>477385</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>3.0000</LifeRt>
+        <CurrentYearExpenseAmt>394282</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="20011551" softwareVersionNum="2020v4.0">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>5,050,000 MultiPlan Corp</StockNm>
+        <EOYBookValueAmt>40349500</EOYBookValueAmt>
+        <EOYFMVAmt>40349500</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>495,613 Neuberger Berman Guardian Fd</StockNm>
+        <EOYBookValueAmt>11671689</EOYBookValueAmt>
+        <EOYFMVAmt>11671689</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1,575,233 State Street EM Index NL Strat</StockNm>
+        <EOYBookValueAmt>56593378</EOYBookValueAmt>
+        <EOYFMVAmt>56593378</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1,971,695 State Street S&amp;P 500 Index NL</StockNm>
+        <EOYBookValueAmt>385278981</EOYBookValueAmt>
+        <EOYFMVAmt>385278981</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>607,799 Vanguard Dividend Growth Fund</StockNm>
+        <EOYBookValueAmt>20203250</EOYBookValueAmt>
+        <EOYFMVAmt>20203250</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>2,442,641 Vanguard FTSE Developed ETF</StockNm>
+        <EOYBookValueAmt>115317082</EOYBookValueAmt>
+        <EOYFMVAmt>115317082</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="20011551" softwareVersionNum="2020v4.0">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Abdiel Qualified Offshore Partners Ltd</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>109571007</BookValueAmt>
+        <EOYFMVAmt>109571007</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Abrams Capital Partners II LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>82533955</BookValueAmt>
+        <EOYFMVAmt>82533955</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Acceleratio Topco SCA</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>21199880</BookValueAmt>
+        <EOYFMVAmt>21199880</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>AKO European Long Only Fund Limited</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>67671297</BookValueAmt>
+        <EOYFMVAmt>67671297</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>AKO Global Fund Limited</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>45816895</BookValueAmt>
+        <EOYFMVAmt>45816895</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>AKO Global Long Only Fund</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>51019414</BookValueAmt>
+        <EOYFMVAmt>51019414</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ATP Oil &amp; Gas Dip Facility - Bank Debt</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>58786</BookValueAmt>
+        <EOYFMVAmt>58786</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Biotechnology Value Fund II LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>89257896</BookValueAmt>
+        <EOYFMVAmt>89257896</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Brookside Cayman Ltd</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>120916</BookValueAmt>
+        <EOYFMVAmt>120916</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Cowen Healthcare Investments III LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>2700948</BookValueAmt>
+        <EOYFMVAmt>2700948</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Eagle Capital Equity Fund LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>10415694</BookValueAmt>
+        <EOYFMVAmt>10415694</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Echo Street Goodco Select II LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>18963505</BookValueAmt>
+        <EOYFMVAmt>18963505</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Energy Capital Partners I LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>360525</BookValueAmt>
+        <EOYFMVAmt>360525</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Farallon Capital Instl Fund</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>5133800</BookValueAmt>
+        <EOYFMVAmt>5133800</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>FCOI II Holdings LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>705762</BookValueAmt>
+        <EOYFMVAmt>705762</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Gaoling Feeder Ltd</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>3779789</BookValueAmt>
+        <EOYFMVAmt>3779789</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>GS Capital Partners V LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>530104</BookValueAmt>
+        <EOYFMVAmt>530104</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>GS Capital Partners VI LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>1556637</BookValueAmt>
+        <EOYFMVAmt>1556637</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>JNE Fund LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>13235974</BookValueAmt>
+        <EOYFMVAmt>13235974</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>JNE Fund Ltd</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>9059254</BookValueAmt>
+        <EOYFMVAmt>9059254</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>King Street Capital Ltd Cl A</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>9849653</BookValueAmt>
+        <EOYFMVAmt>9849653</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MPLN Warrants $11.50 03/01/2027</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>375000</BookValueAmt>
+        <EOYFMVAmt>375000</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MSD Credit Opportunity Fund (Cayman) LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>11271211</BookValueAmt>
+        <EOYFMVAmt>11271211</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MSD Credit Opportunity Fund LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>54642944</BookValueAmt>
+        <EOYFMVAmt>54642944</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MSD Energy Partners LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>23039</BookValueAmt>
+        <EOYFMVAmt>23039</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MSD Real Estate Credit Opportunity Fd LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>2981434</BookValueAmt>
+        <EOYFMVAmt>2981434</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MSD Sparrowhawk LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>23680684</BookValueAmt>
+        <EOYFMVAmt>23680684</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Nitorum Offshore Fund Ltd</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>132528689</BookValueAmt>
+        <EOYFMVAmt>132528689</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Redwood Offshore Fund Cl A2</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>166549022</BookValueAmt>
+        <EOYFMVAmt>166549022</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Schonfeld Fundamental Equity Offshore Fd</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>91191115</BookValueAmt>
+        <EOYFMVAmt>91191115</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Tiger Global Private Inv Partners XI LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>40792684</BookValueAmt>
+        <EOYFMVAmt>40792684</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>WCP Real Estate Fund I LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>77880</BookValueAmt>
+        <EOYFMVAmt>77880</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Whale Rock Flagship Fund Ltd</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>858016</BookValueAmt>
+        <EOYFMVAmt>858016</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Whitehall Street Intl RE</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>112999</BookValueAmt>
+        <EOYFMVAmt>112999</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="20011551" softwareVersionNum="2020v4.0">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Furniture and Fixtures</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>1756600</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>1141732</AccumulatedDepreciationAmt>
+        <BookValueAmt>614868</BookValueAmt>
+        <EOYFMVAmt>614868</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Machinery and Equipment</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>4367202</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>2868578</AccumulatedDepreciationAmt>
+        <BookValueAmt>1498624</BookValueAmt>
+        <EOYFMVAmt>1498624</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Buildings</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>17198531</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>5285963</AccumulatedDepreciationAmt>
+        <BookValueAmt>11912568</BookValueAmt>
+        <EOYFMVAmt>11912568</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Improvements</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>771769</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>468292</AccumulatedDepreciationAmt>
+        <BookValueAmt>303477</BookValueAmt>
+        <EOYFMVAmt>303477</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Land</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>1592140</CostOrOtherBasisAmt>
+        <BookValueAmt>1592140</BookValueAmt>
+        <EOYFMVAmt>1592140</EOYFMVAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="20011551" softwareVersionNum="2020v4.0">
+      <LegalFeesGrp>
+        <CategoryTxt>General governance and counseling</CategoryTxt>
+        <LegalFeesAmt>338953</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>327674</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="20011551" softwareVersionNum="2020v4.0">
+      <OtherAssetsScheduleGrp>
+        <Desc>PRIs - Data Driven Education</Desc>
+        <BOYBookValueAmt>13390361</BOYBookValueAmt>
+        <EOYBookValueAmt>11449610</EOYBookValueAmt>
+        <EOYFMVAmt>11449610</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>PRIs - Education</Desc>
+        <BOYBookValueAmt>20663939</BOYBookValueAmt>
+        <EOYBookValueAmt>20429005</EOYBookValueAmt>
+        <EOYFMVAmt>20429005</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>PRIs - Family Economic Stability</Desc>
+        <BOYBookValueAmt>3094612</BOYBookValueAmt>
+        <EOYBookValueAmt>2469612</EOYBookValueAmt>
+        <EOYFMVAmt>2469612</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>PRIs - Health</Desc>
+        <BOYBookValueAmt>1500000</BOYBookValueAmt>
+        <EOYBookValueAmt>1097000</EOYBookValueAmt>
+        <EOYFMVAmt>1097000</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>PRIs - Micro Finance</Desc>
+        <BOYBookValueAmt>8844903</BOYBookValueAmt>
+        <EOYBookValueAmt>10633301</EOYBookValueAmt>
+        <EOYFMVAmt>10633301</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>PRIs - Vocational Training</Desc>
+        <BOYBookValueAmt>13896235</BOYBookValueAmt>
+        <EOYBookValueAmt>30358840</EOYBookValueAmt>
+        <EOYFMVAmt>30358840</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSchedule" softwareId="20011551" softwareVersionNum="2020v4.0">
+      <OtherDecreasesDetail>
+        <Desc>Foreign currency translation adjustment</Desc>
+        <Amt>64288</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="20011551" softwareVersionNum="2020v4.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>Bank charges</Desc>
+        <RevenueAndExpensesPerBooksAmt>31440</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>31440</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Dues and memberships</Desc>
+        <RevenueAndExpensesPerBooksAmt>29673</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>29673</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Insurance</Desc>
+        <RevenueAndExpensesPerBooksAmt>110683</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>110683</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Office supplies</Desc>
+        <RevenueAndExpensesPerBooksAmt>77844</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>77844</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Other expenses</Desc>
+        <RevenueAndExpensesPerBooksAmt>494261</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>127610</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Partnership K-1 Expenses</Desc>
+        <RevenueAndExpensesPerBooksAmt>3799450</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>3775061</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Postage</Desc>
+        <RevenueAndExpensesPerBooksAmt>8885</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>8885</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PRI impairment</Desc>
+        <RevenueAndExpensesPerBooksAmt>4832647</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Recruiting</Desc>
+        <RevenueAndExpensesPerBooksAmt>16681</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>16681</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Tech infrastructure</Desc>
+        <RevenueAndExpensesPerBooksAmt>1046116</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1038980</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Training &amp; education</Desc>
+        <RevenueAndExpensesPerBooksAmt>105579</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>105579</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="20011551" softwareVersionNum="2020v4.0">
+      <OtherIncomeDetail>
+        <Desc>Event &amp; sponsorship fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>38659</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>Foreign currency/other</Desc>
+        <RevenueAndExpensesPerBooksAmt>377643</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>377643</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>Foreign dividend income</Desc>
+        <RevenueAndExpensesPerBooksAmt>1392346</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1392346</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>Interest/dividends - PRIs</Desc>
+        <RevenueAndExpensesPerBooksAmt>417632</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>417632</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>Partnership K-1 income</Desc>
+        <RevenueAndExpensesPerBooksAmt>6789729</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>6736305</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>Subscript/implement fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>249801</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>298740</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSchedule" softwareId="20011551" softwareVersionNum="2020v4.0">
+      <OtherIncreasesDetail>
+        <Desc>Returned grants</Desc>
+        <Amt>1448904</Amt>
+      </OtherIncreasesDetail>
+      <OtherIncreasesDetail>
+        <Desc>Unrealized appreciation in value of investments</Desc>
+        <Amt>86306080</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="20011551" softwareVersionNum="2020v4.0">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>DCAs: Data Driven Educ &amp; EdFi</CategoryTxt>
+        <Amt>5209952</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>8939552</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>DCAs: Educational Initiatives</CategoryTxt>
+        <Amt>8407392</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>14425913</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>DCAs: Family Economic Stability</CategoryTxt>
+        <Amt>1062694</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1823434</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>DCAs: Health Related &amp; Community Supp</CategoryTxt>
+        <Amt>1413049</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2424596</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Investment management fees</CategoryTxt>
+        <Amt>2920361</Amt>
+        <NetInvestmentIncomeAmt>2920361</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Prof fees - grantmaking activities</CategoryTxt>
+        <Amt>1672054</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>6008153</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Prof fees - other</CategoryTxt>
+        <Amt>1148104</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1502037</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="20011551" softwareVersionNum="2020v4.0">
+      <TaxesDetail>
+        <CategoryTxt>Federal tax-current</CategoryTxt>
+        <Amt>6086090</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>Foreign tax-charitable operations</CategoryTxt>
+        <Amt>192113</Amt>
+        <DisbursementsCharitablePrpsAmt>192113</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>Penalties &amp; interest</CategoryTxt>
+        <Amt>4326</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>State / Foreign tax</CategoryTxt>
+        <Amt>253388</Amt>
+        <NetInvestmentIncomeAmt>-128573</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

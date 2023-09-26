@@ -1,0 +1,722 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2019v5.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2021-08-13T08:59:14-05:00</ReturnTs>
+    <TaxPeriodEndDt>2020-09-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>420714325</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>RSM US LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>2021 L STREET NW SUITE 400</AddressLine1Txt>
+        <CityNm>WASHINGTON</CityNm>
+        <StateAbbreviationCd>DC</StateAbbreviationCd>
+        <ZIPCd>20036</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990</ReturnTypeCd>
+    <TaxPeriodBeginDt>2019-10-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>843126447</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>OPEN TECHNOLOGY FUND</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>OPEN</BusinessNameControlTxt>
+      <PhoneNum>2029830471</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>2101 L STREET NW NO 300</AddressLine1Txt>
+        <CityNm>WASHINGTON</CityNm>
+        <StateAbbreviationCd>DC</StateAbbreviationCd>
+        <ZIPCd>20037</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>HEIDI PILLOUD</PersonNm>
+      <PersonTitleTxt>CHIEF FINANCIAL OFFICER</PersonTitleTxt>
+      <PhoneNum>2029830471</PhoneNum>
+      <SignatureDt>2021-08-13</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>ELIZABETH W HELLER</PreparerPersonNm>
+      <PTIN>P00397829</PTIN>
+      <PhoneNum>2022932200</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2019</TaxYr>
+    <BuildTS>2022-09-23 18:48:47Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <InitialReturnInd>X</InitialReturnInd>
+      <PrincipalOfficerNm>LAURA CUNNINGHAM</PrincipalOfficerNm>
+      <USAddress>
+        <AddressLine1Txt>2101 L STREET NW NO 300</AddressLine1Txt>
+        <CityNm>WASHINGTON</CityNm>
+        <StateAbbreviationCd>DC</StateAbbreviationCd>
+        <ZIPCd>20037</ZIPCd>
+      </USAddress>
+      <GrossReceiptsAmt>5679412</GrossReceiptsAmt>
+      <GroupReturnForAffiliatesInd>0</GroupReturnForAffiliatesInd>
+      <Organization501c3Ind>X</Organization501c3Ind>
+      <WebsiteAddressTxt>OPENTECH.FUND</WebsiteAddressTxt>
+      <TypeOfOrganizationCorpInd>X</TypeOfOrganizationCorpInd>
+      <FormationYr>2019</FormationYr>
+      <LegalDomicileStateCd>DC</LegalDomicileStateCd>
+      <ActivityOrMissionDesc>THE OPEN TECHNOLOGY FUND (OTF) IS AN INDEPENDENT NON-PROFIT ORGANIZATION COMMITTED TO ADVANCING GLOBAL INTERNET FREEDOM. OTF SUPPORTS PROJECTS FOCUSED ON COUNTERACTING REPRESSIVE CENSORSHIP AND SURVEILLANCE, ENABLING CITIZENS WORLDWIDE TO EXERCISE THEIR FUNDAMENTAL HUMAN RIGHTS ONLINE. THROUGH THE RESEARCH, DEVELOPMENT, IMPLEMENTATION, AND SUSTAINABILITY OF TECHNOLOGIES THAT FACILITATE THE FREE FLOW OF INFORMATION, INCREASE AT-RISK USERS' DIGITAL SECURITY, AND ENABLE FREE EXPRESSION, THE OTF COMMUNITY IS WORKING TO SHAPE THE INTERNET AS A PLATFORM THAT FOSTERS UNIMPEDED CONNECTION AND COLLABORATION - FACILITATING POSITIVE SOCIAL PROGRESS AND REINFORCING CORE DEMOCRATIC VALUES.</ActivityOrMissionDesc>
+      <VotingMembersGoverningBodyCnt>5</VotingMembersGoverningBodyCnt>
+      <VotingMembersIndependentCnt>5</VotingMembersIndependentCnt>
+      <TotalEmployeeCnt>1</TotalEmployeeCnt>
+      <TotalVolunteersCnt>5</TotalVolunteersCnt>
+      <TotalGrossUBIAmt>0</TotalGrossUBIAmt>
+      <NetUnrelatedBusTxblIncmAmt>0</NetUnrelatedBusTxblIncmAmt>
+      <CYContributionsGrantsAmt>5679186</CYContributionsGrantsAmt>
+      <CYProgramServiceRevenueAmt>0</CYProgramServiceRevenueAmt>
+      <CYInvestmentIncomeAmt>0</CYInvestmentIncomeAmt>
+      <CYOtherRevenueAmt>226</CYOtherRevenueAmt>
+      <CYTotalRevenueAmt>5679412</CYTotalRevenueAmt>
+      <CYGrantsAndSimilarPaidAmt>0</CYGrantsAndSimilarPaidAmt>
+      <CYBenefitsPaidToMembersAmt>0</CYBenefitsPaidToMembersAmt>
+      <CYSalariesCompEmpBnftPaidAmt>1083462</CYSalariesCompEmpBnftPaidAmt>
+      <CYTotalProfFndrsngExpnsAmt>0</CYTotalProfFndrsngExpnsAmt>
+      <CYTotalFundraisingExpenseAmt>0</CYTotalFundraisingExpenseAmt>
+      <CYOtherExpensesAmt>4595950</CYOtherExpensesAmt>
+      <CYTotalExpensesAmt>5679412</CYTotalExpensesAmt>
+      <CYRevenuesLessExpensesAmt>0</CYRevenuesLessExpensesAmt>
+      <TotalAssetsBOYAmt>9000</TotalAssetsBOYAmt>
+      <TotalAssetsEOYAmt>6044660</TotalAssetsEOYAmt>
+      <TotalLiabilitiesBOYAmt>9000</TotalLiabilitiesBOYAmt>
+      <TotalLiabilitiesEOYAmt>6044660</TotalLiabilitiesEOYAmt>
+      <NetAssetsOrFundBalancesBOYAmt>0</NetAssetsOrFundBalancesBOYAmt>
+      <NetAssetsOrFundBalancesEOYAmt>0</NetAssetsOrFundBalancesEOYAmt>
+      <InfoInScheduleOPartIIIInd>X</InfoInScheduleOPartIIIInd>
+      <MissionDesc>TO SUPPORT THE IMPLEMENTATION, RESEARCH, AND DEVELOPMENT OF TOOLS AND TECHNOLOGIES THAT INCREASE ACCESS TO NEWS AND INFORMATION ONLINE, FREE FROM CENSORSHIP AND SURVEILLANCE.</MissionDesc>
+      <SignificantNewProgramSrvcInd>0</SignificantNewProgramSrvcInd>
+      <SignificantChangeInd>0</SignificantChangeInd>
+      <ExpenseAmt>2209931</ExpenseAmt>
+      <GrantAmt>0</GrantAmt>
+      <Desc>THE INTERNET FREEDOM FUND IS THE OPEN TECHNOLOGY FUND'S PRIMARY WAY TO SUPPORT PROJECTS AND PEOPLE WORKING ON OPEN AND ACCESSIBLE TECHNOLOGY-FOCUSED PROJECTS THAT PROMOTE HUMAN RIGHTS, INTERNET FREEDOM, AND OPEN SOCIETIES. THIS FUND ACCEPTS APPLICATIONS ON A ROLLING BASIS AND IS DONE IN A TWO-STAGE PROCESS. THE PROJECTS AND PEOPLE OTF SUPPORTS FALL INTO ONE OR MORE OF THE FOLLOWING AREAS: TECHNOLOGY DEVELOPMENT, APPLIED RESEARCH, DIGITAL SECURITY SUPPORT, OR EVENTS.</Desc>
+      <ProgSrvcAccomActy2Grp>
+        <ExpenseAmt>920299</ExpenseAmt>
+        <Desc>THE TECHNOLOGY AT SCALE FUND IS THE PRIMARY MEANS THROUGH WHICH OTF DIRECTLY SUPPORTS THE TECHNOLOGY NEEDS OF THE U.S. AGENCY FOR GLOBAL MEDIA BROADCAST NETWORKS, JOURNALISTS, AND THEIR AUDIENCES. MANY OF THESE NETWORKS SERVE AUDIENCES IN COUNTRIES THAT ATTEMPT TO BLOCK ACCESS TO USAGM CONTENT AND IMPEDE JOURNALISTS' EFFORTS TO REPORT OBJECTIVE NEWS. THIS FUND SUPPORTS SOLUTIONS THAT ENSURE USAGM AUDIENCES CAN ACCESS CONTENT SAFELY THROUGH FIREWALLS AND OTHER GOVERNMENT ATTEMPTS TO CENSOR OBJECTIVE NEWS.</Desc>
+      </ProgSrvcAccomActy2Grp>
+      <ProgSrvcAccomActy3Grp>
+        <ExpenseAmt>687879</ExpenseAmt>
+        <Desc>OTF RESOURCE LABS ARE A GENERAL SET OF MECHANISMS THAT ARE MADE AVAILABLE TO PROJECTS SUPPORTED BY OTF. THESE PROGRAMS AIM TO OFFSET ANY CURRENT INABILITY TO PROVIDE LONG-TERM FUNDING SUPPORT. THE LABS ARE RECOGNITION THAT THE COMMUNITY OF INTERNET FREEDOM AND DIGITAL HUMAN-RIGHTS DEFENDERS REQUIRE CONTINUOUS SUPPORT RATHER THAN LIMITED PROJECTS AND A CONSTANT RE-APPLICATION PROCESS. THE TOOLS AVAILABLE INCLUDE: LOCALIZATION LAB - LOCALIZING INTERNET FREEDOM TOOLS IN NEW LANGUAGES; RED TEAM LAB - STRENGTHENING THE SECURITY OF OPEN-SOURCE INTERNET FREEDOM TOOLS; USABILITY LAB - INCREASING USER SAFETY BY WORKING WITH DEVELOPERS TO IMPROVE USABILITY OF SOFTWARE AND TOOLS; LEARNING LAB - TELLING THE STORIES OF PROJECTS AND THE RESULTS THEY PRODUCE; ENGINEERING LAB - FACILITATING ADOPTION OF UNDERLYING PRIVACY, SECURITY, AND CIRCUMVENTION TECHNOLOGIES; AND LEGAL LAB - DIRECTING LEGAL SERVICES AND LEGAL INFORMATION RESOURCES FOR TECHNOLOGY-CENTERED PROJECTS WORKING TO SUPPORT INTERNET FREEDOM.</Desc>
+      </ProgSrvcAccomActy3Grp>
+      <ProgSrvcAccomActyOtherGrp>
+        <ExpenseAmt>327150</ExpenseAmt>
+        <Desc>RESEARCH FELLOWSHIPS - AS INDICATED IN ITS INITIAL 1023 FILING, OTF USES THE TERM FELLOWSHIP TO DESCRIBE CERTAIN PAYMENTS FOR SERVICES VIA CONTRACTS. THESE ARE NOT "FELLOWSHIPS" AS THAT TERM IS COMMONLY USED.</Desc>
+      </ProgSrvcAccomActyOtherGrp>
+      <ProgSrvcAccomActyOtherGrp>
+        <ExpenseAmt>76033</ExpenseAmt>
+        <Desc>RAPID RESPONSE</Desc>
+      </ProgSrvcAccomActyOtherGrp>
+      <TotalOtherProgSrvcExpenseAmt>403183</TotalOtherProgSrvcExpenseAmt>
+      <TotalProgramServiceExpensesAmt>4221292</TotalProgramServiceExpensesAmt>
+      <DescribedInSection501c3Ind referenceDocumentId="RetDoc1039100001">1</DescribedInSection501c3Ind>
+      <ScheduleBRequiredInd referenceDocumentId="RetDoc1234500001">1</ScheduleBRequiredInd>
+      <PoliticalCampaignActyInd>0</PoliticalCampaignActyInd>
+      <LobbyingActivitiesInd>0</LobbyingActivitiesInd>
+      <SubjectToProxyTaxInd>0</SubjectToProxyTaxInd>
+      <DonorAdvisedFundInd referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFundInd>
+      <ConservationEasementsInd referenceDocumentId="RetDoc1040000001">0</ConservationEasementsInd>
+      <CollectionsOfArtInd referenceDocumentId="RetDoc1040000001">0</CollectionsOfArtInd>
+      <CreditCounselingInd referenceDocumentId="RetDoc1040000001">0</CreditCounselingInd>
+      <DonorRstrOrQuasiEndowmentsInd>0</DonorRstrOrQuasiEndowmentsInd>
+      <ReportLandBuildingEquipmentInd referenceDocumentId="RetDoc1040000001">0</ReportLandBuildingEquipmentInd>
+      <ReportInvestmentsOtherSecInd referenceDocumentId="RetDoc1040000001">0</ReportInvestmentsOtherSecInd>
+      <ReportProgramRelatedInvstInd referenceDocumentId="RetDoc1040000001">0</ReportProgramRelatedInvstInd>
+      <ReportOtherAssetsInd referenceDocumentId="RetDoc1040000001">0</ReportOtherAssetsInd>
+      <ReportOtherLiabilitiesInd referenceDocumentId="RetDoc1040000001">0</ReportOtherLiabilitiesInd>
+      <IncludeFIN48FootnoteInd referenceDocumentId="RetDoc1040000001">0</IncludeFIN48FootnoteInd>
+      <IndependentAuditFinclStmtInd referenceDocumentId="RetDoc1040000001">1</IndependentAuditFinclStmtInd>
+      <ConsolidatedAuditFinclStmtInd referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinclStmtInd>
+      <SchoolOperatingInd>0</SchoolOperatingInd>
+      <ForeignOfficeInd>0</ForeignOfficeInd>
+      <ForeignActivitiesInd>0</ForeignActivitiesInd>
+      <MoreThan5000KToOrgInd>0</MoreThan5000KToOrgInd>
+      <MoreThan5000KToIndividualsInd>0</MoreThan5000KToIndividualsInd>
+      <ProfessionalFundraisingInd>0</ProfessionalFundraisingInd>
+      <FundraisingActivitiesInd>0</FundraisingActivitiesInd>
+      <GamingActivitiesInd>0</GamingActivitiesInd>
+      <OperateHospitalInd>0</OperateHospitalInd>
+      <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+      <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+      <ScheduleJRequiredInd>0</ScheduleJRequiredInd>
+      <TaxExemptBondsInd>0</TaxExemptBondsInd>
+      <EngagedInExcessBenefitTransInd>0</EngagedInExcessBenefitTransInd>
+      <PYExcessBenefitTransInd>0</PYExcessBenefitTransInd>
+      <LoanOutstandingInd>0</LoanOutstandingInd>
+      <GrantToRelatedPersonInd>0</GrantToRelatedPersonInd>
+      <BusinessRlnWithOrgMemInd>0</BusinessRlnWithOrgMemInd>
+      <BusinessRlnWithFamMemInd>0</BusinessRlnWithFamMemInd>
+      <BusinessRlnWith35CtrlEntInd>0</BusinessRlnWith35CtrlEntInd>
+      <DeductibleNonCashContriInd>0</DeductibleNonCashContriInd>
+      <DeductibleArtContributionInd>0</DeductibleArtContributionInd>
+      <TerminateOperationsInd>0</TerminateOperationsInd>
+      <PartialLiquidationInd>0</PartialLiquidationInd>
+      <DisregardedEntityInd referenceDocumentId="RetDoc1043400001">0</DisregardedEntityInd>
+      <RelatedEntityInd referenceDocumentId="RetDoc1043400001">1</RelatedEntityInd>
+      <RelatedOrganizationCtrlEntInd>0</RelatedOrganizationCtrlEntInd>
+      <TrnsfrExmptNonChrtblRltdOrgInd referenceDocumentId="RetDoc1043400001">0</TrnsfrExmptNonChrtblRltdOrgInd>
+      <ActivitiesConductedPrtshpInd referenceDocumentId="RetDoc1043400001">0</ActivitiesConductedPrtshpInd>
+      <ScheduleORequiredInd>1</ScheduleORequiredInd>
+      <IRPDocumentCnt>0</IRPDocumentCnt>
+      <IRPDocumentW2GCnt>0</IRPDocumentW2GCnt>
+      <EmployeeCnt>1</EmployeeCnt>
+      <EmploymentTaxReturnsFiledInd>1</EmploymentTaxReturnsFiledInd>
+      <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+      <ForeignFinancialAccountInd>0</ForeignFinancialAccountInd>
+      <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+      <TaxablePartyNotificationInd>0</TaxablePartyNotificationInd>
+      <NondeductibleContributionsInd>0</NondeductibleContributionsInd>
+      <QuidProQuoContributionsInd>0</QuidProQuoContributionsInd>
+      <Form8282PropertyDisposedOfInd>0</Form8282PropertyDisposedOfInd>
+      <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+      <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+      <IndoorTanningServicesInd>0</IndoorTanningServicesInd>
+      <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      <SubjectToExcsTaxNetInvstIncInd>0</SubjectToExcsTaxNetInvstIncInd>
+      <InfoInScheduleOPartVIInd>X</InfoInScheduleOPartVIInd>
+      <GoverningBodyVotingMembersCnt>5</GoverningBodyVotingMembersCnt>
+      <IndependentVotingMemberCnt>5</IndependentVotingMemberCnt>
+      <FamilyOrBusinessRlnInd>0</FamilyOrBusinessRlnInd>
+      <DelegationOfMgmtDutiesInd>0</DelegationOfMgmtDutiesInd>
+      <ChangeToOrgDocumentsInd>0</ChangeToOrgDocumentsInd>
+      <MaterialDiversionOrMisuseInd>0</MaterialDiversionOrMisuseInd>
+      <MembersOrStockholdersInd>0</MembersOrStockholdersInd>
+      <ElectionOfBoardMembersInd>0</ElectionOfBoardMembersInd>
+      <DecisionsSubjectToApprovaInd>0</DecisionsSubjectToApprovaInd>
+      <MinutesOfGoverningBodyInd>1</MinutesOfGoverningBodyInd>
+      <MinutesOfCommitteesInd>1</MinutesOfCommitteesInd>
+      <OfficerMailingAddressInd>0</OfficerMailingAddressInd>
+      <LocalChaptersInd>0</LocalChaptersInd>
+      <Form990ProvidedToGvrnBodyInd>1</Form990ProvidedToGvrnBodyInd>
+      <ConflictOfInterestPolicyInd>1</ConflictOfInterestPolicyInd>
+      <AnnualDisclosureCoveredPrsnInd>1</AnnualDisclosureCoveredPrsnInd>
+      <RegularMonitoringEnfrcInd>1</RegularMonitoringEnfrcInd>
+      <WhistleblowerPolicyInd>1</WhistleblowerPolicyInd>
+      <DocumentRetentionPolicyInd>1</DocumentRetentionPolicyInd>
+      <CompensationProcessCEOInd>1</CompensationProcessCEOInd>
+      <CompensationProcessOtherInd>1</CompensationProcessOtherInd>
+      <InvestmentInJointVentureInd>0</InvestmentInJointVentureInd>
+      <UponRequestInd>X</UponRequestInd>
+      <BooksInCareOfDetail>
+        <BusinessName>
+          <BusinessNameLine1Txt>HEIDI PILLOUD</BusinessNameLine1Txt>
+        </BusinessName>
+        <PhoneNum>2029830471</PhoneNum>
+        <USAddress>
+          <AddressLine1Txt>2101 L STREET NW NO 300</AddressLine1Txt>
+          <CityNm>WASHINGTON</CityNm>
+          <StateAbbreviationCd>DC</StateAbbreviationCd>
+          <ZIPCd>20037</ZIPCd>
+        </USAddress>
+      </BooksInCareOfDetail>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>KAREN KORNBLUH</PersonNm>
+        <TitleTxt>CHAIRPERSON/DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>2.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>RYAN CROCKER</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>2.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MICHAEL KEMPNER</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>2.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>BEN SCOTT</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>2.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>WILLIAM SCHNEIDER</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>LEON ARON</PersonNm>
+        <TitleTxt>DIRECTOR (THRU 6/2020)</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>2.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>KENNETH WEINSTEIN</PersonNm>
+        <TitleTxt>CHAIRPERSON (THRU 6/2020)</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>2.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>ULRICH BRECHBUHL</PersonNm>
+        <TitleTxt>DIRECTOR (THRU 6/2020)</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>2.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>LIBBY LIU</PersonNm>
+        <TitleTxt>CHIEF EXECUTIVE OFFICER (THRU 6/2020)</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>11115</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>LAURA CUNNINGHAM</PersonNm>
+        <TitleTxt>PRESIDENT</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>LAUREN TURNER</PersonNm>
+        <TitleTxt>GENERAL COUNSEL/SECRETARY</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>NATHANIEL KRETCHUN</PersonNm>
+        <TitleTxt>TREASURER (THRU 4/2020)</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>HEIDI PILLOUD</PersonNm>
+        <TitleTxt>CHIEF FINANCIAL OFFICER/TREASURER</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <TotalReportableCompFromOrgAmt>11115</TotalReportableCompFromOrgAmt>
+      <TotReportableCompRltdOrgAmt>0</TotReportableCompRltdOrgAmt>
+      <TotalOtherCompensationAmt>0</TotalOtherCompensationAmt>
+      <IndivRcvdGreaterThan100KCnt>0</IndivRcvdGreaterThan100KCnt>
+      <FormerOfcrEmployeesListedInd>0</FormerOfcrEmployeesListedInd>
+      <TotalCompGreaterThan150KInd>0</TotalCompGreaterThan150KInd>
+      <CompensationFromOtherSrcsInd>0</CompensationFromOtherSrcsInd>
+      <ContractorCompensationGrp>
+        <ContractorName>
+          <BusinessName>
+            <BusinessNameLine1Txt>PSIPHON INC</BusinessNameLine1Txt>
+          </BusinessName>
+        </ContractorName>
+        <ContractorAddress>
+          <ForeignAddress>
+            <AddressLine1Txt>583 CHURCH STREET</AddressLine1Txt>
+            <CityNm>TORONTO</CityNm>
+            <ProvinceOrStateNm>ONTARIO</ProvinceOrStateNm>
+            <CountryCd>CA</CountryCd>
+            <ForeignPostalCd>M4Y 2E4</ForeignPostalCd>
+          </ForeignAddress>
+        </ContractorAddress>
+        <ServicesDesc>CIRCUMVENTION TECHNOLOGY SERVICES</ServicesDesc>
+        <CompensationAmt>796246</CompensationAmt>
+      </ContractorCompensationGrp>
+      <ContractorCompensationGrp>
+        <ContractorName>
+          <BusinessName>
+            <BusinessNameLine1Txt>EQUALITIE</BusinessNameLine1Txt>
+          </BusinessName>
+        </ContractorName>
+        <ContractorAddress>
+          <ForeignAddress>
+            <AddressLine1Txt>5333 AVENUE CASGRAIN</AddressLine1Txt>
+            <CityNm>MONTREAL</CityNm>
+            <ProvinceOrStateNm>QUEBEC</ProvinceOrStateNm>
+            <CountryCd>CA</CountryCd>
+            <ForeignPostalCd>H2T 1X3</ForeignPostalCd>
+          </ForeignAddress>
+        </ContractorAddress>
+        <ServicesDesc>CORE INTERNET INFRASTRUCTURE SUPPORT SER</ServicesDesc>
+        <CompensationAmt>271147</CompensationAmt>
+      </ContractorCompensationGrp>
+      <ContractorCompensationGrp>
+        <ContractorName>
+          <BusinessName>
+            <BusinessNameLine1Txt>GREENHOST</BusinessNameLine1Txt>
+          </BusinessName>
+        </ContractorName>
+        <ContractorAddress>
+          <ForeignAddress>
+            <AddressLine1Txt>JOHAN VAN HASSELTKADE 202</AddressLine1Txt>
+            <CityNm>AMSTERDAM</CityNm>
+            <ProvinceOrStateNm>NOORD HOLLAND</ProvinceOrStateNm>
+            <CountryCd>NL</CountryCd>
+            <ForeignPostalCd>1032LP</ForeignPostalCd>
+          </ForeignAddress>
+        </ContractorAddress>
+        <ServicesDesc>PLATFORM SERVICES FOR SOFTWARE DEVELOPME</ServicesDesc>
+        <CompensationAmt>230437</CompensationAmt>
+      </ContractorCompensationGrp>
+      <ContractorCompensationGrp>
+        <ContractorName>
+          <BusinessName>
+            <BusinessNameLine1Txt>TOR PROJECT</BusinessNameLine1Txt>
+          </BusinessName>
+        </ContractorName>
+        <ContractorAddress>
+          <USAddress>
+            <AddressLine1Txt>217 FIRST AVE SOUTH 4903</AddressLine1Txt>
+            <CityNm>SEATTLE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98104</ZIPCd>
+          </USAddress>
+        </ContractorAddress>
+        <ServicesDesc>INTERNET BROWSER DEVELOPMENT AND SUPPORT</ServicesDesc>
+        <CompensationAmt>188734</CompensationAmt>
+      </ContractorCompensationGrp>
+      <ContractorCompensationGrp>
+        <ContractorName>
+          <BusinessName>
+            <BusinessNameLine1Txt>LOCALIZATION LAB</BusinessNameLine1Txt>
+          </BusinessName>
+        </ContractorName>
+        <ContractorAddress>
+          <USAddress>
+            <AddressLine1Txt>21 FIRST AVE 6</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10003</ZIPCd>
+          </USAddress>
+        </ContractorAddress>
+        <ServicesDesc>SOFTWARE LOCALIZATION SUPPORT SERVICES</ServicesDesc>
+        <CompensationAmt>166542</CompensationAmt>
+      </ContractorCompensationGrp>
+      <CntrctRcvdGreaterThan100KCnt>8</CntrctRcvdGreaterThan100KCnt>
+      <GovernmentGrantsAmt>5679186</GovernmentGrantsAmt>
+      <TotalContributionsAmt>5679186</TotalContributionsAmt>
+      <OtherRevenueMiscGrp>
+        <Desc>FOREIGN EXCHANGE GAIN</Desc>
+        <BusinessCd>900099</BusinessCd>
+        <TotalRevenueColumnAmt>226</TotalRevenueColumnAmt>
+        <ExclusionAmt>226</ExclusionAmt>
+      </OtherRevenueMiscGrp>
+      <OtherRevenueTotalAmt>226</OtherRevenueTotalAmt>
+      <TotalRevenueGrp>
+        <TotalRevenueColumnAmt>5679412</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>0</RelatedOrExemptFuncIncomeAmt>
+        <UnrelatedBusinessRevenueAmt>0</UnrelatedBusinessRevenueAmt>
+        <ExclusionAmt>226</ExclusionAmt>
+      </TotalRevenueGrp>
+      <InfoInScheduleOPartIXInd>X</InfoInScheduleOPartIXInd>
+      <CompCurrentOfcrDirectorsGrp>
+        <TotalAmt>715336</TotalAmt>
+        <ManagementAndGeneralAmt>715336</ManagementAndGeneralAmt>
+      </CompCurrentOfcrDirectorsGrp>
+      <OtherSalariesAndWagesGrp>
+        <TotalAmt>271538</TotalAmt>
+        <ManagementAndGeneralAmt>271538</ManagementAndGeneralAmt>
+      </OtherSalariesAndWagesGrp>
+      <PensionPlanContributionsGrp>
+        <TotalAmt>17516</TotalAmt>
+        <ManagementAndGeneralAmt>17516</ManagementAndGeneralAmt>
+      </PensionPlanContributionsGrp>
+      <OtherEmployeeBenefitsGrp>
+        <TotalAmt>17458</TotalAmt>
+        <ManagementAndGeneralAmt>17458</ManagementAndGeneralAmt>
+      </OtherEmployeeBenefitsGrp>
+      <PayrollTaxesGrp>
+        <TotalAmt>61614</TotalAmt>
+        <ManagementAndGeneralAmt>61614</ManagementAndGeneralAmt>
+      </PayrollTaxesGrp>
+      <FeesForServicesLegalGrp>
+        <TotalAmt>20536</TotalAmt>
+        <ManagementAndGeneralAmt>20536</ManagementAndGeneralAmt>
+      </FeesForServicesLegalGrp>
+      <FeesForServicesAccountingGrp>
+        <TotalAmt>32079</TotalAmt>
+        <ManagementAndGeneralAmt>32079</ManagementAndGeneralAmt>
+      </FeesForServicesAccountingGrp>
+      <FeesForServicesOtherGrp>
+        <TotalAmt>4472723</TotalAmt>
+        <ProgramServicesAmt>4221292</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>251431</ManagementAndGeneralAmt>
+      </FeesForServicesOtherGrp>
+      <OfficeExpensesGrp>
+        <TotalAmt>16030</TotalAmt>
+        <ManagementAndGeneralAmt>16030</ManagementAndGeneralAmt>
+      </OfficeExpensesGrp>
+      <InformationTechnologyGrp>
+        <TotalAmt>5292</TotalAmt>
+        <ManagementAndGeneralAmt>5292</ManagementAndGeneralAmt>
+      </InformationTechnologyGrp>
+      <OccupancyGrp>
+        <TotalAmt>40700</TotalAmt>
+        <ManagementAndGeneralAmt>40700</ManagementAndGeneralAmt>
+      </OccupancyGrp>
+      <ConferencesMeetingsGrp>
+        <TotalAmt>218</TotalAmt>
+        <ManagementAndGeneralAmt>218</ManagementAndGeneralAmt>
+      </ConferencesMeetingsGrp>
+      <InsuranceGrp>
+        <TotalAmt>7872</TotalAmt>
+        <ManagementAndGeneralAmt>7872</ManagementAndGeneralAmt>
+      </InsuranceGrp>
+      <OtherExpensesGrp>
+        <Desc>EMPLOYEE PROFESSIONAL M</Desc>
+        <TotalAmt>500</TotalAmt>
+        <ManagementAndGeneralAmt>500</ManagementAndGeneralAmt>
+      </OtherExpensesGrp>
+      <TotalFunctionalExpensesGrp>
+        <TotalAmt>5679412</TotalAmt>
+        <ProgramServicesAmt>4221292</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>1458120</ManagementAndGeneralAmt>
+        <FundraisingAmt>0</FundraisingAmt>
+      </TotalFunctionalExpensesGrp>
+      <SavingsAndTempCashInvstGrp>
+        <BOYAmt>9000</BOYAmt>
+        <EOYAmt>6036836</EOYAmt>
+      </SavingsAndTempCashInvstGrp>
+      <PrepaidExpensesDefrdChargesGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>7824</EOYAmt>
+      </PrepaidExpensesDefrdChargesGrp>
+      <TotalAssetsGrp>
+        <BOYAmt>9000</BOYAmt>
+        <EOYAmt>6044660</EOYAmt>
+      </TotalAssetsGrp>
+      <AccountsPayableAccrExpnssGrp>
+        <BOYAmt>5000</BOYAmt>
+        <EOYAmt>722048</EOYAmt>
+      </AccountsPayableAccrExpnssGrp>
+      <DeferredRevenueGrp>
+        <BOYAmt>4000</BOYAmt>
+        <EOYAmt>5322612</EOYAmt>
+      </DeferredRevenueGrp>
+      <TotalLiabilitiesGrp>
+        <BOYAmt>9000</BOYAmt>
+        <EOYAmt>6044660</EOYAmt>
+      </TotalLiabilitiesGrp>
+      <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+      <NoDonorRestrictionNetAssetsGrp>
+        <BOYAmt>0</BOYAmt>
+      </NoDonorRestrictionNetAssetsGrp>
+      <TotalNetAssetsFundBalanceGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>0</EOYAmt>
+      </TotalNetAssetsFundBalanceGrp>
+      <TotLiabNetAssetsFundBalanceGrp>
+        <BOYAmt>9000</BOYAmt>
+        <EOYAmt>6044660</EOYAmt>
+      </TotLiabNetAssetsFundBalanceGrp>
+      <ReconcilationRevenueExpnssAmt>0</ReconcilationRevenueExpnssAmt>
+      <OtherChangesInNetAssetsAmt>0</OtherChangesInNetAssetsAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AccountantCompileOrReviewInd>0</AccountantCompileOrReviewInd>
+      <FSAuditedInd>1</FSAuditedInd>
+      <FSAuditedBasisGrp>
+        <SeparateBasisFinclStmtInd>X</SeparateBasisFinclStmtInd>
+      </FSAuditedBasisGrp>
+      <AuditCommitteeInd>1</AuditCommitteeInd>
+      <FederalGrantAuditRequiredInd>1</FederalGrantAuditRequiredInd>
+      <FederalGrantAuditPerformedInd>1</FederalGrantAuditPerformedInd>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PublicOrganization170Ind>X</PublicOrganization170Ind>
+      <GiftsGrantsContriRcvd170Grp>
+        <CurrentTaxYearAmt>5679186</CurrentTaxYearAmt>
+        <TotalAmt>5679186</TotalAmt>
+      </GiftsGrantsContriRcvd170Grp>
+      <TotalCalendarYear170Grp>
+        <CurrentTaxYearAmt>5679186</CurrentTaxYearAmt>
+        <TotalAmt>5679186</TotalAmt>
+      </TotalCalendarYear170Grp>
+      <PublicSupportTotal170Amt>5679186</PublicSupportTotal170Amt>
+      <TotalSupportAmt>5679186</TotalSupportAmt>
+      <First5Years170Ind>X</First5Years170Ind>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInformationGrp>
+        <ContributorNum>RESTRICTED</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>RESTRICTED</TotalContributionsAmt>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <TotalBookValueLandBuildingsAmt>0</TotalBookValueLandBuildingsAmt>
+      <TotalRevEtcAuditedFinclStmtAmt>5885870</TotalRevEtcAuditedFinclStmtAmt>
+      <DonatedServicesAndUseFcltsAmt>206458</DonatedServicesAndUseFcltsAmt>
+      <RevenueNotReportedAmt>206458</RevenueNotReportedAmt>
+      <RevenueSubtotalAmt>5679412</RevenueSubtotalAmt>
+      <RevenueNotReportedFinclStmtAmt>0</RevenueNotReportedFinclStmtAmt>
+      <TotalRevenuePerForm990Amt>5679412</TotalRevenuePerForm990Amt>
+      <TotExpnsEtcAuditedFinclStmtAmt>5885870</TotExpnsEtcAuditedFinclStmtAmt>
+      <DonatedServicesUseFcltsAmt>206458</DonatedServicesUseFcltsAmt>
+      <ExpensesNotReportedAmt>206458</ExpensesNotReportedAmt>
+      <ExpensesSubtotalAmt>5679412</ExpensesSubtotalAmt>
+      <ExpensesNotRptFinclStmtAmt>0</ExpensesNotRptFinclStmtAmt>
+      <TotalExpensesPerForm990Amt>5679412</TotalExpensesPerForm990Amt>
+    </IRS990ScheduleD>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION B, LINE 11B</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE FORM 990 IS PREPARED BY RSM USING INFORMATION FURNISHED BY OTF'S CFO. ONCE COMPLETE, OTF'S PRESIDENT AND/OR GENERAL COUNSEL REVIEW EACH SECTION OF THE 990 IN DETAIL BEFORE PROVIDING COMMENTS TO THE CFO, IF ANY. THE CFO RELAYS ANY COMMENTS AND WORKS WITH RSM TO ADDRESS THE COMMENTS BEFORE SHARING THE UPDATED FORM 990 WITH THE PRESIDENT AND/OR GENERAL COUNSEL, WHO THEN DOCUMENT THEIR CONCURRENCE THAT THE CONTENTS OF THE FORM 990 ARE TRUE AND CORRECT VIA WRITTEN COMMUNICATION BEFORE THE CFO AND PREPARERS SIGN OFF.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION B, LINE 12C</FormAndLineReferenceDesc>
+        <ExplanationTxt>EACH DIRECTOR, OFFICER, MEMBER OF A COMMITTEE WITH BOARD-DELEGATED POWERS, AND KEY EMPLOYEE SHALL SIGN A STATEMENT ANNUALLY WHICH AFFIRMS THAT SUCH PERSON: HAS RECEIVED A COPY OF THE CONFLICT OF INTEREST POLICY; HAS READ AND UNDERSTANDS THE CONFLICT OF INTEREST POLICY; HAS AGREED TO COMPLY WITH THE CONFLICT OF INTEREST POLICY; AND UNDERSTANDS THAT OTF IS A CHARITABLE ORGANIZATION AND IN ORDER TO MAINTAIN ITS FEDERAL TAX EXEMPTION IT MUST ENGAGE PRIMARILY IN ACTIVITIES WHICH ACCOMPLISH ONE OR MORE OF ITS TAX-EXEMPT PURPOSES. TO ENSURE OTF OPERATES IN A MANNER CONSISTENT WITH CHARITABLE PURPOSES AND DOES NOT ENGAGE IN ACTIVITIES THAT COULD JEOPARDIZE ITS TAX-EXEMPT STATUS, PERIODIC REVIEWS MAY BE CONDUCTED. THE PERIODIC REVIEWS MAY INCLUDE THE FOLLOWING SUBJECTS: A. WHETHER COMPENSATION ARRANGEMENTS AND BENEFITS ARE REASONABLE, BASED ON COMPETENT SURVEY INFORMATION, AND THE RESULT OF ARM'S LENGTH BARGAINING; B. WHETHER PARTNERSHIPS, JOINT VENTURES, AND ARRANGEMENTS WITH MANAGEMENT ORGANIZATIONS CONFORM TO OTF'S WRITTEN POLICIES, ARE PROPERLY RECORDED, REFLECT REASONABLE INVESTMENT OR PAYMENTS FOR GOODS AND SERVICES, FURTHER CHARITABLE PURPOSES AND DO NOT RESULT IN INUREMENT, IMPERMISSIBLE PRIVATE BENEFIT OR IN AN EXCESS BENEFIT TRANSACTION.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION B, LINE 15</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE UPPER LIMIT OF COMPENSATION FOR OTF'S PRESIDENT, THE ORGANIZATION'S HIGHEST RANKING OFFICER, IS ESTABLISHED BY OTF'S GRANT AGREEMENT WITH ITS FEDERAL FUNDING AGENCY, THE U.S. AGENCY FOR GLOBAL MEDIA (USAGM). THE AGREEMENT STATES THAT OTF'S PRESIDENT SHALL BE COMPENSATED WITHIN THE BOUNDS OF OPM'S COMPENSATION MODEL FOR SENIOR EXECUTIVE SERVICE. THE 2021 RATES ARE CAPPED AT $199,300. IN ADDITION, OTF COMMISSIONED A SALARY AND BENEFITS COMPARABILITY STUDY FROM AN INDEPENDENT PARTY WHO BENCHMARKED OTF'S SALARY AND BENEFITS AGAINST OTHER NON-PROFIT ORGANIZATIONS AND COMPARABLE PRIVATE SECTOR ORGANIZATIONS. THE STUDY INDICATED THAT OTF'S PRESIDENT'S COMPENSATION WAS AT OR SLIGHTLY BELOW THE TYPICAL MID-RANGE SALARY OF SIMILARLY SITUATED NON-PROFIT ORGANIZATIONS. THE BASIS FOR THE COMPENSATION FOR OTF'S PRESIDENT WAS MEMORIALIZED BY THE CHAIR OF OTF'S BOARD OF DIRECTORS AND NOTICED TO USAGM IN WRITING. COMPENSATION FOR OTF'S OTHER OFFICERS WAS DETERMINED BASED ON THE INDEPENDENT BENCH-MARKING STUDY, AS WELL AS PERFORMANCE INDICATORS. IN ADDITION, SALARIES OF ALL OTF EMPLOYEES ARE REQUIRED BY LEGISLATION TO TRACK CLOSELY WITH COMPENSATION FOR COMPARABLE POSITIONS WITHIN THE FEDERAL GOVERNMENT. OTF'S PRESIDENT, ON AUTHORITY FROM THE BOARD OF DIRECTORS, USED STUDY RESULTS, PERFORMANCE INDICATORS, AND OPM'S GENERAL SCHEDULE TO DETERMINE OFFICER'S SALARIES.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION C, LINE 19</FormAndLineReferenceDesc>
+        <ExplanationTxt>OTF MAKES AVAILABLE ITS 1023 APPLICATION, WHICH INCLUDES ITS CONFLICT OF INTEREST POLICY, FOR REVIEW AND COPYING UPON REQUEST. THIS IS OTF'S FIRST 990 FILING, WHICH IT WILL ALSO MAKE AVAILABLE FOR COPY AND INSPECTION UPON REQUEST.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART IX, LINE 11G</FormAndLineReferenceDesc>
+        <ExplanationTxt>OTHER - MISCELLANEOUS: PROGRAM SERVICE EXPENSES 4,221,292. MANAGEMENT AND GENERAL EXPENSES 251,431. FUNDRAISING EXPENSES 0. TOTAL EXPENSES 4,472,723.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc1043400001">
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>RADIO FREE ASIA</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>2025 M STREET NW SUITE 300</AddressLine1Txt>
+          <CityNm>WASHINGTON</CityNm>
+          <StateAbbreviationCd>DC</StateAbbreviationCd>
+          <ZIPCd>20036</ZIPCd>
+        </USAddress>
+        <EIN>521968145</EIN>
+        <PrimaryActivitiesTxt>INTERNATIONAL BROADCASTING</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>DC</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501(C)(3)</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>LINE 7</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>US AGENCY FOR GLOBAL MEDIA</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>0</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>RADIO FREE EUROPERADIO LIBERTY</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>1201 CONNECTICUT AVENUE NW</AddressLine1Txt>
+          <CityNm>WASHINGTON</CityNm>
+          <StateAbbreviationCd>DC</StateAbbreviationCd>
+          <ZIPCd>20036</ZIPCd>
+        </USAddress>
+        <EIN>521068522</EIN>
+        <PrimaryActivitiesTxt>INTERNATIONAL BROADCASTING</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>DC</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501(C)(3)</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>LINE 7</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>US AGENCY FOR GLOBAL MEDIA</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>0</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>MIDDLE EAST BROADCASTING NETWORK</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>7600 BOSTON BOULEVARD</AddressLine1Txt>
+          <CityNm>SPRINGFIELD</CityNm>
+          <StateAbbreviationCd>VA</StateAbbreviationCd>
+          <ZIPCd>22153</ZIPCd>
+        </USAddress>
+        <EIN>421591205</EIN>
+        <PrimaryActivitiesTxt>INTERNATIONAL BROADCASTING</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>VA</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501(C)(3)</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>LINE 7</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>US AGENCY FOR GLOBAL MEDIA</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>0</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <ReceiptOfIntAnntsRntsRyltsInd>0</ReceiptOfIntAnntsRntsRyltsInd>
+      <GiftGrntOrCapContriToOthOrgInd>0</GiftGrntOrCapContriToOthOrgInd>
+      <GiftGrntCapContriFromOthOrgInd>0</GiftGrntCapContriFromOthOrgInd>
+      <LoansOrGuaranteesToOtherOrgInd>0</LoansOrGuaranteesToOtherOrgInd>
+      <LoansOrGuaranteesFromOthOrgInd>0</LoansOrGuaranteesFromOthOrgInd>
+      <DivRelatedOrganizationInd>0</DivRelatedOrganizationInd>
+      <AssetSaleToOtherOrgInd>0</AssetSaleToOtherOrgInd>
+      <AssetPurchaseFromOtherOrgInd>0</AssetPurchaseFromOtherOrgInd>
+      <AssetExchangeInd>0</AssetExchangeInd>
+      <RentalOfFacilitiesToOthOrgInd>0</RentalOfFacilitiesToOthOrgInd>
+      <RentalOfFcltsFromOthOrgInd>0</RentalOfFcltsFromOthOrgInd>
+      <PerformOfServicesForOthOrgInd>0</PerformOfServicesForOthOrgInd>
+      <PerformOfServicesByOtherOrgInd>0</PerformOfServicesByOtherOrgInd>
+      <SharingOfFacilitiesInd>0</SharingOfFacilitiesInd>
+      <PaidEmployeesSharingInd>0</PaidEmployeesSharingInd>
+      <ReimbursementPaidToOtherOrgInd>1</ReimbursementPaidToOtherOrgInd>
+      <ReimbursementPaidByOtherOrgInd>0</ReimbursementPaidByOtherOrgInd>
+      <TransferToOtherOrgInd>0</TransferToOtherOrgInd>
+      <TransferFromOtherOrgInd>0</TransferFromOtherOrgInd>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>
