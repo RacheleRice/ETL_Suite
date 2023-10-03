@@ -129,9 +129,9 @@ public class XMLParser {
             grantInfo.setRecipientState(usAddress.getElementsByTagName("State").item(0).getTextContent());
             grantInfo.setRecipientZip(usAddress.getElementsByTagName("ZIPCode").item(0).getTextContent());
         }
-            grantInfo.setRecipientRelationship(grantElement.getElementsByTagName("Relationship").item(0).getTextContent());
-            grantInfo.setRecipientFoundationStatus(grantElement.getElementsByTagName("FoundationStatus").item(0).getTextContent());
-            grantInfo.setGrantPurpose(grantElement.getElementsByTagName("PurposeOfGrantTxt").item(0).getTextContent());
+            grantInfo.setRecipientRelationship(grantElement.getElementsByTagName("RecipientRelationshipTxt").item(0).getTextContent());
+            grantInfo.setRecipientFoundationStatus(grantElement.getElementsByTagName("RecipientFoundationStatusTxt").item(0).getTextContent());
+            grantInfo.setGrantPurpose(grantElement.getElementsByTagName("GrantOrContributionPurposeTxt").item(0).getTextContent());
 
         System.out.println("Grant information populated.");
             return grantInfo;
