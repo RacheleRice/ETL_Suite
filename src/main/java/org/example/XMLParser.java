@@ -60,14 +60,14 @@ public class XMLParser {
                         continue; //skip foreign grants
                     }
                     usGrantCount++;
-                    GrantInfo grantInfo = populateGrantInfo(grantElement, doc);
+                    GrantInfo grantInfo = populateGrantInfo(filerInfo, grantElement, doc);
                     grants.add(grantInfo); //add populated grant info to list
                     }
                 }
 
-            System.out.println("Total grants: " + totalGrantCount);
-            System.out.println("US grants: " + usGrantCount);
-            System.out.println("Foreign grants: " + foreignGrantCount);
+            System.out.println("Total grants: " + totalGrantCount + " From File: " + xmlFile.getName());
+            System.out.println("US grants: " + usGrantCount + " From File: " + xmlFile.getName());
+            System.out.println("Foreign grants: " + foreignGrantCount + " From File: " + xmlFile.getName());
 
         } catch (Exception e) {
             e.printStackTrace();
@@ -110,7 +110,7 @@ public class XMLParser {
         return filerInfo;
     }
 
-    private GrantInfo populateGrantInfo(Element grantElement, Document doc) {
+    private GrantInfo populateGrantInfo(GrantInfo filerInfo, Element grantElement, Document doc) {
         System.out.println("Populating grant information...");
         GrantInfo grantInfo = new GrantInfo();
 
@@ -132,6 +132,17 @@ public class XMLParser {
             grantInfo.setRecipientRelationship(grantElement.getElementsByTagName("RecipientRelationshipTxt").item(0).getTextContent());
             grantInfo.setRecipientFoundationStatus(grantElement.getElementsByTagName("RecipientFoundationStatusTxt").item(0).getTextContent());
             grantInfo.setGrantPurpose(grantElement.getElementsByTagName("GrantOrContributionPurposeTxt").item(0).getTextContent());
+
+            //set the filer information fields
+            grantInfo.setTaxPeriodEndDate(filerInfo.getTaxPeriodEndDate());
+            grantInfo.setReturnTypeCode(filerInfo.getReturnTypeCode());
+            grantInfo.setTaxPeriodBeginDate(filerInfo.getTaxPeriodBeginDate());
+            grantInfo.setEin(filerInfo.getEin());
+            grantInfo.setFilerName(filerInfo.getFilerName());
+            grantInfo.setFilerStreet(filerInfo.getFilerStreet());
+            grantInfo.setFilerCity(filerInfo.getFilerCity());
+            grantInfo.setFilerState(filerInfo.getFilerState());
+            grantInfo.setFilerZip(filerInfo.getFilerZip());
 
         System.out.println("Grant information populated.");
             return grantInfo;
