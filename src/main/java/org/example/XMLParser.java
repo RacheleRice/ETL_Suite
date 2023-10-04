@@ -92,34 +92,58 @@ public class XMLParser {
     }
 
     private GrantInfo populateFilerInfo(Element filerElement, Document doc) {
-        System.out.println("Populating filer information...");
+//        System.out.println("Populating filer information...");
         GrantInfo filerInfo = new GrantInfo();
         Element root = doc.getDocumentElement();
 
-        filerInfo.setTaxPeriodEndDate(Date.valueOf(root.getElementsByTagName("TaxPeriodEndDt").item(0).getTextContent()));
-        filerInfo.setReturnTypeCode(root.getElementsByTagName("ReturnTypeCd").item(0).getTextContent());
-        filerInfo.setTaxPeriodBeginDate(Date.valueOf(root.getElementsByTagName("TaxPeriodBeginDt").item(0).getTextContent()));
-        filerInfo.setEin(filerElement.getElementsByTagName("EIN").item(0).getTextContent());
+        Node taxPeriodEndNode = root.getElementsByTagName("TaxPeriodEndDt").item(0);
+        if (taxPeriodEndNode != null) {
+            filerInfo.setTaxPeriodEndDate(Date.valueOf(root.getElementsByTagName("TaxPeriodEndDt").item(0).getTextContent()));
+        }
+        Node returnTypeNode = root.getElementsByTagName("ReturnTypeCd").item(0);
+        if (returnTypeNode != null) {
+            filerInfo.setReturnTypeCode(root.getElementsByTagName("ReturnTypeCd").item(0).getTextContent());
+        }
+        Node taxPeriodBeginNode = root.getElementsByTagName("TaxPeriodBeginDt").item(0);
+        if (taxPeriodBeginNode != null) {
+            filerInfo.setTaxPeriodBeginDate(Date.valueOf(root.getElementsByTagName("TaxPeriodBeginDt").item(0).getTextContent()));
+        }
+        Node einNode = root.getElementsByTagName("EIN").item(0);
+        if (einNode != null) {
+            filerInfo.setEin(filerElement.getElementsByTagName("EIN").item(0).getTextContent());
+        }
         filerInfo.setFilerName(((Element) filerElement.getElementsByTagName("BusinessName").item(0)).getElementsByTagName("BusinessNameLine1").item(0).getTextContent());
         filerInfo.setFilerStreet(((Element) filerElement.getElementsByTagName("USAddress").item(0)).getElementsByTagName("AddressLine1").item(0).getTextContent());
         filerInfo.setFilerCity(((Element) filerElement.getElementsByTagName("USAddress").item(0)).getElementsByTagName("City").item(0).getTextContent());
         filerInfo.setFilerState(((Element) filerElement.getElementsByTagName("USAddress").item(0)).getElementsByTagName("State").item(0).getTextContent());
         filerInfo.setFilerZip(((Element) filerElement.getElementsByTagName("USAddress").item(0)).getElementsByTagName("ZIPCode").item(0).getTextContent());
 
-        System.out.println("Filer information populated.");
+//        System.out.println("Filer information populated.");
         return filerInfo;
     }
 
     private GrantInfo populateGrantInfo(GrantInfo filerInfo, Element grantElement, Document doc) {
-        System.out.println("Populating grant information...");
+//        System.out.println("Populating grant information...");
         GrantInfo grantInfo = new GrantInfo();
 
         NodeList businessNameNodes = grantElement.getElementsByTagName("RecipientBusinessName");
-        if (businessNameNodes.getLength() > 0 && businessNameNodes.item(0) != null) {
-            grantInfo.setRecipientName(getElementText((Element) businessNameNodes.item(0), "BusinessNameLine1"));
+        if (businessNameNodes.getLength() > 0  && businessNameNodes.item(0) != null ) {
+            Node node = businessNameNodes.item(0);
+                if (node != null) {
+                    grantInfo.setRecipientName(getElementText((Element) node, "BusinessNameLine1"));
+
+                }
+
+        }
+        Node amtNode = grantElement.getElementsByTagName("Amt").item(0);
+        if (amtNode != null) {
+            String amtText = amtNode.getTextContent();
+            if (amtText != null && !amtText.isEmpty()) {
+                grantInfo.setGrantAmount(Integer.parseInt(amtText));
+            }
+
         }
 
-        grantInfo.setGrantAmount(Integer.parseInt(grantElement.getElementsByTagName("Amt").item(0).getTextContent()));
 
 
         Element usAddress = (Element) grantElement.getElementsByTagName("RecipientUSAddress").item(0);
@@ -144,7 +168,7 @@ public class XMLParser {
             grantInfo.setFilerState(filerInfo.getFilerState());
             grantInfo.setFilerZip(filerInfo.getFilerZip());
 
-        System.out.println("Grant information populated.");
+//        System.out.println("Grant information populated.");
             return grantInfo;
     }
 
