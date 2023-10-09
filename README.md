@@ -1,7 +1,14 @@
-# Pf990Db
-parses filer/grant info from 990pf xml's
+# 990-PF XML Parser
+
+MVP which parses filer/grant info from 990PF XMLs and stores it in a Postgres database.
 
 To run this create a database in PgAdmin called 'grants' 
-and change the directory path in the code to your absolute local path for TY2013 
+and change the directory path in the code to your absolute local paths for TY2013 - TY2022. 
 
-Message me with questions as I work to get this beast working -- Rachele
+For now, you will need to drop the grants table in PgAdmin before running the code again.
+
+Comments/suggestions welcome!
+
+
+
+
