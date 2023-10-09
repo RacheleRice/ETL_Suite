@@ -21,7 +21,7 @@ public class XMLParser {
     public List<String> getXmlFiles(String directoryPath) {
         System.out.println("Scanning directory for XML files...");
         List<String> xmlFiles = new ArrayList<>();
-        File directory = new File("C:\\Users\\truth\\OneDrive\\Desktop\\watershed\\Pf990Db\\pf990\\TY2013");
+        File directory = new File("C:\\Users\\truth\\OneDrive\\Desktop\\watershed\\Pf990Db\\pf990\\TY2022");
         File[] files = directory.listFiles();
         assert files != null;
         for (File file : files) {
@@ -42,17 +42,33 @@ public class XMLParser {
 
         try {
             Document doc = setupDocument(xmlFile);
+
+            //ReturnTypeCd check here
+            Node returnTypeNode = doc.getElementsByTagName("ReturnTypeCd").item(0);
+            if (returnTypeNode != null) {
+                String returnType = returnTypeNode.getTextContent();
+                if (!returnType.equals("990PF")) {
+                    System.out.println("Skipping file: " + xmlFile.getName() + " because it is not a 990PF");
+                    return grants;
+                }
+            }
+
             Element root = doc.getDocumentElement();
             Element filerElement = (Element) root.getElementsByTagName("Filer").item(0);
+            boolean skipApplicationSubmission = true;
 
             //populate filer information that's common across all grants
             GrantInfo filerInfo = populateFilerInfo(filerElement, doc);
 
             NodeList grantNodes = doc.getElementsByTagName("GrantOrContributionPdDurYrGrp");
+            if (grantNodes.getLength() == 0) {
+                grantNodes = doc.getElementsByTagName("GrantOrContriPaidDuringYear");
+            }
             totalGrantCount = grantNodes.getLength();
 
             for (int i = 0; i < grantNodes.getLength(); i++) {
                 Node node = grantNodes.item(i);
+
                 if (isValidNode(node)) {
                     Element grantElement = (Element) node;
                     if (isForeignGrant(grantElement)) {
@@ -92,70 +108,90 @@ public class XMLParser {
     }
 
     private GrantInfo populateFilerInfo(Element filerElement, Document doc) {
-//        System.out.println("Populating filer information...");
         GrantInfo filerInfo = new GrantInfo();
         Element root = doc.getDocumentElement();
 
         Node taxPeriodEndNode = root.getElementsByTagName("TaxPeriodEndDt").item(0);
+        if (taxPeriodEndNode == null) {
+            taxPeriodEndNode = root.getElementsByTagName("TaxPeriodEndDate").item(0);
+        }
         if (taxPeriodEndNode != null) {
-            filerInfo.setTaxPeriodEndDate(Date.valueOf(root.getElementsByTagName("TaxPeriodEndDt").item(0).getTextContent()));
+            filerInfo.setTaxPeriodEndDate(Date.valueOf(taxPeriodEndNode.getTextContent()));
         }
         Node returnTypeNode = root.getElementsByTagName("ReturnTypeCd").item(0);
         if (returnTypeNode != null) {
             filerInfo.setReturnTypeCode(root.getElementsByTagName("ReturnTypeCd").item(0).getTextContent());
         }
         Node taxPeriodBeginNode = root.getElementsByTagName("TaxPeriodBeginDt").item(0);
+        if (taxPeriodBeginNode == null) {
+            taxPeriodBeginNode = root.getElementsByTagName("TaxPeriodBeginDate").item(0);
+        }
         if (taxPeriodBeginNode != null) {
-            filerInfo.setTaxPeriodBeginDate(Date.valueOf(root.getElementsByTagName("TaxPeriodBeginDt").item(0).getTextContent()));
+            filerInfo.setTaxPeriodBeginDate(Date.valueOf(taxPeriodBeginNode.getTextContent()));
         }
         Node einNode = root.getElementsByTagName("EIN").item(0);
         if (einNode != null) {
             filerInfo.setEin(filerElement.getElementsByTagName("EIN").item(0).getTextContent());
         }
-        filerInfo.setFilerName(((Element) filerElement.getElementsByTagName("BusinessName").item(0)).getElementsByTagName("BusinessNameLine1").item(0).getTextContent());
-        filerInfo.setFilerStreet(((Element) filerElement.getElementsByTagName("USAddress").item(0)).getElementsByTagName("AddressLine1").item(0).getTextContent());
-        filerInfo.setFilerCity(((Element) filerElement.getElementsByTagName("USAddress").item(0)).getElementsByTagName("City").item(0).getTextContent());
-        filerInfo.setFilerState(((Element) filerElement.getElementsByTagName("USAddress").item(0)).getElementsByTagName("State").item(0).getTextContent());
-        filerInfo.setFilerZip(((Element) filerElement.getElementsByTagName("USAddress").item(0)).getElementsByTagName("ZIPCode").item(0).getTextContent());
+        NodeList businessNameNodes = filerElement.getElementsByTagName("BusinessName");
+        if (businessNameNodes.getLength() == 0) {
+            businessNameNodes = filerElement.getElementsByTagName("Name");
+        }
+        if (businessNameNodes.getLength() > 0 && businessNameNodes.item(0) != null) {
+            Element businessNameElement = (Element) businessNameNodes.item(0);
+            Node businessLineNode = businessNameElement.getElementsByTagName("BusinessNameLine1").item(0);
+            if (businessLineNode == null) {
+                businessLineNode = businessNameElement.getElementsByTagName("BusinessNameLine1Txt").item(0);
+            }
+            if (businessLineNode != null) {
+                filerInfo.setFilerName(businessLineNode.getTextContent());
+            }
+        }
 
-//        System.out.println("Filer information populated.");
         return filerInfo;
     }
 
     private GrantInfo populateGrantInfo(GrantInfo filerInfo, Element grantElement, Document doc) {
-//        System.out.println("Populating grant information...");
         GrantInfo grantInfo = new GrantInfo();
 
         NodeList businessNameNodes = grantElement.getElementsByTagName("RecipientBusinessName");
+        if (businessNameNodes.getLength() == 0) {
+            businessNameNodes = grantElement.getElementsByTagName("RecipientPersonNm");
+        }
         if (businessNameNodes.getLength() > 0  && businessNameNodes.item(0) != null ) {
-            Node node = businessNameNodes.item(0);
-                if (node != null) {
-                    grantInfo.setRecipientName(getElementText((Element) node, "BusinessNameLine1"));
-
-                }
-
+            Element businessNameElement = (Element) businessNameNodes.item(0);
+            Node businesslineNode = businessNameElement.getElementsByTagName("BusinessNameLine1").item(0);
+            if (businesslineNode == null) {
+                businesslineNode = businessNameElement.getElementsByTagName("BusinessNameLine1Txt").item(0);
+            }
+            if (businesslineNode != null) {
+                grantInfo.setRecipientName(businesslineNode.getTextContent());
+            }
         }
         Node amtNode = grantElement.getElementsByTagName("Amt").item(0);
+        if (amtNode == null) {
+            amtNode = grantElement.getElementsByTagName("Amount").item(0);
+        }
         if (amtNode != null) {
             String amtText = amtNode.getTextContent();
             if (amtText != null && !amtText.isEmpty()) {
                 grantInfo.setGrantAmount(Integer.parseInt(amtText));
             }
-
         }
-
-
-
-        Element usAddress = (Element) grantElement.getElementsByTagName("RecipientUSAddress").item(0);
-        if (usAddress != null) {
-            grantInfo.setRecipientStreet(usAddress.getElementsByTagName("AddressLine1").item(0).getTextContent());
-            grantInfo.setRecipientCity(usAddress.getElementsByTagName("City").item(0).getTextContent());
-            grantInfo.setRecipientState(usAddress.getElementsByTagName("State").item(0).getTextContent());
-            grantInfo.setRecipientZip(usAddress.getElementsByTagName("ZIPCode").item(0).getTextContent());
+        NodeList foundationStatusNodes = grantElement.getElementsByTagName("RecipientFoundationStatusTxt");
+        if (foundationStatusNodes == null) {
+            foundationStatusNodes = grantElement.getElementsByTagName("RecipientFoundationStatus");
         }
-            grantInfo.setRecipientRelationship(grantElement.getElementsByTagName("RecipientRelationshipTxt").item(0).getTextContent());
-            grantInfo.setRecipientFoundationStatus(grantElement.getElementsByTagName("RecipientFoundationStatusTxt").item(0).getTextContent());
-            grantInfo.setGrantPurpose(grantElement.getElementsByTagName("GrantOrContributionPurposeTxt").item(0).getTextContent());
+        if (foundationStatusNodes.getLength() > 0 && foundationStatusNodes.item(0) != null) {
+            grantInfo.setRecipientFoundationStatus(foundationStatusNodes.item(0).getTextContent());
+        }
+        Node purposeNode = grantElement.getElementsByTagName("GrantOrContributionPurposeTxt").item(0);
+        if (purposeNode == null) {
+            purposeNode = grantElement.getElementsByTagName("GrantOrContributionPurpose").item(0);
+        }
+        if (purposeNode != null) {
+            grantInfo.setGrantPurpose(purposeNode.getTextContent());
+        }
 
             //set the filer information fields
             grantInfo.setTaxPeriodEndDate(filerInfo.getTaxPeriodEndDate());
