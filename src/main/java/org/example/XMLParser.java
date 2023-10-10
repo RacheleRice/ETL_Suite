@@ -18,15 +18,18 @@ import javax.xml.parsers.ParserConfigurationException;
 
 public class XMLParser {
 
-    public List<String> getXmlFiles(String directoryPath) {
+    public List<String> getXmlFiles(String[] directoryPaths) {
         System.out.println("Scanning directory for XML files...");
         List<String> xmlFiles = new ArrayList<>();
-        File directory = new File("C:\\Users\\truth\\OneDrive\\Desktop\\watershed\\Pf990Db\\pf990\\TY2022");
-        File[] files = directory.listFiles();
-        assert files != null;
-        for (File file : files) {
-            if (file.isFile() && file.getName().endsWith(".xml")) {
-                xmlFiles.add(file.getAbsolutePath());
+        for (String directoryPath : directoryPaths) {
+            File directory = new File(directoryPath);
+            File[] files = directory.listFiles();
+            if (files != null) {
+                for (File file : files) {
+                    if (file.isFile() && file.getName().endsWith(".xml")) {
+                        xmlFiles.add(file.getAbsolutePath());
+                    }
+                }
             }
         }
         return xmlFiles;
