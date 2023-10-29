@@ -9,7 +9,8 @@ For now, you will need to drop the grants table in PgAdmin before running the co
 
 Comments/suggestions welcome!
 
-
+![2021 Revenue by PF](https://github.com/RacheleRice/990PF_XML_Parser/blob/MVP2.0/Images/PF1.png)
+![2021 Revenue Total Sums](https://github.com/RacheleRice/990PF_XML_Parser/blob/MVP2.0/Images/PF2.png)
 
 
 
