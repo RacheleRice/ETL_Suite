@@ -13,8 +13,7 @@ public class GrantInfo {
     private String filerState;
     private String filerZip;
     private String recipientName;
-    private int grantAmount;
-
+    private long grantAmount;
     private String recipientStreet;
     private String recipientCity;
     private String recipientState;
@@ -25,7 +24,7 @@ public class GrantInfo {
 
     public GrantInfo() {}
 
-    public GrantInfo(Date taxPeriodEndDate, String returnTypeCode, Date taxPeriodBeginDate, String ein, String filerName, String filerStreet, String filerCity, String filerState, String filerZip, String recipientName, int grantAmount, String recipientStreet, String recipientCity, String recipientState, String recipientZip, String recipientRelationship, String recipientFoundationStatus, String grantPurpose) {
+    public GrantInfo(Date taxPeriodEndDate, String returnTypeCode, Date taxPeriodBeginDate, String ein, String filerName, String filerStreet, String filerCity, String filerState, String filerZip, long totalRev, long totalAssetsBOY, long totalAssetsEOY, long distributableAmount, long remainingDistribution, String recipientName, long grantAmount, String recipientStreet, String recipientCity, String recipientState, String recipientZip, String recipientRelationship, String recipientFoundationStatus, String grantPurpose) {
         this.taxPeriodEndDate = taxPeriodEndDate;
         this.returnTypeCode = returnTypeCode;
         this.taxPeriodBeginDate = taxPeriodBeginDate;
@@ -35,6 +34,11 @@ public class GrantInfo {
         this.filerCity = filerCity;
         this.filerState = filerState;
         this.filerZip = filerZip;
+        this.totalRev = totalRev;
+        this.totalAssetsBOY = totalAssetsBOY;
+        this.totalAssetsEOY = totalAssetsEOY;
+        this.distributableAmount = distributableAmount;
+        this.remainingDistribution = remainingDistribution;
         this.recipientName = recipientName;
         this.grantAmount = grantAmount;
         this.recipientStreet = recipientStreet;
@@ -118,6 +122,46 @@ public class GrantInfo {
         this.filerZip = filerZip;
     }
 
+    public long getTotalRev() {
+        return totalRev;
+    }
+
+    public void setTotalRev(long totalRev) {
+        this.totalRev = totalRev;
+    }
+
+    public long getTotalAssetsBOY() {
+        return totalAssetsBOY;
+    }
+
+    public void setTotalAssetsBOY(long totalAssetsBOY) {
+        this.totalAssetsBOY = totalAssetsBOY;
+    }
+
+    public long getTotalAssetsEOY() {
+        return totalAssetsEOY;
+    }
+
+    public void setTotalAssetsEOY(long totalAssetsEOY) {
+        this.totalAssetsEOY = totalAssetsEOY;
+    }
+
+    public long getDistributableAmount() {
+        return distributableAmount;
+    }
+
+    public void setDistributableAmount(long distributableAmount) {
+        this.distributableAmount = distributableAmount;
+    }
+
+    public long getRemainingDistribution() {
+        return remainingDistribution;
+    }
+
+    public void setRemainingDistribution(long remainingDistribution) {
+        this.remainingDistribution = remainingDistribution;
+    }
+
     public String getRecipientName() {
         return recipientName;
     }
@@ -126,11 +170,11 @@ public class GrantInfo {
         this.recipientName = recipientName;
     }
 
-    public int getGrantAmount() {
+    public long getGrantAmount() {
         return grantAmount;
     }
 
-    public void setGrantAmount(int grantAmount) {
+    public void setGrantAmount(long grantAmount) {
         this.grantAmount = grantAmount;
     }
 
@@ -188,6 +232,35 @@ public class GrantInfo {
 
     public void setGrantPurpose(String grantPurpose) {
         this.grantPurpose = grantPurpose;
+    }
+
+    @Override
+    public String toString() {
+        return "GrantInfo{" +
+                "taxPeriodEndDate=" + taxPeriodEndDate +
+                ", returnTypeCode='" + returnTypeCode + '\'' +
+                ", taxPeriodBeginDate=" + taxPeriodBeginDate +
+                ", ein='" + ein + '\'' +
+                ", filerName='" + filerName + '\'' +
+                ", filerStreet='" + filerStreet + '\'' +
+                ", filerCity='" + filerCity + '\'' +
+                ", filerState='" + filerState + '\'' +
+                ", filerZip='" + filerZip + '\'' +
+                ", totalRev=" + totalRev +
+                ", totalAssetsBOY=" + totalAssetsBOY +
+                ", totalAssetsEOY=" + totalAssetsEOY +
+                ", distributableAmount=" + distributableAmount +
+                ", remainingDistribution=" + remainingDistribution +
+                ", recipientName='" + recipientName + '\'' +
+                ", grantAmount=" + grantAmount +
+                ", recipientStreet='" + recipientStreet + '\'' +
+                ", recipientCity='" + recipientCity + '\'' +
+                ", recipientState='" + recipientState + '\'' +
+                ", recipientZip='" + recipientZip + '\'' +
+                ", recipientRelationship='" + recipientRelationship + '\'' +
+                ", recipientFoundationStatus='" + recipientFoundationStatus + '\'' +
+                ", grantPurpose='" + grantPurpose + '\'' +
+                '}';
     }
 }
 
