@@ -114,6 +114,38 @@ public class XMLParser {
         GrantInfo filerInfo = new GrantInfo();
         Element root = doc.getDocumentElement();
 
+        Element addressElement = (Element) filerElement.getElementsByTagName("USAddress").item(0);
+        if (addressElement != null) {
+            Node streetNode = addressElement.getElementsByTagName("AddressLine1Txt").item(0);
+            if (streetNode == null) {
+                streetNode = addressElement.getElementsByTagName("AddressLine1").item(0);
+            }
+            Node cityNode = addressElement.getElementsByTagName("City").item(0);
+            if (cityNode == null) {
+                cityNode = addressElement.getElementsByTagName("CityNm").item(0);
+            }
+            Node stateNode = addressElement.getElementsByTagName("State").item(0);
+            if (stateNode == null) {
+                stateNode = addressElement.getElementsByTagName("StateAbbreviationCd").item(0);
+            }
+            Node zipNode = addressElement.getElementsByTagName("ZIPCd").item(0);
+            if (zipNode == null) {
+                zipNode = addressElement.getElementsByTagName("ZIPCode").item(0);
+            }
+            if (streetNode != null) {
+                filerInfo.setFilerStreet(streetNode.getTextContent());
+            }
+            if (cityNode != null) {
+                filerInfo.setFilerCity(cityNode.getTextContent());
+            }
+            if (stateNode != null) {
+                filerInfo.setFilerState(stateNode.getTextContent());
+            }
+            if (zipNode != null) {
+                filerInfo.setFilerZip(zipNode.getTextContent());
+            }
+        }
+
         Node taxPeriodEndNode = root.getElementsByTagName("TaxPeriodEndDt").item(0);
         if (taxPeriodEndNode == null) {
             taxPeriodEndNode = root.getElementsByTagName("TaxPeriodEndDate").item(0);
@@ -150,12 +182,96 @@ public class XMLParser {
                 filerInfo.setFilerName(businessLineNode.getTextContent());
             }
         }
+        Node totalRevNode = root.getElementsByTagName("TotalRevAndExpnssAmt").item(0);
+        if (totalRevNode == null) {
+            totalRevNode = root.getElementsByTagName("TotalRevenueAndExpenses").item(0);
+        }
+        if (totalRevNode != null) {
+            String totalRevText = totalRevNode.getTextContent();
+            if (totalRevText != null && !totalRevText.isEmpty()) {
+                filerInfo.setTotalRev(Long.parseLong(totalRevText));
+            }
+        }
+        Node totalAssetsBOYNode = root.getElementsByTagName("TotalAssetsBOYAmt").item(0);
+        if (totalAssetsBOYNode == null) {
+            totalAssetsBOYNode = root.getElementsByTagName("TotalAssetsBOY").item(0);
+        }
+        if (totalAssetsBOYNode != null) {
+            String totalAssetsBOYText = totalAssetsBOYNode.getTextContent();
+            if (totalAssetsBOYText != null && !totalAssetsBOYText.isEmpty()) {
+                filerInfo.setTotalAssetsBOY(Long.parseLong(totalAssetsBOYText));
+            }
+        }
+        Node totalAssetsEOYNode = root.getElementsByTagName("TotalAssetsEOYAmt").item(0);
+        if (totalAssetsEOYNode == null) {
+            totalAssetsEOYNode = root.getElementsByTagName("TotalAssetsEOY").item(0);
+        }
+        if (totalAssetsEOYNode != null) {
+            String totalAssetsEOYText = totalAssetsEOYNode.getTextContent();
+            if (totalAssetsEOYText != null && !totalAssetsEOYText.isEmpty()) {
+                filerInfo.setTotalAssetsEOY(Long.parseLong(totalAssetsEOYText));
+            }
+        }
+        Node distributableAmountNode = root.getElementsByTagName("DistributableAmountAsAdjusted").item(0);
+        if (distributableAmountNode == null) {
+            distributableAmountNode = root.getElementsByTagName("DistributableAmountAsAdjustedAmt").item(0);
+        }
+        if (distributableAmountNode != null) {
+            String distributableAmountText = distributableAmountNode.getTextContent();
+            if (distributableAmountText != null && !distributableAmountText.isEmpty()) {
+                filerInfo.setDistributableAmount(Long.parseLong(distributableAmountText));
+            }
+        }
+        Node remainingDistributionNode = root.getElementsByTagName("RemainingDistriFromCorpus").item(0);
+        if (remainingDistributionNode == null) {
+            remainingDistributionNode = root.getElementsByTagName("RemainingDistiFromCorpusAmt").item(0);
+        }
+        if (remainingDistributionNode != null) {
+            String remainingDistributionText = remainingDistributionNode.getTextContent();
+            if (remainingDistributionText != null && !remainingDistributionText.isEmpty()) {
+                filerInfo.setRemainingDistribution(Long.parseLong(remainingDistributionText));
+            }
+        }
+
+
 
         return filerInfo;
     }
 
     private GrantInfo populateGrantInfo(GrantInfo filerInfo, Element grantElement, Document doc) {
         GrantInfo grantInfo = new GrantInfo();
+
+        Element addressElement = (Element) grantElement.getElementsByTagName("RecipientUSAddress").item(0);
+        if (addressElement != null) {
+            Node streetNode = addressElement.getElementsByTagName("AddressLine1Txt").item(0);
+            if (streetNode == null) {
+                streetNode = addressElement.getElementsByTagName("AddressLine1").item(0);
+            }
+            Node cityNode = addressElement.getElementsByTagName("City").item(0);
+            if (cityNode == null) {
+                cityNode = addressElement.getElementsByTagName("CityNm").item(0);
+            }
+            Node stateNode = addressElement.getElementsByTagName("State").item(0);
+            if (stateNode == null) {
+                stateNode = addressElement.getElementsByTagName("StateAbbreviationCd").item(0);
+            }
+            Node zipNode = addressElement.getElementsByTagName("ZIPCd").item(0);
+            if (zipNode == null) {
+                zipNode = addressElement.getElementsByTagName("ZIPCode").item(0);
+            }
+            if (streetNode != null) {
+                grantInfo.setRecipientStreet(streetNode.getTextContent());
+            }
+            if (cityNode != null) {
+                grantInfo.setRecipientCity(cityNode.getTextContent());
+            }
+            if (stateNode != null) {
+                grantInfo.setRecipientState(stateNode.getTextContent());
+            }
+            if (zipNode != null) {
+                grantInfo.setRecipientZip(zipNode.getTextContent());
+            }
+        }
 
         NodeList businessNameNodes = grantElement.getElementsByTagName("RecipientBusinessName");
         if (businessNameNodes.getLength() == 0) {
@@ -178,7 +294,7 @@ public class XMLParser {
         if (amtNode != null) {
             String amtText = amtNode.getTextContent();
             if (amtText != null && !amtText.isEmpty()) {
-                grantInfo.setGrantAmount(Integer.parseInt(amtText));
+                grantInfo.setGrantAmount(Long.parseLong(amtText));
             }
         }
         NodeList foundationStatusNodes = grantElement.getElementsByTagName("RecipientFoundationStatusTxt");
@@ -206,6 +322,11 @@ public class XMLParser {
             grantInfo.setFilerCity(filerInfo.getFilerCity());
             grantInfo.setFilerState(filerInfo.getFilerState());
             grantInfo.setFilerZip(filerInfo.getFilerZip());
+            grantInfo.setTotalRev(filerInfo.getTotalRev());
+            grantInfo.setTotalAssetsBOY(filerInfo.getTotalAssetsBOY());
+            grantInfo.setTotalAssetsEOY(filerInfo.getTotalAssetsEOY());
+            grantInfo.setDistributableAmount(filerInfo.getDistributableAmount());
+            grantInfo.setRemainingDistribution(filerInfo.getRemainingDistribution());
 
 //        System.out.println("Grant information populated.");
             return grantInfo;
