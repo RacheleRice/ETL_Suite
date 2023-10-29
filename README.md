@@ -20,6 +20,6 @@ Comments/suggestions welcome!
 * Integrated reporting for data visualization
 * Test cases for data validation
 * UI so that non-technologists can use it
-* machine learning to pull more funding sources for specified nonprofits and to automate adding 990's and 990-PF's to the database
+* Machine learning to pull more funding sources for specified nonprofits and to automate adding 990's and 990-PF's to the database
 
 
