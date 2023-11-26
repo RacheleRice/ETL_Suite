@@ -12,6 +12,11 @@ public class GrantInfo {
     private String filerCity;
     private String filerState;
     private String filerZip;
+    private long totalRev;
+    private long totalAssetsBOY;
+    private long totalAssetsEOY;
+    private long distributableAmount;
+    private long remainingDistribution;
     private String recipientName;
     private long grantAmount;
     private String recipientStreet;
@@ -21,10 +26,11 @@ public class GrantInfo {
     private String recipientRelationship;
     private String recipientFoundationStatus;
     private String grantPurpose;
+    private String standardizedRecipientName;
 
     public GrantInfo() {}
 
-    public GrantInfo(Date taxPeriodEndDate, String returnTypeCode, Date taxPeriodBeginDate, String ein, String filerName, String filerStreet, String filerCity, String filerState, String filerZip, long totalRev, long totalAssetsBOY, long totalAssetsEOY, long distributableAmount, long remainingDistribution, String recipientName, long grantAmount, String recipientStreet, String recipientCity, String recipientState, String recipientZip, String recipientRelationship, String recipientFoundationStatus, String grantPurpose) {
+    public GrantInfo(Date taxPeriodEndDate, String returnTypeCode, Date taxPeriodBeginDate, String ein, String filerName, String filerStreet, String filerCity, String filerState, String filerZip, long totalRev, long totalAssetsBOY, long totalAssetsEOY, long distributableAmount, long remainingDistribution, String recipientName, long grantAmount, String recipientStreet, String recipientCity, String recipientState, String recipientZip, String recipientRelationship, String recipientFoundationStatus, String grantPurpose, String standardizedRecipientName) {
         this.taxPeriodEndDate = taxPeriodEndDate;
         this.returnTypeCode = returnTypeCode;
         this.taxPeriodBeginDate = taxPeriodBeginDate;
@@ -48,6 +54,8 @@ public class GrantInfo {
         this.recipientRelationship = recipientRelationship;
         this.recipientFoundationStatus = recipientFoundationStatus;
         this.grantPurpose = grantPurpose;
+        this.standardizedRecipientName = standardizedRecipientName;
+
     }
 
     public Date getTaxPeriodEndDate() {
@@ -234,6 +242,14 @@ public class GrantInfo {
         this.grantPurpose = grantPurpose;
     }
 
+    public String getStandardizedRecipientName() {
+        return standardizedRecipientName;
+    }
+
+    public void setStandardizedRecipientName(String standardizedRecipientName) {
+        this.standardizedRecipientName = standardizedRecipientName;
+    }
+
     @Override
     public String toString() {
         return "GrantInfo{" +
@@ -260,6 +276,7 @@ public class GrantInfo {
                 ", recipientRelationship='" + recipientRelationship + '\'' +
                 ", recipientFoundationStatus='" + recipientFoundationStatus + '\'' +
                 ", grantPurpose='" + grantPurpose + '\'' +
+                ", standardizedRecipientName='" + standardizedRecipientName + '\'' +
                 '}';
     }
 }
