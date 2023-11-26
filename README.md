@@ -18,11 +18,13 @@ Comments/suggestions welcome!
 ![2021 Revenue Total Sums](https://github.com/RacheleRice/990PF_XML_Parser/blob/main/Images/PF2.png)
 
 ### Future Updates ###
-* JSON integration for 990 data 
-* Data Cleaning methods
-* Integrated reporting for data visualization
-* Test cases for data validation
-* UI so that non-technologists can use it
+* JSON integration for 990 data and grants disclosed on [SEC 10-K and 10-Q Filings](https://www.sec.gov/edgar/searchedgar/companysearch.html)
+    *990's are helpful to track missionsphere nonprofit revenues by year
+    *10-K's and 10-Q's are helpful to track charitable contributions by publicly traded companies, not disclosed in 990-PF's
+* Data Cleaning methods (in progress)
+* Integrated reporting for data visualization (coming soon)
+* Test cases for data validation (coming soon)
+* UI so that non-technologists can use it 
 * Machine learning to pull more funding sources for specified nonprofits and to automate adding 990's and 990-PF's to the database
 
 
