@@ -1,4 +1,4 @@
-# ETL Suite + 
+# ETL Suite+ 
 (formerly XML Parser)
 
 Comprehensive data processing pipeline for nonprofit tech startup funding and executive strategic analysis.
