@@ -1,10 +1,12 @@
-# 990-PF XML Parser
+# ETL Suite + 
+(formerly XML Parser)
 
-ETL (extract/transform/load) suite which:
-1. Parses filer/grant info from 990PF XMLs and stores it in a Postgres database in a table called grants.
-2. Stores matching grants in a table called matching_grants.
-3. Implements basic logic to normalize and clean the data.
-4. Auto-generates reports for strategic funding/executive decision making.
+Comprehensive data processing pipeline for nonprofit tech startup funding and executive strategic analysis.
+1. Extract: Parses filer/grant info from 990PF XMLs and stores it in a Postgres database.
+2. Transform: Cleans and standardizes data for analysis.
+3. Load: Loads data into a Postgres database.
+4. +Analysis & Reporting: Auto-generates reports for funding/executive strategic analysis.
+5. +Future Enhancement: Machine learning integration/automation, UI, and more.
 
 To run this create a database in PgAdmin called 'grants' 
 and change the directory path in the code to your absolute local paths for TY2013 - TY2022. 
