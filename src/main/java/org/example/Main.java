@@ -48,7 +48,13 @@ public class Main {
                 dbManager.insertGrantInfo(grant);
             }
         }
-
+    //call executeQueryFromCSV to create and populate the matching_grants table
+        try {
+            dbManager.executeQueryFromCSV();
+        } catch (Exception e) {
+            System.out.println("Error executing query from CSV: " + e.getMessage());
+            e.printStackTrace();
+        }
 
     }
 
