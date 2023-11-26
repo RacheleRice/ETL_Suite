@@ -21,8 +21,8 @@ Comments/suggestions welcome!
 
 ### Future Updates Roadmap###
 * JSON integration for 990 data and grants disclosed on [SEC 10-K and 10-Q Filings](https://www.sec.gov/edgar/searchedgar/companysearch.html)
-    *990's are helpful to track missionsphere nonprofit revenues by year
-    *10-K's and 10-Q's are helpful to track charitable contributions by publicly traded companies, not disclosed in 990-PF's
+    * 990's are helpful to track missionsphere nonprofit revenues by year
+    * 10-K's and 10-Q's are helpful to track charitable contributions by publicly traded companies, not disclosed in 990-PF's
 * Data Cleaning methods (in progress)
 * Integrated reporting for data visualization (coming soon)
 * Test cases for data validation (coming soon)
