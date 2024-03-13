@@ -1,24 +1,13 @@
-package org.example;
+package org.tbs;
 
 import java.io.File;
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.parsers.ParserConfigurationException;
-import java.io.IOException;
-import java.sql.*;
 import java.util.List;
-
-import org.w3c.dom.Document;
-import org.w3c.dom.Element;
-import org.w3c.dom.Node;
-import org.w3c.dom.NodeList;
-import org.xml.sax.SAXException;
 
 
 public class Main {
     public static void main(String[] args) {
-        //Initialize DatabaseManager and XMLParser
-        DatabaseManager dbManager = new DatabaseManager();
+        //Initialize extractor and XMLParser
+        DataExtractor extractor = new DataExtractor();
         XMLParser xmlParser = new XMLParser();
 
         String[] directories = {
@@ -45,12 +34,12 @@ public class Main {
 
             //Insert each parsed GrantInfo into the database
             for (GrantInfo grant : grants) {
-                dbManager.insertGrantInfo(grant);
+                extractor.insertGrantInfo(grant);
             }
         }
     //call executeQueryFromCSV to create and populate the matching_grants table
         try {
-            dbManager.executeQueryFromCSV();
+            extractor.executeQueryFromCSV();
         } catch (Exception e) {
             System.out.println("Error executing query from CSV: " + e.getMessage());
             e.printStackTrace();

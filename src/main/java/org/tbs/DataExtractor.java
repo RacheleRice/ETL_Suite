@@ -1,17 +1,15 @@
-package org.example;
+package org.tbs;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.sql.*;
-import java.util.ArrayList;
-import java.util.List;
-import org.apache.commons.lang3.*;
+
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVRecord;
 
-public class DatabaseManager {
+public class DataExtractor {
     private Connection conn;
 
     public void createGrantsTable() {
@@ -50,7 +48,7 @@ public class DatabaseManager {
         }
     }
 
-    public DatabaseManager() {
+    public DataExtractor() {
         //initialize connection
         try {
             conn = DriverManager.getConnection("jdbc:postgresql://localhost:5432/grants", "postgres", "postgres1");
@@ -165,10 +163,13 @@ public class DatabaseManager {
 
             createMatchingGrantsTable(conn); //assuming this method creates the table if it doesn't exist
 
+            DataTransformer transformer = new DataTransformer();
+
             while (rs.next()) {
                 System.out.println(rs.getString("standardized_recipient_name"));
                 //Create a GrantInfo object from the ResultSet
                 GrantInfo grantInfo = new GrantInfo();
+                //Populate grantInfo with data from rs
                 grantInfo.setStandardizedRecipientName(rs.getString("standardized_recipient_name"));
                 grantInfo.setTaxPeriodEndDate(rs.getDate("tax_period_end_date"));
                 grantInfo.setReturnTypeCode(rs.getString("return_type_code"));
@@ -193,6 +194,12 @@ public class DatabaseManager {
                 grantInfo.setRecipientRelationship(rs.getString("recipient_relationship"));
                 grantInfo.setRecipientFoundationStatus(rs.getString("recipient_foundation_status"));
                 grantInfo.setGrantPurpose(rs.getString("grant_purpose"));
+
+                //clean the data
+                String cleanedFilerName = transformer.cleanFilerName(grantInfo.getFilerName());
+                String cleanedRecipientName = transformer.cleanRecipientName(grantInfo.getRecipientName());
+                grantInfo.setFilerName(cleanedFilerName);
+                grantInfo.setRecipientName(cleanedRecipientName);
 
 
                 //Extract data from result set and insert into the matching_grants table

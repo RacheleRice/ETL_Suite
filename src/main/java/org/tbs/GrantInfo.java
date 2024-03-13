@@ -1,4 +1,4 @@
-package org.example;
+package org.tbs;
 
 import java.sql.Date;
 
