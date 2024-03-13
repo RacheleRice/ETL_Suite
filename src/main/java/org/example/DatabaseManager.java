@@ -1,11 +1,13 @@
 package org.example;
 
 import java.io.BufferedReader;
+import java.io.FileNotFoundException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
+import org.apache.commons.lang3.*;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVRecord;
 
@@ -122,19 +124,37 @@ public class DatabaseManager {
 
     public String constructQueryFromCSV() throws Exception {
         InputStream inputStream = getClass().getClassLoader().getResourceAsStream("grant_external_configuration_file.csv");
-        BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream));
-        Iterable<CSVRecord> records = CSVFormat.DEFAULT.withFirstRecordAsHeader().parse(reader);
+
+        if (inputStream == null) {
+            throw new FileNotFoundException("File grant_external_configuration_file.csv not found");
+        }
 
         StringBuilder queryBuilder = new StringBuilder("SELECT * FROM grants WHERE ");
 
-for (CSVRecord record : records) {
+        try (
+            BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream))) {
+            Iterable<CSVRecord> records = CSVFormat.DEFAULT.withFirstRecordAsHeader().parse(reader);
+
+            boolean hasRecords = false;
+
+            for (CSVRecord record : records) {
             String field = record.get("Field");
             String pattern = record.get("Pattern");
             queryBuilder.append(field).append(" ILIKE '").append(pattern).append("' OR ");
+            hasRecords = true;
         }
-        String query = queryBuilder.toString();
-        return query.substring(0, query.lastIndexOf("OR")).trim();
+        // Remove the last " OR " from the query
+        if (hasRecords) {
+            //removes the last " OR " only if there are no records
+            queryBuilder.setLength(queryBuilder.length() - 4);
+            } else {
+            //if there are no records, remove the " WHERE " clause
+            queryBuilder.setLength(queryBuilder.length() - 7);
+             }
+        }
+        return queryBuilder.toString();
     }
+
 
     public void executeQueryFromCSV() throws Exception {
         String query = constructQueryFromCSV();
