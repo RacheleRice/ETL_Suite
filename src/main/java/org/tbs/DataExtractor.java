@@ -198,8 +198,10 @@ public class DataExtractor {
                 //clean the data
                 String cleanedFilerName = transformer.cleanFilerName(grantInfo.getFilerName());
                 String cleanedRecipientName = transformer.cleanRecipientName(grantInfo.getRecipientName());
-                grantInfo.setFilerName(cleanedFilerName);
+                String standardizedFilerName = transformer.standardizeFilerName(cleanedFilerName);
+                //set cleaned/standardized data back into grantInfo object
                 grantInfo.setRecipientName(cleanedRecipientName);
+                grantInfo.setFilerName(standardizedFilerName);
 
 
                 //Extract data from result set and insert into the matching_grants table
