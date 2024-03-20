@@ -213,7 +213,7 @@ public class DataExtractor {
     }
 
     private void createMatchingGrantsTable(Connection Conn) throws SQLException {
-        System.out.println("Creating matching_grants table...");
+         System.out.println("Creating matching_grants table...");
         //SQL to create the matching_grants table if it doesn't exist
         String createTableSQL = "CREATE TABLE IF NOT EXISTS matching_grants (" +
                 "id SERIAL PRIMARY KEY," +
