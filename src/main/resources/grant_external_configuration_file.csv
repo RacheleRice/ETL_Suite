@@ -1,109 +1,132 @@
 Field,Pattern,Standardized_Recipient_Name
-recipient_name,Center for Humane Technology,Center for Humane Technology
-recipient_name,Time Well Spent,Center for Humane Technology
-recipient_name,National Institute for Civil Discourse,National Institute for Civil Discourse
-recipient_name,NICD,National Institute for Civil Discourse
-recipient_name,Bellingcat,Bellingcat Ltd
-recipient_name,%Brennan Center,Brennan Center for Justice
-recipient_name,Center for Digital Democracy,Center for Digital Democracy
-recipient_name,Centre for Critical Thinking,Centre for Critical Thinking
-recipient_name,%Information and Research on Civic Learning and Engagement,CIRCLE
+grant_purpose,%Media Manipulation%,The Technology & Social Change Group
+grant_purpose,Tasc%,The Technology & Social Change Group
+grant_purpose,%technology%social%change%,The Technology & Social Change Group
+recipient_name,%Belling%cat%,Bellingcat Ltd
+recipient_name,%Bellincat%,Bellingcat Ltd
+recipient_name,%Bellingcatt%,Bellingcat Ltd
+recipient_name,%Belling cat Limited%,Bellingcat Ltd
+recipient_name,%Belling cat LLC%,Bellingcat Ltd
+recipient_name,%Braver Angels%,Braver Angels
+recipient_name,%BraverAngel%,Braver Angels
+recipient_name,%Braver Angles%,Braver Angels
+recipient_name,%Braver Angel%,Braver Angels
+recipient_name,%BraverAngels%,Braver Angels
+recipient_name,%Braver Angels Inc%,Braver Angels
+recipient_name,%Brennan%Center%,Brennan Center for Justice
+recipient_name,%Brennan%Centre%,Brennan Center for Justice
+recipient_name,%Brennan%Ctr%,Brennan Center for Justice
+recipient_name,%Brenan%Center%,Brennan Center for Justice
+recipient_name,%Bridging%Divide%Initiative%,Bridging Divides Initiative
+recipient_name,%Bridging Divides%,Bridging Divides Initiative
+recipient_name,%Center%Civic%Education%,Center for Civic Education
+recipient_name,%Centre%Civic%Education%,Center for Civic Education
+recipient_name,CCE,Center for Civic Education
+recipient_name,%Center%Democracy%Tech%,Center for Democracy & Technology
+recipient_name,%Ctr%Democracy%Tech%,Center for Democracy & Technology
+recipient_name,%Centre%Democracy%Tech%,Center for Democracy & Technology
+recipient_name,%Center%Digital%Democracy%,Center for Digital Democracy
+recipient_name,%Ctr%Digital%Democracy%,Center for Digital Democracy
+recipient_name,%Centre%Digital%Democracy%,Center for Digital Democracy
+recipient_name,%Center%Humane%Technology%,Center for Humane Technology
+recipient_name,%Centre%Humane%Technology%,Center for Humane Technology
+recipient_name,%Ctr%Humane%Technology%,Center for Humane Technology
+recipient_name,%Time Well Spent%,Center for Humane Technology
+recipient_name,%TimeWellSpent%,Center for Humane Technology
+recipient_name,%Center%Info%Resilience%,Center for Information Resilience
+recipient_name,%Centre%Info%Resilience%,Center for Information Resilience
+recipient_name,%Ctr%Info%Resilience%,Center for Information Resilience
+recipient_name,%Center%Media%Democracy%,Center for Media and Democracy
+recipient_name,cmd,Center for Media and Democracy
+recipient_name,%Centre%Critical%Thinking%,Centre for Critical Thinking
+recipient_name,%Center%Critical%Thinking%,Centre for Critical Thinking
+recipient_name,%Ctr%Critical%Thinking%,Centre for Critical Thinking
+recipient_name,%Centre%Info%Resilience%,Centre for Information Resilience
+recipient_name,%Center%Info%Resilience%,Centre for Information Resilience
+recipient_name,%Ctr%Info%Resilience%,Centre for Information Resilience
 recipient_name,CIRCLE,CIRCLE
-recipient_name,Civicus,Civicus
-recipient_name,Code for America,Code for America
-recipient_name,Common Sense Media,Common Sense Media
-recipient_name,%Data and Society%,Data & Society Research Institute
-recipient_name,%Democracy Docket%,Democracy Docket Legal Fund
-recipient_name,%DDLF%,Democracy Docket Legal Fund
-recipient_name,Democracy Earth%,Democracy Earth Foundation
-recipient_name,Democracy Works,Democracy Works
-grant_purpose,%DFRLab,Atlantic Council Digital Forensic Research Lab
-grant_purpose,%Digital Forensic%,Atlantic Council Digital Forensic Research Lab
-recipient_name,Electronic Frontier Foundation,Electronic Frontier Foundation
-recipient_name,%EFF%,Electronic Frontier Foundation
-recipient_name,Facing History%,Facing History and Ourselves
-recipient_name,FactCheck%,FactCheck.org
-recipient_name,%Annenberg Public Policy%,FactCheck.org
-recipient_name,%Fairness and Accuracy in Reporting%,Fairness and Accuracy in Reporting
-recipient_name,%Fairness & Accuracy in Reporting%,Fairness and Accuracy in Reporting
-recipient_name,%FAIR%,Fairness and Accuracy in Reporting
-recipient_name,First Draft News,First Draft News
-recipient_name,%Foundation for American Innovation%,Foundation for American Innovation
-recipient_name,%Technology Lab for Liberty%,Foundation for American Innovation
-recipient_name,%theFAI%,Foundation for American Innovation
-recipient_name,%the FAI%,Foundation for American Innovation
-recipient_name,%Full Fact,Full Fact
-recipient_name,%Global Disinformation Index,Global Disinformation Index
-recipient_name,%GDI,Global Disinformation Index
-recipient_name,Global Voices%,Global Voices Foundation
-recipient_name,GVF%,Global Voices Foundation
-recipient_name,%Institute for Strategic Dialogue,Institute for Strategic Dialogue
-recipient_name,%ISD%,Institute for Strategic Dialogue
-recipient_name,Institute for the Future,Institute for the Future
+recipient_name,%Info%Research%Civic%Learning%Engagement%,CIRCLE
+recipient_name,%Center%Info%Research%,CIRCLE
+recipient_name,%Ctr%Info%Research%,CIRCLE
+recipient_name,%Centre%Info%Research%,CIRCLE
+recipient_name,City Bureau%,City Bureau
+recipient_name,%Civicus%,Civicus
+recipient_name,Code for America%,Code for America
+recipient_name,%Common%Ground%Committee%,Common Ground Committee
+recipient_name,%Common%Sense%Media%,Common Sense Media
+recipient_name,%Convergence%Center%Policy%,Convergence Center for Policy Resolution
+recipient_name,%Convergence%Ctr%Policy%,Convergence Center for Policy Resolution
+recipient_name,%Convergence%Centre%Policy%,Convergence Center for Policy Resolution
+recipient_name,%Data%Society%,Data & Society Research Institute
+recipient_name,%Democracy%Docket%,Democracy Docket Legal Fund
+recipient_name,DDLF,Democracy Docket Legal Fund
+recipient_name,%Democracy %Earth%Foundation%,Democracy Earth Foundation
+recipient_name,%Democracy%Reporting%Int%,Democracy Reporting International
+recipient_name,Democracy Works%,Democracy Works
+recipient_name,%Electronic%Frontier%Foundation%,Electronic Frontier Foundation
+recipient_name,EFF,Electronic Frontier Foundation
+recipient_name,%Facing%History%Ourselves%,Facing History and Ourselves
+recipient_name,%Facing%History%Ourselves%LA%,Facing History and Ourselves - Los Angeles
+recipient_name,%Facing%History%Ourselves%Angeles,Facing History and Ourselves - Los Angeles
+recipient_name,Fact%Check%,FactCheck.org
+recipient_name,%Annenberg%Public%Policy%,FactCheck.org
+recipient_name,%Fairness%Accuracy%Reporting%,Fairness and Accuracy in Reporting
+recipient_name,FAIR,Fairness and Accuracy in Reporting
+recipient_name,First%Draft%News%,First Draft News
+recipient_name,%Foundation%American%Innovation%,Foundation for American Innovation
+recipient_name,%Technology%Lab%Liberty%,Foundation for American Innovation
+recipient_name,the%FAI,Foundation for American Innovation
+recipient_name,%Full Fact%,Full Fact
+recipient_name,%Global%Disinformation%Index%,Global Disinformation Index
+recipient_name,GDI,Global Disinformation Index
+recipient_name,%Global%Voices%F%,Global Voices Foundation
+recipient_name,GVF,Global Voices Foundation
+recipient_name,%Institute%Strategic%Dialogue%,Institute for Strategic Dialogue
+recipient_name,ISD,Institute for Strategic Dialogue
+recipient_name,%Institute%for%Future%,Institute for the Future
 recipient_name,IFTF,Institute for the Future
-recipient_name,%International Center for Journalists,International Center for Journalists
+recipient_name,%International%Center%for%Journalists%,International Center for Journalists
 recipient_name,ICFJ,International Center for Journalists
-recipient_name,%International Center for the Study of Violent Extremism,International Center for the Study of Violent Extremism
+recipient_name,%International%Centre%for%Journalists%,International Center for Journalists
+recipient_name,%International%Ctr%for%Journalists%,International Center for Journalists
+recipient_name,%International%Center%Study%Violent%Extremism%,International Center for the Study of Violent Extremism
 recipient_name,ICSVE,International Center for the Study of Violent Extremism
-recipient_name,Kaiser Family Foundation,Kaiser Family Foundation
+recipient_name,%International%Centre%Study%Violent%Extremism%,International Center for the Study of Violent Extremism
+recipient_name,%International%Ctr%Study%Violent%Extremism%,International Center for the Study of Violent Extremism
+recipient_name,Kaiser%Family%F%,Kaiser Family Foundation
 recipient_name,KFF,Kaiser Family Foundation
-grant_purpose,%Measures For Justice,ProPublica
-grant_purpose,%Measures for Justice,ProPublica
-grant_purpose,%Media Manipulation Casebook,%Technology and Social Change%
-grant_purpose,%Media Manipulation,%TaSC%
-recipient_name,Media Matters,Media Matters for America
+recipient_name,%Listen%First%Project%,Listen First Project
+recipient_name,%Living%Room%Conv%,Living Room Conversations
+recipient_name,Media Matters%,Media Matters for America
+recipient_name,%Media%Matters%America%,Media Matters for America
 recipient_name,MMFA,Media Matters for America
-recipient_name,Meedan,Meedan
-recipient_name,Mozilla,Mozilla Foundation
+recipient_name,Meedan%,Meedan
+recipient_name,%Meedan,Meedan
+recipient_name,%Millenial%Action%Project%,Millenial Action Project
+recipient_name,MAP,Millenial Action Project
+recipient_name,%Mozilla%,Mozilla Foundation
+recipient_name,%National%Democratic%Inst%,National Democratic Institute
+recipient_name,%National%Institute%Civil%Discourse%,National Institute for Civil Discourse
+recipient_name,NICD,National Institute for Civil Discourse
 recipient_name,%Open Secrets%,Open Secrets
-recipient_name,Pen America,Pen America
-recipient_name,%Poynter Institute,Poynter Institute
-recipient_name,%ProPublica,ProPublica
-recipient_name,%Protect Democracy,Protect Democracy
-recipient_name,%Snopes,Snopes
-recipient_name,%Sunlight Foundation,Sunlight Foundation
-recipient_name,%Center for Civic Education,Center for Civic Education
-recipient_name,%CCE,Center for Civic Education
-recipient_name,%Center for Media and Democracy,Center for Media and Democracy
-recipient_name,%CMD,Center for Media and Democracy
-recipient_name,%Centre for Information Resilience,Centre for Information Resilience
-recipient_name,The Conversation%,The Conversation Media Group
-recipient_name,%The Internet Archive,The Internet Archive
-recipient_name,%Internet Archive,The Internet Archive
-recipient_name,%The Lincoln Network,The Lincoln Network
-recipient_name,%Lincoln Network,The Lincoln Network
-recipient_name,%The News Literacy Project,The News Literacy Project
-recipient_name,%News Literacy Project,The News Literacy Project
-recipient_name,%The Reboot Foundation,The Reboot Foundation
-recipient_name,%Reboot Foundation,The Reboot Foundation
-recipient_name,%The Wikimedia Foundation,The Wikimedia Foundation
+recipient_name,%Pen America%,Pen America
+recipient_name,%Poynter%,Poynter Institute
+grant_purpose,%Measures%For%Justice%,ProPublica
+recipient_name,%ProPublica%,ProPublica
+recipient_name,%Protect Democracy%,Protect Democracy
+recipient_name,%Shared Nation%,Shared Nation
+recipient_name,%Snopes%,Snopes
+recipient_name,%Strengthening%Democracy%,Strengthening Democracy Challenge
+recipient_name,%Sunlight%Foundation,Sunlight Foundation
+recipient_name,%American%Enterprise%Institute%,The American Enterprise Institute
+recipient_name,AEI,The American Enterprise Institute
+recipient_name,%Aspen Institute%,The Aspen Institute
+recipient_name,%Bipartisan%Policy%Center%,The Bipartisan Policy Center
+recipient_name,%Conversation%Media%Group%,The Conversation Media Group
+recipient_name,%Internet Archive%,The Internet Archive
+recipient_name,%Lincoln Network%,The Lincoln Network
+recipient_name,%News%Literacy%Project%,The News Literacy Project
+recipient_name,%Reboot Foundation%,The Reboot Foundation
+recipient_name,%Reckoning Project%,The Reckoning Project
+recipient_name,%Soufan Center%,The Soufan Center
 recipient_name,%Wikimedia Foundation,The Wikimedia Foundation
-recipient_name,%American Enterprise Institute,The American Enterprise Institute
-recipient_name,%AEI,The American Enterprise Institute
-recipient_name,%Bipartisan Policy Center,The Bipartisan Policy Center
-recipient_name,Bridging Divides Initiative,Bridging Divides Initiative
-recipient_name,%Convergence Center,Convergence Center for Policy Resolution
-recipient_name,%Aspen Institute,The Aspen Institute
-recipient_name,%Millenial Action Project,Millenial Action Project
-recipient_name,%MAP,Millenial Action Project
-recipient_name,%National Institute for Civil Discourse,National Institute for Civil Discourse
-recipient_name,%NICD,National Institute for Civil Discourse
-recipient_name,%Braver Angels,Braver Angels
-recipient_name,%Living Room Conversations,Living Room Conversations
-recipient_name,%Common Ground Committee,Common Ground Committee
-recipient_name,%Listen First Project,Listen First Project
-recipient_name,Shared Nation,Shared Nation
-recipient_name,City Bureau,City Bureau
-recipient_name,Center for Democracy & Technology,Center for Democracy & Technology
-recipient_name,Center for Democracy and Technology,Center for Democracy & Technology
-recipient_name,The Soufan Center,The Soufan Center
-recipient_name,Democracy Reporting International,Democracy Reporting International
-recipient_name,Strengthening Democracy%,Strengthening Democracy Challenge
-recipient_name,National Democratic Institute,National Democratic Institute
-recipient_name,Center for Information Resilience,Center for Information Resilience
-recipient_name, %Reckoning Project, The Reckoning Project
-recipient_name, %Democracy%, Democracy Misc Orgs
-recipient_name, %Disinformation%, Disinformation Misc Orgs
-recipient_name, %Misinformation%, Misinformation Misc Orgs
-recipient_name, %Democratic%, Democratic Misc Orgs
-
