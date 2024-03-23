@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-11-15T12:50:55-06:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>861065772</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>DELOITTE TAX LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>555 MISSION STREET</AddressLine1Txt>
+        <CityNm>SAN FRANCISCO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>94105</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>912159332</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>RAY AND DAGMAR DOLBY FAMILY FUND</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>RAYA</BusinessNameControlTxt>
+      <PhoneNum>4155633646</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>3340 JACKSON ST</AddressLine1Txt>
+        <CityNm>SAN FRANCISCO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>941182019</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>DAVID DOLBY</PersonNm>
+      <PersonTitleTxt>CHIEF FINANCIAL OFFICER</PersonTitleTxt>
+      <PhoneNum>4155633646</PhoneNum>
+      <SignatureDt>2023-11-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>DAVID</PersonFirstNm>
+        <PersonLastNm>DOLBY</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>0</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>MIKE SCHLECT</PreparerPersonNm>
+      <PTIN>P00967848</PTIN>
+      <PhoneNum>4157834000</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="9">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>86767121</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>47733</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>47723</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>329620</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>345690</DividendsNetInvstIncmAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc2001500001">80751</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>3891448</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>458104</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>4284861</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>0</CompOfcrDirTrstDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002100001">30645</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>15322</LegalFeesNetInvstIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>15322</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">81466</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>40733</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>40733</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">785190</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>257990</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>527200</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesNetInvstIncmAmt>33081</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">1719526</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>520224</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>0</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>2616827</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>867350</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>583255</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>9030528</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>6101575</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>11647355</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>867350</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>6684830</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-11189251</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>3417511</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>4224392</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>2421747</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>2421747</SavAndTempCashInvstEOYFMVAmt>
+        <AcctRcvblAmt>1729</AcctRcvblAmt>
+        <AcctRcvblBOYAmt>1729</AcctRcvblBOYAmt>
+        <AcctRcvblEOYAmt>1729</AcctRcvblEOYAmt>
+        <AcctRcvblEOYFMVAmt>1729</AcctRcvblEOYFMVAmt>
+        <PrepaidExpensesBOYAmt>76768</PrepaidExpensesBOYAmt>
+        <PrepaidExpensesEOYAmt>21835</PrepaidExpensesEOYAmt>
+        <PrepaidExpensesEOYFMVAmt>21835</PrepaidExpensesEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>103114832</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc2018100001">84321810</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>84321810</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>107417721</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>86767121</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>86767121</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>114740</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>53359</AccountsPayableEOYAmt>
+        <GrantsPayableBOYAmt>9661016</GrantsPayableBOYAmt>
+        <GrantsPayableEOYAmt>12589969</GrantsPayableEOYAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="RetDoc2065700001">374209</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="RetDoc2065700001">162156</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>10149965</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>12805484</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>0</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>0</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>97267756</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>73961637</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>97267756</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>73961637</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>107417721</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>86767121</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>97267756</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-11189251</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>86078505</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc2049800001">12116868</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>73961637</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>47503</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>47503</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>47503</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>125556</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>125556</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>0</EsPenaltyAmt>
+        <OverpaymentAmt>78053</OverpaymentAmt>
+        <AppliedToESTaxAmt>78053</AppliedToESTaxAmt>
+        <RefundAmt>0</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>1</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>1</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>JEN LYNCH</IndividualWithBooksNm>
+        <PhoneNum>4155633646</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>3340 JACKSON STREET</AddressLine1Txt>
+          <CityNm>SAN FRANCISCO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>941182019</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>1</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>0</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DAGMAR DOLBY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3340 JACKSON STREET</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>941182019</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>THOMAS DOLBY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3340 JACKSON STREET</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>941182019</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DAVID DOLBY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3340 JACKSON STREET</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>941182019</ZIPCd>
+          </USAddress>
+          <TitleTxt>CHIEF FINANCIAL OFFICER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JEN LYNCH</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3340 JACKSON STREET</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>941182019</ZIPCd>
+          </USAddress>
+          <TitleTxt>ASSISTANT SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>NATASHA DOLBY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3340 JACKSON STREET</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>941182019</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>HIRSCH &amp; ASSOCIATES LLC</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>1714 STOCKTON STREET SUITE 400</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94133</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>PHILANTHROPIC ADVISE SERVICES</ServiceTypeTxt>
+          <CompensationAmt>527200</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>HALL CAPITAL PARTNERS LLC</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>ONE MARITIME PLAZA SUITE 500</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94111</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>INVESTMENT MANAGEMENT SERVICES</ServiceTypeTxt>
+          <CompensationAmt>258148</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>88050254</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>5605139</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>93655393</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>93655393</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>1404831</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>92250562</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>4612528</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>4612528</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>47503</TaxBasedOnInvestmentIncomeAmt>
+        <IncomeTaxAmt>1933</IncomeTaxAmt>
+        <TotalTaxAmt>49436</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>4563092</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>4563092</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>4563092</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>6684830</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>6684830</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>4563092</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr5Amt>7127918</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>24960239</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>13499138</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>9306815</ExcessDistributionCyovYr2Amt>
+        <TotalExcessDistributionCyovAmt>54894110</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>6684830</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>4563092</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>2121738</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>57015848</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>7127918</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>49887930</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>24960239</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>13499138</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>9306815</ExcessFromYear2Amt>
+        <ExcessFromCurrentYearAmt>2121738</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>DAGMAR DOLBY</ContributingManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>JEN LYNCH RAY AND DAGMAR DOLBY FAMI</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3340 JACKSON STREET</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94118</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>4155633646</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>PLEASE SUBMIT A SIMPLE LETTER DESCRIBING YOUR ORGANIZATION AND PURPOSE OF REQUESTED FUNDS.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NO DEADLINES</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NOT APPLICABLE</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ALZHEIMER'S DRUG DISCOVERY FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>57 WEST 57TH STREET SUITE 904</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10019</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CURE ALZHEIMER'S FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>34 WASHINGTON ST SUITE 310</AddressLine1Txt>
+            <CityNm>WELLESLEY HILLS</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02481</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GLADSTONE INSTITUTES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1650 OWENS ST</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94158</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>2000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GLOBAL ALZHEIMER'S PLATFORM FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1101 K STREET NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UCSF FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2001 THE EMBARCADERO 3RD FLOOR</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94133</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY COLLEGE LONDON FRIENDS &amp; ALUMNI ASSOCIATION INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1350 AVENUE OF THE AMERICAS FLOOR 2</AddressLine1Txt>
+            <AddressLine2Txt>SUITE 266</AddressLine2Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10019</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>YALE UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>YALE UNIVERSITY</AddressLine1Txt>
+            <CityNm>NEW HAVEN</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06520</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>40000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ZUCKERBERG SAN FRANCISCO GENERAL HOSPITAL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1001 POTRERO AVE</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1561575</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>6101575</TotalGrantOrContriPdDurYrAmt>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BARACK OBAMA FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5235 S HARPER CT STE 1140</AddressLine1Txt>
+            <CityNm>CHICAGO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60615</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>4454288</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KAISER FOUNDATION HOSPITALS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 KAISER PLAZA 15L</AddressLine1Txt>
+            <CityNm>OAKLAND</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94612</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>2212673</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE REGENTS OF UCSF</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>220 MONTGOMERY STREET FLOOR 5</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>2983657</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ZUCKERBERG SF GENERAL HOSPITAL PLEDGE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1001 POTRERO AVE</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>2939352</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <TotalGrantOrContriApprvFutAmt>12589970</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>47733</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>329620</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <OtherInvestmentIncomeGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>80751</ExclusionAmt>
+        </OtherInvestmentIncomeGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>458104</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>458104</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>PROFESSIONAL FEES-ACCOUNTING</CategoryTxt>
+        <Amt>81466</Amt>
+        <NetInvestmentIncomeAmt>40733</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>40733</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>OTHER INVESTMENTS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>84321810</BookValueAmt>
+        <EOYFMVAmt>84321810</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFeesGrp>
+        <CategoryTxt>PROFESSIONAL FEES-LEGAL</CategoryTxt>
+        <LegalFeesAmt>30645</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>15322</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>15322</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreasesDetail>
+        <Desc>UNREALIZED INCOME/LOSS</Desc>
+        <Amt>12116868</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>OTHER EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>551</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OTHER EXPENSES-PARTNERSHIP</Desc>
+        <RevenueAndExpensesPerBooksAmt>975890</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>520224</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>CAPITAL LOSS</Desc>
+        <RevenueAndExpensesPerBooksAmt>743085</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncomeDetail>
+        <Desc>PARTNERSHIP INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>80751</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>519212</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>80751</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>PARTNERSHIP INTEREST INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>0</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>81018</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>PARTNERSHIP DIVIDEND INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>0</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>3291218</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilitiesDetail>
+        <Desc>DEFERRED TAX LIABILITY</Desc>
+        <BOYBookValueAmt>374209</BOYBookValueAmt>
+        <EOYBookValueAmt>162156</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>PROFESSIONAL FEES-INVESTMENT</CategoryTxt>
+        <Amt>257990</Amt>
+        <NetInvestmentIncomeAmt>257990</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>PROFESSIONAL FEES-ADMINISTRATIVE</CategoryTxt>
+        <Amt>527200</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>527200</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-10-06T09:51:04-05:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>135565207</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>KPMG LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>500 W 5TH STREET SUITE 800</AddressLine1Txt>
+        <CityNm>WINSTONSALEM</CityNm>
+        <StateAbbreviationCd>NC</StateAbbreviationCd>
+        <ZIPCd>27101</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>133267906</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>IBM INTERNATIONAL FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>IBMI</BusinessNameControlTxt>
+      <PhoneNum>9144994690</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>CO IBM TAX DEPT NORTH CASTLE DRIV</AddressLine1Txt>
+        <CityNm>ARMONK</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>10504</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JUSTINA NIXON-SAINTIL</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>9144994690</PhoneNum>
+      <SignatureDt>2023-10-04</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>JUSTINA</PersonFirstNm>
+        <PersonLastNm>NIXON-SAINTIL</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>0</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>LAURA A COLLINS</PreparerPersonNm>
+      <PTIN>P00008888</PTIN>
+      <PhoneNum>3362753394</PhoneNum>
+      <PreparationDt>2023-10-02</PreparationDt>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>313789501</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>11159714</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>83275</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>83275</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>7809111</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>7620559</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>16831166</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>82473514</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>20207253</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc2001500001">0</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>-712707</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>35883266</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>27198380</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>0</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">7796209</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>289215</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>7161004</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">511500</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>0</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>0</TaxesDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">15</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>466218</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>9881</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>8307724</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>755433</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>7170885</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>8001120</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>8001120</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>16308844</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>755433</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>15172005</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>19574422</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>26442947</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>1823404</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>13288834</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>13288834</SavAndTempCashInvstEOYFMVAmt>
+        <AcctRcvblAmt>10</AcctRcvblAmt>
+        <AcctRcvblEOYAmt>10</AcctRcvblEOYAmt>
+        <AcctRcvblEOYFMVAmt>10</AcctRcvblEOYFMVAmt>
+        <PledgesRcvblBOYAmt>2564457</PledgesRcvblBOYAmt>
+        <CorporateStockBOYAmt>375348034</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">300500657</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>300500657</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>379735895</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>313789501</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>313789501</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>1494384</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>1797060</AccountsPayableEOYAmt>
+        <TotalLiabilitiesBOYAmt>1494384</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>1797060</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>0</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>0</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>378241511</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>311992441</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>378241511</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>311992441</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>379735895</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>313789501</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>378241511</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>19574422</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>397815933</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc2049800001">85823492</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>311992441</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>82473514</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>62266261</CostOrOtherBasisAmt>
+          <GainOrLossAmt>20207253</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>20207253</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>20207253</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>367557</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>367557</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>367557</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>663527</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>663527</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>0</EsPenaltyAmt>
+        <OverpaymentAmt>295970</OverpaymentAmt>
+        <AppliedToESTaxAmt>295970</AppliedToESTaxAmt>
+        <RefundAmt>0</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>NY</OrgReportOrRegisterStateCd>
+        <OrgReportOrRegisterStateCd>DE</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>IBM INTERNATIONAL FOUNDATION</IndividualWithBooksNm>
+        <PhoneNum>9144994690</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>NEW ORCHARD ROAD</AddressLine1Txt>
+          <CityNm>ARMONK</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10504</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>1</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>1</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>0</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ARVIND KRISHNA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>NEW ORCHARD ROAD</AddressLine1Txt>
+            <CityNm>ARMONK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10504</ZIPCd>
+          </USAddress>
+          <TitleTxt>CHAIRMAN, DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JUSTINA NIXON-SAINTIL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>NEW ORCHARD ROAD</AddressLine1Txt>
+            <CityNm>ARMONK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10504</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR, PRESIDENT &amp; VICE CHAIR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>10.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SIMON J BEAUMONT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>NEW ORCHARD ROAD</AddressLine1Txt>
+            <CityNm>ARMONK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10504</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR, TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KATHLEEN MCDONALD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>NEW ORCHARD ROAD</AddressLine1Txt>
+            <CityNm>ARMONK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10504</ZIPCd>
+          </USAddress>
+          <TitleTxt>CONTROLLER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>FRANK SEDLARCIK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>NEW ORCHARD ROAD</AddressLine1Txt>
+            <CityNm>ARMONK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10504</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>STEPHEN LETT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>NEW ORCHARD ROAD</AddressLine1Txt>
+            <CityNm>ARMONK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10504</ZIPCd>
+          </USAddress>
+          <TitleTxt>ASSISTANT CONTROLLER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARK HOBBERT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>NEW ORCHARD ROAD</AddressLine1Txt>
+            <CityNm>ARMONK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10504</ZIPCd>
+          </USAddress>
+          <TitleTxt>ASSISTANT TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>EXPERIS US INC</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>29973 NETWORK PLACE</AddressLine1Txt>
+            <CityNm>CHICAGO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60673</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>PROGRAM CONSULTING</ServiceTypeTxt>
+          <CompensationAmt>3793504</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>IBM CORPORATION</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>NEW ORCHARD ROAD</AddressLine1Txt>
+            <CityNm>ARMONK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10504</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>PROGRAM SUPPORT</ServiceTypeTxt>
+          <CompensationAmt>3671943</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>STATE STREET BANK &amp; TRUST CO</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>1 LINCOLN ST</AddressLine1Txt>
+            <CityNm>BOSTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02111</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>INVESTMENT MANAGEMENT</ServiceTypeTxt>
+          <CompensationAmt>289215</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>THE IBM INTERNATIONAL FOUNDATION PROVIDED EDUCATIONAL AND SKILLS PROGRAMS TO FOCUS ON SKILLS NEEDED FOR 21ST CENTURY JOBS THROUGH THE FOLLOWING PROGRAMS:P-TECH IS A GROUND BREAKING EDUCATION MODEL WHICH COMBINES PUBLIC HIGH SCHOOL AND NO-COST COMMUNITY COLLEGE WITH PREPARATION FOR "NEW COLLAR" JOBS. P-TECH STUDENTS, PRIMARILY FROM UNDER-SERVED BACKGROUNDS, GRADUATE WITH A NO-COST ASSOCIATE DEGREE, ALONG WITH WORKPLACE EXPERIENCES INCLUDING MENTORSHIPS.SKILLSBUILD OFFERS FREE LEARNING, SUPPORT, AND RESOURCES FROM SECONDARY EDUCATION (STUDENTS AGED 13-18) TO ADULTS SEEKING ENTRY-LEVEL EMPLOYMENT. SKILLSBUILD PROVIDES SKILLS FOR ENTRY-LEVEL TECH JOBS.</Description1Txt>
+        <Expenses1Amt>3814704</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>329468002</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>3897411</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>333365413</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>333365413</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>5000481</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>328364932</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>16418247</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>16418247</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>367557</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>367557</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>16050690</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>16050690</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>16050690</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>15172005</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>15172005</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>16050690</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr5Amt>9250280</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>6940040</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>2208187</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>8983619</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>1462555</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>28844681</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>15172005</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>15172005</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>878685</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>878685</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>27965996</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>8371595</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>19594401</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>6940040</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>2208187</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>8983619</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>1462555</ExcessFromYear1Amt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CARVER VOCATIONAL TECHNICAL HS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2201 W PRESSMAN ST</AddressLine1Txt>
+            <CityNm>BALTIMORE</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>21216</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TRANSPORTATION FOR PTECH STUDENTS TO ATTEND INTERNSHIPS</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>COMPTIA TECH CAREER ACADEMY (CTCA)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3500 LACEY ROAD SUITE 100</AddressLine1Txt>
+            <CityNm>DOWNERS GROVE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60515</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROVIDING A+ TRAINING AND CERTIFICATION TO UNDERSERVED COMMUNITIES</GrantOrContributionPurposeTxt>
+          <Amt>350000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>JOBS FOR THE FUTURE INC - PTECH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>50 MILK ST</AddressLine1Txt>
+            <CityNm>BOSTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT FOR THE NEXT PHASE OF PTECH</GrantOrContributionPurposeTxt>
+          <Amt>1134000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>JOBS FOR THE FUTURE INC -SKILLBUILD</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>50 MILK ST</AddressLine1Txt>
+            <CityNm>BOSTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORTING DIGITAL AND PROFESSIONAL SKILLS FOR ADULT LEARNERS</GrantOrContributionPurposeTxt>
+          <Amt>610000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MAGIS AMERICAS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1016 16TH ST NW SUITE 400</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORTING THE EXPANSION OF P-TECH IN LATIN AMERICA</GrantOrContributionPurposeTxt>
+          <Amt>549646</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NEWBURGH ENGLARGED CITY SCHOOL DISTRICT (ECSD)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>124 GRAND ST</AddressLine1Txt>
+            <CityNm>NEWBURGH</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>12550</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TRANSPORTATION FOR PTECH STUDENTS TO ATTEND INTERNSHIPS</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NY COMMUNITY FRIDGE CORP</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>185 E 85TH ST APT 21A</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10028</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HELPING COMMUNITIES FIGHT FOOD INSECURITIES</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PTECH NORWALK</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>23 CALVIN MURPHY DR</AddressLine1Txt>
+            <CityNm>NORWALK</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06851</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TRANSPORTATION FOR PTECH STUDENTS TO ATTEND INTERNSHIPS</GrantOrContributionPurposeTxt>
+          <Amt>7000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SMITHSONIAN INSTITUTION - NATIONAL MUSEUM OF AFRICAN AMERICAN HISTORY AND C</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1400 CONSTITUTION AVENUE NW MRC</AddressLine1Txt>
+            <AddressLine2Txt>1405</AddressLine2Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20560</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT TO PROVIDE AFRICAN AMERICAN HISTORY EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>STRADA COLLABORATIVE INC DBA INSIDE TRACK</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10 W MARKET ST SUITE 1100</AddressLine1Txt>
+            <CityNm>INDIANAPOLIS</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>46204</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MENTORING AND COACHING FOR SKILLSBUILD PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>60000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TARA HIGH SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9002 WHITEHALL AVE</AddressLine1Txt>
+            <CityNm>BATON ROUGE</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70806</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TRANSPORTATION FOR PTECH STUDENTS TO ATTEND INTERNSHIPS</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE BLACKBAUD GIVING FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>65 FAIRCHILD STREET</AddressLine1Txt>
+            <CityNm>CHARLESTON</CityNm>
+            <StateAbbreviationCd>SC</StateAbbreviationCd>
+            <ZIPCd>29492</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EMPLOYEE MATCHING GRANT</GrantOrContributionPurposeTxt>
+          <Amt>5051474</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>8001120</TotalGrantOrContriPdDurYrAmt>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>COMPTIA TECH CAREER ACADEMY (CTCA)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3500 LACEY ROAD SUITE 100</AddressLine1Txt>
+            <CityNm>DOWNERS GROVE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60515</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROVIDING A+ TRAINING AND CERTIFICATION TO UNDERSERVED COMMUNITIES</GrantOrContributionPurposeTxt>
+          <Amt>650000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>JOBS FOR THE FUTURE INC - PTECH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>50 MILK ST</AddressLine1Txt>
+            <CityNm>BOSTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT FOR THE NEXT PHASE OF PTECH</GrantOrContributionPurposeTxt>
+          <Amt>1679000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <TotalGrantOrContriApprvFutAmt>2329000</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>83275</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>7809111</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>16831166</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>24723552</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>24723552</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>IBM CORPORATION</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>NEW ORCHARD ROAD</AddressLine1Txt>
+          <CityNm>ARMONK</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10504</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>11159714</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>COMMON TRUST FUNDS</StockNm>
+        <EOYBookValueAmt>300500657</EOYBookValueAmt>
+        <EOYFMVAmt>300500657</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreasesDetail>
+        <Desc>UNREALIZED LOSSES</Desc>
+        <Amt>85823492</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>MEMBERSHIPS &amp; DUES</Desc>
+        <RevenueAndExpensesPerBooksAmt>0</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2709</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OTHER PSHIP DEDUCTIONS</Desc>
+        <RevenueAndExpensesPerBooksAmt>0</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>466218</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MATCHING GIFT FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>0</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>7172</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANKING FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>15</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncomeDetail>
+        <Desc>OTHER PSHIP INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>0</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>-712707</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>CONSULTING</CategoryTxt>
+        <Amt>7506994</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>7161004</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT MANAGEMENT</CategoryTxt>
+        <Amt>289215</Amt>
+        <NetInvestmentIncomeAmt>289215</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL NET INVESTMENT INCOME TAX</CategoryTxt>
+        <Amt>510000</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>STATE CHARITABLE REGISTRATION FEE</CategoryTxt>
+        <Amt>1500</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

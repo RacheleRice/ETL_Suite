@@ -1,0 +1,3308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-11-15T17:01:56-06:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>135565207</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>KPMG LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>550 S HOPE STREET STE 1500</AddressLine1Txt>
+        <CityNm>LOS ANGELES</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>90071</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>455002209</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>CHAN ZUCKERBERG INITIATIVE FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>CHAN</BusinessNameControlTxt>
+      <PhoneNum>6508047100</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>314 LYTTON AVE</AddressLine1Txt>
+        <CityNm>PALO ALTO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>94301</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>BRIAN MANCA</PersonNm>
+      <PersonTitleTxt>FINANCE OFFICER</PersonTitleTxt>
+      <PhoneNum>6508047100</PhoneNum>
+      <SignatureDt>2023-11-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>BRIAN</PersonFirstNm>
+        <PersonLastNm>MANCA</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>0</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>DAVID M HIGHFILL</PreparerPersonNm>
+      <PTIN>P01517891</PTIN>
+      <PhoneNum>2139724000</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="16">
+    <IRS990PF documentId="RetDoc1235000001" referenceDocumentId="RetDoc2258700001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>5412475782</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>10000000</ContriRcvdRevAndExpnssAmt>
+        <DividendsRevAndExpnssAmt>10335195</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>28293220</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-194491944</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>2501389678</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc2001500001">32562159</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>16329000</OtherIncomeNetInvstIncmAmt>
+        <OtherIncomeAdjNetIncmAmt>0</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>-141594590</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>44622220</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>0</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstAdjNetIncmAmt>0</CompOfcrDirTrstAdjNetIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>0</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>36362705</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsNetInvstIncmAmt>0</OthEmplSlrsWgsNetInvstIncmAmt>
+        <OthEmplSlrsWgsAdjNetIncmAmt>0</OthEmplSlrsWgsAdjNetIncmAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>32119996</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>7709416</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftNetInvstIncmAmt>0</PensionEmplBnftNetInvstIncmAmt>
+        <PensionEmplBnftAdjNetIncmAmt>0</PensionEmplBnftAdjNetIncmAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>10001020</PensionEmplBnftDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002100001">357578</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>0</LegalFeesNetInvstIncmAmt>
+        <LegalFeesAdjNetIncmAmt>0</LegalFeesAdjNetIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>359741</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">431059</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>45115</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>266863</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">11188232</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>885730</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>0</OtherProfFeesAdjNetIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>9598853</OtherProfFeesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt>4661</DeprecAndDpltnRevAndExpnssAmt>
+        <DeprecAndDpltnNetInvstIncmAmt>0</DeprecAndDpltnNetInvstIncmAmt>
+        <DeprecAndDpltnAdjNetIncmAmt>0</DeprecAndDpltnAdjNetIncmAmt>
+        <OccupancyRevAndExpnssAmt>23092</OccupancyRevAndExpnssAmt>
+        <OccupancyNetInvstIncmAmt>0</OccupancyNetInvstIncmAmt>
+        <OccupancyAdjNetIncmAmt>0</OccupancyAdjNetIncmAmt>
+        <OccupancyDsbrsChrtblAmt>9455</OccupancyDsbrsChrtblAmt>
+        <TravConfMeetingRevAndExpnssAmt>468330</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingNetInvstIncmAmt>0</TravConfMeetingNetInvstIncmAmt>
+        <TravConfMeetingAdjNetIncmAmt>0</TravConfMeetingAdjNetIncmAmt>
+        <TravConfMeetingDsbrsChrtblAmt>463095</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">3287796</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>37698242</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>0</OtherExpensesAdjNetIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>809899</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>59832869</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>38629087</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>53628922</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>342805084</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>364708682</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>402637953</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>38629087</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>418337604</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-544232543</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>5993133</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>5163078</CashBOYAmt>
+        <CashEOYAmt>6116121</CashEOYAmt>
+        <CashEOYFMVAmt>6116121</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>388320684</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>676574775</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>676574775</SavAndTempCashInvstEOYFMVAmt>
+        <AcctRcvblAmt>2035911</AcctRcvblAmt>
+        <AcctRcvblBOYAmt>1160343</AcctRcvblBOYAmt>
+        <AcctRcvblEOYAmt>2035911</AcctRcvblEOYAmt>
+        <AcctRcvblEOYFMVAmt>2035911</AcctRcvblEOYFMVAmt>
+        <PrepaidExpensesBOYAmt>274786</PrepaidExpensesBOYAmt>
+        <PrepaidExpensesEOYAmt>2253065</PrepaidExpensesEOYAmt>
+        <PrepaidExpensesEOYFMVAmt>2253065</PrepaidExpensesEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>398286206</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="RetDoc2210400001">127593573</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>127593573</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>874395278</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">386801299</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>386801299</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>5397157139</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc2018100001">4175143872</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>4175143872</OtherInvestmentsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>39950</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>4661</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>0</LandBOYAmt>
+        <LandEOYAmt>35289</LandEOYAmt>
+        <LandEOYFMVAmt>35289</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="RetDoc2046600001">37618247</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="RetDoc2046600001">35921877</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="RetDoc2046600001">35921877</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>7102375761</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>5412475782</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>5412475782</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>5940681</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>8742589</AccountsPayableEOYAmt>
+        <GrantsPayableBOYAmt>617337895</GrantsPayableBOYAmt>
+        <GrantsPayableEOYAmt>595346765</GrantsPayableEOYAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="RetDoc2065700001">26000000</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="RetDoc2065700001">75113614</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>649278576</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>679202968</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>6453097185</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>4733272814</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>6453097185</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>4733272814</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>7102375761</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>5412475782</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>6453097185</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-544232543</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>5908864642</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc2049800001">1175591828</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>4733272814</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES</PropertyDesc>
+          <AcquiredDt>2020-12-31</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>1066622674</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1062258066</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4364608</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4364608</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ALTERNATIVE INVESTMENTS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-12-31</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>1434767004</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1598297955</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-163530951</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-163530951</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-159166343</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>0</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>83305</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>83305</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>83305</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>2690626</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>2690626</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="RetDoc1192000001">X</Form2220AttachedInd>
+        <EsPenaltyAmt>0</EsPenaltyAmt>
+        <OverpaymentAmt>2607321</OverpaymentAmt>
+        <AppliedToESTaxAmt>2607321</AppliedToESTaxAmt>
+        <RefundAmt>0</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>1</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>1</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd referenceDocumentId="RetDoc2205000001">1</OwnControlledEntityInd>
+        <DonorAdvisedFundInd referenceDocumentId="RetDoc2330900001">1</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>THE FOUNDATION</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6508047100</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>314 LYTTON AVE</AddressLine1Txt>
+          <CityNm>PALO ALTO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94301</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>1</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>0</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>1</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>0</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>1</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>0</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd referenceDocumentId="RetDoc2118100001">1</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARK ZUCKERBERG</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>314 LYTTON AVE</AddressLine1Txt>
+            <CityNm>PALO ALTO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94301</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BRIAN MANCA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>314 LYTTON AVE</AddressLine1Txt>
+            <CityNm>PALO ALTO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94301</ZIPCd>
+          </USAddress>
+          <TitleTxt>FINANCE OFFICER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>ROBERT BROWN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>314 LYTTON AVE</AddressLine1Txt>
+            <CityNm>PALO ALTO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94301</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR, ENGINEERIN</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>653002</CompensationAmt>
+          <EmployeeBenefitsAmt>35396</EmployeeBenefitsAmt>
+          <ExpenseAccountAmt>0</ExpenseAccountAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>STEPHANI OTTE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>314 LYTTON AVE</AddressLine1Txt>
+            <CityNm>PALO ALTO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94301</ZIPCd>
+          </USAddress>
+          <TitleTxt>SCIENCE PROGRAM OFFI</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>637968</CompensationAmt>
+          <EmployeeBenefitsAmt>34233</EmployeeBenefitsAmt>
+          <ExpenseAccountAmt>0</ExpenseAccountAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>PATRICIA BRENNAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>314 LYTTON AVE</AddressLine1Txt>
+            <CityNm>PALO ALTO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94301</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDENT, PROD</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>628570</CompensationAmt>
+          <EmployeeBenefitsAmt>41858</EmployeeBenefitsAmt>
+          <ExpenseAccountAmt>0</ExpenseAccountAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>TANIA SIMONCELLI</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>314 LYTTON AVE</AddressLine1Txt>
+            <CityNm>PALO ALTO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94301</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDENT, SCIE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>570328</CompensationAmt>
+          <EmployeeBenefitsAmt>37473</EmployeeBenefitsAmt>
+          <ExpenseAccountAmt>0</ExpenseAccountAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>KATJA BROSE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>314 LYTTON AVE</AddressLine1Txt>
+            <CityNm>PALO ALTO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94301</ZIPCd>
+          </USAddress>
+          <TitleTxt>SENIOR SCIENCE PROGR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>545104</CompensationAmt>
+          <EmployeeBenefitsAmt>34378</EmployeeBenefitsAmt>
+          <ExpenseAccountAmt>0</ExpenseAccountAmt>
+        </CompensationHighestPaidEmplGrp>
+        <OtherEmployeePaidOver50kCnt>135</OtherEmployeePaidOver50kCnt>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>DELOITTE INC</BusinessNameLine1Txt>
+          </BusinessName>
+          <ForeignAddress>
+            <AddressLine1Txt>8 ADELAIDE ST WEST STE 200</AddressLine1Txt>
+            <CityNm>TORONTO</CityNm>
+            <ProvinceOrStateNm>ONTARIO</ProvinceOrStateNm>
+            <CountryCd>CA</CountryCd>
+            <ForeignPostalCd>M5H0A9</ForeignPostalCd>
+          </ForeignAddress>
+          <ServiceTypeTxt>SOFTWARE DEVELOPMENT</ServiceTypeTxt>
+          <CompensationAmt>2977702</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>QUANSIGHT LLC</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>8656 W HIGHWAY 71 BLDG F200</AddressLine1Txt>
+            <CityNm>AUSTIN</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78735</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>SOFTWARE DEVELOPMENT</ServiceTypeTxt>
+          <CompensationAmt>919176</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>APEX SYSTEMS LLC</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>4400 COX ROAD STE 200</AddressLine1Txt>
+            <CityNm>GLEN ALLEN</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23060</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>CONTRACTOR</ServiceTypeTxt>
+          <CompensationAmt>817568</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>ICONIQ CAPITAL LLC</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>50 BEALE ST STE 2300</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94105</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>TREASURY SERVICES FEE</ServiceTypeTxt>
+          <CompensationAmt>750000</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>TALENTBURST INC</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>679 WORCESTER ST</AddressLine1Txt>
+            <CityNm>NATICK</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01760</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>CONTRACTOR</ServiceTypeTxt>
+          <CompensationAmt>534829</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <ContractorPaidOver50kCnt>37</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>TO CURE, PREVENT, OR MANAGE ALL DISEASE BY THE END OF THE CENTURY, FOUNDATION PERSONNEL BUILD AND SUPPORT A VARIETY OF TRANSFORMATIVE TECHNOLOGIES IN PARTNERSHIP WITH THE SCIENTIFIC COMMUNITY AND FOSTER INTERDISCIPLINARY RESEARCH COLLABORATIONS. MAJOR AREAS OF THIS WORK INCLUDE IMAGING TECHNOLOGIES CAPABLE OF BETTER OBSERVING BIOLOGICAL PROCESSES; SINGLE-CELL TECHNOLOGIES TO ENABLE SCIENTISTS TO BETTER AND MORE QUICKLY UNDERSTAND HOW DISEASES MANIFEST IN THE BODY; OPEN SOURCE PLATFORMS THAT ACCELERATE THE DETECTION, IDENTIFICATION, AND TRACKING OF INFECTIOUS DISEASE; AND A RESEARCH DISCOVERY TOOL POWERED BY MACHINE LEARNING.</Description1Txt>
+        <Expenses1Amt>53628922</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>LOAN TO SUPPORT INFILL DEVELOPMENT AND HOMEOWNERSHIP DEMONSTRATION PILOTS IN LOS ANGELES COUNTY, IN PARTNERSHIP WITH A LOCAL NON-BANK FINANCING INSTITUTION, COMMUNITY-BASED ORGANIZATIONS, AND NONPROFIT DEVELOPERS.</Description1Txt>
+        <Expenses1Amt>2000000</Expenses1Amt>
+        <TotalAmt>2000000</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1339047499</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>500952986</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>4156372193</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>5996372678</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>5996372678</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>89945590</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>5906427088</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>295321354</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>295321354</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>83305</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>83305</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>295238049</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>297275</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>295535324</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>295535324</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>418337604</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>2000000</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>39950</CharitableAssetsAcquisPaidAmt>
+        <QualifyingDistributionsAmt>420377554</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>295535324</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>255438880</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <TotalExcessDistributionCyovAmt>0</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>420377554</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>255438880</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>164938674</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>0</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>130596650</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>0</ExcessDistriCyovToNextYrAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>MARK ZUCKERBERG</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ACTIVATE GLOBAL INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2150 SHATTUCK AVE STE 300</AddressLine1Txt>
+            <CityNm>BERKELEY</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94704</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CARBON DIOXIDE REMOVAL INNOVATIONS</GrantOrContributionPurposeTxt>
+          <Amt>769674</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BARR CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 249 2355 FAIRVIEW AVE</AddressLine1Txt>
+            <CityNm>ROSEVILLE</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55430</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>IMPROVE PROCUREMENT FOR EVIDENCE-BASED PRACTICES THAT SUPPORT TEACHER AND STUDENT RELATIONSHIPS IN SCHOOLS</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BELOVED COMMUNITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1700 S RAMPART ST</AddressLine1Txt>
+            <CityNm>NEW ORLEANS</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70113</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>DEVELOP EQUITY ASSESSMENT PLATFORM; SUPPORT AN INAUGURAL CONVENING</GrantOrContributionPurposeTxt>
+          <Amt>1850000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BLUE GRASS COMMUNITY FOUNDATION INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>499 E HIGH ST</AddressLine1Txt>
+            <CityNm>LEXINGTON</CityNm>
+            <StateAbbreviationCd>KY</StateAbbreviationCd>
+            <ZIPCd>40507</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT THE KENTUCKY STUDENT VOICE TEAM</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BROAD INSTITUTE INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>415 MAIN ST</AddressLine1Txt>
+            <CityNm>CAMBRIDGE</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02139</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HUMAN CELL ATLAS DATA ECOSYSTEM</GrantOrContributionPurposeTxt>
+          <Amt>1256250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CAJON VALLEY UNION SCHOOL DISTRICT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>750 E MAIN ST</AddressLine1Txt>
+            <CityNm>EL CAJON</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92020</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>DEVELOP ASSESSMENTS AND INTEROPERABLE DATA VISUALIZATION TOOLS</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CALIFORNIANS FOR JUSTICE EDUCATION FUND INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1971 LAS PLUMAS AVE</AddressLine1Txt>
+            <CityNm>SAN JOSE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95133</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>750000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CARBON180</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1140 3RD ST NE</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20002</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1333333</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CENTER FOR DEMOCRACY AND TECHNOLOGY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1401 K ST NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHAN ZUCKERBERG BIOHUB INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>499 ILLINOIS ST 4TH FLOOR</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94158</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MEDICAL RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>85000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHAN ZUCKERBERG BIOHUB INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>499 ILLINOIS ST 4TH FLOOR</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94158</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ESTABLISHMENT OF THE CHAN ZUCKERBERG BIOHUB NETWORK</GrantOrContributionPurposeTxt>
+          <Amt>5000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHARLES DREW UNIVERSITY OF SCIENCE &amp; MEDICINE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1731 EAST 120TH ST</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90059</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACCELERATE GENOMICS RESEARCH AND PRECISION HEALTH FOR EVERYONE</GrantOrContributionPurposeTxt>
+          <Amt>2300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHILD TRENDS INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7315 WISCONSIN AVE 1200</AddressLine1Txt>
+            <CityNm>BETHESDA</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>20814</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EVALUATION FOR AND IMPLEMENTATION OF STRONG LOGIC MODELS TO GENERATE EVIDENCE ALIGNED TO ESSA TIER 3</GrantOrContributionPurposeTxt>
+          <Amt>679000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CLIMATEWORKS FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>235 MONTGOMERY ST STE 1300</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CARBON DIOXIDE REMOVAL PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>2500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>COALITION OF SCHOOLS EDUCATING BOYS OF COLOR INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>255 MAIN ST</AddressLine1Txt>
+            <CityNm>CAMBRIDGE</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02142</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>650000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>COLD SPRING HARBOR LABORATORY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 BUNGTOWN RD</AddressLine1Txt>
+            <CityNm>COLD SPRING HARBOR</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11724</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>IMPROVE THE SUSTAINABILITY AND CAPACITY OF BIORXIV/MEDRXIV</GrantOrContributionPurposeTxt>
+          <Amt>2900000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CURII CORPORATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>212 ELM ST 3RD FLOOR</AddressLine1Txt>
+            <CityNm>SOMERVILLE</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02144</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPEN SCIENCE</GrantOrContributionPurposeTxt>
+          <Amt>199988</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DATA QUALITY CAMPAIGN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1341 G ST NW STE 700</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>600000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EDUCATION LEADERS OF COLOR INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3680 WILSHIRE BLVD STE P-04-1052</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90010</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EDUCATION TRUST INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1501 K ST NW STE 200</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>750000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EDUCATION TRAINING AND RESEARCH ASSOCIATES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5619 SCOTTS VALLEY DR</AddressLine1Txt>
+            <CityNm>SCOTT VALLEY</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95063</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT DISTRICT AND RESEARCH PARTNERSHIPS TO IMPLEMENT WHOLE CHILD PRACTICES</GrantOrContributionPurposeTxt>
+          <Amt>370000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EDUCATIONSUPERHIGHWAY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>101 CALIFORNIA ST</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94111</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EMPOWERED FAMILIES INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1630 N MERIDIAN ST STE 450</AddressLine1Txt>
+            <CityNm>INDIANAPOLIS</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>46202</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ENTERPRISE COMMUNITY PARTNERS INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>70 CORPORATE CENTER</AddressLine1Txt>
+            <CityNm>COLUMBIA</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>21044</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>LOCAL RENTAL OWNER COOPERATIVE PILOT IN SOUTH LOS ANGELES</GrantOrContributionPurposeTxt>
+          <Amt>320000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EQUAL OPPORTUNITY SCHOOLS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>130 NICKERSON ST STE 200</AddressLine1Txt>
+            <CityNm>SEATTLE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MULTI-YEAR REDESIGN OF THE ACTION FOR EQUITY (A4E) SURVEY AND STUDENT INSIGHT CARD</GrantOrContributionPurposeTxt>
+          <Amt>400000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EUROPEAN MOLECULAR BIOLOGY LABORATORY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>MEYERHOFSTRASSE 1</AddressLine1Txt>
+            <CityNm>HEIDELBERG</CityNm>
+            <CountryCd>GM</CountryCd>
+            <ForeignPostalCd>69117</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HUMAN CELL ATLAS DATA ECOSYSTEM</GrantOrContributionPurposeTxt>
+          <Amt>1024716</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FAITHACTS FOR EDUCATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>160 FAIRFIELD AVE STE 310</AddressLine1Txt>
+            <CityNm>BRIDGEPORT</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06604</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>750000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FELLOWSHIP FOR RACE &amp; EQUITY IN EDUCATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4828 ILLINOIS AVE NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20011</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FLOURISH AGENDA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1714 FRANKLIN ST STE 100-321</AddressLine1Txt>
+            <CityNm>OAKLAND</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94612</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CULTURALLY BASED HEALING STRATEGIES</GrantOrContributionPurposeTxt>
+          <Amt>750000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FPF EDUCATION AND INNOVATION FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1350 I ST NW STE 350</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FRAMEWORKS INSTITUTE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1333 H ST NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FRAMING AND NARRATIVE STRATEGY DEVELOPMENT FOR ORGANIZATIONAL COMMUNICATIONS</GrantOrContributionPurposeTxt>
+          <Amt>299000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FRESNO BARRIOS UNIDOS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4403 E TULARE AVE</AddressLine1Txt>
+            <CityNm>FRESNO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93702</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>750000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FWDUS EDUCATION FUND INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1776 MASSACHUSETTS AVE STE 601</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>6000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GATES PHILANTHROPY PARTNERS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 23350</AddressLine1Txt>
+            <CityNm>SEATTLE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98102</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BUILD NEXT-GENERATION SEQUENCING CAPACITY FOR DETECTING PATHOGENS</GrantOrContributionPurposeTxt>
+          <Amt>1497909</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GENESIS LA ECONOMIC GROWTH CORPORATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>801 SOUTH GRAND AVE 775</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90017</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONNECTING CAPITAL &amp; COMMUNITY (3C) INITIATIVE</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GREAT PLAINS INSTITUTE FOR SUSTAINABLE DEVELOPMENT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2801 21ST AVE S</AddressLine1Txt>
+            <CityNm>MINNEAPOLIS</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55407</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CARBON MANAGEMENT PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>818750</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GREATSCHOOLS INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2201 BROADWAY 4TH FLOOR</AddressLine1Txt>
+            <CityNm>OAKLAND</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94612</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>INCORPORATION OF NEW MEASURES AND DIVERSIFYING COMMUNITY VOICES</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GRIPTAPE INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>60 PARK TERRACE WEST A21</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10034</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>700000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HAWAII COMMUNITY FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>827 FORT STREET MALL</AddressLine1Txt>
+            <CityNm>HONOLULU</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96813</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHAN ZUCKERBERG KAUAI COMMUNITY FUND</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HAWAII COMMUNITY FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>827 FORT STREET MALL</AddressLine1Txt>
+            <CityNm>HONOLULU</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96813</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHAN ZUCKERBERG KAUAI COMMUNITY FUND</GrantOrContributionPurposeTxt>
+          <Amt>1250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HAWAII COMMUNITY FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>827 FORT STREET MALL</AddressLine1Txt>
+            <CityNm>HONOLULU</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96813</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHAN ZUCKERBERG KAUAI COMMUNITY FUND</GrantOrContributionPurposeTxt>
+          <Amt>2522381</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HIGHLANDER RESEARCH &amp; EDUCATION CENTER INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1959 HIGHLANDER WAY</AddressLine1Txt>
+            <CityNm>NEW MARKET</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37820</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>POWER U</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HOWARD UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2400 6TH ST NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20059</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACCELERATE GENOMICS RESEARCH AND PRECISION HEALTH FOR EVERYONE</GrantOrContributionPurposeTxt>
+          <Amt>2300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HUMAN CELL ATLAS INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>415 MAIN ST</AddressLine1Txt>
+            <CityNm>CAMBRIDGE</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02142</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HUMAN CELL ATLAS INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>415 MAIN ST</AddressLine1Txt>
+            <CityNm>CAMBRIDGE</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02142</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HUMAN CELL ATLAS DATA ECOSYSTEM</GrantOrContributionPurposeTxt>
+          <Amt>1100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>INDEPENDENT SCHOOL DISTRICT NO 535</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>615 7TH ST SW</AddressLine1Txt>
+            <CityNm>ROCHESTER</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55902</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT A RESEARCH-TO-PRACTICE PARTNERSHIP THAT ALIGNS WITH THE IMPLEMENTATION OF THE DISTRICT'S REFRESHED STRATEGIC PLAN</GrantOrContributionPurposeTxt>
+          <Amt>496100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>INNOVATE PUBLIC SCHOOLS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>SOBRATO CENTER FOR NONPROFITS</AddressLine1Txt>
+            <CityNm>SAN JOSE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95126</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>INSTRUCTION PARTNERS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>604 GALLATIN AVE STE 202</AddressLine1Txt>
+            <CityNm>NASHVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37206</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>RESEARCH PARTNERSHIPS WITH SCHOOL DISTRICTS AS THEY ELEVATE STUDENT VOICE</GrantOrContributionPurposeTxt>
+          <Amt>370000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>INTERNATIONAL SOCIETY FOR TECHNOLOGY IN EDUCATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>621 SW MORRISON ST STE 800</AddressLine1Txt>
+            <CityNm>PORTLAND</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97205</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDSURGE INITIATIVE</GrantOrContributionPurposeTxt>
+          <Amt>700000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KINGMAKERS OF OAKLAND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>745 ARIMO AVE</AddressLine1Txt>
+            <CityNm>OAKLAND</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94610</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KNOWLEDGEWORKS FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>ONE WEST 4TH ST</AddressLine1Txt>
+            <CityNm>CINCINNATI</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>45202</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PARTNERSHIP WITH THE KENTUCKY DEPARTMENT OF EDUCATION ON DISTRICT INNOVATION AROUND ASSESSMENT REDESIGN</GrantOrContributionPurposeTxt>
+          <Amt>1096171</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LATINOS FOR EDUCATION INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>275 PAYSON RD</AddressLine1Txt>
+            <CityNm>BELMONT</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02478</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LEADING EDUCATORS INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1824 ORETHA CASTLE HALEY BLVD</AddressLine1Txt>
+            <CityNm>NEW ORLEANS</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70113</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>700000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LEARNING POLICY INSTITUTE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1530 PAGE MILL RD STE 200</AddressLine1Txt>
+            <CityNm>PALO ALTO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94304</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CREATE PROTOTYPES AND INFORM POLICY FOR PERFORMANCE-BASED ASSESSMENT SYSTEMS IN SCIENCE</GrantOrContributionPurposeTxt>
+          <Amt>1500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LOCAL MEDIA FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 450</AddressLine1Txt>
+            <CityNm>LAKE CITY</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49651</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>SO I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>WORD IN BLACK PROJECT</GrantOrContributionPurposeTxt>
+          <Amt>335000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>M E B ALLIANCE FOR EDUCATOR DIVERSITY INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7500 RIALTO BLVD STE 270</AddressLine1Txt>
+            <CityNm>AUSTIN</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78735</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MEHARRY MEDICAL COLLEGE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1005 DR DB TODD JR BLVD</AddressLine1Txt>
+            <CityNm>NASHVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37208</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACCELERATE GENOMICS RESEARCH AND PRECISION HEALTH FOR EVERYONE</GrantOrContributionPurposeTxt>
+          <Amt>2300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NACA-INSPIRED SCHOOLS NETWORK</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1000 INDIAN SCHOOL RD NW</AddressLine1Txt>
+            <CityNm>ALBUQUERQUE</CityNm>
+            <StateAbbreviationCd>NM</StateAbbreviationCd>
+            <ZIPCd>87104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BUILD OUT LAND-BASED HEALING AND LEARNING PRACTICES</GrantOrContributionPurposeTxt>
+          <Amt>650000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NATIONAL BOARD FOR PROFESSIONAL TEACHING STANDARDS INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1525 WILSON BLVD STE 700</AddressLine1Txt>
+            <CityNm>ARLINGTON</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22209</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NATIONAL CENTER FOR CIVIC INNOVATION INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>121 SIXTH AVE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10013</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CENTER FOR MEASUREMENT JUSTICE</GrantOrContributionPurposeTxt>
+          <Amt>2000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NATIONAL PUBLIC EDUCATION SUPPORT FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1425 K ST STE 700</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NEW MERIDIAN CORPORATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9390 RESEARCH BLVD</AddressLine1Txt>
+            <CityNm>AUSTIN</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78759</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>DEVELOPMENT AND PROTOTYPING OF ONGOING ASSESSMENTS FOR MATH AND ENGLISH</GrantOrContributionPurposeTxt>
+          <Amt>800000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NEW SCHOOLS FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1616 FRANKLIN ST 2ND FLOOR</AddressLine1Txt>
+            <CityNm>OAKLAND</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94612</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>4000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NEW SCHOOLS FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1616 FRANKLIN ST 2ND FLOOR</AddressLine1Txt>
+            <CityNm>OAKLAND</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94612</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>DIVERSE LEADERS PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OCEAN GENOMICS INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4620 HENRY ST</AddressLine1Txt>
+            <CityNm>PITTSBURGH</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>15213</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPEN SCIENCE</GrantOrContributionPurposeTxt>
+          <Amt>177540</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OUR TURN INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2019</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10013</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>750000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OUR VOICE NUESTRA VOZ</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3301 FRERET ST</AddressLine1Txt>
+            <CityNm>NEW ORLEANS</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70115</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>400000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PAHARA INSTITUTE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>440 N BARRANCA AVE 2927</AddressLine1Txt>
+            <CityNm>COVINA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91723</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>750000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PAVE INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1805 7TH ST NW FLOOR 6</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>750000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>POSSIBILITY LABS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1410 FRANKLIN ST 135</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CALIFORNIA COMMUNITY OWNERSHIP POOLED FUND</GrantOrContributionPurposeTxt>
+          <Amt>3000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PRESIDENT AND FELLOWS OF HARVARD COLLEGE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1033 MASSACHUSETTS AVE STE 3</AddressLine1Txt>
+            <CityNm>CAMBRIDGE</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02140</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CREATION OF OPPORTUNITY INSIGHTS INSTITUTE</GrantOrContributionPurposeTxt>
+          <Amt>2500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PRESIDENT AND FELLOWS OF HARVARD COLLEGE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1033 MASSACHUSETTS AVE STE 3</AddressLine1Txt>
+            <CityNm>CAMBRIDGE</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02140</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>THE KEMPNER INSTITUTE FOR THE STUDY OF NATURAL AND ARTIFICIAL INTELLIGENCE</GrantOrContributionPurposeTxt>
+          <Amt>100000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>QUANSIGHT LLC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8656 W HIGHWAY 71 BLDG F200</AddressLine1Txt>
+            <CityNm>AUSTIN</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78735</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPEN SCIENCE</GrantOrContributionPurposeTxt>
+          <Amt>173474</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>QUANSIGHT LLC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8656 W HIGHWAY 71 BLDG F200</AddressLine1Txt>
+            <CityNm>AUSTIN</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78735</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPEN SCIENCE</GrantOrContributionPurposeTxt>
+          <Amt>170000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>QUANSIGHT LLC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8656 W HIGHWAY 71 BLDG F200</AddressLine1Txt>
+            <CityNm>AUSTIN</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78735</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPEN SCIENCE</GrantOrContributionPurposeTxt>
+          <Amt>136000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>REGENTS OF THE UNIVERSITY OF CALIFORNIA AT SANTA CRUZ</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1156 HIGH ST</AddressLine1Txt>
+            <CityNm>SANTA CRUZ</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95064</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HUMAN CELL ATLAS DATA ECOSYSTEM</GrantOrContributionPurposeTxt>
+          <Amt>1175000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>REGENTS OF THE UNIVERSITY OF CALIFORNIA AT BERKELEY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1608 FOURTH ST</AddressLine1Txt>
+            <CityNm>BERKELEY</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94720</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>INNOVATIVE GENOMICS INSTITUTE RESEARCH TO ENHANCE THE NATURAL ABILITY OF PLANTS AND SOIL MICROBES TO CAPTURE AND STORE CARBON</GrantOrContributionPurposeTxt>
+          <Amt>8000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>REGENTS OF THE UNIVERSITY OF CALIFORNIA LOS ANGELES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>420 WESTWOOD PLAZA 4121 ENGINEERING</AddressLine1Txt>
+            <AddressLine2Txt>V</AddressLine2Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90095</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>DEVELOPMENT OF COURSEKATA HIGH SCHOOL COURSE</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>REGENTS OF THE UNIVERSITY OF CALIFORNIA LOS ANGELES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>420 WESTWOOD PLAZA 4121 ENGINEERING</AddressLine1Txt>
+            <AddressLine2Txt>V</AddressLine2Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90095</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>INSTITUTE FOR CARBON MANAGEMENT FOR SEACHANGE</GrantOrContributionPurposeTxt>
+          <Amt>7000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>REGENTS OF THE UNIVERSITY OF MICHIGAN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3003 S STATE ST</AddressLine1Txt>
+            <CityNm>ANN ARBOR</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>REFINE THE BELONGING CENTERED-INSTRUCTION COACHING MODEL</GrantOrContributionPurposeTxt>
+          <Amt>1007800</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>RESOLVE TO SAVE LIVES INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>85 BROAD ST STE 1626</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10004</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>5000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>RICHMOND NEIGHBORHOOD HOUSING SERVICES INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>12972 SAN PABLO AVE</AddressLine1Txt>
+            <CityNm>RICHMOND</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94805</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CREDIT ENHANCEMENT TO SUPPORT HOMEOWNERS</GrantOrContributionPurposeTxt>
+          <Amt>40000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>RISE COLORADO</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1595 ELMIRA ST</AddressLine1Txt>
+            <CityNm>AURORA</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80010</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>750000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ROCKEFELLER PHILANTHROPY ADVISORS INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6 W 48TH ST</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>DEVELOPING A FRAMEWORK FOR PRACTITIONERS: FACILITATING DESIGN AND PRACTICE IN WHOLE CHILD ASSESSMENTS PROJECT</GrantOrContributionPurposeTxt>
+          <Amt>1100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ROCKEFELLER PHILANTHROPY ADVISORS INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6 W 48TH ST</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>THE PARTNERSHIP FOR THE FUTURE OF LEARNING</GrantOrContributionPurposeTxt>
+          <Amt>600000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SAN FRANCISCO GENERAL HOSPITAL FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 410836</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94141</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>2022 CAPITAL CAMPAIGN</GrantOrContributionPurposeTxt>
+          <Amt>5000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SEARCH INSTITUTE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>615 1ST AVE NORTHEAST 125</AddressLine1Txt>
+            <CityNm>MINNEAPOLIS</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55413</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>DEVELOPMENTAL RELATIONSHIPS FRAMEWORK</GrantOrContributionPurposeTxt>
+          <Amt>900000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SEATTLE FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1601 FIFTH AVE</AddressLine1Txt>
+            <CityNm>SEATTLE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GRANTMAKERS FOR THRIVING YOUTH 2021-22 FUND</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SURGE INSTITUTE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>935 W CHESTNUT ST STE 515</AddressLine1Txt>
+            <CityNm>CHICAGO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60642</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TEACH PLUS INCORPORATED</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>27 SCHOOL ST</AddressLine1Txt>
+            <CityNm>BOSTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT DISTRICT AND RESEARCH PARTNERSHIPS TO IMPLEMENT WHOLE CHILD PRACTICES</GrantOrContributionPurposeTxt>
+          <Amt>742773</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE ASPEN INSTITUTE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2300 N ST</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20037</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION AND SOCIETY PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>1500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE BOARD OF TRUSTEES OF THE LELAND STANFORD JUNIOR UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>STANFORD UNIVERSITY DEVELOPMENT</AddressLine1Txt>
+            <AddressLine2Txt>SERVICES</AddressLine2Txt>
+            <CityNm>STANFORD</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94305</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>LATTICE DATA CURATION THAT ENABLES COMMUNITY CONTRIBUTION TO INTEROPERABLE DATA RESOURCES</GrantOrContributionPurposeTxt>
+          <Amt>4434311</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE CHARACTER LAB INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3675 MARKET ST STE 200</AddressLine1Txt>
+            <CityNm>PHILADELPHIA</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACCESS AND DIVERSIFICATION OF A RESEARCH NETWORK</GrantOrContributionPurposeTxt>
+          <Amt>750000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE FREEDOM BOUND CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2574 21ST ST</AddressLine1Txt>
+            <CityNm>SACRAMENTO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95818</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>YOUTH WELLNESS INDEX</GrantOrContributionPurposeTxt>
+          <Amt>325000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE JUST TRUST FOR EDUCATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2530 MERIDIAN PKWY STE 300</AddressLine1Txt>
+            <CityNm>DURHAM</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>27713</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>START-UP AND OPERATING COSTS</GrantOrContributionPurposeTxt>
+          <Amt>1583870</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE LEADERSHIP ACADEMY INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4518 COURT SQUARE</AddressLine1Txt>
+            <CityNm>LONG ISLAND CITY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PILOT AN APPROACH TO SCHOOL AND SYSTEM LEADER SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1800000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE MOREHOUSE SCHOOL OF MEDICINE INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>720 WESTVIEW DR SW</AddressLine1Txt>
+            <CityNm>ATLANTA</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30310</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACCELERATE GENOMICS RESEARCH AND PRECISION HEALTH FOR EVERYONE</GrantOrContributionPurposeTxt>
+          <Amt>2300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE OAKLAND REACH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>333 HEGENBERGER RD</AddressLine1Txt>
+            <CityNm>OAKLAND</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94621</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>750000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE PRIMARY SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1765 E BAYSHORE RD STE A2</AddressLine1Txt>
+            <CityNm>EAST PALO ALTO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94303</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>3950000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE PRIMARY SCHOOL BAY AREA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1765 E BAYSHORE RD STE A2</AddressLine1Txt>
+            <CityNm>EAST PALO ALTO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94303</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1600000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE PRIMARY SCHOOL-EAST PALO ALTO</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1765 E BAYSHORE RD STE A2</AddressLine1Txt>
+            <CityNm>EAST PALO ALTO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94303</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>8075000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE SEATTLE FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1601 FIFTH AVE</AddressLine1Txt>
+            <CityNm>SEATTLE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GRANTMAKERS FOR THRIVING YOUTH POLICY WORKING GROUP</GrantOrContributionPurposeTxt>
+          <Amt>1500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TIDES CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 29907</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94129</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>THE STARFISH INSTITUTE'S BEYOND100K WORK</GrantOrContributionPurposeTxt>
+          <Amt>1500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TIDES CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 29907</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94129</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ALL HOME TO SUPPORT THE BAY AREA HOMELESS PREVENTION PILOT</GrantOrContributionPurposeTxt>
+          <Amt>2400000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TIDES CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 29907</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94129</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROJECT EVIDENT</GrantOrContributionPurposeTxt>
+          <Amt>680000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TRANSCEND INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>159 LINCOLN AVE</AddressLine1Txt>
+            <CityNm>HASTINGS ON HUDSON</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10706</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EXPANDING PILOT OF WHOLE CHILD MODEL</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3451 WALNUT ST</AddressLine1Txt>
+            <CityNm>PHILADELPHIA</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>NEURODEGENERATION WORK</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UK MEDICAL RESEARCH COUNCIL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>NORTH STAR AVE</AddressLine1Txt>
+            <CityNm>SWINDON</CityNm>
+            <ProvinceOrStateNm>ENGLAND</ProvinceOrStateNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>SN2 1FL</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UK BIOBANK REPEAT IMAGING PROJECT</GrantOrContributionPurposeTxt>
+          <Amt>437744</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF CAPE TOWN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>ANZIO RD</AddressLine1Txt>
+            <CityNm>CAPE TOWN</CityNm>
+            <CountryCd>SF</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ESTABLISHING A MICROSCOPY IMAGING HUB TO IMPROVE ACCESS TO IMAGING TECHNOLOGY, EXPERTISE, AND RESOURCES</GrantOrContributionPurposeTxt>
+          <Amt>1589221</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF HAWAII FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 11270</AddressLine1Txt>
+            <CityNm>HONOLULU</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96828</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MEDICAL TRAINING PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>1383806</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF HAWAII FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 11270</AddressLine1Txt>
+            <CityNm>HONOLULU</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96828</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OCEAN CONSERVATION AND RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>14200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF HOUSTON</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4200 ELGIN ST</AddressLine1Txt>
+            <CityNm>HOUSTON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77004</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>NATIONAL CENTER FOR RESEARCH OF EDUCATOR DIVERSITY</GrantOrContributionPurposeTxt>
+          <Amt>750000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF SOUTHERN CALIFORNIA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1050 CHILDS WAY</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90089</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CENTER FOR AFFECTIVE NEUROSCIENCE, DEVELOPMENT, LEARNING AND EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>VILLAGE OF WISDOM INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>600 E UMSTEAD AVE</AddressLine1Txt>
+            <CityNm>DURHAM</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>27701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>750000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WILCOX HEALTH FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3-3420 KUHIO HWY</AddressLine1Txt>
+            <CityNm>LIHUE</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96766</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PURCHASE OF A CT SCANNER AT WILCOX HOSPITAL</GrantOrContributionPurposeTxt>
+          <Amt>1806150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WINDWARD FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1201 CONNECTICUT AVE NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CARBON TO SEA INITIATIVE</GrantOrContributionPurposeTxt>
+          <Amt>5000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>YALE UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2038</AddressLine1Txt>
+            <CityNm>NEW HAVEN</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06521</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>YALE CENTER FOR EMOTIONAL INTELLIGENCE</GrantOrContributionPurposeTxt>
+          <Amt>1216508</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>YOUTH UNITED FOR CHANGE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>520 N COLUMBUS BLVD STE 205</AddressLine1Txt>
+            <CityNm>PHILADELPHIA</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19123</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ZAPPYLAB INC DBA PROTOCOLSIO</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2120 UNIVERSITY AVE STE 625</AddressLine1Txt>
+            <CityNm>BERKELEY</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94704</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPEN SCIENCE</GrantOrContributionPurposeTxt>
+          <Amt>907400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UK BIOBANK LIMITED</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>UNITS 1-2 SPECTRUM WAY</AddressLine1Txt>
+            <CityNm>STOCKPORT</CityNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>SK3 0SA</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>REPEAT IMAGING PROJECT</GrantOrContributionPurposeTxt>
+          <Amt>908813</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>364708682</TotalGrantOrContriPdDurYrAmt>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BARR CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 249 2355 FAIRVIEW AVE</AddressLine1Txt>
+            <CityNm>ROSEVILLE</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55430</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>IMPROVE PROCUREMENT FOR EVIDENCE-BASED PRACTICES THAT SUPPORT TEACHER AND STUDENT RELATIONSHIPS IN SCHOOLS</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BROAD INSTITUTE INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>415 MAIN ST</AddressLine1Txt>
+            <CityNm>CAMBRIDGE</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02139</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HUMAN CELL ATLAS DATA ECOSYSTEM</GrantOrContributionPurposeTxt>
+          <Amt>2827500</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CAJON VALLEY UNION SCHOOL DISTRICT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>750 E MAIN ST</AddressLine1Txt>
+            <CityNm>EL CAJON</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92020</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>DEVELOP ASSESSMENTS AND INTEROPERABLE DATA VISUALIZATION TOOLS</GrantOrContributionPurposeTxt>
+          <Amt>600000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHARLES DREW UNIVERSITY OF SCIENCE &amp; MEDICINE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1731 EAST 120TH ST</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90059</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACCELERATE GENOMICS RESEARCH AND PRECISION HEALTH FOR EVERYONE</GrantOrContributionPurposeTxt>
+          <Amt>9200000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHILD TRENDS INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7315 WISCONSIN AVE 1200</AddressLine1Txt>
+            <CityNm>BETHESDA</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>20814</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EVALUATION FOR AND IMPLEMENTATION OF STRONG LOGIC MODELS TO GENERATE EVIDENCE ALIGNED TO ESSA TIER 3</GrantOrContributionPurposeTxt>
+          <Amt>1121000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>COLD SPRING HARBOR LABORATORY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 BUNGTOWN RD</AddressLine1Txt>
+            <CityNm>COLD SPRING HARBOR</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11724</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>IMPROVE THE SUSTAINABILITY AND CAPACITY OF BIORXIV/MEDRXIV</GrantOrContributionPurposeTxt>
+          <Amt>2000000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EDUCATION LEADERS OF COLOR INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3680 WILSHIRE BLVD STE P-04-1052</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90010</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>2000000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EDUCATION TRAINING AND RESEARCH ASSOCIATES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5619 SCOTTS VALLEY DR</AddressLine1Txt>
+            <CityNm>SCOTT VALLEY</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95063</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT DISTRICT AND RESEARCH PARTNERSHIPS TO IMPLEMENT WHOLE CHILD PRACTICES</GrantOrContributionPurposeTxt>
+          <Amt>730000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EQUAL OPPORTUNITY SCHOOLS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>130 NICKERSON ST STE 200</AddressLine1Txt>
+            <CityNm>SEATTLE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MULTI-YEAR REDESIGN OF THE ACTION FOR EQUITY (A4E) SURVEY AND STUDENT INSIGHT CARD</GrantOrContributionPurposeTxt>
+          <Amt>2600000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EUROPEAN MOLECULAR BIOLOGY LABORATORY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>MEYERHOFSTRASSE 1</AddressLine1Txt>
+            <CityNm>HEIDELBERG</CityNm>
+            <CountryCd>GM</CountryCd>
+            <ForeignPostalCd>69117</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HUMAN CELL ATLAS DATA ECOSYSTEM</GrantOrContributionPurposeTxt>
+          <Amt>2192584</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FELLOWSHIP FOR RACE &amp; EQUITY IN EDUCATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4828 ILLINOIS AVE NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20011</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FPF EDUCATION AND INNOVATION FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1350 I ST NW STE 350</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>2000000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FRAMEWORKS INSTITUTE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1333 H ST NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FRAMING AND NARRATIVE STRATEGY DEVELOPMENT FOR ORGANIZATIONAL COMMUNICATIONS</GrantOrContributionPurposeTxt>
+          <Amt>451000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GRIPTAPE INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>60 PARK TERRACE WEST A21</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10034</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1400000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HOWARD UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2400 6TH ST NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20059</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACCELERATE GENOMICS RESEARCH AND PRECISION HEALTH FOR EVERYONE</GrantOrContributionPurposeTxt>
+          <Amt>9200000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HUMAN CELL ATLAS INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>415 MAIN ST</AddressLine1Txt>
+            <CityNm>CAMBRIDGE</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02142</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HUMAN CELL ATLAS INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>415 MAIN ST</AddressLine1Txt>
+            <CityNm>CAMBRIDGE</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02142</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HUMAN CELL ATLAS DATA ECOSYSTEM</GrantOrContributionPurposeTxt>
+          <Amt>3400000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>INDEPENDENT SCHOOL DISTRICT NO 535</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>615 7TH ST SW</AddressLine1Txt>
+            <CityNm>ROCHESTER</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55902</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT A RESEARCH-TO-PRACTICE PARTNERSHIP THAT ALIGNS WITH THE IMPLEMENTATION OF THE DISTRICT'S REFRESHED STRATEGIC PLAN</GrantOrContributionPurposeTxt>
+          <Amt>726320</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>INSTRUCTION PARTNERS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>604 GALLATIN AVE STE 202</AddressLine1Txt>
+            <CityNm>NASHVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37206</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>RESEARCH PARTNERSHIPS WITH SCHOOL DISTRICTS AS THEY ELEVATE STUDENT VOICE</GrantOrContributionPurposeTxt>
+          <Amt>730000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LATINOS FOR EDUCATION INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>275 PAYSON RD</AddressLine1Txt>
+            <CityNm>BELMONT</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02478</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>2000000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MEHARRY MEDICAL COLLEGE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1005 DR DB TODD JR BLVD</AddressLine1Txt>
+            <CityNm>NASHVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37208</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACCELERATE GENOMICS RESEARCH AND PRECISION HEALTH FOR EVERYONE</GrantOrContributionPurposeTxt>
+          <Amt>9200000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NACA-INSPIRED SCHOOLS NETWORK</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1000 INDIAN SCHOOL RD NW</AddressLine1Txt>
+            <CityNm>ALBUQUERQUE</CityNm>
+            <StateAbbreviationCd>NM</StateAbbreviationCd>
+            <ZIPCd>87104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BUILD OUT LAND-BASED HEALING AND LEARNING PRACTICES</GrantOrContributionPurposeTxt>
+          <Amt>850000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NATIONAL BOARD FOR PROFESSIONAL TEACHING STANDARDS INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1525 WILSON BLVD STE 700</AddressLine1Txt>
+            <CityNm>ARLINGTON</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22209</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>2000000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>REGENTS OF THE UNIVERSITY OF CALIFORNIA AT BERKELEY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1608 FOURTH ST</AddressLine1Txt>
+            <CityNm>BERKELEY</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94720</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>INNOVATIVE GENOMICS INSTITUTE RESEARCH TO ENHANCE THE NATURAL ABILITY OF PLANTS AND SOIL MICROBES TO CAPTURE AND STORE CARBON</GrantOrContributionPurposeTxt>
+          <Amt>3000000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>REGENTS OF THE UNIVERSITY OF CALIFORNIA AT SANTA CRUZ</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1156 HIGH ST</AddressLine1Txt>
+            <CityNm>SANTA CRUZ</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95064</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HUMAN CELL ATLAS DATA ECOSYSTEM</GrantOrContributionPurposeTxt>
+          <Amt>2350000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>REGENTS OF THE UNIVERSITY OF MICHIGAN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3003 S STATE ST</AddressLine1Txt>
+            <CityNm>ANN ARBOR</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>REFINE THE BELONGING CENTERED-INSTRUCTION COACHING MODEL</GrantOrContributionPurposeTxt>
+          <Amt>492200</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>RESOLVE TO SAVE LIVES INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>85 BROAD ST STE 1626</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10004</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>20000000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ROCKEFELLER PHILANTHROPY ADVISORS INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6 W 48TH ST</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>DEVELOPING A FRAMEWORK FOR PRACTITIONERS: FACILITATING DESIGN AND PRACTICE IN WHOLE CHILD ASSESSMENTS PROJECT</GrantOrContributionPurposeTxt>
+          <Amt>265000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SAN FRANCISCO GENERAL HOSPITAL FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 410836</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94141</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>2022 CAPITAL CAMPAIGN</GrantOrContributionPurposeTxt>
+          <Amt>25000000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SURGE INSTITUTE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>935 W CHESTNUT ST STE 515</AddressLine1Txt>
+            <CityNm>CHICAGO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60642</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>2000000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TEACH PLUS INCORPORATED</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>27 SCHOOL ST</AddressLine1Txt>
+            <CityNm>BOSTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT DISTRICT AND RESEARCH PARTNERSHIPS TO IMPLEMENT WHOLE CHILD PRACTICES</GrantOrContributionPurposeTxt>
+          <Amt>357227</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE MOREHOUSE SCHOOL OF MEDICINE INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>720 WESTVIEW DR SW</AddressLine1Txt>
+            <CityNm>ATLANTA</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30310</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACCELERATE GENOMICS RESEARCH AND PRECISION HEALTH FOR EVERYONE</GrantOrContributionPurposeTxt>
+          <Amt>9200000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE PRIMARY SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1765 E BAYSHORE RD STE A2</AddressLine1Txt>
+            <CityNm>EAST PALO ALTO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94303</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>670000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE PRIMARY SCHOOL - BAY AREA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1765 E BAYSHORE RD STE A2</AddressLine1Txt>
+            <CityNm>EAST PALO ALTO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94303</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>240000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE PRIMARY SCHOOL-EAST PALO ALTO</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1765 E BAYSHORE RD STE A2</AddressLine1Txt>
+            <CityNm>EAST PALO ALTO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94303</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>4365000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TIDES CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 29907</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94129</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROJECT EVIDENT</GrantOrContributionPurposeTxt>
+          <Amt>1120000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF CAPE TOWN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>ANZIO RD</AddressLine1Txt>
+            <CityNm>CAPE TOWN</CityNm>
+            <CountryCd>SF</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ESTABLISHING A MICROSCOPY IMAGING HUB TO IMPROVE ACCESS TO IMAGING TECHNOLOGY, EXPERTISE, AND RESOURCES</GrantOrContributionPurposeTxt>
+          <Amt>393933</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>YALE UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2038</AddressLine1Txt>
+            <CityNm>NEW HAVEN</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06521</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>YALE CENTER FOR EMOTIONAL INTELLIGENCE</GrantOrContributionPurposeTxt>
+          <Amt>4410430</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <TotalGrantOrContriApprvFutAmt>131092194</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <BusinessCd>901101</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>165044</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>10335195</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <OtherInvestmentIncomeGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>32562159</ExclusionAmt>
+        </OtherInvestmentIncomeGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <BusinessCd>901101</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>681492</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>-194491944</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>ALTERNATIVE INVESTMENTS</Desc>
+          <BusinessCd>901101</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>-2120744</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionCd>14</ExclusionCd>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>-1274208</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>-151594590</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>-152868798</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>1</RelationshipsNonchrtblEOInd>
+        <RelationshipScheduleDetail>
+          <OrganizationBusinessName>
+            <BusinessNameLine1Txt>THE PRIMARY SCHOOL LAB</BusinessNameLine1Txt>
+          </OrganizationBusinessName>
+          <OrganizationTypeDesc>501(C)(4)</OrganizationTypeDesc>
+          <RelationshipDescriptionTxt>COMMON CONTROL - SEE STATEMENT 19</RelationshipDescriptionTxt>
+        </RelationshipScheduleDetail>
+        <RelationshipScheduleDetail>
+          <OrganizationBusinessName>
+            <BusinessNameLine1Txt>FWDUS INC</BusinessNameLine1Txt>
+          </OrganizationBusinessName>
+          <OrganizationTypeDesc>501(C)(4)</OrganizationTypeDesc>
+          <RelationshipDescriptionTxt>COMMON CONTROL - SEE STATEMENT 19</RelationshipDescriptionTxt>
+        </RelationshipScheduleDetail>
+        <RelationshipScheduleDetail>
+          <OrganizationBusinessName>
+            <BusinessNameLine1Txt>CHAN ZUCKERBERG INITIATIVE ADVOCACY</BusinessNameLine1Txt>
+          </OrganizationBusinessName>
+          <OrganizationTypeDesc>501(C)(4)</OrganizationTypeDesc>
+          <RelationshipDescriptionTxt>COMMON CONTROL - SEE STATEMENT 19</RelationshipDescriptionTxt>
+        </RelationshipScheduleDetail>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>CHAN ZUCKERBERG INITIATIVE LLC</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>314 LYTTON AVE</AddressLine1Txt>
+          <CityNm>PALO ALTO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94301</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>10000000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>431059</Amt>
+        <NetInvestmentIncomeAmt>45115</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>266863</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <ExpenditureResponsibilityStmt documentId="RetDoc2118100001">
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>CURII CORPORATION</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>212 ELM ST 3RD FLOOR</AddressLine1Txt>
+          <CityNm>SOMERVILLE</CityNm>
+          <StateAbbreviationCd>MA</StateAbbreviationCd>
+          <ZIPCd>02144</ZIPCd>
+        </USAddress>
+        <GrantDt>2020-07-20</GrantDt>
+        <GrantAmt>579976</GrantAmt>
+        <PurposeOfGrantTxt>OPEN SCIENCE</PurposeOfGrantTxt>
+        <ExpendedByGranteeAmt>294552</ExpendedByGranteeAmt>
+        <AnyDiversionByGranteeTxt>NO</AnyDiversionByGranteeTxt>
+        <DatesOfReportsByGranteeTxt>5/04/21, 3/31/22, 6/01/22</DatesOfReportsByGranteeTxt>
+      </ExpenditureResponsibilityGrp>
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>READ THE DOCS INC</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>18120 2ND AVE</AddressLine1Txt>
+          <CityNm>BEND</CityNm>
+          <StateAbbreviationCd>OR</StateAbbreviationCd>
+          <ZIPCd>97703</ZIPCd>
+        </USAddress>
+        <GrantDt>2020-12-23</GrantDt>
+        <GrantAmt>200000</GrantAmt>
+        <PurposeOfGrantTxt>OPEN SCIENCE</PurposeOfGrantTxt>
+        <ExpendedByGranteeAmt>200000</ExpendedByGranteeAmt>
+        <AnyDiversionByGranteeTxt>NO</AnyDiversionByGranteeTxt>
+        <DatesOfReportsByGranteeTxt>10/31/21, 10/30/22, 3/30/23</DatesOfReportsByGranteeTxt>
+      </ExpenditureResponsibilityGrp>
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>OCEAN GENOMICS INC</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>4620 HENRY ST</AddressLine1Txt>
+          <CityNm>PITTSBURGH</CityNm>
+          <StateAbbreviationCd>PA</StateAbbreviationCd>
+          <ZIPCd>15213</ZIPCd>
+        </USAddress>
+        <GrantDt>2021-11-15</GrantDt>
+        <GrantAmt>366580</GrantAmt>
+        <PurposeOfGrantTxt>OPEN SCIENCE</PurposeOfGrantTxt>
+        <ExpendedByGranteeAmt>150647</ExpendedByGranteeAmt>
+        <AnyDiversionByGranteeTxt>NO</AnyDiversionByGranteeTxt>
+        <DatesOfReportsByGranteeTxt>7/20/22</DatesOfReportsByGranteeTxt>
+      </ExpenditureResponsibilityGrp>
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>QUANSIGHT LLC</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>8586 W HIGHWAY 71 BUILDING F200</AddressLine1Txt>
+          <CityNm>AUSTIN</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>78735</ZIPCd>
+        </USAddress>
+        <GrantDt>2021-10-13</GrantDt>
+        <GrantAmt>352211</GrantAmt>
+        <PurposeOfGrantTxt>OPEN SCIENCE</PurposeOfGrantTxt>
+        <ExpendedByGranteeAmt>76792</ExpendedByGranteeAmt>
+        <AnyDiversionByGranteeTxt>NO</AnyDiversionByGranteeTxt>
+        <DatesOfReportsByGranteeTxt>8/01/22, 11/30/22</DatesOfReportsByGranteeTxt>
+      </ExpenditureResponsibilityGrp>
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>QUANSIGHT LLC</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>8586 W HIGHWAY 71 BUILDING F200</AddressLine1Txt>
+          <CityNm>AUSTIN</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>78735</ZIPCd>
+        </USAddress>
+        <GrantDt>2021-10-13</GrantDt>
+        <GrantAmt>340000</GrantAmt>
+        <PurposeOfGrantTxt>OPEN SCIENCE</PurposeOfGrantTxt>
+        <ExpendedByGranteeAmt>106337</ExpendedByGranteeAmt>
+        <AnyDiversionByGranteeTxt>NO</AnyDiversionByGranteeTxt>
+        <DatesOfReportsByGranteeTxt>7/29/22</DatesOfReportsByGranteeTxt>
+      </ExpenditureResponsibilityGrp>
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>QUANSIGHT LLC</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>8586 W HIGHWAY 71 BUILDING F200</AddressLine1Txt>
+          <CityNm>AUSTIN</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>78735</ZIPCd>
+        </USAddress>
+        <GrantDt>2021-10-13</GrantDt>
+        <GrantAmt>272000</GrantAmt>
+        <PurposeOfGrantTxt>OPEN SCIENCE</PurposeOfGrantTxt>
+        <ExpendedByGranteeAmt>113229</ExpendedByGranteeAmt>
+        <AnyDiversionByGranteeTxt>NO</AnyDiversionByGranteeTxt>
+        <DatesOfReportsByGranteeTxt>7/29/22</DatesOfReportsByGranteeTxt>
+      </ExpenditureResponsibilityGrp>
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>ZAPPYLAB INC DBA PROTOCOLSIO</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>2120 UNIVERSITY AVE SUITE 625</AddressLine1Txt>
+          <CityNm>BERKELEY</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94704</ZIPCd>
+        </USAddress>
+        <GrantDt>2021-10-19</GrantDt>
+        <GrantAmt>1657400</GrantAmt>
+        <PurposeOfGrantTxt>OPEN SCIENCE</PurposeOfGrantTxt>
+        <ExpendedByGranteeAmt>1657400</ExpendedByGranteeAmt>
+        <AnyDiversionByGranteeTxt>NO</AnyDiversionByGranteeTxt>
+        <DatesOfReportsByGranteeTxt>12/10/21, 3/01/22, 6/01/22, 9/01/22, 11/01/22, 2/01/23, 5/01/23</DatesOfReportsByGranteeTxt>
+      </ExpenditureResponsibilityGrp>
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>ECONOMIC INNOVATION GROUP</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>616 H ST NW SUITE 550</AddressLine1Txt>
+          <CityNm>WASHINGTON</CityNm>
+          <StateAbbreviationCd>DC</StateAbbreviationCd>
+          <ZIPCd>20001</ZIPCd>
+        </USAddress>
+        <GrantDt>2020-03-06</GrantDt>
+        <GrantAmt>225000</GrantAmt>
+        <PurposeOfGrantTxt>IMPROVE STUDENT OUTCOMES</PurposeOfGrantTxt>
+        <ExpendedByGranteeAmt>225000</ExpendedByGranteeAmt>
+        <AnyDiversionByGranteeTxt>NO</AnyDiversionByGranteeTxt>
+        <DatesOfReportsByGranteeTxt>9/30/20, 11/10/22</DatesOfReportsByGranteeTxt>
+      </ExpenditureResponsibilityGrp>
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>INSIGHTS FOR EDUCATION</BusinessNameLine1Txt>
+        </BusinessName>
+        <ForeignAddress>
+          <AddressLine1Txt>TANNENBACHSTRASSE 22</AddressLine1Txt>
+          <CityNm>ZURICH</CityNm>
+          <CountryCd>SZ</CountryCd>
+          <ForeignPostalCd>8942</ForeignPostalCd>
+        </ForeignAddress>
+        <GrantDt>2020-01-07</GrantDt>
+        <GrantAmt>195000</GrantAmt>
+        <PurposeOfGrantTxt>EDUCATION RESEARCH</PurposeOfGrantTxt>
+        <ExpendedByGranteeAmt>195000</ExpendedByGranteeAmt>
+        <AnyDiversionByGranteeTxt>NO</AnyDiversionByGranteeTxt>
+        <DatesOfReportsByGranteeTxt>10/08/20, 11/14/22</DatesOfReportsByGranteeTxt>
+      </ExpenditureResponsibilityGrp>
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>OCEAN GENOMICS INC</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>3004 QUAIL HOLLOW TERRACE</AddressLine1Txt>
+          <CityNm>BROOKEVILLE</CityNm>
+          <StateAbbreviationCd>MD</StateAbbreviationCd>
+          <ZIPCd>20833</ZIPCd>
+        </USAddress>
+        <GrantDt>2020-12-30</GrantDt>
+        <GrantAmt>235000</GrantAmt>
+        <PurposeOfGrantTxt>OPEN SCIENCE</PurposeOfGrantTxt>
+        <ExpendedByGranteeAmt>235000</ExpendedByGranteeAmt>
+        <AnyDiversionByGranteeTxt>NO</AnyDiversionByGranteeTxt>
+        <DatesOfReportsByGranteeTxt>2/01/21, 3/30/22</DatesOfReportsByGranteeTxt>
+      </ExpenditureResponsibilityGrp>
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>SEAM SOCIAL LABS INC</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>55 BROADWAY 3</AddressLine1Txt>
+          <CityNm>NEW YORK</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10006</ZIPCd>
+        </USAddress>
+        <GrantDt>2020-06-25</GrantDt>
+        <GrantAmt>207500</GrantAmt>
+        <PurposeOfGrantTxt>ALAMEDA COUNTY HOUSING AND COMMUNITY DEVELOPMENT INPUT PILOT</PurposeOfGrantTxt>
+        <ExpendedByGranteeAmt>207500</ExpendedByGranteeAmt>
+        <AnyDiversionByGranteeTxt>NO</AnyDiversionByGranteeTxt>
+        <DatesOfReportsByGranteeTxt>2/15/21, 1/25/22, 7/21/22</DatesOfReportsByGranteeTxt>
+      </ExpenditureResponsibilityGrp>
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>URSA COMPUTING INC</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>1779 KIRBY PKWY NO 16054</AddressLine1Txt>
+          <CityNm>MEMPHIS</CityNm>
+          <StateAbbreviationCd>TN</StateAbbreviationCd>
+          <ZIPCd>38138</ZIPCd>
+        </USAddress>
+        <GrantDt>2020-12-23</GrantDt>
+        <GrantAmt>215000</GrantAmt>
+        <PurposeOfGrantTxt>OPEN SCIENCE</PurposeOfGrantTxt>
+        <ExpendedByGranteeAmt>215000</ExpendedByGranteeAmt>
+        <AnyDiversionByGranteeTxt>NO</AnyDiversionByGranteeTxt>
+        <DatesOfReportsByGranteeTxt>2/15/21, 4/04/22</DatesOfReportsByGranteeTxt>
+      </ExpenditureResponsibilityGrp>
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>UK BIOBANK LIMITED</BusinessNameLine1Txt>
+        </BusinessName>
+        <ForeignAddress>
+          <AddressLine1Txt>UNITS 1-2 SPECTRUM WAY</AddressLine1Txt>
+          <CityNm>STOCKPORT</CityNm>
+          <CountryCd>UK</CountryCd>
+          <ForeignPostalCd>SK3 0SA</ForeignPostalCd>
+        </ForeignAddress>
+        <GrantDt>2022-12-23</GrantDt>
+        <GrantAmt>908813</GrantAmt>
+        <PurposeOfGrantTxt>REPEAT IMAGING PROJECT</PurposeOfGrantTxt>
+        <ExpendedByGranteeAmt>0</ExpendedByGranteeAmt>
+        <AnyDiversionByGranteeTxt>NO</AnyDiversionByGranteeTxt>
+        <DatesOfReportsByGranteeTxt>NO REPORTS RECEIVED TO DATE</DatesOfReportsByGranteeTxt>
+      </ExpenditureResponsibilityGrp>
+    </ExpenditureResponsibilityStmt>
+    <GeneralExplanationAttachment documentId="RetDoc2258700001">
+      <GeneralExplanationGrp>
+        <FormAndLineReferenceDesc>FORM 990-PF, PART VI-A LINE 11 AND PART XVI, LINE 2B</FormAndLineReferenceDesc>
+        <MediumExplanationTxt>THE ENTITIES REPORTED IN RESPONSE TO PART VI-A, LINE 11 AND PART XVI LINE 2B ARE "RELATED ORGANIZATIONS" FOR IRS FORM 990-PF REPORTING PURPOSES THROUGH THEIR COMMON RELATIONSHIP WITH A MANAGER OF CHAN ZUCKERBERG INITIATIVE LLC'S ("CZI LLC") MEMBER. OPERATIONALLY THESE ENTITIES DO NOT CONTROL EACH OTHER AND ARE SEPARATELY GOVERNED. THE TRUSTEE OF THE FILING ORGANIZATION ALSO HAS A CONTROLLING INTEREST IN SEVERAL PERSONAL PASSIVE INVESTMENT VEHICLES THAT HAVE NO RELATIONSHIP WITH THE RELATED ENTITIES REPORTED ON THIS RETURN.THE FILING ENTITY'S TRUSTEE IS THE CHIEF EXECUTIVE OFFICER OF META PLATFORMS INC ("META"). META ADMINISTERS A FEDERALLY REGISTERED POLITICAL ACTION COMMITTEE. THERE IS NO RELATIONSHIP BETWEEN META'S PAC AND THE FILING ENTITY.</MediumExplanationTxt>
+      </GeneralExplanationGrp>
+    </GeneralExplanationAttachment>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>META PLATFORMS INC. CLASS A</StockNm>
+        <EOYBookValueAmt>72120484</EOYBookValueAmt>
+        <EOYFMVAmt>72120484</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>META PLATFORMS INC. CLASS B</StockNm>
+        <EOYBookValueAmt>229681165</EOYBookValueAmt>
+        <EOYFMVAmt>229681165</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD VALUE INDEX FUND ETF</StockNm>
+        <EOYBookValueAmt>84999650</EOYBookValueAmt>
+        <EOYFMVAmt>84999650</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc2210400001">
+      <USGovtObligationsBookVlEOYAmt>127593573</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>127593573</USGovtObligationsEOYFMVAmt>
+      <StateLocalSecBookVlEOYAmt>0</StateLocalSecBookVlEOYAmt>
+      <StateLocalSecEOYFMVAmt>0</StateLocalSecEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>OTHER EQUITY INVESTMENTS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>16710498</BookValueAmt>
+        <EOYFMVAmt>16710498</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ABSOLUTE RETURN</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>1516646507</BookValueAmt>
+        <EOYFMVAmt>1516646507</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>PUBLIC EQUITY</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>1583680874</BookValueAmt>
+        <EOYFMVAmt>1583680874</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>PRIVATE EQUITY</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>912454500</BookValueAmt>
+        <EOYFMVAmt>912454500</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>REAL ASSETS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>10986269</BookValueAmt>
+        <EOYFMVAmt>10986269</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>INVESTMENT SALES RECEIVABLE</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>134665224</BookValueAmt>
+        <EOYFMVAmt>134665224</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFeesGrp>
+        <CategoryTxt>LEGAL FEES</CategoryTxt>
+        <LegalFeesAmt>357578</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>359741</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssetsScheduleGrp>
+        <Desc>PROGRAM-RELATED INVESTMENTS</Desc>
+        <BOYBookValueAmt>37618247</BOYBookValueAmt>
+        <EOYBookValueAmt>35921877</EOYBookValueAmt>
+        <EOYFMVAmt>35921877</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreasesDetail>
+        <Desc>UNREALIZED LOSS</Desc>
+        <Amt>1175591828</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>OTHER EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>789806</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>809899</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>FOREIGN EXCHANGE GAIN/LOSS</Desc>
+        <RevenueAndExpensesPerBooksAmt>-65520</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ALTERNATIVE INVESTMENT DEDUCTIONS</Desc>
+        <RevenueAndExpensesPerBooksAmt>0</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>38434732</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>WRITE-OFF OF PROGRAM RELATED INVESTMENTS</Desc>
+        <RevenueAndExpensesPerBooksAmt>3300000</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>AMORTIZATION/ACCRETION</Desc>
+        <RevenueAndExpensesPerBooksAmt>-736490</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>-736490</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncomeDetail>
+        <Desc>OTHER INVESTMENT INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>1000</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1000</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>ALTERNATIVE INVESTMENT INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>18063883</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>16127999</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>PROGRAM-RELATED INVESTMENTS</Desc>
+        <RevenueAndExpensesPerBooksAmt>200001</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>200001</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>RETURN OF PRIOR YEAR GRANTS PAID</Desc>
+        <RevenueAndExpensesPerBooksAmt>297275</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>EXCISE TAX BENEFIT</Desc>
+        <RevenueAndExpensesPerBooksAmt>14000000</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>ALTERNATIVE INVESTMENTS</Desc>
+        <RevenueAndExpensesPerBooksAmt>0</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilitiesDetail>
+        <Desc>DEFERRED EXCISE TAX LIABILITY</Desc>
+        <BOYBookValueAmt>26000000</BOYBookValueAmt>
+        <EOYBookValueAmt>11000000</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>INVESTMENT PURCHASES PAYABLE</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+        <EOYBookValueAmt>64113614</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>SOFTWARE DEVELOPMENT &amp; PROGRAM COST</CategoryTxt>
+        <Amt>10302502</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>9598853</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>TREASURY SERVICE FEE &amp; INVESTMENT MANAGEMENT</CategoryTxt>
+        <Amt>885730</Amt>
+        <NetInvestmentIncomeAmt>885730</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TransfersToControlledEntities documentId="RetDoc2205000001">
+      <TransfersToControlledEntGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>CHAN ZUCKERBERG BIOHUB INC</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>499 ILLINOIS ST</AddressLine1Txt>
+          <CityNm>SAN FRANCISCO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94158</ZIPCd>
+        </USAddress>
+        <EIN>811669175</EIN>
+        <Desc>GRANT/CONTRIBUTION TO 501(C)(3) PUBLIC CHARITY</Desc>
+        <Amt>90000000</Amt>
+      </TransfersToControlledEntGrp>
+      <TransfersToControlledEntGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>FWDUS EDUCATION FUND INC</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 34506</AddressLine1Txt>
+          <CityNm>WASHINGTON</CityNm>
+          <StateAbbreviationCd>DC</StateAbbreviationCd>
+          <ZIPCd>20043</ZIPCd>
+        </USAddress>
+        <EIN>820962378</EIN>
+        <Desc>GRANT/CONTRIBUTION TO 501(C)(3) PUBLIC CHARITY</Desc>
+        <Amt>6000000</Amt>
+      </TransfersToControlledEntGrp>
+      <TransfersToControlledEntGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>THE PRIMARY SCHOOL - EAST PALO ALTO</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>2086 CLARKE AVE</AddressLine1Txt>
+          <CityNm>EAST PALO ALTO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94303</ZIPCd>
+        </USAddress>
+        <EIN>473334579</EIN>
+        <Desc>GRANT/CONTRIBUTION TO 501(C)(3) PUBLIC CHARITY</Desc>
+        <Amt>8075000</Amt>
+      </TransfersToControlledEntGrp>
+      <TransfersToControlledEntGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>THE PRIMARY SCHOOL</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>2086 CLARKE AVE</AddressLine1Txt>
+          <CityNm>EAST PALO ALTO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94303</ZIPCd>
+        </USAddress>
+        <EIN>371975407</EIN>
+        <Desc>GRANT/CONTRIBUTION TO 501(C)(3) PUBLIC CHARITY</Desc>
+        <Amt>3950000</Amt>
+      </TransfersToControlledEntGrp>
+      <TotalAmt>108025000</TotalAmt>
+    </TransfersToControlledEntities>
+  </ReturnData>
+</Return>

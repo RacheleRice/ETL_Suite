@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-11-14T18:55:04-06:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Baker Tilly US LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>5020 FRANKLIN DRIVE SUITE 100</AddressLine1Txt>
+        <CityNm>PLEASANTON</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>945883354</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>475338517</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>CRAIG NEWMARK FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% THE FOUNDATION</InCareOfNm>
+      <BusinessNameControlTxt>CRAI</BusinessNameControlTxt>
+      <PhoneNum>4155666394</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>222 SUTTER STREET 9TH FLOOR</AddressLine1Txt>
+        <CityNm>SAN FRANCISCO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>94108</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>MABEL HSU</PersonNm>
+      <PersonTitleTxt>CFO</PersonTitleTxt>
+      <PhoneNum>4155666394</PhoneNum>
+      <SignatureDt>2023-11-15</SignatureDt>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>MABEL</PersonFirstNm>
+        <PersonLastNm>HSU</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>3</TrustedCustomerCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="9">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>192034443</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>48600000</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>8276</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>8276</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>2724442</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>2724442</DividendsNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>51332718</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>2732718</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSch">4075</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>0</LegalFeesNetInvstIncmAmt>
+        <LegalFeesAdjNetIncmAmt>0</LegalFeesAdjNetIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>0</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSch">48442</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>0</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>0</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OthProfFeesSch">82816</OtherProfFeesRevAndExpnssAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">25</TaxesRevAndExpnssAmt>
+        <TravConfMeetingRevAndExpnssAmt>23882</TravConfMeetingRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSch">27026</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>800</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>186266</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>800</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>41599500</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>41599500</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>41785766</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>800</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>41599500</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>9546952</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>2731918</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>177505768</CashBOYAmt>
+        <CashEOYAmt>192034443</CashEOYAmt>
+        <CashEOYFMVAmt>192034443</CashEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSch">0</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSch">18277</OtherAssetsEOYAmt>
+        <TotalAssetsBOYAmt>177505768</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>192052720</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>192034443</TotalAssetsEOYFMVAmt>
+        <GrantsPayableBOYAmt>0</GrantsPayableBOYAmt>
+        <GrantsPayableEOYAmt>5000000</GrantsPayableEOYAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>5000000</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>177505768</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>187052720</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>177505768</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>187052720</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>177505768</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>192052720</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>177505768</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>9546952</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>187052720</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>187052720</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail />
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>37974</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>37974</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>37974</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>54063</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <TotalPaymentsAndCreditsAmt>54063</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>16089</OverpaymentAmt>
+        <AppliedToESTaxAmt>16089</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>true</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>THE FOUNDATION</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>4155666394</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>222 SUTTER STREET 9TH FLOOR</AddressLine1Txt>
+          <CityNm>SAN FRANCISCO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94108</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CRAIG NEWMARK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>156 WOODLAND AVE</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94117</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MABEL HSU</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 594</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94104</ZIPCd>
+          </USAddress>
+          <TitleTxt>CFO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>30.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp />
+      <SumOfProgramRelatedInvstGrp />
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>170811598</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>170811598</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>170811598</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>2562174</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>168249424</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>8412471</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>8412471</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>37974</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>37974</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>8374497</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>8374497</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>8374497</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>41599500</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>41599500</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>8374497</DistributableAsAdjustedAmt>
+        <PriorYear1Yr>2020</PriorYear1Yr>
+        <PriorYear2Yr>2019</PriorYear2Yr>
+        <PriorYear3Yr>2018</PriorYear3Yr>
+        <ExcessDistributionCyovYr5Amt>5852146</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>28309051</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>4532972</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>14555658</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>21712652</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>74962479</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>41599500</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>8374497</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>33225003</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>108187482</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>5852146</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>102335336</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>28309051</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>4532972</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>14555658</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>21712652</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>33225003</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp></PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>CRAIG NEWMARK</ContributingManagerNm>
+        <ShareholderManagerNm>NONE</ShareholderManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>VETS IN TECH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>88 King St Suite 702</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94107</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General purpose</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Aspen Institute</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2300 N St NW Suite 700</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20037</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>University of San Francisco</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2130 Fulton St</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94117</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General purpose</GrantOrContributionPurposeTxt>
+          <Amt>600000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Bob Woodruff Family Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1350 Broadway Suite 905</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10018</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>2950000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AI for the People</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2 St Felix St Floor 4</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11217</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General purpose</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Girls Who Code</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1250 Broadway 17th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General purpose</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Feminist Majority Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>433 S Beverly Drive</AddressLine1Txt>
+            <CityNm>Beverly Hills</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90212</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>general purpose</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Panorama Global</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2101 4th Ave 2100</AddressLine1Txt>
+            <CityNm>Seattle</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98121</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Protect Democracy Project</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2020 Pennsylvania Ave NW 163</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20006</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>New York University</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>44 W 4th St Suite 800</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10012</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>general purpose</GrantOrContributionPurposeTxt>
+          <Amt>400000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Reporters Without Borders</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 34032</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20043</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>general purpose</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>New Venture Fund</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>240 Central Park South Apt 7L</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10019</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>162500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Consumer Reports</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>101 Truman Ave</AddressLine1Txt>
+            <CityNm>Yonkers</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10703</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>5000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Global Cyber Alliance Inc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>31 Tech Valley Dr</AddressLine1Txt>
+            <CityNm>East Greenbush</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>12061</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>7500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TechCongress Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 460213</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94146</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>World Wide Web Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1100 13th St NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General purpose</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Civic Nation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1156 15th St NW Ste 1000</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Institute For Security and Technology</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5800 Harbord Dr</AddressLine1Txt>
+            <CityNm>Oakland</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94611</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Center for European Policy Analysis</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1275 Pennsylvania Ave NW Suite 4</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20004</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SF Jewish Community Publications</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>225 Bush St 480</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Yale University</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>127 Wall St PO Box 208215</AddressLine1Txt>
+            <CityNm>New Haven</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06520</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The UCLA Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 7145</AddressLine1Txt>
+            <CityNm>Pasadena</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Robert Maynard Inst for Journalism Edu</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4096 Piedmont Ave 277</AddressLine1Txt>
+            <CityNm>Oakland</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94611</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Southern Poverty Law Center</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>400 Washington Ave</AddressLine1Txt>
+            <CityNm>Montgomery</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>36104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General purpose</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Aspen Institute</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2300 N St NW Suite 700</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20037</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>4000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Freedom of the Press Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>601 Van Ness Ave Suite E731</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94102</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General purpose</GrantOrContributionPurposeTxt>
+          <Amt>125000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KQED</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2601 Mariposa St</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Jewish Community Relations Council of NY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>520 8th Ave Suite 1402</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10018</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Girl Security</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>132 Chief Justice Crushing Hwy</AddressLine1Txt>
+            <CityNm>Cohasset</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02025</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NPower Inc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>55 Washington St Suite 560</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11201</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>75000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Institute for Nonprofit News</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 Thomas Circle NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20025</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Leagueof Women Voters of NYS Edu Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>62 Grand St</AddressLine1Txt>
+            <CityNm>Albany</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>12207</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>75000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>New York Public Radio</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>160 Varick St</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10013</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Contemporary Jewish Museum</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>736 Mission St</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94103</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Community Partners</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>103 Havemeyer St 3A</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11211</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Arts in the Armed Forces</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>220 36th St Suite B520</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11232</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>R Street Institute</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1212 New York Avenue NW Suite 900</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>theguardianorg</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>900 17th St NW Suite 250</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Iraq and Afghanistan Veterans of America</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>85 Broad St 18th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10004</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>125000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>First Amendment Coalition</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>534 Fourth St Ste B</AddressLine1Txt>
+            <CityNm>San Rafael</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94901</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>75000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Empower Work Inc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 170562</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94117</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>American Impact Capital Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10 Violet Ln</AddressLine1Txt>
+            <CityNm>Wesport</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06880</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Investigative Reporers and Editors</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>15 Castle Hill Ave 4</AddressLine1Txt>
+            <CityNm>Great Barrington</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01230</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Diverse Future Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>175 Hunt Rd</AddressLine1Txt>
+            <CityNm>Hillsdale</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>12529</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Columbia University</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2950 Broadway</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10027</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>325000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Atlantic Council of the United States</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1030 15th St NW 12th Floor</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>541000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Girls Garage</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1380 10th St</AddressLine1Txt>
+            <CityNm>Berkeley</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94710</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Community Initiatives</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1000 Broadway Suite 480</AddressLine1Txt>
+            <CityNm>Oakland</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94607</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>140000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Veterans Education Success</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4708 Essex Ave</AddressLine1Txt>
+            <CityNm>Chevy Chase</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>20815</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>75000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Atlantic Council of the United States</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1030 15th St NW 12th Floor</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TechSoup</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>435 Brannan St Suite 100</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94107</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>New Venture Fund</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1828 L Street NW Suite 300-A</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Cybercime Support Network</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6082 Vineyard Ave</AddressLine1Txt>
+            <CityNm>Ann Arbor</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Swords to Plowshares Veterans Rights</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>401 Van Ness Ave Suite 313</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94102</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Common Sense Media</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>699 8th Street Ste C150</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94103</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>2000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>IGNITE Worldwide</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3414 236th St SW</AddressLine1Txt>
+            <CityNm>Brier</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>William Brennan Jr Center for Justice</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>120 Broadway Suite 1750</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10271</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>National Defense University Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>300 5th Ave Suite 211</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20319</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Free Speech for People</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>48 N Pleasant St Suite 304</AddressLine1Txt>
+            <CityNm>Amherst</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01002</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Dog Tag Bakery</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3206 Grace St NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20007</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Demos A Network for Ideas and Action Ltd</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>80 Broad St 4th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10004</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Advance Democracy</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1360 Beverly Rd Suite 300</AddressLine1Txt>
+            <CityNm>McLean</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22003</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Online News Association</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1111 North Capitol St NE 2nd Floor</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20002</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Veterans for Peace Inc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3407 S Jefferson Ave Suite 219</AddressLine1Txt>
+            <CityNm>St Louis</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>63118</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Center for Creative Change</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4115 Wisconsin Ave NW Suite LL10</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20016</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Trust Project</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>446 Old County Rd Suite 225</AddressLine1Txt>
+            <CityNm>Pacifica</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94044</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Corporate Accountability (Infact)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10 Milk St Suite 610</AddressLine1Txt>
+            <CityNm>Boston</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Forward Assoc Inc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>125 Maiden Lane 8th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10038</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Texas Tribune</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>919 Congress Ave 6th Floor</AddressLine1Txt>
+            <CityNm>Austin</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BC Voices</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>890 West End Ave 4E</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10025</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Invisible People</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7119 W Sunset Blvd 618</AddressLine1Txt>
+            <CityNm>Los Angeles</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90046</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Marshall Project</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>156 W 56th St Suite 701</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10019</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Hack Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8606 Santa Monica 36294</AddressLine1Txt>
+            <CityNm>West Hollywood</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90069</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Carter Center</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>453 John Lewis Freedom Pkwy NE</AddressLine1Txt>
+            <CityNm>Atlanta</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30307</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Wild Bird Fund</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>565 Columbus Ave</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10024</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Center for AI and Digital Policy</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1100 13th St Suite 800 NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Markup News Inc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 1103</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10159</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>2500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Civic Hall Labs Inc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>633 3rd Ave 6th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10017</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>5000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>War Memorial Commision Fund</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>401 Van Ness Ave Room 101</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94102</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>President and Follows of Harvard College</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2 Morrissey Blvd MA5-527-02-07</AddressLine1Txt>
+            <CityNm>Dorchester</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02125</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>-209000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>41599500</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>8276</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>2724442</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncomeGrp />
+        <GainSalesAstOthThanInvntryGrp />
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>2732718</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>2732718</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>CRAIG NEWMARK</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>156 WOODLAND AVE</AddressLine1Txt>
+          <CityNm>SAN FRANCISCO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94117</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>48600000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>48442</Amt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <LegalFeesSchedule documentId="LegalFeesSch">
+      <LegalFeesGrp>
+        <CategoryTxt>LEGAL FEES</CategoryTxt>
+        <LegalFeesAmt>4075</LegalFeesAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSch">
+      <OtherAssetsScheduleGrp>
+        <Desc>OTHER RECEIVABLES</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+        <EOYBookValueAmt>18277</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK SERVICE CHARGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>800</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>800</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE - LIABILITY, D AND O</Desc>
+        <RevenueAndExpensesPerBooksAmt>785</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BUSINESS REGISTRATION FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>50</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OPERATIONS</Desc>
+        <RevenueAndExpensesPerBooksAmt>25391</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OthProfFeesSch">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>PUBLIC RELATIONS</CategoryTxt>
+        <Amt>58045</Amt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>OUTSIDE CONTRACT SERVICES</CategoryTxt>
+        <Amt>24771</Amt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>OTHER TAXES</CategoryTxt>
+        <Amt>25</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>
