@@ -1,0 +1,3741 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2019v5.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2020-11-09T13:46:17-08:00</ReturnTs>
+    <TaxPeriodEndDt>2019-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>132609367</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>LEON D ALPERN &amp; COMPANY</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>100 CROSSWAYS PK DR WEST 401</AddressLine1Txt>
+        <CityNm>WOODBURY</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>11797</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2019-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>137298842</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>BERNARD AND ANNE SPITZER</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>CHARITABLE TRUST</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>BERN</BusinessNameControlTxt>
+      <PhoneNum>2127575462</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>555 MADISON AVE 18TH FLOOR</AddressLine1Txt>
+        <CityNm>NEW YORK</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>10022</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>ELIOT L SPITZER</PersonNm>
+      <PersonTitleTxt>Trustee</PersonTitleTxt>
+      <SignatureDt>2020-11-09</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Richard Terris</PreparerPersonNm>
+      <PTIN>P00045201</PTIN>
+      <PhoneNum>5168772770</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2019</TaxYr>
+    <BuildTS>2021-04-22 16:20:28Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="16">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="19009920" softwareVersionNum="2019v5.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>691712385</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>3149811</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>3149811</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>3335585</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>3335585</DividendsNetInvstIncmAmt>
+        <GrossRentsRevAndExpnssAmt>10908058</GrossRentsRevAndExpnssAmt>
+        <GrossRentsNetInvstIncmAmt>9958483</GrossRentsNetInvstIncmAmt>
+        <NetRentalIncomeOrLossAmt>-695479</NetRentalIncomeOrLossAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="GainLossFromSaleOtherAssetsSch">4209920</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>4665881</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>4147766</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">-1044404</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>-1515029</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>20558970</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>19076616</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>676045</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>676045</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>490221</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>490221</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>250172</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>250172</PensionEmplBnftDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSchedule">18081</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>18081</LegalFeesNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">97300</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>97300</AccountingFeesNetInvstIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">70708</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesDsbrsChrtblAmt>70708</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">501128</TaxesRevAndExpnssAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="DepreciationSchedule">4556369</DeprecAndDpltnRevAndExpnssAmt>
+        <DeprecAndDpltnNetInvstIncmAmt>4301282</DeprecAndDpltnNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">7463547</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>7047168</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>416379</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>14123571</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>11463831</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>1903525</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>39856860</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>39856860</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>53980431</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>11463831</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>41760385</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-33421461</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>7612785</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>38606576</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>14188758</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>14188760</SavAndTempCashInvstEOYFMVAmt>
+        <PrepaidExpensesBOYAmt>1127023</PrepaidExpensesBOYAmt>
+        <PrepaidExpensesEOYAmt>1099951</PrepaidExpensesEOYAmt>
+        <PrepaidExpensesEOYFMVAmt>1099951</PrepaidExpensesEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>533695577</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvestmentsOtherSchedule2">523141387</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>620887268</OtherInvestmentsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>54766323</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>9785530</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>46961767</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="LandEtcSchedule2">44980793</LandEOYAmt>
+        <LandEOYFMVAmt>54766323</LandEOYFMVAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSchedule">770083</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="OtherAssetsSchedule">770083</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>620390943</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>584180972</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>691712385</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="OtherLiabilitiesSchedule">1483511</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabilitiesSchedule">1553775</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>1483511</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>1553775</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>618907432</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>582627197</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>618907432</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>582627197</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>620390943</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>584180972</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>618907432</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-33421461</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>585485971</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSchedule">2858774</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>582627197</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>REALIZED LOSSES FUTURES CONTRACTS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2019-12-31</SoldDt>
+          <CostOrOtherBasisAmt>70138</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-70138</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-70138</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>K-1 PASSTHRU NET S/T GAIN (GEMS)</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2019-12-31</SoldDt>
+          <GrossSalesPriceAmt>31269</GrossSalesPriceAmt>
+          <GainOrLossAmt>31269</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>31269</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>K-1 PASSTHRU NET S/T LOSS (MTN LK PTRS)</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2019-12-31</SoldDt>
+          <CostOrOtherBasisAmt>362174</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-362174</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-362174</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>K-1 PASSTHRU NET L/T GAIN (GEMS)</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2019-12-31</SoldDt>
+          <GrossSalesPriceAmt>69123</GrossSalesPriceAmt>
+          <GainOrLossAmt>69123</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>69123</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>K-1 PASSTHRU NET L/T GAIN (MTN LK PTRS)</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2019-12-31</SoldDt>
+          <GrossSalesPriceAmt>180399</GrossSalesPriceAmt>
+          <GainOrLossAmt>180399</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>180399</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>K-1 PASSTHRU NET L/T LOSS (MTN LK RE)</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2019-12-31</SoldDt>
+          <CostOrOtherBasisAmt>25</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-25</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-25</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>K-1 PASSTHRU SECTION 1231 GAIN</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2019-12-31</SoldDt>
+          <GrossSalesPriceAmt>4281271</GrossSalesPriceAmt>
+          <GainOrLossAmt>4281271</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4281271</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>K-1 PASSTHRU SECTION 1256 LOSS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2019-12-31</SoldDt>
+          <CostOrOtherBasisAmt>23624</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-23624</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-23624</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Capital Gain Dividends</PropertyDesc>
+          <GainOrLossAmt>41665</GainOrLossAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>4147766</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>4106101</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>36090456</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>630928539</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.05720</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>24645828</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>658916702</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.03740</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>5935556</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>570860766</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.01040</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>4693736</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>297861121</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.01576</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>9083143</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>50268877</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.18069</DistributionYr5Rt>
+        <TotalDistributionRt>0.301453</TotalDistributionRt>
+        <AverageDistributionRt>0.060291</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>654284852</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>39447488</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>76128</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>39523616</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>41760385</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>76128</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>76128</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>76128</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>618331</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>618331</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <OverpaymentAmt>542203</OverpaymentAmt>
+        <AppliedToESTaxAmt>542203</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>true</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>true</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>NY</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>true</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>(NYS ATTORNEY GENERAL) WWW.CHARITIESNYS.COM</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>THE CHARITABLE TRUST</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>2127575462</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>555 MADISON AVE 18TH FLOOR</AddressLine1Txt>
+          <CityNm>NEW YORK</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>100223300</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>true</ForeignAccountsQuestionInd>
+        <ForeignCountryCd>OC</ForeignCountryCd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>EMILY SPITZER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>555 MADISON AVE 18TH FL</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>100223300</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ANNE SPITZER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>555 MADISON AVE 18TH FL</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>100223300</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DANIEL EVAN SPITZER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>555 MADISON AVE 18TH FL</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>100223300</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ELIOT L SPITZER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>555 MADISON AVE 18TH FL</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>100223300</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SARA C KAY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>555 MADISON AVE 18TH FL</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>100223300</ZIPCd>
+          </USAddress>
+          <TitleTxt>CEO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>436236</CompensationAmt>
+          <EmployeeBenefitProgramAmt>43624</EmployeeBenefitProgramAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DANA C YOU</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>555 MADISON AVE 18TH FL</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>100223300</ZIPCd>
+          </USAddress>
+          <TitleTxt>COO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>178350</CompensationAmt>
+          <EmployeeBenefitProgramAmt>17835</EmployeeBenefitProgramAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>GABRIELLA L FISCHER-SHAY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>443 CLINTON AVE 1S</AddressLine1Txt>
+            <CityNm>BROOKLYN</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11238</ZIPCd>
+          </USAddress>
+          <TitleTxt>EE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>75000</CompensationAmt>
+          <EmployeeBenefitsAmt>7500</EmployeeBenefitsAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>JANE A FLAGEL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>901 HUNTERS FUN</AddressLine1Txt>
+            <CityNm>DOBBS FERRY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10522</ZIPCd>
+          </USAddress>
+          <TitleTxt>EE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>153048</CompensationAmt>
+          <EmployeeBenefitsAmt>15305</EmployeeBenefitsAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>SARAH E FRENCH</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>19 HERKIMER ST APT 1</AddressLine1Txt>
+            <CityNm>BROOKLYN</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11216</ZIPCd>
+          </USAddress>
+          <TitleTxt>EE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>101678</CompensationAmt>
+          <EmployeeBenefitsAmt>10300</EmployeeBenefitsAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>JEAN M ROSS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>34 PLAZA STREET EAST 804</AddressLine1Txt>
+            <CityNm>BROOKLYN</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11238</ZIPCd>
+          </USAddress>
+          <TitleTxt>EE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>136746</CompensationAmt>
+          <EmployeeBenefitsAmt>13675</EmployeeBenefitsAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>LEON D ALPERN &amp; CO</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>100 CROSSWAYS PK DR WEST 401</AddressLine1Txt>
+            <CityNm>WOODBURY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11797</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>ACCOUNTING</ServiceTypeTxt>
+          <CompensationAmt>97300</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>ZOE HUDSON</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>25 WEST 132ND STREET APT 6R</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10037</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>CONSULTING</ServiceTypeTxt>
+          <CompensationAmt>30000</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>443206977</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>26397668</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>204843936</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>674448581</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>10200000</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>664248581</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>9963729</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>654284852</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>32714243</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>32714243</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>76128</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>76128</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>32638115</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>32638115</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>32638115</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>41760385</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>41760385</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>76128</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>41684257</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>32638115</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>26562677</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>41760385</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>26562677</AppliedToYear1Amt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>15197708</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>17440407</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>ANNE SPITZER</ContributingManagerNm>
+        <ShareholderManagerNm>ANNE SPITZER</ShareholderManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>FUND MANAGERS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>555 MADISON AVE 18TH FLOOR</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>100223300</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>2127575462</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>DESCRIPTION OF CHARITABLE ORGANIZATION AND PURPOSE UNDER IRC SECTIONS 170(C), 2522(A) AND 2055(A).</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>THE TRUST MAKES CONTRIBUTIONS TO CORPORATIONS, ORGANIZATIONS, FOUNDATIONS, INSTITUTIONS OR FUNDS ORGANIZED AND OPERATED EXCLUSIVELY FOR RELIGIOUS, CHARITABLE, SCIENTIFIC, LITERARY OR EDUCATIONAL PURPOSES, WHICH ARE THEMSELVES QUALIFYING EXEMPT ORGANIZATIONS, PURSUANT TO ARTICLE 4(A) OF ITS CERTIFICATE OF INCORPORATION.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>EQUAL JUSTICE WORKS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2120 L STREET NW 450</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20037</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE METROPOLITAN MUSEUM OF ART</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1000 5TH AVENUE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10028</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MUSEUM OF JEWISH HERITAGE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>EJ SAFRA PLZ 36 BATTERY PLACE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10280</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SCENIC HUDSON</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>ONE CIVIC CENTER PLAZA SUITE 200</AddressLine1Txt>
+            <CityNm>POUGHKEEPSIE</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>12601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE PUBLIC THEATER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>425 LAFAYETTE STREET</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10003</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PASSTHRU CONTRIBUTIONS FROM K-1</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>730 FIFTH AVE 2202</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10019</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>20561</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CAMP GOOD GRIEF OF STATEN ISLAND</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 141046</AddressLine1Txt>
+            <CityNm>STATEN ISLAND</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10314</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CENTRAL PARK CONSERVANCY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>14 EAST 60TH ST</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10022</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MEDICARE RIGHTS CENTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>520 EIGHTH AVENUE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10018</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>US-AFRICA CHILDREN'S FELLOWSHIP</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>475 14TH STREET</AddressLine1Txt>
+            <CityNm>BROOKLYN</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11215</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNION SETTLEMENT ASSOCIATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2089 3RD AVE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10029</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>YESHIVA KTANA OF PASSAIC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>118 PENNINGTON AVE</AddressLine1Txt>
+            <CityNm>PASSAIC</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07055</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ALLIANCE FOR JUSTICE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>11 DUPONT CIRCLE NW 2ND FLOOR</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>JUSTICE PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ANOTHER STEP</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>706 EXECUTIVE BLVD</AddressLine1Txt>
+            <CityNm>VALLEY COTTAGE</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10989</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>REPRIEVE US</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 3627</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10163</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BREAD FOR THE CITY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1640 GOOD HOPE RD SE</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20020</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CAPITAL PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>75000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DOCTORS WITHOUT BORDERS USA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>333 7TH AVENUE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>EARTHJUSTICE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>50 CALIFORNIA ST SUITE 500</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94111</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FARMING FOR THE FUTURE</GrantOrContributionPurposeTxt>
+          <Amt>700000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>EARTHWATCH INSTITUTE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>114 WESTERN AVENUE</AddressLine1Txt>
+            <CityNm>BOSTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02134</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>FOOD BANK OF THE HUDSON VALLEY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>195 HUDSON ST</AddressLine1Txt>
+            <CityNm>CORNWALLONHUDSON</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>12520</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JAWONIO FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>260 NORTH LITTLE TOR RD</AddressLine1Txt>
+            <CityNm>NEW CITY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10956</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>3600</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JCC ROCKLAND</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>450 W NYACK RD</AddressLine1Txt>
+            <CityNm>WEST NYACK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10994</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CAPITAL CAMPAIGN</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MEALS ON WHEELS ROCKLAND</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>121 W NYACK RD</AddressLine1Txt>
+            <CityNm>NANUET</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10954</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NATIONAL MULTIPLE SCLEROSIS SOCIETY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>733 3RD AVE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10017</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FOR THE NYC - SOUTHERN NEW YORK CHAPTER</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PHYSICIANS FOR HUMAN RIGHTS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>256 W 38TH ST</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10018</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PINE PLAINS MEMORIAL HALL INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1891 ROUTE 83</AddressLine1Txt>
+            <CityNm>PINE PLAINS</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>12567</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>75000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE AMERICAN FDN FOR SUICIDE PREVEN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>120 WALL ST 29TH FLOOR</AddressLine1Txt>
+            <CityNm>NEWYORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNITED HOSPICE OF ROCKLAND</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>11 STOKUM LN</AddressLine1Txt>
+            <CityNm>NEW CITY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10956</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VIOLENCE POLICY CENTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1730 RHODE ISLAND AVENUE NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VOLUNTEERS OF LEGAL SERVICE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>40 WORTH ST 820</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10013</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>IMMIGRATION PROJECT</GrantOrContributionPurposeTxt>
+          <Amt>75000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WORLD WILDLIFE FUND</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1250 24TH ST NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20037</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VARIOUS ORGANIZATIONS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 CROSSWAYS PARK WEST</AddressLine1Txt>
+            <CityNm>WOODBURY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11797</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>VARIOUS PURPOSES</GrantOrContributionPurposeTxt>
+          <Amt>4378</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AIDS WALK RUN BOSTON</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>175 AMORY STREET</AddressLine1Txt>
+            <CityNm>BOSTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02119</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BROOKLYN GREENWAY INITIATIVE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>145 COLUMBIA HTS</AddressLine1Txt>
+            <CityNm>BROOKLYN</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11231</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CHAI LIFELINE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>151 WEST 30TH STREET</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>36000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DC AFFORDABLE LAW FIRM</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1717 K STREET NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20006</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DC CENTRAL KITCHEN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>425 2ND STREET NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>IMMIGRANT JUSTICE CORPS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>17 BATTERY PLACE SUITE 236</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10004</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>IMMIGRANT JUSTICE CORPS FELLOWSHIPS</GrantOrContributionPurposeTxt>
+          <Amt>600000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>INTERNATIONAL RESCUE COMMITTEE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>200 COMMERCE PLACE 4</AddressLine1Txt>
+            <CityNm>ELIZABETH</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07201</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT FOR YEMEN - $25,000GENERAL PURPOSE - $25,000</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ISLES INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 WOOD STREET</AddressLine1Txt>
+            <CityNm>TRENTON</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08618</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>THE VOLCKER FUND FOR HOUSING AND COMMUNITY DEVELOPMENT</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MARTHA'S TABLE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2114 14TH STREET NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20009</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MIDDLEBURY COLLEGE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>OLD CHAPEL</AddressLine1Txt>
+            <CityNm>MIDDLEBURY</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05753</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>OCEAN CONSERVANCY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1300 13TH STREET NW 8TH FL</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PREP FOR PREP</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>328 WEST 71ST STREET</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10023</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>REEF ENVIROMENTAL EDUCATION FOUNDAT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>98300 OVERSEAS HIGHWAY</AddressLine1Txt>
+            <CityNm>KEY LARGO</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33037</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>RHINO CONSERVATION TRUST USA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6753 HIWASSEE RUN</AddressLine1Txt>
+            <CityNm>AIKEN</CityNm>
+            <StateAbbreviationCd>SC</StateAbbreviationCd>
+            <ZIPCd>29803</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE MICHAEL J FOX FDN FOR PARKINSON</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 5014</AddressLine1Txt>
+            <CityNm>HAGERSTOWN</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>21741</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE OCEAN FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>13920 19TH STREET NW 5TH FL</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE REFORM TEMPLE OF ROCKLAND</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>330 N HIGHLAND AVENUE</AddressLine1Txt>
+            <CityNm>NYACK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10960</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE REGENT OF THE UNIV OF CALIFORNI</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1111 FRANKLIN ST 12TH FL</AddressLine1Txt>
+            <CityNm>OAKLAND</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94607</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SPINAL CORD INJURY RESEARCH PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>225000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WARRIOR-SCHOLAR PROJECT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1012 14TH STREET NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WASH LAWYERS CMTE FOR CIVIL RIGHTS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1401 NEW YORK AVENUE NW SUITE 400</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AMERICAN CAMP ASSOCIATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>108 W 39TH STREET 15TH FLOOR</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10018</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CAMP LEE MAR</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE AMERICAN CONSTITUTION SOCIETY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1899 L STREET NW 2ND FLOOR</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>750000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AMERICAN INSTITUTE FOR STUTTERING</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>27 WEST 20TH STREET SUITE 1203</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10011</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BIPARTISAN POLICY CENTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1225 EYE STREET NW SUITE 1000</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CLEAN ENERGY AND CLIMATE PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>550000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CENTER ON BUDGET AND POLICY PRIORIT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>820 FIRST STREET NE SUITE 510</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20002</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROTECTING THE STATE - FEDERAL SAFETY NET THROUGH STATE - LEVEL ANALYSIS AND ACTION</GrantOrContributionPurposeTxt>
+          <Amt>1500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CENTER FOR CLIMATE AND ENERGY SOLUT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2101 WILSON BLVD SUITE 550</AddressLine1Txt>
+            <CityNm>ARLINGTON</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22201</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MIT NUCLEAR LITERACY COURSE - $40,000CLIMATE INNOVATION 2050 - $500,000</GrantOrContributionPurposeTxt>
+          <Amt>540000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CLEAN AIR TASK FORCE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>114 STATE STREET 6TH FLOOR</AddressLine1Txt>
+            <CityNm>BOSTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE - $500,000CLEAN ENERGY PROCUREMENT PROJECT - $150,000MODELING SUPPORT - $416,000</GrantOrContributionPurposeTxt>
+          <Amt>1066000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>COMMUNITY CATALYST</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>ONE FEDERAL STREET 5TH FLOOR</AddressLine1Txt>
+            <CityNm>BOSTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE - $10,000 &amp; $1,500HEALTHCARE COVERAGE PROJECT - $750,000</GrantOrContributionPurposeTxt>
+          <Amt>761500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CONSERVATION INTERNATIONAL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2011 CRYSTAL DRIVE SUITE 500</AddressLine1Txt>
+            <CityNm>ARLINGTON</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22202</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>RETETI ELEPHANT SANCTUARY</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CONSTITUTIONAL ACCOUNTABILITY CENTE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1200 18TH STREET NW SUITE 501</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>600000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DENNIS P MCHUGH PIERMONT PUBLIC LIB</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>25 FLYWHEEL PARK WEST</AddressLine1Txt>
+            <CityNm>PIERMONT</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10968</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ENERGY INNOVATION REFORM PROJECT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3100 CLARENDON BOULEVARD SUITE 200</AddressLine1Txt>
+            <CityNm>ARLINGTON</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22201</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HUMANE RESCUE ALLIANCE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 96312</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20090</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>INFORMATION TECH AND INNOVATION FDN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1101 K STREET NW SUITE 610</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CLEAN ENERGY INNOVATION POLICY PROJECT</GrantOrContributionPurposeTxt>
+          <Amt>505921</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>INTERIM HOUSE INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>333 WEST UPSAL STREET</AddressLine1Txt>
+            <CityNm>PHILADELPHIA</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19119</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KEEP ROCKLAND BEAUTIFUL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>120-126 NORTH MAIN STREET</AddressLine1Txt>
+            <CityNm>NEW CITY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10956</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LEGAL AID SOCIETY OF DC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1331 H STREET NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MAZON A JEWISH RESPONSE TO HUNGER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10850 WILSHIRE BLVD SUITE 400</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90024</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NATIONAL IMMIGRATION LAW CENTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3450 WILSHIRE BLVD 108-62</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90010</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>600000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NATIONAL WOMEN'S LAW CENTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>11 DUPONT CIRCLE NW 800</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>REPRODUCTIVE RIGHTS AND HEALTH PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NEO PHILANTHROPY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>45 W 36TH STREET 6TH FLOOR</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10018</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>STATE INFRASTRUCTURE FUND - $1,500,000FOUR FREEDOMS FUND - $525,000</GrantOrContributionPurposeTxt>
+          <Amt>2025000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NEW YORK UNIVERSITY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>70 WASHINGTON SQUARE SOUTH</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10012</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>INSTITUTE FOR POLICY INTEGRITY</GrantOrContributionPurposeTxt>
+          <Amt>700000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NEXT FOR AUTISM</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1430 BROADWAY 8TH FLOOR</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10018</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NORTH BROOKLYN ANGELS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>42 WEST ST 202</AddressLine1Txt>
+            <CityNm>BROOKLYN</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11222</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NYACK HOSPITAL FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>160 N MIDLAND AVE</AddressLine1Txt>
+            <CityNm>NYACK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10960</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PENGUIN PLAYERS LTD</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7 CRICKETOWN RD</AddressLine1Txt>
+            <CityNm>STONY POINT</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10980</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PROJECT ON GOVERNMENT OVERSIGHT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1100 G STREET NW SUITE 500</AddressLine1Txt>
+            <CityNm>H</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10023</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>600000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>RESOURCES LEGACY FUND</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>555 CAPITOL MALL SUITE 1095</AddressLine1Txt>
+            <CityNm>SACRAMENTO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95814</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>LITIGATION CLEARINGHOUSE</GrantOrContributionPurposeTxt>
+          <Amt>320000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SAFE PASSAGE PROJECT CORPORATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>185 WEST BROADWAY</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10013</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>75000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE BREAKTHROUGH INSTITUTE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>436 14TH STREET SUITE 820</AddressLine1Txt>
+            <CityNm>OAKLAND</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94612</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE - $500,000FOOD &amp; FARMING PROGRAM - $400,000</GrantOrContributionPurposeTxt>
+          <Amt>900000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE LEADERSHIP CONFERENCE EDUCATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1620 L STREET NW SUITE 1100</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>825000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE LUNCHBOX FUND</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 10</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10276</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PROTECT DEMOCRACY PROJECT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2020 PENNSYLVANIA AVE NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20006</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE RICHARDSON CTR FOR GLOBAL ENGAG</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>216 WASHINGTON AVE SUITES 1 2</AddressLine1Txt>
+            <CityNm>SANTA FE</CityNm>
+            <StateAbbreviationCd>NM</StateAbbreviationCd>
+            <ZIPCd>87501</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THICH NHAT HAHN FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2499 MELRU LANE</AddressLine1Txt>
+            <CityNm>ESCONDIDO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92026</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THIRD WAY INSTITUTE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1025 CONNECTICUT AVE NW SUITE 400</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CLEAN ENERGY INNOVATION CAMPAIGN</GrantOrContributionPurposeTxt>
+          <Amt>865000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>TZEDEK DC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4340 CONNECTICUT AVE NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20008</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>9000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WHEDCO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>50 EAST 168TH STREET</AddressLine1Txt>
+            <CityNm>BRONX</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10452</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>3750</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WORLD RESOURCES INSTITUTE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10 G STREET NE SUITE 800</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20002</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE - $12,500CLEAN ENERGY TRANSITION - $300,000</GrantOrContributionPurposeTxt>
+          <Amt>312500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ACTIVATE GLOBAL INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2150 Shattuck Avenue 300</AddressLine1Txt>
+            <CityNm>Berkeley</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94704</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BLACK GIRLS CODE INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 640926</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94164</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>600</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BROOKLYN ACADEMY OF MUSIC INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>30 Lafayette Ave</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11217</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CAIR COALITION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1612 K Street NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20006</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CENTER FOR LAW SOCIAL POLICY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1200 18th St NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROTECTING IMMIGRANT FAMILIES CAMPAIGN</GrantOrContributionPurposeTxt>
+          <Amt>700000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CHURCHES UNITED FOR FAIR HOUSING IN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7 Marcus Garvey Blvd</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11206</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>COLUMBIA UNIVERSITY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>116th St Broadway</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10027</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>LAMONT - DOHERTY'S HUDSON RIVER FIELD STATION</GrantOrContributionPurposeTxt>
+          <Amt>40000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>COMMITTEE TO PROTECT JOURNALISTS IN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>330 7th Ave 11</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ENVIRONMENTAL DEFENSE FUND</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>257 Park Ave S</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10010</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>INNOVATION PROJECT</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>GALAPAGOS CONSERVANCY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>11150 Fairfax Blvd 408</AddressLine1Txt>
+            <CityNm>Fairfax</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22030</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>GIFFORDS LAW CENTER TO PREVENT GUN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>268 Bush Street 555</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>IMMIGRANT LEGAL RESOURCE CENTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1458 Howard St</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94103</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>NEW AMERICANS CAMPAIGN</GrantOrContributionPurposeTxt>
+          <Amt>680000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>INTERNATIONAL ANTI-POACHING FOUNDAT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1655 N Fort Myer Drive 700</AddressLine1Txt>
+            <CityNm>Arlington</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22209</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JDRF</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>26 Broadway 14th floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10004</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KELLERMANN FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 832809</AddressLine1Txt>
+            <CityNm>Richardson</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75083</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BWINDI COMMUNITY HOSPITAL - $50,000KISHANDA SCHOOL - $38,000</GrantOrContributionPurposeTxt>
+          <Amt>88000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LEWA WILDLIFE CONSERVANCY USA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 4449</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10163</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PANTHERA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8 W 40th St 18th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10018</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>REPORTERS COMMITTEE FOR FREEDOM OF</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1156 15th St NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SIERRA CLUB FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2101 Webster St 1250</AddressLine1Txt>
+            <CityNm>Oakland</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94612</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE ARC FOUNDATION OF ROCKLAND INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>25 Hemlock Dr</AddressLine1Txt>
+            <CityNm>Congers</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10920</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE GERMAN MARSHALL FUND OF THE US</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1744 R Street NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20009</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ALLIANCE FOR SECURING DEMOCRACY</GrantOrContributionPurposeTxt>
+          <Amt>450000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE HOPEWELL FUND</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1201 Connecticut Avenue NW No 300</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONSTITUTIONAL CONVENTION PROJECT</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE NATIONAL HEALTH LAW PROGRAM INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1444 I St NW 1105</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HEATHCARE COVERAGE PROJECT</GrantOrContributionPurposeTxt>
+          <Amt>775000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WILLIAMS J BRENNAN JR CNTR FOR JUST</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>120 Broadway 1750</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10271</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SPITZER FELLOWS AND GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>1050000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AMERICAN FLOOD COALITION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1501 M ST NW SUITE 430</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ADAPTATION WORKING GROUP</GrantOrContributionPurposeTxt>
+          <Amt>900000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AMERICAN LEGION POST 0426 SHACAMECO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 125</AddressLine1Txt>
+            <CityNm>PINE PLAINS</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>12567</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CAPITAL</GrantOrContributionPurposeTxt>
+          <Amt>7000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ARC OF US</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1825 K ST NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20006</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ARIZONA COMMUNITY FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2201 E CAMELBACK RD 405B</AddressLine1Txt>
+            <CityNm>PHOENIX</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85016</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EITC POOLED FUND</GrantOrContributionPurposeTxt>
+          <Amt>750000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BENNINGTON COLLEGE CORPORATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 COLLEGE DR</AddressLine1Txt>
+            <CityNm>BENNINGTON</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05201</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>THE BEYONDS PLASTICS PROJECT</GrantOrContributionPurposeTxt>
+          <Amt>75000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BROOKLYN HOSPITAL FOUNDATION INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>121 DEKALB AVENUE</AddressLine1Txt>
+            <CityNm>BROOKLYN</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11201</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CAMBA INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1720 CHURCH AVENUE</AddressLine1Txt>
+            <CityNm>CAMBA INC</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11226</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CAMPAIGN LEGAL CENTER INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1101 14TH ST NW 400</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>450000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CARBON 180</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1111 BROADWAY FLOOR 3</AddressLine1Txt>
+            <CityNm>OAKLAND</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94607</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CENTER FOR ECONOMIC AND POLICY RESE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1611 CONNECTICUT AVE NW 400</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20009</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HEALTH SYSTEMS PROJECT</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CENTER FOR ELECTION INNOVATION RESE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1120 CONNECTICUT AVE NW STE 1040</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CENTER FOR POPULAR DEMOCRACY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>449 TROUTMAN ST</AddressLine1Txt>
+            <CityNm>BROOKLYN</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11237</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FAMILY ECONOMIC SECURITY</GrantOrContributionPurposeTxt>
+          <Amt>450000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CHALLENGED ATHLETES FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9591 WAPLES ST</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>15250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CLIMATEWORKS FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>235 MONTGOMERY ST 1300</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CARBON DIOXIDE REMOVAL FUND</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DC ABORTION FUND</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 65061</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20035</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DEMOS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>80 BROAD ST</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10004</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FREEDOM TO VOTE PROJECT</GrantOrContributionPurposeTxt>
+          <Amt>400000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ECONOMIC POLICY INSTITUTE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1225 I ST NW 600</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE - $500,000STATE &amp; LOCAL ENFORCEMENT PROJECT - $150,000</GrantOrContributionPurposeTxt>
+          <Amt>650000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>EDUCATION BRIDGE INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2043 SOUTH BEND AVENUE 278</AddressLine1Txt>
+            <CityNm>SOUTH BEND</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>46637</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>1200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ELEPHANT COOPERATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>110 E AVENIDA PALIZADA 301</AddressLine1Txt>
+            <CityNm>SAN CLEMENTE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92672</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COMACO</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>GEORGETOWN LAW</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>600 NEW JERSEY AVE NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>INSTITUTE FOR NONPROFIT NEWS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>714 W OLYMPIC BLVD 929</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90015</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KEYSTONE RESEARCH CENTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>412 N 3RD ST</AddressLine1Txt>
+            <CityNm>HARRISBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PA BUDGET &amp; POLICY CENTER WE THE PEOPLE PROJECT</GrantOrContributionPurposeTxt>
+          <Amt>275000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KIPP NEW YORK INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1501 BROADWAY 10TH FL SUITE 1000</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FOOTBALL PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>12500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KNIGHT FIRST AMENDMENT INST AT COLU</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>475 RIVERSIDE DRIVE SUITE 302</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10115</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LAWYERS ALLIANCE FOR NEW YORK</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>171 MADISON AVE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10016</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LEAGUE OF WOMEN VOTERS EDUCATION FU</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4 W 43RD ST 615</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LEGAL AID CHICAGO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>120 S LASALLE ST STE 900</AddressLine1Txt>
+            <CityNm>CHICAGO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60603</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MARIST COLLEGE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3399 NORTH RD</AddressLine1Txt>
+            <CityNm>POUGHKEEPSIE</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>12601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MICHIGAN LEAGUE FOR PUBLIC POLICY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1223 TURNER RD G1</AddressLine1Txt>
+            <CityNm>LANSING</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48906</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ECONOMIC JUSTICE PROJECT</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NATIONAL CONFERENCE ON CITIZENSHIP</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1920 L STREET NW SUITE 450</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CENSUS QUALITY REINFORCEMENT TASK FORCE</GrantOrContributionPurposeTxt>
+          <Amt>400000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NATIONAL JEWISH HEALTH</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10 E 102ND ST</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10029</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NEW VENTURE FUND</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1201 CONNECTICUT AVE NW SUITE 300</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GET AMERICA COVERED - $250,000VOTER ENGAGEMENT FUND - $1,000,000REDISTRICTING REFORM PROJECT - $600,000</GrantOrContributionPurposeTxt>
+          <Amt>1850000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NORTH BROOKLYN PARKS ALLIANCE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>86 KENT AVE</AddressLine1Txt>
+            <CityNm>BROOKLYN</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11249</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PARENTCHILD</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>163B MINEOLA BOULEVARD</AddressLine1Txt>
+            <CityNm>MINEOLA</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11501</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PRIME COALITION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>625 MASSACHUSETTS AVENUE 2ND FLOOR</AddressLine1Txt>
+            <CityNm>CAMBRIDGE</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02139</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PRIME IMPACT FUND</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PRINCETON REACH OUT 56-81-06 INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>12 STOCKTON ST</AddressLine1Txt>
+            <CityNm>PRINCETON</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08540</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PS 132 PTA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>320 MANHATTAN AVE</AddressLine1Txt>
+            <CityNm>BROOKLYN</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11211</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>RAICES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1305 N FLORES STREET</AddressLine1Txt>
+            <CityNm>SAN ANTONIO</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78212</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>25600</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SHELDRICK WILDLIFE TRUST USA</RecipientPersonNm>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>PO BOX 15555</AddressLine1Txt>
+            <CityNm>MBAGATHI</CityNm>
+            <ProvinceOrStateNm>NAIROBI</ProvinceOrStateNm>
+            <CountryCd>KE</CountryCd>
+            <ForeignPostalCd>00503</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SOUTHERN COALITION FOR SOCIAL JUSTI</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1415 W NORTH CAROLINA 54 SUITE 101</AddressLine1Txt>
+            <CityNm>DURHAM</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>27707</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>REDISTRICTING PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>400000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SPECIAL OLYMPICS INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>211 E 43RD ST 802</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10017</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SUNRISE ASSOCIATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>11 NEIL CT</AddressLine1Txt>
+            <CityNm>OCEANSIDE</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11572</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE COMMONWEALTH INST FOR FISCAL AN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1329 E CARY ST 200</AddressLine1Txt>
+            <CityNm>RICHMOND</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23219</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>275000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE CORAL REEF ALLIANCE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>37 PLEASANT ST</AddressLine1Txt>
+            <CityNm>CAMBRIDGE</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02139</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE ENERGY GROWTH HUB INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1015 15TH STREET NW 6TH FLOOR</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>725000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE MIAMI FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>40 NW 3RD ST 305</AddressLine1Txt>
+            <CityNm>MIAMI</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33128</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>NEWSMATCH</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>TOMCHE SHABBOS OF ROCKLAND COUNTY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>78 COLLEGE RD</AddressLine1Txt>
+            <CityNm>MONSEY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10952</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>90000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>TRUSTEES OF COLUMBIA UNIVERSITY IN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>535 W 116TH ST</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10027</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>NUCLEAR &amp; CARBON MANAGEMENT</GrantOrContributionPurposeTxt>
+          <Amt>800000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>URBAN INSTITUTE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>650 HOLLYWOOD AVE</AddressLine1Txt>
+            <CityNm>BRONX</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10465</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HEALTH CARE REFORM AND SAFETY NET POLICY</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VOTER REGISTRATION PROJECT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1725 DESALES ST NW STE 650</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WASHINGTON LAWYER'S COMMITTEE FOR C</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>700 14TH ST NW SUITE 400</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BOOST WAGES IN THE NEW ECONOMY</GrantOrContributionPurposeTxt>
+          <Amt>700000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WORLD CENTRAL KITCHEN INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1342 FLORIDA AVE NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20009</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>39856860</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>3149811</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>3335585</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <NetRntlIncmReDebtFincdPropGrp>
+          <BusinessCd>531120</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>75131</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionCd>16</ExclusionCd>
+          <ExclusionAmt>178148</ExclusionAmt>
+        </NetRntlIncmReDebtFincdPropGrp>
+        <NetRntlIncmReNotDebtFincdProp>
+          <ExclusionCd>16</ExclusionCd>
+          <ExclusionAmt>-948758</ExclusionAmt>
+        </NetRntlIncmReNotDebtFincdProp>
+        <GainSalesAstOthThanInvntryGrp>
+          <BusinessCd>551112</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>62154</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>4147766</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>NET K-1 PASS THRU ITEMS</Desc>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>-1044404</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>137285</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>8818148</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>8955433</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="19009920" softwareVersionNum="2019v5.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING</CategoryTxt>
+        <Amt>97300</Amt>
+        <NetInvestmentIncomeAmt>97300</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <AmortizationSchedule documentId="AmortizationSchedule" softwareId="19009920" softwareVersionNum="2019v5.0">
+      <AmortizationScheduleDetail>
+        <AmortizedExpensesDesc>CAPITALIZED PROF FEES</AmortizedExpensesDesc>
+        <AcquiredCompletedOrExpendedDt>2014-04-30</AcquiredCompletedOrExpendedDt>
+        <AmortizedAmt>44978</AmortizedAmt>
+        <DeductionForPriorYearsAmt>13995</DeductionForPriorYearsAmt>
+        <AmortizationPeriodRt>15.0000</AmortizationPeriodRt>
+        <CurrentYearAmortizationAmt>2999</CurrentYearAmortizationAmt>
+        <TotalAmortizationAmt>16994</TotalAmortizationAmt>
+      </AmortizationScheduleDetail>
+      <AmortizationScheduleDetail>
+        <AmortizedExpensesDesc>CAPITALIZED PROF FEES</AmortizedExpensesDesc>
+        <AcquiredCompletedOrExpendedDt>2015-07-16</AcquiredCompletedOrExpendedDt>
+        <AmortizedAmt>33378</AmortizedAmt>
+        <DeductionForPriorYearsAmt>7602</DeductionForPriorYearsAmt>
+        <AmortizationPeriodRt>15.0000</AmortizationPeriodRt>
+        <CurrentYearAmortizationAmt>2225</CurrentYearAmortizationAmt>
+        <TotalAmortizationAmt>9827</TotalAmortizationAmt>
+      </AmortizationScheduleDetail>
+      <AmortizationScheduleDetail>
+        <AmortizedExpensesDesc>CAPITALIZED COSTS</AmortizedExpensesDesc>
+        <AcquiredCompletedOrExpendedDt>2014-04-30</AcquiredCompletedOrExpendedDt>
+        <AmortizedAmt>32936</AmortizedAmt>
+        <DeductionForPriorYearsAmt>10248</DeductionForPriorYearsAmt>
+        <AmortizationPeriodRt>15.0000</AmortizationPeriodRt>
+        <CurrentYearAmortizationAmt>2196</CurrentYearAmortizationAmt>
+        <TotalAmortizationAmt>12444</TotalAmortizationAmt>
+      </AmortizationScheduleDetail>
+    </AmortizationSchedule>
+    <DepreciationSchedule documentId="DepreciationSchedule" softwareId="19009920" softwareVersionNum="2019v5.0">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMMERCIAL BUILDING</PropertyDesc>
+        <AcquiredDt>2011-12-21</AcquiredDt>
+        <CostOrOtherBasisAmt>12677652</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2289002</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>325068</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>325068</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2011-12-21</AcquiredDt>
+        <CostOrOtherBasisAmt>269272</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>134608</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0667</Rt>
+        <CurrentYearExpenseAmt>17951</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>17951</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2012-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>5592</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>914</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>143</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>143</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>ADDL AQUISITION COSTS</PropertyDesc>
+        <AcquiredDt>2012-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>764</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>139</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>20</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>20</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2013-10-01</AcquiredDt>
+        <CostOrOtherBasisAmt>40732</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>13915</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>2715</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>2715</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2013-10-01</AcquiredDt>
+        <CostOrOtherBasisAmt>31131</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>4157</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>798</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>798</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2013-04-29</AcquiredDt>
+        <CostOrOtherBasisAmt>5980</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>867</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>153</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>153</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2013-04-29</AcquiredDt>
+        <CostOrOtherBasisAmt>11313</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1498</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>290</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>290</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2014-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>170736</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>19519</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>4378</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>4378</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2014-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>16074</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>4690</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>1072</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>1072</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2014-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>38958</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>11363</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>2597</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>2597</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2014-10-01</AcquiredDt>
+        <CostOrOtherBasisAmt>202116</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>55587</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>13474</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>13474</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FURNITURE</PropertyDesc>
+        <AcquiredDt>2014-10-01</AcquiredDt>
+        <CostOrOtherBasisAmt>2321</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1738</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.0873</Rt>
+        <CurrentYearExpenseAmt>167</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>167</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COOP APTS - 200 CPS</PropertyDesc>
+        <AcquiredDt>2014-11-01</AcquiredDt>
+        <CostOrOtherBasisAmt>37107542</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>5584505</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0364</Rt>
+        <CurrentYearExpenseAmt>1349230</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>1349230</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COOP APTS-210 CPS RES</PropertyDesc>
+        <AcquiredDt>2015-06-30</AcquiredDt>
+        <CostOrOtherBasisAmt>16359167</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2106733</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0364</Rt>
+        <CurrentYearExpenseAmt>594819</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>594819</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COOP APT-210 CPS COMM'L</PropertyDesc>
+        <AcquiredDt>2015-06-30</AcquiredDt>
+        <CostOrOtherBasisAmt>1100000</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>99913</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>28204</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>28204</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>BUILDING - 419 NINTH AVE</PropertyDesc>
+        <AcquiredDt>2014-04-30</AcquiredDt>
+        <CostOrOtherBasisAmt>5865000</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1004108</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0364</Rt>
+        <CurrentYearExpenseAmt>213251</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>213251</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2014-12-31</AcquiredDt>
+        <CostOrOtherBasisAmt>499418</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>61931</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>12806</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>12806</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>EQUIPMENT</PropertyDesc>
+        <AcquiredDt>2014-10-01</AcquiredDt>
+        <CostOrOtherBasisAmt>9285</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>6954</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.0873</Rt>
+        <CurrentYearExpenseAmt>666</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>666</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2009-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>175689</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>111287</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0667</Rt>
+        <CurrentYearExpenseAmt>11713</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>11713</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2009-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>16470</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>10505</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0667</Rt>
+        <CurrentYearExpenseAmt>1098</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>1098</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2010-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>38488</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>21813</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0667</Rt>
+        <CurrentYearExpenseAmt>2566</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>2566</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2010-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>30157</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>17090</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0667</Rt>
+        <CurrentYearExpenseAmt>2010</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>2010</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2011-06-28</AcquiredDt>
+        <CostOrOtherBasisAmt>70717</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>35956</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0667</Rt>
+        <CurrentYearExpenseAmt>4714</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>4714</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2011-12-21</AcquiredDt>
+        <CostOrOtherBasisAmt>663065</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>331442</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0667</Rt>
+        <CurrentYearExpenseAmt>44204</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>44204</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2013-10-01</AcquiredDt>
+        <CostOrOtherBasisAmt>162929</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>55667</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0667</Rt>
+        <CurrentYearExpenseAmt>10862</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>10862</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2014-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>64298</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>18757</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>4287</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>4287</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2014-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>155831</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>45457</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>10389</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>10389</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2014-10-01</AcquiredDt>
+        <CostOrOtherBasisAmt>808464</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>222356</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>53898</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>53898</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>1993-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>85495</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>55805</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>2192</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>2192</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>1994-09-01</AcquiredDt>
+        <CostOrOtherBasisAmt>292883</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>182434</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>7510</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>7510</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>1997-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>23697</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>13046</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>608</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>608</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>1998-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>31919</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>16736</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>818</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>818</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>1998-10-31</AcquiredDt>
+        <CostOrOtherBasisAmt>64705</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>33526</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>1659</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>1659</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>1995-01-10</AcquiredDt>
+        <CostOrOtherBasisAmt>64212</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>39436</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>1646</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>1646</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>1996-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>31956</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>18393</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>819</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>819</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>1997-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>102777</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>56546</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>2635</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>2635</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2009-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>249750</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>60576</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>6404</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>6404</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2010-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>198011</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>42947</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>5077</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>5077</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>BUILDING</PropertyDesc>
+        <AcquiredDt>2011-12-21</AcquiredDt>
+        <CostOrOtherBasisAmt>31217952</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>4909438</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>800460</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>800460</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2012-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>18370</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>3052</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>471</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>471</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>ADD'L AQUISITION COSTS</PropertyDesc>
+        <AcquiredDt>2012-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>3058</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>543</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>78</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>78</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2013-10-01</AcquiredDt>
+        <CostOrOtherBasisAmt>124522</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>16631</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>3193</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>3193</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2013-04-29</AcquiredDt>
+        <CostOrOtherBasisAmt>23920</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>3474</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>613</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>613</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2013-04-29</AcquiredDt>
+        <CostOrOtherBasisAmt>45252</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>5993</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>1160</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>1160</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2014-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>682943</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>78070</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>17511</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>17511</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2014-12-31</AcquiredDt>
+        <CostOrOtherBasisAmt>349250</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>35820</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>8955</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>8955</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2015-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>1997671</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>177179</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>51222</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>51222</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2015-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>87314</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>8956</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>2239</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>2239</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>BUILDING 754 STEP UP</PropertyDesc>
+        <AcquiredDt>2014-11-01</AcquiredDt>
+        <CostOrOtherBasisAmt>23338470</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2393688</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>598422</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>598422</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2016-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>394600</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>64671</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>26307</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>26307</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2016-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>1578401</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>258683</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>105227</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>105227</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>APPLIANCES</PropertyDesc>
+        <AcquiredDt>2016-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>4218</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1507</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.1428</Rt>
+        <CurrentYearExpenseAmt>602</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>602</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPRVMNTS - COOLING TOWER</PropertyDesc>
+        <AcquiredDt>2017-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>72600</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2717</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>1862</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>1862</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPRVMNTS - COOLING TOWER</PropertyDesc>
+        <AcquiredDt>2017-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>290400</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>10864</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0256</Rt>
+        <CurrentYearExpenseAmt>7446</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>7446</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPRVMNTS-BCG TI 1ST AMD</PropertyDesc>
+        <AcquiredDt>2016-12-31</AcquiredDt>
+        <CostOrOtherBasisAmt>960480</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>128064</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>64032</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>64032</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPRVMNTS-BCG TI 1ST AMD</PropertyDesc>
+        <AcquiredDt>2016-12-31</AcquiredDt>
+        <CostOrOtherBasisAmt>240120</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>32016</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>16008</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>16008</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPRVMNTS-BCG TI 2ND AMD</PropertyDesc>
+        <AcquiredDt>2017-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>579446</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>77260</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>38630</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>38630</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPRVMNTS-BCG TI 2ND AMD</PropertyDesc>
+        <AcquiredDt>2017-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>144861</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>19314</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>9657</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>9657</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>APPLIANCES</PropertyDesc>
+        <AcquiredDt>2017-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>6859</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1470</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.1429</Rt>
+        <CurrentYearExpenseAmt>980</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>980</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2017-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>185866</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>9856</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0364</Rt>
+        <CurrentYearExpenseAmt>6758</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>6758</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>APPLIANCES</PropertyDesc>
+        <AcquiredDt>2017-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>1227</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>263</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.1429</Rt>
+        <CurrentYearExpenseAmt>175</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>175</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>APPLIANCES</PropertyDesc>
+        <AcquiredDt>2017-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>1444</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>309</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.1429</Rt>
+        <CurrentYearExpenseAmt>206</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>206</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2018-12-31</AcquiredDt>
+        <CostOrOtherBasisAmt>19585</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>1306</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>1306</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2018-12-31</AcquiredDt>
+        <CostOrOtherBasisAmt>1052</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>70</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>70</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2018-12-31</AcquiredDt>
+        <CostOrOtherBasisAmt>78341</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>5222</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>5222</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2018-12-31</AcquiredDt>
+        <CostOrOtherBasisAmt>4209</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>281</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>281</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS - DECL PTRS</PropertyDesc>
+        <AcquiredDt>2019-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>92522</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>3084</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>3084</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS - DECL PTRS</PropertyDesc>
+        <AcquiredDt>2019-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>370089</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>12336</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>12336</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS - MEAKEM</PropertyDesc>
+        <AcquiredDt>2019-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>173668</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>5789</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>5789</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS - MEAKEM</PropertyDesc>
+        <AcquiredDt>2019-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>694670</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>23156</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>23156</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <GainLossSaleOtherAssetsSch documentId="GainLossFromSaleOtherAssetsSch" softwareId="19009920" softwareVersionNum="2019v5.0">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>K-1 PASSTHRU NET S/T GAIN (GEMS) UBTI</AssetDesc>
+        <HowAcquiredTxt>Purchase</HowAcquiredTxt>
+        <SoldDt>2019-12</SoldDt>
+        <GrossSalesPriceAmt>10775</GrossSalesPriceAmt>
+        <BasisMethodTxt>Cost</BasisMethodTxt>
+        <TotalNetAmt>10775</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>K-1 PASSTHRU NET L/T GAIN (GEMS) UBTI</AssetDesc>
+        <HowAcquiredTxt>Purchase</HowAcquiredTxt>
+        <SoldDt>2019-12</SoldDt>
+        <GrossSalesPriceAmt>18999</GrossSalesPriceAmt>
+        <BasisMethodTxt>Cost</BasisMethodTxt>
+        <TotalNetAmt>18999</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>K-1 PASSTHRU NET L/T GAIN (MTN LK PTRS)</AssetDesc>
+        <HowAcquiredTxt>Purchase</HowAcquiredTxt>
+        <SoldDt>2019-12</SoldDt>
+        <GrossSalesPriceAmt>32380</GrossSalesPriceAmt>
+        <BasisMethodTxt>Cost</BasisMethodTxt>
+        <TotalNetAmt>32380</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <GeneralExplanationAttachment documentId="GeneralExplanation" softwareId="19009920" softwareVersionNum="2019v5.0">
+      <GeneralExplanationGrp>
+        <FormAndLineReferenceDesc>General Explanation Supplemental Information for Form 990-PF</FormAndLineReferenceDesc>
+        <MediumExplanationTxt>990-PF PAGE 5 PART VII-A QUESTION 11CONTROLLED ENTITY: 1050 FIFTH AVENUE LLC C/O SPITZER ENGINEERING 555 MADISON AVE, 18TH FLOOR NEW YORK, NY 10022-3300 EIN: 13-41374771050 FIFTH AVENUE LLC IS NOT AN EXCESS BUSINESS HOLDING</MediumExplanationTxt>
+      </GeneralExplanationGrp>
+    </GeneralExplanationAttachment>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="19009920" softwareVersionNum="2019v5.0">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MOUTAIN LAKE PARTNERS LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>11385864</BookValueAmt>
+        <EOYFMVAmt>11385864</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MOUNTAIN LAKE REAL ESTATE I</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>21096</BookValueAmt>
+        <EOYFMVAmt>21096</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>GEMS FUND 4</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>20685284</BookValueAmt>
+        <EOYFMVAmt>20685284</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>TERM LOAN GOLUB INVSTMT CAPITAL FINANCE</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>6101400</BookValueAmt>
+        <EOYFMVAmt>6101400</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>TERM LOAN GOLUB INVSTMT PTRS HOLDINGS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>80000000</BookValueAmt>
+        <EOYFMVAmt>80000000</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>GOLUB CAPITAL INTL LADDER - TRUST</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>229252456</BookValueAmt>
+        <EOYFMVAmt>293127000</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>GOLUB IX INTERNATIONAL</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>7594464</BookValueAmt>
+        <EOYFMVAmt>22384545</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>GOLUB X INTERNATIONAL</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>4039698</BookValueAmt>
+        <EOYFMVAmt>5820958</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>BETHESDA TIC (20%)</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>8837065</BookValueAmt>
+        <EOYFMVAmt>8837065</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>BETHESDA TIC (80%)</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>31748260</BookValueAmt>
+        <EOYFMVAmt>31748260</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>1050 FIFTH AVE LLC</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>4208688</BookValueAmt>
+        <EOYFMVAmt>4208688</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>SPITZER BRP GS LLC ARCHER</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>6766042</BookValueAmt>
+        <EOYFMVAmt>7000313</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>NINTH AVENUE MEMBER LLC</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>11320854</BookValueAmt>
+        <EOYFMVAmt>11320854</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>GOLUB CAPITAL INTL LADDER - LUB</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>66649732</BookValueAmt>
+        <EOYFMVAmt>84307000</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ADM INVESTOR SERVICES</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>SPITZER BRP GS LLC CATON FLATS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>3692746</BookValueAmt>
+        <EOYFMVAmt>3692746</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>451 TENTH MEMBER</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>5881638</BookValueAmt>
+        <EOYFMVAmt>5881638</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>GOLUB CAP INV CORP - NON PUB SHARES</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>GOLUB CAP INV CORP - PUB SHARES</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>24956100</BookValueAmt>
+        <EOYFMVAmt>24364557</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="19009920" softwareVersionNum="2019v5.0">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Buildings</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>54766323</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>9785530</AccumulatedDepreciationAmt>
+        <BookValueAmt>44980793</BookValueAmt>
+        <EOYFMVAmt>54766323</EOYFMVAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="19009920" softwareVersionNum="2019v5.0">
+      <LegalFeesGrp>
+        <CategoryTxt>LEGAL</CategoryTxt>
+        <LegalFeesAmt>18081</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>18081</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="19009920" softwareVersionNum="2019v5.0">
+      <OtherAssetsScheduleGrp>
+        <Desc>DUE FROM AEDE</Desc>
+        <EOYBookValueAmt>107772</EOYBookValueAmt>
+        <EOYFMVAmt>107772</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>DUE FROM GDBC DIV</Desc>
+        <EOYBookValueAmt>662002</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>EXCHANGES</Desc>
+        <EOYFMVAmt>662311</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>LOANS &amp; EXCHANGE</Desc>
+        <EOYBookValueAmt>3438</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>PR FLEX EXCHANGE</Desc>
+        <EOYBookValueAmt>-3129</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSchedule" softwareId="19009920" softwareVersionNum="2019v5.0">
+      <OtherDecreasesDetail>
+        <Desc>ESTATE ADVANCES</Desc>
+        <Amt>24500</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>ESTATE TAX SEC 6166 PAYMENT</Desc>
+        <Amt>2462414</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>FEDERAL BUSINESS INCOME TAX</Desc>
+        <Amt>351369</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>PENALTIES AND INTEREST</Desc>
+        <Amt>20491</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="19009920" softwareVersionNum="2019v5.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>ADMINISTRATIVE EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>332969</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>332969</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Amortization</Desc>
+        <RevenueAndExpensesPerBooksAmt>7420</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>7420</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>FILING FEES-CHAR 500</Desc>
+        <RevenueAndExpensesPerBooksAmt>1500</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1500</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>61410</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>61410</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MEMBERSHIP FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>20500</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>20500</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Rental Expenses</Desc>
+        <RevenueAndExpensesPerBooksAmt>7039748</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>7039748</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="19009920" softwareVersionNum="2019v5.0">
+      <OtherIncomeDetail>
+        <Desc>NET K-1 PASS THRU ITEMS</Desc>
+        <RevenueAndExpensesPerBooksAmt>-1044404</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>-1515029</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="OtherLiabilitiesSchedule" softwareId="19009920" softwareVersionNum="2019v5.0">
+      <OtherLiabilitiesDetail>
+        <Desc>PARTNERSHIP EXCHANGE</Desc>
+        <BOYBookValueAmt>1057510</BOYBookValueAmt>
+        <EOYBookValueAmt>1140228</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="19009920" softwareVersionNum="2019v5.0">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>CONSULTING</CategoryTxt>
+        <Amt>70708</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>70708</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="19009920" softwareVersionNum="2019v5.0">
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL EXCISE TAX</CategoryTxt>
+        <Amt>375058</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>NYS CORP TAX - CT-13</CategoryTxt>
+        <Amt>126070</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>
