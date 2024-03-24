@@ -17,6 +17,7 @@ import javax.xml.parsers.ParserConfigurationException;
 
 public class XMLParser {
 
+    //get list of XML files from the directory
     public List<String> getXmlFiles(String[] directoryPaths) {
         System.out.println("Scanning directory for XML files...");
         List<String> xmlFiles = new ArrayList<>();
@@ -33,7 +34,7 @@ public class XMLParser {
         }
         return xmlFiles;
     }
-
+    //parse XML file
     public List<GrantInfo> parseXML(File xmlFile) {
         System.out.println("Parsing XML file: " + xmlFile.getName());
 
@@ -54,20 +55,20 @@ public class XMLParser {
                     return grants;
                 }
             }
-
+            //Filer check here
             Element root = doc.getDocumentElement();
             Element filerElement = (Element) root.getElementsByTagName("Filer").item(0);
             boolean skipApplicationSubmission = true;
 
             //populate filer information that's common across all grants
             GrantInfo filerInfo = populateFilerInfo(filerElement, doc);
-
+            //populate grant information
             NodeList grantNodes = doc.getElementsByTagName("GrantOrContributionPdDurYrGrp");
             if (grantNodes.getLength() == 0) {
                 grantNodes = doc.getElementsByTagName("GrantOrContriPaidDuringYear");
             }
             totalGrantCount = grantNodes.getLength();
-
+            //iterate through each grant node
             for (int i = 0; i < grantNodes.getLength(); i++) {
                 Node node = grantNodes.item(i);
 
@@ -82,7 +83,7 @@ public class XMLParser {
                     grants.add(grantInfo); //add populated grant info to list
                     }
                 }
-
+            //print out grant counts
             System.out.println("Total grants: " + totalGrantCount + " From File: " + xmlFile.getName());
             System.out.println("US grants: " + usGrantCount + " From File: " + xmlFile.getName());
             System.out.println("Foreign grants: " + foreignGrantCount + " From File: " + xmlFile.getName());
@@ -90,8 +91,9 @@ public class XMLParser {
         } catch (Exception e) {
             e.printStackTrace();
         }
-        return grants;
+        return grants; //return list of populated grant info
     }
+    //setup XML document
     private Document setupDocument(File xmlFile) throws ParserConfigurationException, IOException, SAXException {
         System.out.println("Setting up XML document...");
         DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
@@ -99,20 +101,20 @@ public class XMLParser {
         System.out.println("Document setup complete.");
         return dBuilder.parse(xmlFile);
     }
-
+    //check if node is valid
     private boolean isValidNode(Node node) {
         return node != null && node.getNodeType() == Node.ELEMENT_NODE;
     }
-
+    //check if grant is foreign
     private boolean isForeignGrant(Element grantElement) {
         return (grantElement.getElementsByTagName("RecipientUSAddress").getLength() == 0) ||
                 (grantElement.getElementsByTagName("RecipientUSAddress").item(0) == null);
     }
-
+    //populate filer information
     private GrantInfo populateFilerInfo(Element filerElement, Document doc) {
         GrantInfo filerInfo = new GrantInfo();
         Element root = doc.getDocumentElement();
-//refactor with switch case?
+        //populate filer address
         Element addressElement = (Element) filerElement.getElementsByTagName("USAddress").item(0);
         if (addressElement != null) {
             Node streetNode = addressElement.getElementsByTagName("AddressLine1Txt").item(0);
@@ -144,7 +146,7 @@ public class XMLParser {
                 filerInfo.setFilerZip(zipNode.getTextContent());
             }
         }
-
+        //populate filer information fields
         Node taxPeriodEndNode = root.getElementsByTagName("TaxPeriodEndDt").item(0);
         if (taxPeriodEndNode == null) {
             taxPeriodEndNode = root.getElementsByTagName("TaxPeriodEndDate").item(0);
@@ -233,10 +235,10 @@ public class XMLParser {
         }
 
 
-
+        //return populated filer information
         return filerInfo;
     }
-
+    //populate grant information
     private GrantInfo populateGrantInfo(GrantInfo filerInfo, Element grantElement, Document doc) {
         GrantInfo grantInfo = new GrantInfo();
 
@@ -271,7 +273,7 @@ public class XMLParser {
                 grantInfo.setRecipientZip(zipNode.getTextContent());
             }
         }
-
+        //populate grant information fields
         NodeList businessNameNodes = grantElement.getElementsByTagName("RecipientBusinessName");
         if (businessNameNodes.getLength() == 0) {
             businessNameNodes = grantElement.getElementsByTagName("RecipientPersonNm");
@@ -311,7 +313,7 @@ public class XMLParser {
             grantInfo.setGrantPurpose(purposeNode.getTextContent());
         }
 
-            //set the filer information fields
+        //populate filer information fields
             grantInfo.setTaxPeriodEndDate(filerInfo.getTaxPeriodEndDate());
             grantInfo.setReturnTypeCode(filerInfo.getReturnTypeCode());
             grantInfo.setTaxPeriodBeginDate(filerInfo.getTaxPeriodBeginDate());
@@ -330,7 +332,7 @@ public class XMLParser {
 //        System.out.println("Grant information populated.");
             return grantInfo;
     }
-
+    //get element text content by tag name from parent element
     private String getElementText(Element parent, String tagName) {
         NodeList list = parent.getElementsByTagName(tagName);
         if (list.getLength() > 0) {

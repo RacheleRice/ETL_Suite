@@ -31,8 +31,8 @@
     </dependency>
 
 </dependencies>
-    <groupId>org.example</groupId>
-    <artifactId>Pf990Db</artifactId>
+    <groupId>org.tbs</groupId>
+    <artifactId>etl-suite</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>

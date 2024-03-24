@@ -10,6 +10,7 @@ import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVRecord;
 
 public class DataExtractor {
+    //initialize connection object to be used throughout the class methods
     private Connection conn;
 
     public void createGrantsTable() {
@@ -49,7 +50,7 @@ public class DataExtractor {
     }
 
     public DataExtractor() {
-        //initialize connection
+        //initialize connection to the database
         try {
             conn = DriverManager.getConnection("jdbc:postgresql://localhost:5432/grants", "postgres", "postgres1");
             createGrantsTable();
@@ -60,7 +61,7 @@ public class DataExtractor {
     }
 
     public void insertGrantInfo(GrantInfo grantInfo) {
-        //Insert grantInfo into database
+        //Insert grantInfo into database table grants
         String insertSQL = "INSERT INTO grants (" +
                 "tax_period_end_date," +
                 "return_type_code," +
@@ -87,6 +88,7 @@ public class DataExtractor {
                 "grant_purpose," +
                 "standardized_recipient_name" +
                 ") VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);";
+        //Insert grantInfo into the grants table
         try (PreparedStatement pstmt = conn.prepareStatement(insertSQL)) {
             pstmt.setDate(1, grantInfo.getTaxPeriodEndDate());
             pstmt.setString(2, grantInfo.getReturnTypeCode());
