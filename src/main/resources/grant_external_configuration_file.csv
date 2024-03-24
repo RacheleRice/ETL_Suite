@@ -1,7 +1,8 @@
 Field,Pattern,Standardized_Recipient_Name
-grant_purpose,%Media Manipulation%,The Technology & Social Change Group
-grant_purpose,Tasc%,The Technology & Social Change Group
-grant_purpose,%technology%social%change%,The Technology & Social Change Group
+recipient_name,%Media Manipulation%,The Technology & Social Change Group
+recipient_name,Tasc%,The Technology & Social Change Group
+recipient_name,%technology%social%change%,The Technology & Social Change Group
+recipient_name,%Measures%For%Justice%,ProPublica
 recipient_name,%Belling%cat%,Bellingcat Ltd
 recipient_name,%Bellincat%,Bellingcat Ltd
 recipient_name,%Bellingcatt%,Bellingcat Ltd
@@ -80,7 +81,7 @@ recipient_name,the%FAI,Foundation for American Innovation
 recipient_name,%Full Fact%,Full Fact
 recipient_name,%Global%Disinformation%Index%,Global Disinformation Index
 recipient_name,GDI,Global Disinformation Index
-recipient_name,%Global%Voices%F%,Global Voices Foundation
+recipient_name,%Global Voices%F%,Global Voices Foundation
 recipient_name,GVF,Global Voices Foundation
 recipient_name,%Institute%Strategic%Dialogue%,Institute for Strategic Dialogue
 recipient_name,ISD,Institute for Strategic Dialogue
@@ -112,7 +113,6 @@ recipient_name,NICD,National Institute for Civil Discourse
 recipient_name,%Open Secrets%,Open Secrets
 recipient_name,%Pen America%,Pen America
 recipient_name,%Poynter%,Poynter Institute
-grant_purpose,%Measures%For%Justice%,ProPublica
 recipient_name,%ProPublica%,ProPublica
 recipient_name,%Protect Democracy%,Protect Democracy
 recipient_name,%Shared Nation%,Shared Nation

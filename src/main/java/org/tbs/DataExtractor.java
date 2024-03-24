@@ -121,26 +121,31 @@ public class DataExtractor {
         }
 
     }
-
+    //Construct a query from the CSV file
     public String constructQueryFromCSV() throws Exception {
         InputStream inputStream = getClass().getClassLoader().getResourceAsStream("grant_external_configuration_file.csv");
 
         if (inputStream == null) {
             throw new FileNotFoundException("File grant_external_configuration_file.csv not found");
         }
-
+        //StringBuilder to build the query from the CSV file records (Field and Pattern)
         StringBuilder queryBuilder = new StringBuilder("SELECT * FROM grants WHERE ");
 
         try (
+            //Read the CSV file using Apache Commons CSV library and parse it into CSVRecords
             BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream))) {
+            //parse the CSV file into CSVRecords using Apache Commons CSV library
             Iterable<CSVRecord> records = CSVFormat.DEFAULT.withFirstRecordAsHeader().parse(reader);
-
+            //boolean to check if there are any records in the CSV file
             boolean hasRecords = false;
-
+            //Iterate through each record in the CSV file and construct the query
             for (CSVRecord record : records) {
+                //Get the Field and Pattern values from the CSV record
             String field = record.get("Field");
             String pattern = record.get("Pattern");
+            //Append the Field and Pattern to the query
             queryBuilder.append(field).append(" ILIKE '").append(pattern).append("' OR ");
+            //Set hasRecords to true if there are any records in the CSV file
             hasRecords = true;
         }
         // Remove the last " OR " from the query
@@ -152,27 +157,29 @@ public class DataExtractor {
             queryBuilder.setLength(queryBuilder.length() - 7);
              }
         }
+        //return the constructed query from the CSV file
         return queryBuilder.toString();
     }
 
-
+    //Execute the query constructed from the CSV file
     public void executeQueryFromCSV() throws Exception {
+        //Construct the query from the CSV file
         String query = constructQueryFromCSV();
         System.out.println("Executing query from CSV...");
+        //Execute the query and insert the results into the matching_grants table
         try (Connection conn = DriverManager.getConnection("jdbc:postgresql://localhost:5432/grants", "postgres", "postgres1");
-             Statement stmt = conn.createStatement();
-                ResultSet rs = stmt.executeQuery(query)) {
+             Statement stmt = conn.createStatement(); //create a statement object
+                ResultSet rs = stmt.executeQuery(query)) { //execute the query and get the result set
 
             createMatchingGrantsTable(conn); //assuming this method creates the table if it doesn't exist
-
+                //Create a DataTransformer object to clean and standardize the data
             DataTransformer transformer = new DataTransformer();
 
-            while (rs.next()) {
+            while (rs.next()) { //iterate through the result set
                 System.out.println(rs.getString("standardized_recipient_name"));
                 //Create a GrantInfo object from the ResultSet
                 GrantInfo grantInfo = new GrantInfo();
                 //Populate grantInfo with data from rs
-                grantInfo.setStandardizedRecipientName(rs.getString("standardized_recipient_name"));
                 grantInfo.setTaxPeriodEndDate(rs.getDate("tax_period_end_date"));
                 grantInfo.setReturnTypeCode(rs.getString("return_type_code"));
                 grantInfo.setTaxPeriodBeginDate(rs.getDate("tax_period_begin_date"));
@@ -196,6 +203,7 @@ public class DataExtractor {
                 grantInfo.setRecipientRelationship(rs.getString("recipient_relationship"));
                 grantInfo.setRecipientFoundationStatus(rs.getString("recipient_foundation_status"));
                 grantInfo.setGrantPurpose(rs.getString("grant_purpose"));
+                grantInfo.setStandardizedRecipientName(rs.getString("standardized_recipient_name"));
 
                 //clean the data
                 String cleanedFilerName = transformer.cleanFilerName(grantInfo.getFilerName());
