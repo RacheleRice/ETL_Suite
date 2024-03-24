@@ -13,16 +13,16 @@ public class Main {
 
         System.out.println("Scanning the directories for XML files...");
         String[] directories = {
-            "C:\\Users\\truth\\OneDrive\\Desktop\\watershed\\Pf990Db\\pf990\\TY2013",
-            "C:\\Users\\truth\\OneDrive\\Desktop\\watershed\\Pf990Db\\pf990\\TY2014",
-            "C:\\Users\\truth\\OneDrive\\Desktop\\watershed\\Pf990Db\\pf990\\TY2015",
-            "C:\\Users\\truth\\OneDrive\\Desktop\\watershed\\Pf990Db\\pf990\\TY2016",
-            "C:\\Users\\truth\\OneDrive\\Desktop\\watershed\\Pf990Db\\pf990\\TY2017",
-            "C:\\Users\\truth\\OneDrive\\Desktop\\watershed\\Pf990Db\\pf990\\TY2018",
-            "C:\\Users\\truth\\OneDrive\\Desktop\\watershed\\Pf990Db\\pf990\\TY2019",
-            "C:\\Users\\truth\\OneDrive\\Desktop\\watershed\\Pf990Db\\pf990\\TY2020",
-            "C:\\Users\\truth\\OneDrive\\Desktop\\watershed\\Pf990Db\\pf990\\TY2021",
-            "C:\\Users\\truth\\OneDrive\\Desktop\\watershed\\Pf990Db\\pf990\\TY2022"
+            "C:\\Users\\truth\\OneDrive\\Desktop\\watershed\\ETL_Suite\\pf990\\TY2013",
+            "C:\\Users\\truth\\OneDrive\\Desktop\\watershed\\ETL_Suite\\pf990\\TY2014",
+            "C:\\Users\\truth\\OneDrive\\Desktop\\watershed\\ETL_Suite\\pf990\\TY2015",
+            "C:\\Users\\truth\\OneDrive\\Desktop\\watershed\\ETL_Suite\\pf990\\TY2016",
+            "C:\\Users\\truth\\OneDrive\\Desktop\\watershed\\ETL_Suite\\pf990\\TY2017",
+            "C:\\Users\\truth\\OneDrive\\Desktop\\watershed\\ETL_Suite\\pf990\\TY2018",
+            "C:\\Users\\truth\\OneDrive\\Desktop\\watershed\\ETL_Suite\\pf990\\TY2019",
+            "C:\\Users\\truth\\OneDrive\\Desktop\\watershed\\ETL_Suite\\pf990\\TY2020",
+            "C:\\Users\\truth\\OneDrive\\Desktop\\watershed\\ETL_Suite\\pf990\\TY2021",
+            "C:\\Users\\truth\\OneDrive\\Desktop\\watershed\\ETL_Suite\\pf990\\TY2022"
         };
 
 
