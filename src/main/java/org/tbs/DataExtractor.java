@@ -287,6 +287,7 @@ public class DataExtractor {
                 "recipient_foundation_status," +
                 "grant_purpose" +
                 ") VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);";
+//                "ON CONFLICT (reipient_name, grant_purpose) DO UPDATE SET"
         try (PreparedStatement pstmt = conn.prepareStatement(insertSQL)) {
             pstmt.setString(1, grantInfo.getStandardizedRecipientName());
             pstmt.setDate(2, grantInfo.getTaxPeriodEndDate());
