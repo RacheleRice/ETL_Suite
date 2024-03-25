@@ -20,6 +20,7 @@ recipient_name,%Brennan%Ctr%,Brennan Center for Justice
 recipient_name,%Brenan%Center%,Brennan Center for Justice
 recipient_name,%Bridging%Divide%Initiative%,Bridging Divides Initiative
 recipient_name,%Bridging Divides%,Bridging Divides Initiative
+recipient_name,%cctv center%,CCTV Center for Media & Democracy
 recipient_name,%Center%Civic%Education%,Center for Civic Education
 recipient_name,%Centre%Civic%Education%,Center for Civic Education
 recipient_name,CCE,Center for Civic Education
@@ -53,7 +54,7 @@ recipient_name,%Centre%Info%Research%,CIRCLE
 recipient_name,City Bureau%,City Bureau
 recipient_name,%Civicus%,Civicus
 recipient_name,Code for America%,Code for America
-recipient_name,Common_Cause,Common Cause
+recipient_name,Common_Cause%,Common Cause
 recipient_name,%Common%Ground%Committee%,Common Ground Committee
 recipient_name,%Common%Sense%Media%,Common Sense Media
 recipient_name,%Convergence%Center%Policy%,Convergence Center for Policy Resolution
@@ -65,6 +66,7 @@ recipient_name,DDLF,Democracy Docket Legal Fund
 recipient_name,%Democracy %Earth%Foundation%,Democracy Earth Foundation
 recipient_name,%Democracy%Reporting%Int%,Democracy Reporting International
 recipient_name,Democracy Works%,Democracy Works
+grant_purpose,%digital forensic r%,DFRLab (Atlantic Council)
 recipient_name,%Electronic%Frontier%Foundation%,Electronic Frontier Foundation
 recipient_name,EFF,Electronic Frontier Foundation
 recipient_name,%Facing%History%Ourselves%,Facing History and Ourselves
