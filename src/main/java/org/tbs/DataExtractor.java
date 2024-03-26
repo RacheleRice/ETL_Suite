@@ -161,11 +161,12 @@ public class DataExtractor {
         return queryBuilder.toString();
     }
 
-    //Execute the query constructed from the CSV file
+
     public void executeQueryFromCSV() throws Exception {
-        //Construct the query from the CSV file
+
         String query = constructQueryFromCSV();
         System.out.println("Executing query from CSV...");
+
         //Execute the query and insert the results into the matching_grants table
         try (Connection conn = DriverManager.getConnection("jdbc:postgresql://localhost:5432/grants", "postgres", "postgres1");
              Statement stmt = conn.createStatement(); //create a statement object
@@ -209,12 +210,15 @@ public class DataExtractor {
                 String cleanedFilerName = transformer.cleanFilerName(grantInfo.getFilerName());
                 String cleanedRecipientName = transformer.cleanRecipientName(grantInfo.getRecipientName());
                 String standardizedFilerName = transformer.standardizeFilerName(cleanedFilerName);
+                String originalRecipientName = grantInfo.getRecipientName(); //store the original recipient name
+                String standardizedRecipientName = transformer.getStandardizedRecipientNameByPattern(originalRecipientName); //use the transformer method to get the standardized recipient name
                 //set cleaned/standardized data back into grantInfo object
                 grantInfo.setRecipientName(cleanedRecipientName);
                 grantInfo.setFilerName(standardizedFilerName);
+                grantInfo.setStandardizedRecipientName(standardizedRecipientName); //set the standardized recipient name
 
 
-                //Extract data from result set and insert into the matching_grants table
+                //Extract data from result set and insert into the matching_grants table (which includes standardized recipient name)
                 insertIntoMatchingGrantsTable(conn, rs, grantInfo);
                 System.out.println("Inserted into matching_grants table");
             }
